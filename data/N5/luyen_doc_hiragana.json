@@ -3,7 +3,6 @@
     "id": "hira_1",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Self Introduction",
     "meaning": "Xin chào. Tôi tên là Tanaka. Tôi là người Nhật. Rất mong được giúp đỡ.",
     "chars": [
       { "char": "こ", "romaji": "ko", "type": "input" },
@@ -48,7 +47,6 @@
     "id": "hira_2",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Weather",
     "meaning": "Hôm nay trời đẹp. Nhưng trời nóng. Tôi sẽ đi công viên.",
     "chars": [
       { "char": "き", "romaji": "ki", "type": "input" },
@@ -88,7 +86,6 @@
     "id": "hira_3",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Daily Routine",
     "meaning": "Mỗi ngày tôi dậy lúc 6 giờ. Tôi uống cà phê. Sau đó tôi đến trường.",
     "chars": [
       { "char": "ま", "romaji": "ma", "type": "input" },
@@ -135,7 +132,6 @@
     "id": "hira_4",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Shopping",
     "meaning": "Cái này bao nhiêu tiền? 300 yên. Rẻ nhỉ.",
     "chars": [
       { "char": "こ", "romaji": "ko", "type": "input" },
@@ -171,7 +167,6 @@
     "id": "hira_5",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Food",
     "meaning": "Tôi ăn bánh mì và trứng. Nó rất ngon. Tôi thích nó.",
     "chars": [
       { "char": "ぱ", "romaji": "pa", "type": "input" },
@@ -207,7 +202,6 @@
     "id": "hira_6",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Hobby",
     "meaning": "Sở thích của tôi là bóng đá. Cuối tuần tôi chơi bóng đá. Rất vui.",
     "chars": [
       { "char": "し", "romaji": "shi", "type": "input" },
@@ -244,7 +238,6 @@
     "id": "hira_7",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Family",
     "meaning": "Gia đình tôi có 4 người. Bố, mẹ, chị gái và tôi. Chúng tôi rất thân thiết.",
     "chars": [
       { "char": "か", "romaji": "ka", "type": "input" },
@@ -278,7 +271,6 @@
     "id": "hira_8",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Location",
     "meaning": "Ở kia có con chó. Con chó màu trắng. Dễ thương nhỉ.",
     "chars": [
       { "char": "あ", "romaji": "a", "type": "input" },
@@ -314,7 +306,6 @@
     "id": "hira_9",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Time",
     "meaning": "Bây giờ là mấy giờ? 9 giờ rưỡi. Tôi buồn ngủ.",
     "chars": [
       { "char": "い", "romaji": "i", "type": "input" },
@@ -345,7 +336,6 @@
     "id": "hira_10",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Invitation",
     "meaning": "Cùng nhau xem phim không? Vâng, được đấy. Đi thôi.",
     "chars": [
       { "char": "い", "romaji": "i", "type": "input" },
@@ -382,7 +372,6 @@
     "id": "hira_11",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Library",
     "meaning": "Đây là thư viện. Tôi đọc sách. Ở đây yên tĩnh.",
     "chars": [
       { "char": "こ", "romaji": "ko", "type": "input" },
@@ -416,7 +405,6 @@
     "id": "hira_12",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Friends",
     "meaning": "Tôi gặp bạn bè. Chúng tôi xem phim. Rất vui.",
     "chars": [
       { "char": "と", "romaji": "to", "type": "input" },
@@ -450,7 +438,6 @@
     "id": "hira_13",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Travel",
     "meaning": "Tôi đã đi Kyoto. Thành phố đẹp. Tôi đã chụp ảnh.",
     "chars": [
       { "char": "き", "romaji": "ki", "type": "input" },
@@ -490,7 +477,6 @@
     "id": "hira_14",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Restaurant",
     "meaning": "Tôi muốn ăn Ramen. Ngon lắm đấy. Cùng đi nào.",
     "chars": [
       { "char": "ら", "romaji": "ra", "type": "input" },
@@ -526,7 +512,6 @@
     "id": "hira_15",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Phone",
     "meaning": "A lô. Tôi là Tanaka. Bây giờ bạn có rảnh không?",
     "chars": [
       { "char": "も", "romaji": "mo", "type": "input" },
@@ -554,7 +539,6 @@
     "id": "hira_16",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Buying Ticket",
     "meaning": "Cho tôi một vé. Đến Tokyo. Bao nhiêu tiền vậy?",
     "chars": [
       { "char": "き", "romaji": "ki", "type": "input" },
@@ -589,7 +573,6 @@
     "id": "hira_17",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Birthday",
     "meaning": "Sinh nhật bạn khi nào? Tháng sau. Tôi sẽ mua quà.",
     "chars": [
       { "char": "た", "romaji": "ta", "type": "input" },
@@ -629,7 +612,6 @@
     "id": "hira_18",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Sick",
     "meaning": "Tôi bị đau đầu. Có sốt. Tôi sẽ uống thuốc.",
     "chars": [
       { "char": "あ", "romaji": "a", "type": "input" },
@@ -665,7 +647,6 @@
     "id": "hira_19",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Station",
     "meaning": "Nhà ga ở đâu vậy? Ở đằng kia. Gần lắm.",
     "chars": [
       { "char": "え", "romaji": "e", "type": "input" },
@@ -696,7 +677,6 @@
     "id": "hira_20",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Rain",
     "meaning": "Trời đang mưa. Tôi không có dù. Gay go thật.",
     "chars": [
       { "char": "あ", "romaji": "a", "type": "input" },
@@ -731,7 +711,6 @@
     "id": "hira_21",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Supermarket",
     "meaning": "Cho tôi táo. Cái này bao nhiêu tiền? 100 yên.",
     "chars": [
       { "char": "り", "romaji": "ri", "type": "input" },
@@ -767,7 +746,6 @@
     "id": "hira_22",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Study",
     "meaning": "Tôi học tiếng Nhật. Kanji khó. Nhưng thú vị.",
     "chars": [
       { "char": "に", "romaji": "ni", "type": "input" },
@@ -810,7 +788,6 @@
     "id": "hira_23",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Cleaning",
     "meaning": "Căn phòng bị bẩn. Tôi sẽ dọn dẹp. Đã sạch sẽ rồi.",
     "chars": [
       { "char": "へ", "romaji": "he", "type": "input" },
@@ -847,7 +824,6 @@
     "id": "hira_24",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Onsen",
     "meaning": "Tôi đi suối nước nóng. Cảm thấy rất tốt. Nước ấm.",
     "chars": [
       { "char": "お", "romaji": "o", "type": "input" },
@@ -883,7 +859,6 @@
     "id": "hira_25",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Music",
     "meaning": "Tôi nghe nhạc. Tôi hát một bài hát. Tôi rất thích.",
     "chars": [
       { "char": "お", "romaji": "o", "type": "input" },
@@ -918,7 +893,6 @@
     "id": "hira_26",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Post Office",
     "meaning": "Bưu điện ở đâu vậy? Ở bên cạnh. Tôi mua tem.",
     "chars": [
       { "char": "ゆ", "romaji": "yu", "type": "input" },
@@ -956,7 +930,6 @@
     "id": "hira_27",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Taxi",
     "meaning": "Tôi lên taxi. Làm ơn cho đến nhà ga. Nhanh thật.",
     "chars": [
       { "char": "た", "romaji": "ta", "type": "input" },
@@ -993,7 +966,6 @@
     "id": "hira_28",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Morning",
     "meaning": "Chào buổi sáng. Tôi rửa mặt. Tôi ăn cơm.",
     "chars": [
       { "char": "お", "romaji": "o", "type": "input" },
@@ -1030,7 +1002,6 @@
     "id": "hira_29",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Flowers",
     "meaning": "Tôi đã ngắm hoa. Là hoa Anh Đào. Đã rất đẹp.",
     "chars": [
       { "char": "は", "romaji": "ha", "type": "input" },
@@ -1060,7 +1031,6 @@
     "id": "hira_30",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Letter",
     "meaning": "Tôi viết thư. Gửi cho bạn bè. Bạn có khỏe không?",
     "chars": [
       { "char": "て", "romaji": "te", "type": "input" },
@@ -1096,7 +1066,6 @@
     "id": "hira_31",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Classroom",
     "meaning": "Đây là lớp học. Tôi học tiếng Nhật. Giáo viên rất hiền.",
     "chars": [
       { "char": "こ", "romaji": "ko", "type": "input" },
@@ -1142,7 +1111,6 @@
     "id": "hira_32",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Shoes",
     "meaning": "Tôi muốn mua giày. Đôi giày này bao nhiêu tiền? 5000 yên.",
     "chars": [
       { "char": "く", "romaji": "ku", "type": "input" },
@@ -1181,7 +1149,6 @@
     "id": "hira_33",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Feeling Tired",
     "meaning": "Tôi mệt rồi. Vì tôi đã làm việc. Tôi muốn ngủ sớm.",
     "chars": [
       { "char": "わ", "romaji": "wa", "type": "input" },
@@ -1221,7 +1188,6 @@
     "id": "hira_34",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Movie",
     "meaning": "Tôi thích phim ảnh. Hôm qua tôi đã xem. Nó rất thú vị.",
     "chars": [
       { "char": "え", "romaji": "e", "type": "input" },
@@ -1257,7 +1223,6 @@
     "id": "hira_35",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Phone Call",
     "meaning": "Tôi gọi điện thoại. Gọi cho mẹ. Mẹ có khỏe không?",
     "chars": [
       { "char": "で", "romaji": "de", "type": "input" },
@@ -1290,7 +1255,6 @@
     "id": "hira_36",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Pet Cat",
     "meaning": "Có một con mèo. Tên là Tama. Nó ăn cá.",
     "chars": [
       { "char": "ね", "romaji": "ne", "type": "input" },
@@ -1324,7 +1288,6 @@
     "id": "hira_37",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Train",
     "meaning": "Tôi đến bằng tàu điện. Mất 1 tiếng. Người rất đông.",
     "chars": [
       { "char": "で", "romaji": "de", "type": "input" },
@@ -1366,7 +1329,6 @@
     "id": "hira_38",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Ordering",
     "meaning": "Xin lỗi. Cho tôi xin nước. Và cả thực đơn nữa.",
     "chars": [
       { "char": "す", "romaji": "su", "type": "input" },
@@ -1400,7 +1362,6 @@
     "id": "hira_39",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Park",
     "meaning": "Tôi đi dạo công viên. Hoa đẹp. Cảm giác thật dễ chịu.",
     "chars": [
       { "char": "こ", "romaji": "ko", "type": "input" },
@@ -1439,7 +1400,6 @@
     "id": "hira_40",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Next Week",
     "meaning": "Chủ nhật tuần sau. Tôi sẽ đi biển. Tôi muốn bơi.",
     "chars": [
       { "char": "ら", "romaji": "ra", "type": "input" },
@@ -1476,7 +1436,6 @@
     "id": "hira_41",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Colors",
     "meaning": "Tôi thích màu đỏ. Cái áo này đẹp. Tôi sẽ mua nó.",
     "chars": [
       { "char": "わ", "romaji": "wa", "type": "input" },
@@ -1514,7 +1473,6 @@
     "id": "hira_42",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Waiting",
     "meaning": "Tôi đợi xe buýt. Xe chưa đến. Vẫn chưa à?",
     "chars": [
       { "char": "ば", "romaji": "ba", "type": "input" },
@@ -1542,7 +1500,6 @@
     "id": "hira_43",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Weekend",
     "meaning": "Cuối tuần tôi rảnh. Tôi sẽ đọc sách. Tôi ở nhà.",
     "chars": [
       { "char": "し", "romaji": "shi", "type": "input" },
@@ -1577,7 +1534,6 @@
     "id": "hira_44",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Camera",
     "meaning": "Hãy chụp ảnh nào. Ở chỗ này. Cười lên nhé.",
     "chars": [
       { "char": "し", "romaji": "shi", "type": "input" },
@@ -1611,7 +1567,6 @@
     "id": "hira_45",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Watch",
     "meaning": "Đồng hồ này đắt. 1 vạn yên. Là hàng Nhật Bản.",
     "chars": [
       { "char": "こ", "romaji": "ko", "type": "input" },
@@ -1648,7 +1603,6 @@
     "id": "hira_46",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Drink",
     "meaning": "Bạn uống gì? Tôi uống bia. Lạnh và ngon.",
     "chars": [
       { "char": "な", "romaji": "na", "type": "input" },
@@ -1682,7 +1636,6 @@
     "id": "hira_47",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Brother",
     "meaning": "Anh trai tôi cao. Anh ấy 20 tuổi. Là sinh viên.",
     "chars": [
       { "char": "あ", "romaji": "a", "type": "input" },
@@ -1715,7 +1668,6 @@
     "id": "hira_48",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Borrowing",
     "meaning": "Cho tôi mượn bút chì. Cả tẩy nữa. Cảm ơn nhé.",
     "chars": [
       { "char": "え", "romaji": "e", "type": "input" },
@@ -1749,7 +1701,6 @@
     "id": "hira_49",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Kitchen",
     "meaning": "Mẹ ở nhà bếp. Mẹ đang nấu ăn. Mùi thơm quá.",
     "chars": [
       { "char": "は", "romaji": "ha", "type": "input" },
@@ -1786,7 +1737,6 @@
     "id": "hira_50",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Goodbye",
     "meaning": "Đến giờ rồi. Tôi phải về đây. Hẹn gặp lại nhé.",
     "chars": [
       { "char": "じ", "romaji": "ji", "type": "input" },
@@ -1816,7 +1766,6 @@
     "id": "hira_51",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Bicycle",
     "meaning": "Đây là xe đạp. Là xe mới. Nó rất nhanh.",
     "chars": [
       { "char": "こ", "romaji": "ko", "type": "input" },
@@ -1853,7 +1802,6 @@
     "id": "hira_52",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Tea Time",
     "meaning": "Cùng uống trà nhé. Trà nóng đấy. Ngon tuyệt.",
     "chars": [
       { "char": "お", "romaji": "o", "type": "input" },
@@ -1887,7 +1835,6 @@
     "id": "hira_53",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Fruit",
     "meaning": "Đây là quả táo. Nó màu đỏ. Rất ngọt.",
     "chars": [
       { "char": "こ", "romaji": "ko", "type": "input" },
@@ -1917,7 +1864,6 @@
     "id": "hira_54",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Mountain",
     "meaning": "Là núi Phú Sĩ. Ngọn núi cao. Rất nổi tiếng.",
     "chars": [
       { "char": "ふ", "romaji": "fu", "type": "input" },
@@ -1948,7 +1894,6 @@
     "id": "hira_55",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Lost Item",
     "meaning": "Chìa khóa ở đâu? Không có ở đây. Gay go rồi.",
     "chars": [
       { "char": "か", "romaji": "ka", "type": "input" },
@@ -1979,7 +1924,6 @@
     "id": "hira_56",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Umbrella",
     "meaning": "Trời mưa rồi. Tôi mua cái dù. 500 yên.",
     "chars": [
       { "char": "あ", "romaji": "a", "type": "input" },
@@ -2010,7 +1954,6 @@
     "id": "hira_57",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Reading",
     "meaning": "Bố tôi đọc báo. Vào buổi sáng. Ngày nào cũng vậy.",
     "chars": [
       { "char": "ち", "romaji": "chi", "type": "input" },
@@ -2044,7 +1987,6 @@
     "id": "hira_58",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Accessories",
     "meaning": "Đây là kính của tôi. Là kính mới. Rất đẹp.",
     "chars": [
       { "char": "こ", "romaji": "ko", "type": "input" },
@@ -2080,7 +2022,6 @@
     "id": "hira_59",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Dictionary",
     "meaning": "Từ điển tiếng Nhật. Nó dày. Nhưng tiện lợi.",
     "chars": [
       { "char": "に", "romaji": "ni", "type": "input" },
@@ -2112,7 +2053,6 @@
     "id": "hira_60",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Bank",
     "meaning": "Không có tiền. Tôi đi ngân hàng. Tôi rút tiền.",
     "chars": [
       { "char": "お", "romaji": "o", "type": "input" },
@@ -2141,11 +2081,11 @@
       { "char": "す", "romaji": "su", "type": "input" },
       { "char": "。", "romaji": ".", "type": "punctuation" }
     ]
-  },{
+  },
+  {
     "id": "hira_61",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Hospital",
     "meaning": "Tôi bị ốm. Tôi đi bệnh viện. Bác sĩ tốt bụng.",
     "chars": [
       { "char": "び", "romaji": "bi", "type": "input" },
@@ -2183,7 +2123,6 @@
     "id": "hira_62",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Homework",
     "meaning": "Hôm nay có bài tập. Rất nhiều. Phải làm thôi.",
     "chars": [
       { "char": "き", "romaji": "ki", "type": "input" },
@@ -2218,7 +2157,6 @@
     "id": "hira_63",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Coffee Shop",
     "meaning": "Tôi đi quán giải khát. Uống cà phê. Gặp bạn bè.",
     "chars": [
       { "char": "き", "romaji": "ki", "type": "input" },
@@ -2258,7 +2196,6 @@
     "id": "hira_64",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Summer",
     "meaning": "Mùa hè nóng. Tôi đi biển. Tôi bơi.",
     "chars": [
       { "char": "な", "romaji": "na", "type": "input" },
@@ -2290,7 +2227,6 @@
     "id": "hira_65",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Karaoke",
     "meaning": "Tôi thích hát. Cùng đi Karaoke không? Vui lắm.",
     "chars": [
       { "char": "う", "romaji": "u", "type": "input" },
@@ -2327,7 +2263,6 @@
     "id": "hira_66",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Souvenir",
     "meaning": "Đây là quà lưu niệm. Mua ở Nhật. Xin mời.",
     "chars": [
       { "char": "こ", "romaji": "ko", "type": "input" },
@@ -2360,7 +2295,6 @@
     "id": "hira_67",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Sleepy",
     "meaning": "Đã 11 giờ rồi. Tôi buồn ngủ. Chúc ngủ ngon.",
     "chars": [
       { "char": "じ", "romaji": "ji", "type": "input" },
@@ -2392,7 +2326,6 @@
     "id": "hira_68",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Map",
     "meaning": "Bản đồ ở đâu? Tôi không biết đường. Hãy chỉ giúp tôi.",
     "chars": [
       { "char": "ち", "romaji": "chi", "type": "input" },
@@ -2429,7 +2362,6 @@
     "id": "hira_69",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Lights",
     "meaning": "Tối quá. Hãy bật điện lên. Sáng rồi.",
     "chars": [
       { "char": "く", "romaji": "ku", "type": "input" },
@@ -2464,7 +2396,6 @@
     "id": "hira_70",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Holiday",
     "meaning": "Ngày mai là ngày nghỉ. Tôi không làm việc. Tôi sẽ nghỉ ngơi.",
     "chars": [
       { "char": "あ", "romaji": "a", "type": "input" },
@@ -2500,7 +2431,6 @@
     "id": "hira_71",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Breakfast",
     "meaning": "Tôi ăn bánh mì. Uống sữa bò. Rất ngon.",
     "chars": [
       { "char": "ぱ", "romaji": "pa", "type": "input" },
@@ -2536,7 +2466,6 @@
     "id": "hira_72",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Computer",
     "meaning": "Máy tính này mới. Rất tiện lợi. Tôi dùng hàng ngày.",
     "chars": [
       { "char": "こ", "romaji": "ko", "type": "input" },
@@ -2576,7 +2505,6 @@
     "id": "hira_73",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Winter",
     "meaning": "Hôm nay lạnh. Tuyết đang rơi. Tôi muốn áo khoác.",
     "chars": [
       { "char": "き", "romaji": "ki", "type": "input" },
@@ -2615,7 +2543,6 @@
     "id": "hira_74",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Age",
     "meaning": "Bạn bao nhiêu tuổi? Tôi 25 tuổi. Còn trẻ nhỉ.",
     "chars": [
       { "char": "な", "romaji": "na", "type": "input" },
@@ -2649,7 +2576,6 @@
     "id": "hira_75",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Door",
     "meaning": "Hãy mở cửa. Gió mát. Cảm ơn nhé.",
     "chars": [
       { "char": "ど", "romaji": "do", "type": "input" },
@@ -2682,7 +2608,6 @@
     "id": "hira_76",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Airplane",
     "meaning": "Tôi đi bằng máy bay. Đi đến Nhật Bản. Nhanh lắm.",
     "chars": [
       { "char": "ひ", "romaji": "hi", "type": "input" },
@@ -2716,7 +2641,6 @@
     "id": "hira_77",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Wallet",
     "meaning": "Ví của tôi cũ rồi. Nó màu đen. Tôi muốn cái mới.",
     "chars": [
       { "char": "わ", "romaji": "wa", "type": "input" },
@@ -2758,7 +2682,6 @@
     "id": "hira_78",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Garden",
     "meaning": "Nhà tôi có vườn. Có hoa và cây. Rất đẹp.",
     "chars": [
       { "char": "う", "romaji": "u", "type": "input" },
@@ -2795,7 +2718,6 @@
     "id": "hira_79",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Likes and Dislikes",
     "meaning": "Tôi thích chó. Tôi ghét mèo. Chó dễ thương.",
     "chars": [
       { "char": "い", "romaji": "i", "type": "input" },
@@ -2828,7 +2750,6 @@
     "id": "hira_80",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Asking Name",
     "meaning": "Tên bạn là gì? Tôi là Suzuki. Hân hạnh làm quen.",
     "chars": [
       { "char": "お", "romaji": "o", "type": "input" },
@@ -2859,7 +2780,6 @@
     "id": "hira_81",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Bus",
     "meaning": "Tôi đi bằng xe buýt. Xe buýt chậm. Tôi sẽ muộn.",
     "chars": [
       { "char": "ば", "romaji": "ba", "type": "input" },
@@ -2891,7 +2811,6 @@
     "id": "hira_82",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Lunch",
     "meaning": "Tôi ăn trưa. Là cơm hộp Bento. Rất ngon.",
     "chars": [
       { "char": "ひ", "romaji": "hi", "type": "input" },
@@ -2925,7 +2844,6 @@
     "id": "hira_83",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Money",
     "meaning": "Tôi không có tiền. Cái này đắt quá. Tôi không mua.",
     "chars": [
       { "char": "お", "romaji": "o", "type": "input" },
@@ -2956,7 +2874,6 @@
     "id": "hira_84",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Weekdays",
     "meaning": "Hôm nay là thứ mấy? Là thứ hai. Tôi có công việc.",
     "chars": [
       { "char": "な", "romaji": "na", "type": "input" },
@@ -2988,7 +2905,6 @@
     "id": "hira_85",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Newspaper",
     "meaning": "Tôi đọc báo. Kanji khó quá. Tôi không hiểu.",
     "chars": [
       { "char": "し", "romaji": "shi", "type": "input" },
@@ -3026,7 +2942,6 @@
     "id": "hira_86",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Sea",
     "meaning": "Tôi thích biển. Tôi muốn đi biển. Tôi muốn bơi.",
     "chars": [
       { "char": "う", "romaji": "u", "type": "input" },
@@ -3061,7 +2976,6 @@
     "id": "hira_87",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Doctor",
     "meaning": "Tôi là bác sĩ. Tôi làm việc ở bệnh viện. Tôi bận rộn.",
     "chars": [
       { "char": "わ", "romaji": "wa", "type": "input" },
@@ -3101,7 +3015,6 @@
     "id": "hira_88",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Asking Directions",
     "meaning": "Nhà ga ở đâu? Ở đằng kia. Cảm ơn.",
     "chars": [
       { "char": "え", "romaji": "e", "type": "input" },
@@ -3131,7 +3044,6 @@
     "id": "hira_89",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Sister",
     "meaning": "Chị gái tôi hiền lành. Chị ấy xinh đẹp. Chị ấy 22 tuổi.",
     "chars": [
       { "char": "あ", "romaji": "a", "type": "input" },
@@ -3166,7 +3078,6 @@
     "id": "hira_90",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Evening",
     "meaning": "Chào buổi tối. Trời tối rồi. Tôi về nhà đây.",
     "chars": [
       { "char": "こ", "romaji": "ko", "type": "input" },
@@ -3197,7 +3108,6 @@
     "id": "hira_91",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Toothache",
     "meaning": "Tôi bị đau răng. Tôi đi nha sĩ. Không thích chút nào.",
     "chars": [
       { "char": "は", "romaji": "ha", "type": "input" },
@@ -3233,7 +3143,6 @@
     "id": "hira_92",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Bag",
     "meaning": "Tôi muốn cái túi. Cái kia dễ thương. Màu hồng đấy.",
     "chars": [
       { "char": "か", "romaji": "ka", "type": "input" },
@@ -3268,7 +3177,6 @@
     "id": "hira_93",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Bath",
     "meaning": "Tôi vào bồn tắm. Cảm thấy dễ chịu. Nước nóng.",
     "chars": [
       { "char": "お", "romaji": "o", "type": "input" },
@@ -3302,7 +3210,6 @@
     "id": "hira_94",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Location (Cat)",
     "meaning": "Con mèo ở đâu? Ở dưới cái ghế. Nó đang ngủ.",
     "chars": [
       { "char": "ね", "romaji": "ne", "type": "input" },
@@ -3334,7 +3241,6 @@
     "id": "hira_95",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Writing",
     "meaning": "Tôi viết bằng bút chì. Tôi viết Kanji. Luyện tập nào.",
     "chars": [
       { "char": "え", "romaji": "e", "type": "input" },
@@ -3371,7 +3277,6 @@
     "id": "hira_96",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Free Time",
     "meaning": "Ngày mai tôi rảnh. Cùng chơi nhé? Đi đâu đây?",
     "chars": [
       { "char": "あ", "romaji": "a", "type": "input" },
@@ -3407,7 +3312,6 @@
     "id": "hira_97",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Father",
     "meaning": "Bố tôi là nhân viên công ty. Bố 50 tuổi. Bố rất hiền.",
     "chars": [
       { "char": "ち", "romaji": "chi", "type": "input" },
@@ -3444,7 +3348,6 @@
     "id": "hira_98",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Food Taste",
     "meaning": "Cái này ngon. Là cái gì vậy? Tôi muốn ăn nữa.",
     "chars": [
       { "char": "こ", "romaji": "ko", "type": "input" },
@@ -3478,7 +3381,6 @@
     "id": "hira_99",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Walking Dog",
     "meaning": "Tôi đi dạo với chó. Ở công viên. Chó rất khỏe.",
     "chars": [
       { "char": "い", "romaji": "i", "type": "input" },
@@ -3510,7 +3412,6 @@
     "id": "hira_100",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Thank You",
     "meaning": "Cảm ơn rất nhiều. Hẹn gặp lại. Chúc mạnh khỏe.",
     "chars": [
       { "char": "あ", "romaji": "a", "type": "input" },
@@ -3540,7 +3441,6 @@
     "id": "hira_101",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Department Store",
     "meaning": "Tôi đi bách hóa. Tôi mua quần áo. Rất vui.",
     "chars": [
       { "char": "で", "romaji": "de", "type": "input" },
@@ -3574,7 +3474,6 @@
     "id": "hira_102",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Sports",
     "meaning": "Tôi chơi quần vợt. Chơi với bạn bè. Thú vị lắm.",
     "chars": [
       { "char": "て", "romaji": "te", "type": "input" },
@@ -3608,7 +3507,6 @@
     "id": "hira_103",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Cooking",
     "meaning": "Tối nay là món Cà ri. Mẹ tôi làm. Hơi cay.",
     "chars": [
       { "char": "こ", "romaji": "ko", "type": "input" },
@@ -3643,7 +3541,6 @@
     "id": "hira_104",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Weather (Wind)",
     "meaning": "Gió mạnh quá. Hôm nay lạnh. Tôi không ra ngoài.",
     "chars": [
       { "char": "か", "romaji": "ka", "type": "input" },
@@ -3674,7 +3571,6 @@
     "id": "hira_105",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Teacher",
     "meaning": "Là giáo viên tiếng Nhật. Thầy khỏe mạnh. Thầy tốt bụng.",
     "chars": [
       { "char": "に", "romaji": "ni", "type": "input" },
@@ -3708,7 +3604,6 @@
     "id": "hira_106",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Tomorrow",
     "meaning": "Ngày mai làm gì? Tôi học bài. Ở thư viện.",
     "chars": [
       { "char": "あ", "romaji": "a", "type": "input" },
@@ -3744,7 +3639,6 @@
     "id": "hira_107",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Water",
     "meaning": "Hãy uống nước. Nước lạnh đấy. Xin mời.",
     "chars": [
       { "char": "み", "romaji": "mi", "type": "input" },
@@ -3772,7 +3666,6 @@
     "id": "hira_108",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Room",
     "meaning": "Phòng tôi nhỏ. Nhưng mà sạch. Tôi thích.",
     "chars": [
       { "char": "へ", "romaji": "he", "type": "input" },
@@ -3804,7 +3697,6 @@
     "id": "hira_109",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Sky",
     "meaning": "Bầu trời màu xanh. Đẹp quá nhỉ. Thời tiết tốt.",
     "chars": [
       { "char": "そ", "romaji": "so", "type": "input" },
@@ -3837,7 +3729,6 @@
     "id": "hira_110",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Birthday",
     "meaning": "Hôm nay vui vẻ. Là sinh nhật. Có quà tặng.",
     "chars": [
       { "char": "き", "romaji": "ki", "type": "input" },
@@ -3877,7 +3768,6 @@
     "id": "hira_111",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Piano",
     "meaning": "Tôi chơi đàn Piano. Mẹ tôi dạy. Tôi rất thích.",
     "chars": [
       { "char": "ぴ", "romaji": "pi", "type": "input" },
@@ -3911,7 +3801,6 @@
     "id": "hira_112",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Big Bag",
     "meaning": "Cái túi này to. Đựng được nhiều. Rất tiện lợi.",
     "chars": [
       { "char": "こ", "romaji": "ko", "type": "input" },
@@ -3949,7 +3838,6 @@
     "id": "hira_113",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Friend's House",
     "meaning": "Tôi đến nhà bạn. Nhà to quá. Có con chó.",
     "chars": [
       { "char": "と", "romaji": "to", "type": "input" },
@@ -3987,7 +3875,6 @@
     "id": "hira_114",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Station",
     "meaning": "Nhà ga ở gần. Đi bộ 5 phút. Rất gần đấy.",
     "chars": [
       { "char": "え", "romaji": "e", "type": "input" },
@@ -4024,7 +3911,6 @@
     "id": "hira_115",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Phone Number",
     "meaning": "Số điện thoại là gì? Là 123-456. Cảm ơn.",
     "chars": [
       { "char": "で", "romaji": "de", "type": "input" },
@@ -4067,7 +3953,6 @@
     "id": "hira_116",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Juice",
     "meaning": "Tôi uống nước trái cây. Ngọt và ngon. Tôi muốn nữa.",
     "chars": [
       { "char": "じ", "romaji": "ji", "type": "input" },
@@ -4106,7 +3991,6 @@
     "id": "hira_117",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Tree",
     "meaning": "Có cái cây to. Ở trong công viên. Màu xanh đẹp.",
     "chars": [
       { "char": "お", "romaji": "o", "type": "input" },
@@ -4146,7 +4030,6 @@
     "id": "hira_118",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Glasses",
     "meaning": "Kính của tôi đâu? Ở trên bàn. A, có rồi.",
     "chars": [
       { "char": "め", "romaji": "me", "type": "input" },
@@ -4182,7 +4065,6 @@
     "id": "hira_119",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Shoes",
     "meaning": "Đôi giày này trắng. Tôi sẽ mang nó. Tôi đi ra ngoài đây.",
     "chars": [
       { "char": "こ", "romaji": "ko", "type": "input" },
@@ -4213,7 +4095,6 @@
     "id": "hira_120",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Good Night",
     "meaning": "Buồn ngủ rồi. Tôi tắt điện. Chúc ngủ ngon.",
     "chars": [
       { "char": "ね", "romaji": "ne", "type": "input" },
@@ -4245,7 +4126,6 @@
     "id": "hira_121",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Taxi",
     "meaning": "Tôi đi bằng taxi. Hơi đắt. Nhưng mà nhanh.",
     "chars": [
       { "char": "た", "romaji": "ta", "type": "input" },
@@ -4281,7 +4161,6 @@
     "id": "hira_122",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Cold/Sickness",
     "meaning": "Tôi bị cảm. Đầu tôi đau. Tôi sẽ ngủ.",
     "chars": [
       { "char": "か", "romaji": "ka", "type": "input" },
@@ -4313,7 +4192,6 @@
     "id": "hira_123",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Books",
     "meaning": "Tôi thích sách. Tôi đọc hàng ngày. Thú vị lắm.",
     "chars": [
       { "char": "ほ", "romaji": "ho", "type": "input" },
@@ -4347,7 +4225,6 @@
     "id": "hira_124",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Meal",
     "meaning": "Thịt này ngon. Tôi ăn rất nhiều. No quá.",
     "chars": [
       { "char": "こ", "romaji": "ko", "type": "input" },
@@ -4388,7 +4265,6 @@
     "id": "hira_125",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Shopping",
     "meaning": "Cà vạt màu đỏ. Tôi sẽ mua cái này. Ngầu thật.",
     "chars": [
       { "char": "あ", "romaji": "a", "type": "input" },
@@ -4424,7 +4300,6 @@
     "id": "hira_126",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Schedule",
     "meaning": "Ngày mai là thứ tư. Tôi làm việc. Tôi bận rộn.",
     "chars": [
       { "char": "あ", "romaji": "a", "type": "input" },
@@ -4461,7 +4336,6 @@
     "id": "hira_127",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Location",
     "meaning": "Ngân hàng ở đâu? Ở bên cạnh bưu điện. Kia kìa.",
     "chars": [
       { "char": "ぎ", "romaji": "gi", "type": "input" },
@@ -4501,7 +4375,6 @@
     "id": "hira_128",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Family",
     "meaning": "Em gái tôi dễ thương. Em ấy 5 tuổi. Rất khỏe mạnh.",
     "chars": [
       { "char": "い", "romaji": "i", "type": "input" },
@@ -4534,7 +4407,6 @@
     "id": "hira_129",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Nature",
     "meaning": "Có một con sông. Nước sạch. Rất đẹp.",
     "chars": [
       { "char": "か", "romaji": "ka", "type": "input" },
@@ -4568,7 +4440,6 @@
     "id": "hira_130",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Meeting",
     "meaning": "Cùng gặp lúc 5 giờ nhé. Đừng đến muộn. Hẹn gặp lại.",
     "chars": [
       { "char": "ご", "romaji": "go", "type": "input" },
@@ -4602,7 +4473,6 @@
     "id": "hira_131",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Hat",
     "meaning": "Tôi muốn cái mũ. Cái mũ màu trắng. Tôi sẽ mua.",
     "chars": [
       { "char": "ぼ", "romaji": "bo", "type": "input" },
@@ -4633,7 +4503,6 @@
     "id": "hira_132",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Medicine",
     "meaning": "Tôi uống thuốc. Vì tôi bị ốm. Tôi sẽ ngủ sớm.",
     "chars": [
       { "char": "く", "romaji": "ku", "type": "input" },
@@ -4667,7 +4536,6 @@
     "id": "hira_133",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Hygiene",
     "meaning": "Tay bị bẩn. Tôi rửa tay. Đã sạch sẽ rồi.",
     "chars": [
       { "char": "て", "romaji": "te", "type": "input" },
@@ -4701,7 +4569,6 @@
     "id": "hira_134",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Elevator",
     "meaning": "Tôi đi thang máy. Đi lên trên. Rất tiện lợi.",
     "chars": [
       { "char": "え", "romaji": "e", "type": "input" },
@@ -4736,7 +4603,6 @@
     "id": "hira_135",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Dictionary",
     "meaning": "Cho tôi mượn từ điển. Vì tôi không hiểu. Cảm ơn.",
     "chars": [
       { "char": "じ", "romaji": "ji", "type": "input" },
@@ -4772,7 +4638,6 @@
     "id": "hira_136",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Swimming",
     "meaning": "Tôi có thể bơi. Ở hồ bơi. Tôi bơi mỗi ngày.",
     "chars": [
       { "char": "わ", "romaji": "wa", "type": "input" },
@@ -4804,7 +4669,6 @@
     "id": "hira_137",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Newspaper",
     "meaning": "Tôi mua báo. Tôi đọc báo. Hơi khó hiểu.",
     "chars": [
       { "char": "し", "romaji": "shi", "type": "input" },
@@ -4836,7 +4700,6 @@
     "id": "hira_138",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Photo",
     "meaning": "Tôi chụp ảnh. Có được không? Vâng, xin mời.",
     "chars": [
       { "char": "し", "romaji": "shi", "type": "input" },
@@ -4868,7 +4731,6 @@
     "id": "hira_139",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Vegetables",
     "meaning": "Tôi ăn rau. Tốt cho cơ thể. Rất ngon.",
     "chars": [
       { "char": "や", "romaji": "ya", "type": "input" },
@@ -4902,7 +4764,6 @@
     "id": "hira_140",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Heavy Bag",
     "meaning": "Cái cặp nặng. Có sách ở trong. Tôi xách giúp nhé?",
     "chars": [
       { "char": "か", "romaji": "ka", "type": "input" },
@@ -4937,7 +4798,6 @@
     "id": "hira_141",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Convenience Store",
     "meaning": "Tôi đi cửa hàng tiện lợi. Mua cơm nắm. Rất gần.",
     "chars": [
       { "char": "こ", "romaji": "ko", "type": "input" },
@@ -4972,7 +4832,6 @@
     "id": "hira_142",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Stairs",
     "meaning": "Tôi dùng cầu thang bộ. Nó dài. Tôi mệt.",
     "chars": [
       { "char": "か", "romaji": "ka", "type": "input" },
@@ -5004,7 +4863,6 @@
     "id": "hira_143",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Driving",
     "meaning": "Tôi lái xe ô tô. Tôi thích xe. Nó màu xanh.",
     "chars": [
       { "char": "く", "romaji": "ku", "type": "input" },
@@ -5036,7 +4894,6 @@
     "id": "hira_144",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Laundry",
     "meaning": "Tôi giặt quần áo. Hôm nay trời nắng. Sẽ khô nhanh thôi.",
     "chars": [
       { "char": "ふ", "romaji": "fu", "type": "input" },
@@ -5068,7 +4925,6 @@
     "id": "hira_145",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Pencil Case",
     "meaning": "Đây là hộp bút. Có bút bi. Dễ thương nhỉ.",
     "chars": [
       { "char": "ふ", "romaji": "fu", "type": "input" },
@@ -5099,7 +4955,6 @@
     "id": "hira_146",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Restroom",
     "meaning": "Nhà vệ sinh ở đâu? Ở đằng kia. Nó rất sạch.",
     "chars": [
       { "char": "と", "romaji": "to", "type": "input" },
@@ -5130,7 +4985,6 @@
     "id": "hira_147",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Fish",
     "meaning": "Tôi ăn cá. Rất ngon. Tôi ăn mỗi ngày.",
     "chars": [
       { "char": "さ", "romaji": "sa", "type": "input" },
@@ -5164,7 +5018,6 @@
     "id": "hira_148",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Lights Out",
     "meaning": "Tôi tắt điện. Trời tối. Chúc ngủ ngon.",
     "chars": [
       { "char": "で", "romaji": "de", "type": "input" },
@@ -5196,7 +5049,6 @@
     "id": "hira_149",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Present",
     "meaning": "Tôi tặng quà. Cho bạn bè. Bạn có vui không?",
     "chars": [
       { "char": "ぷ", "romaji": "pu", "type": "input" },
@@ -5230,7 +5082,6 @@
     "id": "hira_150",
     "type": "hiragana-text",
     "level": "N5",
-    "topic": "Time",
     "meaning": "Bây giờ là mấy giờ? Là 3 giờ. Đến giờ ăn vặt rồi.",
     "chars": [
       { "char": "い", "romaji": "i", "type": "input" },
@@ -5254,6 +5105,1115 @@
       { "char": "で", "romaji": "de", "type": "input" },
       { "char": "す", "romaji": "su", "type": "input" },
       { "char": "ね", "romaji": "ne", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_1",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Kỳ thi năng lực Nhật ngữ Quốc tế.",
+    "chars": [
+      { "char": "国", "romaji": "koku", "type": "input" },
+      { "char": "際", "romaji": "sai", "type": "input" },
+      { "char": "日", "romaji": "ni", "type": "input" },
+      { "char": "本", "romaji": "hon", "type": "input" },
+      { "char": "語", "romaji": "go", "type": "input" },
+      { "char": "能", "romaji": "nou", "type": "input" },
+      { "char": "力", "romaji": "ryoku", "type": "input" },
+      { "char": "試", "romaji": "shi", "type": "input" },
+      { "char": "験", "romaji": "ken", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_2",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Tàu Shinkansen đến ga Tokyo đúng giờ.",
+    "chars": [
+      { "char": "新", "romaji": "shin", "type": "input" },
+      { "char": "幹", "romaji": "kan", "type": "input" },
+      { "char": "線", "romaji": "sen", "type": "input" },
+      { "char": "東", "romaji": "tou", "type": "input" },
+      { "char": "京", "romaji": "kyou", "type": "input" },
+      { "char": "駅", "romaji": "eki", "type": "input" },
+      { "char": "定", "romaji": "tei", "type": "input" },
+      { "char": "刻", "romaji": "koku", "type": "input" },
+      { "char": "到", "romaji": "tou", "type": "input" },
+      { "char": "着", "romaji": "chaku", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_3",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Thông tin nhập học đại học công lập.",
+    "chars": [
+      { "char": "公", "romaji": "kou", "type": "input" },
+      { "char": "立", "romaji": "ritsu", "type": "input" },
+      { "char": "大", "romaji": "dai", "type": "input" },
+      { "char": "学", "romaji": "gaku", "type": "input" },
+      { "char": "入", "romaji": "nyuu", "type": "input" },
+      { "char": "学", "romaji": "gaku", "type": "input" },
+      { "char": "案", "romaji": "an", "type": "input" },
+      { "char": "内", "romaji": "nai", "type": "input" },
+      { "char": "所", "romaji": "jo", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_4",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Xuân Hạ Thu Đông. Hoa Điểu Phong Nguyệt (Vẻ đẹp thiên nhiên).",
+    "chars": [
+      { "char": "春", "romaji": "shun", "type": "input" },
+      { "char": "夏", "romaji": "ka", "type": "input" },
+      { "char": "秋", "romaji": "shuu", "type": "input" },
+      { "char": "冬", "romaji": "tou", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "花", "romaji": "ka", "type": "input" },
+      { "char": "鳥", "romaji": "chou", "type": "input" },
+      { "char": "風", "romaji": "fuu", "type": "input" },
+      { "char": "月", "romaji": "getsu", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_5",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Sân bay quốc tế Tokyo (Haneda). Nhà ga hành khách.",
+    "chars": [
+      { "char": "東", "romaji": "tou", "type": "input" },
+      { "char": "京", "romaji": "kyou", "type": "input" },
+      { "char": "国", "romaji": "koku", "type": "input" },
+      { "char": "際", "romaji": "sai", "type": "input" },
+      { "char": "空", "romaji": "kuu", "type": "input" },
+      { "char": "港", "romaji": "kou", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "旅", "romaji": "ryo", "type": "input" },
+      { "char": "客", "romaji": "kaku", "type": "input" },
+      { "char": "タ", "romaji": "ta", "type": "input" },
+      { "char": "ー", "romaji": "-", "type": "input" },
+      { "char": "ミ", "romaji": "mi", "type": "input" },
+      { "char": "ナ", "romaji": "na", "type": "input" },
+      { "char": "ル", "romaji": "ru", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_6",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Công ty cổ phần. Trưởng phòng kinh doanh.",
+    "chars": [
+      { "char": "株", "romaji": "kabu", "type": "input" },
+      { "char": "式", "romaji": "shiki", "type": "input" },
+      { "char": "会", "romaji": "gai", "type": "input" },
+      { "char": "社", "romaji": "sha", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "営", "romaji": "ei", "type": "input" },
+      { "char": "業", "romaji": "gyou", "type": "input" },
+      { "char": "部", "romaji": "bu", "type": "input" },
+      { "char": "長", "romaji": "chou", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_7",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Cấm vào (Lập nhập cấm chỉ). Nghiêm cấm lửa (Hỏa khí nghiêm cấm).",
+    "chars": [
+      { "char": "立", "romaji": "tachi", "type": "input" },
+      { "char": "入", "romaji": "iri", "type": "input" },
+      { "char": "禁", "romaji": "kin", "type": "input" },
+      { "char": "止", "romaji": "shi", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "火", "romaji": "ka", "type": "input" },
+      { "char": "気", "romaji": "ki", "type": "input" },
+      { "char": "厳", "romaji": "gen", "type": "input" },
+      { "char": "禁", "romaji": "kin", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_8",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Bắc Hải Đạo (Hokkaido). Tứ Quốc (Shikoku). Cửu Châu (Kyushu).",
+    "chars": [
+      { "char": "北", "romaji": "hok", "type": "input" },
+      { "char": "海", "romaji": "kai", "type": "input" },
+      { "char": "道", "romaji": "dou", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "四", "romaji": "shi", "type": "input" },
+      { "char": "国", "romaji": "koku", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "九", "romaji": "kyuu", "type": "input" },
+      { "char": "州", "romaji": "shuu", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_9",
+    "type": "kanji-text",
+    "level": "N3",
+    "meaning": "Khám sức khỏe (Kiện khang chẩn đoạn). Sơ yếu lý lịch (Lý lịch thư).",
+    "chars": [
+      { "char": "健", "romaji": "ken", "type": "input" },
+      { "char": "康", "romaji": "kou", "type": "input" },
+      { "char": "診", "romaji": "shin", "type": "input" },
+      { "char": "断", "romaji": "dan", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "履", "romaji": "ri", "type": "input" },
+      { "char": "歴", "romaji": "reki", "type": "input" },
+      { "char": "書", "romaji": "sho", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_10",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Máy bán hàng tự động. Giấy phép lái xe.",
+    "chars": [
+      { "char": "自", "romaji": "ji", "type": "input" },
+      { "char": "動", "romaji": "dou", "type": "input" },
+      { "char": "販", "romaji": "han", "type": "input" },
+      { "char": "売", "romaji": "bai", "type": "input" },
+      { "char": "機", "romaji": "ki", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "運", "romaji": "un", "type": "input" },
+      { "char": "転", "romaji": "ten", "type": "input" },
+      { "char": "免", "romaji": "men", "type": "input" },
+      { "char": "許", "romaji": "kyo", "type": "input" },
+      { "char": "証", "romaji": "shou", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_11",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Ngày tháng năm sinh. Số điện thoại di động.",
+    "chars": [
+      { "char": "生", "romaji": "sei", "type": "input" },
+      { "char": "年", "romaji": "nen", "type": "input" },
+      { "char": "月", "romaji": "gap", "type": "input" },
+      { "char": "日", "romaji": "pi", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "携", "romaji": "kei", "type": "input" },
+      { "char": "帯", "romaji": "tai", "type": "input" },
+      { "char": "電", "romaji": "den", "type": "input" },
+      { "char": "話", "romaji": "wa", "type": "input" },
+      { "char": "番", "romaji": "ban", "type": "input" },
+      { "char": "号", "romaji": "gou", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_12",
+    "type": "kanji-text",
+    "level": "N3",
+    "meaning": "Nhất sinh huyền mệnh (Cố gắng hết sức). Nhất thạch nhị điểu (Một mũi tên trúng 2 đích).",
+    "chars": [
+      { "char": "一", "romaji": "is", "type": "input" },
+      { "char": "生", "romaji": "shou", "type": "input" },
+      { "char": "懸", "romaji": "ken", "type": "input" },
+      { "char": "命", "romaji": "mei", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "一", "romaji": "is", "type": "input" },
+      { "char": "石", "romaji": "seki", "type": "input" },
+      { "char": "二", "romaji": "ni", "type": "input" },
+      { "char": "鳥", "romaji": "chou", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_13",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Dự báo thời tiết. Xác suất mưa. Nhiệt độ cao nhất.",
+    "chars": [
+      { "char": "天", "romaji": "ten", "type": "input" },
+      { "char": "気", "romaji": "ki", "type": "input" },
+      { "char": "予", "romaji": "yo", "type": "input" },
+      { "char": "報", "romaji": "hou", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "降", "romaji": "kou", "type": "input" },
+      { "char": "水", "romaji": "sui", "type": "input" },
+      { "char": "確", "romaji": "kaku", "type": "input" },
+      { "char": "率", "romaji": "ritsu", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "最", "romaji": "sai", "type": "input" },
+      { "char": "高", "romaji": "kou", "type": "input" },
+      { "char": "気", "romaji": "ki", "type": "input" },
+      { "char": "温", "romaji": "on", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_14",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Suất cơm thịt nướng. Rau không thuốc trừ sâu (Rau sạch).",
+    "chars": [
+      { "char": "焼", "romaji": "yaki", "type": "input" },
+      { "char": "肉", "romaji": "niku", "type": "input" },
+      { "char": "定", "romaji": "tei", "type": "input" },
+      { "char": "食", "romaji": "shoku", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "無", "romaji": "mu", "type": "input" },
+      { "char": "農", "romaji": "nou", "type": "input" },
+      { "char": "薬", "romaji": "yaku", "type": "input" },
+      { "char": "野", "romaji": "ya", "type": "input" },
+      { "char": "菜", "romaji": "sai", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_15",
+    "type": "kanji-text",
+    "level": "N3",
+    "meaning": "Giám đốc đại diện (Đại biểu thủ締 dịch). Thanh niên Nhật Bản.",
+    "chars": [
+      { "char": "代", "romaji": "dai", "type": "input" },
+      { "char": "表", "romaji": "hyou", "type": "input" },
+      { "char": "取", "romaji": "tori", "type": "input" },
+      { "char": "締", "romaji": "shimari", "type": "input" },
+      { "char": "役", "romaji": "yaku", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "日", "romaji": "ni", "type": "input" },
+      { "char": "本", "romaji": "ppon", "type": "input" },
+      { "char": "青", "romaji": "sei", "type": "input" },
+      { "char": "年", "romaji": "nen", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_16",
+    "type": "kanji-text",
+    "level": "N3",
+    "meaning": "Thủ tướng (Nội các Tổng lý Đại thần). Tòa nhà Quốc hội (Quốc hội Nghị sự đường).",
+    "chars": [
+      { "char": "内", "romaji": "nai", "type": "input" },
+      { "char": "閣", "romaji": "kaku", "type": "input" },
+      { "char": "総", "romaji": "sou", "type": "input" },
+      { "char": "理", "romaji": "ri", "type": "input" },
+      { "char": "大", "romaji": "dai", "type": "input" },
+      { "char": "臣", "romaji": "jin", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "国", "romaji": "kok", "type": "input" },
+      { "char": "会", "romaji": "kai", "type": "input" },
+      { "char": "議", "romaji": "gi", "type": "input" },
+      { "char": "事", "romaji": "ji", "type": "input" },
+      { "char": "堂", "romaji": "dou", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_17",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Thẻ bảo hiểm sức khỏe (Kiện khang bảo hiểm chứng). Phiếu cư trú (Trú dân phiếu).",
+    "chars": [
+      { "char": "健", "romaji": "ken", "type": "input" },
+      { "char": "康", "romaji": "kou", "type": "input" },
+      { "char": "保", "romaji": "ho", "type": "input" },
+      { "char": "険", "romaji": "ken", "type": "input" },
+      { "char": "証", "romaji": "shou", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "住", "romaji": "juu", "type": "input" },
+      { "char": "民", "romaji": "min", "type": "input" },
+      { "char": "票", "romaji": "hyou", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_18",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Toán học. Khoa học tự nhiên. Lịch sử thế giới.",
+    "chars": [
+      { "char": "数", "romaji": "suu", "type": "input" },
+      { "char": "学", "romaji": "gaku", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "理", "romaji": "ri", "type": "input" },
+      { "char": "科", "romaji": "ka", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "世", "romaji": "se", "type": "input" },
+      { "char": "界", "romaji": "kai", "type": "input" },
+      { "char": "史", "romaji": "shi", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "id": "kanji_long_19",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Thuế tiêu dùng (Thuế VAT). Tài khoản ngân hàng.",
+    "chars": [
+      { "char": "消", "romaji": "shou", "type": "input" },
+      { "char": "費", "romaji": "hi", "type": "input" },
+      { "char": "税", "romaji": "zei", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "銀", "romaji": "gin", "type": "input" },
+      { "char": "行", "romaji": "kou", "type": "input" },
+      { "char": "口", "romaji": "kou", "type": "input" },
+      { "char": "座", "romaji": "za", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_20",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Xe cứu thương. Khoa ngoại (Bệnh viện).",
+    "chars": [
+      { "char": "救", "romaji": "kyuu", "type": "input" },
+      { "char": "急", "romaji": "kyuu", "type": "input" },
+      { "char": "車", "romaji": "sha", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "外", "romaji": "ge", "type": "input" },
+      { "char": "科", "romaji": "ka", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_21",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Ghế chỉ định (Đặt trước). Ghế tự do.",
+    "chars": [
+      { "char": "指", "romaji": "shi", "type": "input" },
+      { "char": "定", "romaji": "tei", "type": "input" },
+      { "char": "席", "romaji": "seki", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "自", "romaji": "ji", "type": "input" },
+      { "char": "由", "romaji": "yuu", "type": "input" },
+      { "char": "席", "romaji": "seki", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_22",
+    "type": "kanji-text",
+    "level": "N3",
+    "meaning": "Kỳ thi nhập học. Lễ tốt nghiệp.",
+    "chars": [
+      { "char": "入", "romaji": "nyuu", "type": "input" },
+      { "char": "学", "romaji": "gaku", "type": "input" },
+      { "char": "試", "romaji": "shi", "type": "input" },
+      { "char": "験", "romaji": "ken", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "卒", "romaji": "sotsu", "type": "input" },
+      { "char": "業", "romaji": "gyou", "type": "input" },
+      { "char": "式", "romaji": "shiki", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_23",
+    "type": "kanji-text",
+    "level": "N3",
+    "meaning": "Làm thêm giờ (Tăng ca). Đi công tác.",
+    "chars": [
+      { "char": "残", "romaji": "zan", "type": "input" },
+      { "char": "業", "romaji": "gyou", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "出", "romaji": "shut", "type": "input" },
+      { "char": "張", "romaji": "chou", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_24",
+    "type": "kanji-text",
+    "level": "N3",
+    "meaning": "Cảnh báo động đất (Địa chấn tốc báo). Nơi lánh nạn.",
+    "chars": [
+      { "char": "地", "romaji": "ji", "type": "input" },
+      { "char": "震", "romaji": "shin", "type": "input" },
+      { "char": "速", "romaji": "soku", "type": "input" },
+      { "char": "報", "romaji": "hou", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "避", "romaji": "hi", "type": "input" },
+      { "char": "難", "romaji": "nan", "type": "input" },
+      { "char": "場", "romaji": "ba", "type": "input" },
+      { "char": "所", "romaji": "sho", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_25",
+    "type": "kanji-text",
+    "level": "N3",
+    "meaning": "Nhất kỳ nhất hội (Cơ hội chỉ có một lần trong đời). Thập nhân thập sắc (Mỗi người một vẻ).",
+    "chars": [
+      { "char": "一", "romaji": "ichi", "type": "input" },
+      { "char": "期", "romaji": "go", "type": "input" },
+      { "char": "一", "romaji": "ichi", "type": "input" },
+      { "char": "会", "romaji": "e", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "十", "romaji": "juu", "type": "input" },
+      { "char": "人", "romaji": "nin", "type": "input" },
+      { "char": "十", "romaji": "to", "type": "input" },
+      { "char": "色", "romaji": "iro", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_26",
+    "type": "kanji-text",
+    "level": "N3",
+    "meaning": "Trí tuệ nhân tạo (AI). Xe ô tô điện.",
+    "chars": [
+      { "char": "人", "romaji": "jin", "type": "input" },
+      { "char": "工", "romaji": "kou", "type": "input" },
+      { "char": "知", "romaji": "chi", "type": "input" },
+      { "char": "能", "romaji": "nou", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "電", "romaji": "den", "type": "input" },
+      { "char": "気", "romaji": "ki", "type": "input" },
+      { "char": "自", "romaji": "ji", "type": "input" },
+      { "char": "動", "romaji": "dou", "type": "input" },
+      { "char": "車", "romaji": "sha", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_27",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Các tỉnh thành (Đô Đạo Phủ Huyện). Tòa thị chính.",
+    "chars": [
+      { "char": "都", "romaji": "to", "type": "input" },
+      { "char": "道", "romaji": "dou", "type": "input" },
+      { "char": "府", "romaji": "fu", "type": "input" },
+      { "char": "県", "romaji": "ken", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "市", "romaji": "shi", "type": "input" },
+      { "char": "役", "romaji": "yaku", "type": "input" },
+      { "char": "所", "romaji": "sho", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_28",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Thời gian mở cửa (Kinh doanh thời gian). Dịp cuối năm cũ đầu năm mới.",
+    "chars": [
+      { "char": "営", "romaji": "ei", "type": "input" },
+      { "char": "業", "romaji": "gyou", "type": "input" },
+      { "char": "時", "romaji": "ji", "type": "input" },
+      { "char": "間", "romaji": "kan", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "年", "romaji": "nen", "type": "input" },
+      { "char": "末", "romaji": "matsu", "type": "input" },
+      { "char": "年", "romaji": "nen", "type": "input" },
+      { "char": "始", "romaji": "shi", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_29",
+    "type": "kanji-text",
+    "level": "N3",
+    "meaning": "Công nghệ thông tin (IT). An ninh mạng.",
+    "chars": [
+      { "char": "情", "romaji": "jou", "type": "input" },
+      { "char": "報", "romaji": "hou", "type": "input" },
+      { "char": "技", "romaji": "gi", "type": "input" },
+      { "char": "術", "romaji": "jutsu", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "情", "romaji": "jou", "type": "input" },
+      { "char": "報", "romaji": "hou", "type": "input" },
+      { "char": "安", "romaji": "an", "type": "input" },
+      { "char": "全", "romaji": "zen", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_30",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Địa điểm tham quan (Danh lam thắng cảnh). Di sản thế giới.",
+    "chars": [
+      { "char": "観", "romaji": "kan", "type": "input" },
+      { "char": "光", "romaji": "kou", "type": "input" },
+      { "char": "名", "romaji": "mei", "type": "input" },
+      { "char": "所", "romaji": "sho", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "世", "romaji": "se", "type": "input" },
+      { "char": "界", "romaji": "kai", "type": "input" },
+      { "char": "遺", "romaji": "i", "type": "input" },
+      { "char": "産", "romaji": "san", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_31",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Đường một chiều. Cấm đỗ xe.",
+    "chars": [
+      { "char": "一", "romaji": "ip", "type": "input" },
+      { "char": "方", "romaji": "pou", "type": "input" },
+      { "char": "通", "romaji": "tsuu", "type": "input" },
+      { "char": "行", "romaji": "kou", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "駐", "romaji": "chuu", "type": "input" },
+      { "char": "車", "romaji": "sha", "type": "input" },
+      { "char": "禁", "romaji": "kin", "type": "input" },
+      { "char": "止", "romaji": "shi", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_32",
+    "type": "kanji-text",
+    "level": "N3",
+    "meaning": "Mở cửa quanh năm (Không có ngày nghỉ). Giới hạn thời gian.",
+    "chars": [
+      { "char": "年", "romaji": "nen", "type": "input" },
+      { "char": "中", "romaji": "juu", "type": "input" },
+      { "char": "無", "romaji": "mu", "type": "input" },
+      { "char": "休", "romaji": "kyuu", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "期", "romaji": "ki", "type": "input" },
+      { "char": "間", "romaji": "kan", "type": "input" },
+      { "char": "限", "romaji": "gen", "type": "input" },
+      { "char": "定", "romaji": "tei", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_33",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Đông Tây Nam Bắc. Bên phải bên trái (Tả hữu).",
+    "chars": [
+      { "char": "東", "romaji": "tou", "type": "input" },
+      { "char": "西", "romaji": "zai", "type": "input" },
+      { "char": "南", "romaji": "nan", "type": "input" },
+      { "char": "北", "romaji": "boku", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "左", "romaji": "sa", "type": "input" },
+      { "char": "右", "romaji": "yuu", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_34",
+    "type": "kanji-text",
+    "level": "N3",
+    "meaning": "Sự nóng lên toàn cầu. Bảo vệ môi trường.",
+    "chars": [
+      { "char": "地", "romaji": "chi", "type": "input" },
+      { "char": "球", "romaji": "kyuu", "type": "input" },
+      { "char": "温", "romaji": "on", "type": "input" },
+      { "char": "暖", "romaji": "dan", "type": "input" },
+      { "char": "化", "romaji": "ka", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "環", "romaji": "kan", "type": "input" },
+      { "char": "境", "romaji": "kyou", "type": "input" },
+      { "char": "保", "romaji": "ho", "type": "input" },
+      { "char": "護", "romaji": "go", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_35",
+    "type": "kanji-text",
+    "level": "N3",
+    "meaning": "Giáo dục bắt buộc. Đóng cửa lớp học (do dịch bệnh).",
+    "chars": [
+      { "char": "義", "romaji": "gi", "type": "input" },
+      { "char": "務", "romaji": "mu", "type": "input" },
+      { "char": "教", "romaji": "kyou", "type": "input" },
+      { "char": "育", "romaji": "iku", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "学", "romaji": "gak", "type": "input" },
+      { "char": "級", "romaji": "kyuu", "type": "input" },
+      { "char": "閉", "romaji": "hei", "type": "input" },
+      { "char": "鎖", "romaji": "sa", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_36",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Món ăn Trung Hoa. Món ăn Nhật Bản.",
+    "chars": [
+      { "char": "中", "romaji": "chuu", "type": "input" },
+      { "char": "華", "romaji": "ka", "type": "input" },
+      { "char": "料", "romaji": "ryou", "type": "input" },
+      { "char": "理", "romaji": "ri", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "日", "romaji": "ni", "type": "input" },
+      { "char": "本", "romaji": "hon", "type": "input" },
+      { "char": "料", "romaji": "ryou", "type": "input" },
+      { "char": "理", "romaji": "ri", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_37",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Chuẩn bị hoàn tất. Sắp xếp gọn gàng (Chỉnh lý chỉnh đốn).",
+    "chars": [
+      { "char": "準", "romaji": "jun", "type": "input" },
+      { "char": "備", "romaji": "bi", "type": "input" },
+      { "char": "完", "romaji": "kan", "type": "input" },
+      { "char": "了", "romaji": "ryou", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "整", "romaji": "sei", "type": "input" },
+      { "char": "理", "romaji": "ri", "type": "input" },
+      { "char": "整", "romaji": "sei", "type": "input" },
+      { "char": "頓", "romaji": "ton", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_38",
+    "type": "kanji-text",
+    "level": "N3",
+    "meaning": "Chuyên môn. Tự tin (Tự kỷ trung tâm).",
+    "chars": [
+      { "char": "専", "romaji": "sen", "type": "input" },
+      { "char": "門", "romaji": "mon", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "自", "romaji": "ji", "type": "input" },
+      { "char": "信", "romaji": "shin", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_39",
+    "type": "kanji-text",
+    "level": "N3",
+    "meaning": "Hoạt động tìm việc (Xin việc). Sơ yếu lý lịch.",
+    "chars": [
+      { "char": "就", "romaji": "shuu", "type": "input" },
+      { "char": "職", "romaji": "shoku", "type": "input" },
+      { "char": "活", "romaji": "katsu", "type": "input" },
+      { "char": "動", "romaji": "dou", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "履", "romaji": "ri", "type": "input" },
+      { "char": "歴", "romaji": "reki", "type": "input" },
+      { "char": "書", "romaji": "sho", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_40",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Vé định kỳ (Vé tháng). Vé tàu.",
+    "chars": [
+      { "char": "定", "romaji": "tei", "type": "input" },
+      { "char": "期", "romaji": "ki", "type": "input" },
+      { "char": "券", "romaji": "ken", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "乗", "romaji": "jou", "type": "input" },
+      { "char": "車", "romaji": "sha", "type": "input" },
+      { "char": "券", "romaji": "ken", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_41",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Cửa thoát hiểm (Phi thường khẩu). Bình cứu hỏa.",
+    "chars": [
+      { "char": "非", "romaji": "hi", "type": "input" },
+      { "char": "常", "romaji": "jou", "type": "input" },
+      { "char": "口", "romaji": "guchi", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "消", "romaji": "shou", "type": "input" },
+      { "char": "火", "romaji": "ka", "type": "input" },
+      { "char": "器", "romaji": "ki", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_42",
+    "type": "kanji-text",
+    "level": "N3",
+    "meaning": "Hạn sử dụng (Thưởng vị kỳ hạn). Ngày sản xuất.",
+    "chars": [
+      { "char": "賞", "romaji": "shou", "type": "input" },
+      { "char": "味", "romaji": "mi", "type": "input" },
+      { "char": "期", "romaji": "ki", "type": "input" },
+      { "char": "限", "romaji": "gen", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "製", "romaji": "sei", "type": "input" },
+      { "char": "造", "romaji": "zou", "type": "input" },
+      { "char": "日", "romaji": "bi", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_43",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Bưu điện. Mã bưu chính.",
+    "chars": [
+      { "char": "郵", "romaji": "yuu", "type": "input" },
+      { "char": "便", "romaji": "bin", "type": "input" },
+      { "char": "局", "romaji": "kyoku", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "郵", "romaji": "yuu", "type": "input" },
+      { "char": "便", "romaji": "bin", "type": "input" },
+      { "char": "番", "romaji": "ban", "type": "input" },
+      { "char": "号", "romaji": "gou", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_44",
+    "type": "kanji-text",
+    "level": "N3",
+    "meaning": "Ngàn cân treo sợi tóc (Nguy cơ nhất phát). Tình trạng khẩn cấp.",
+    "chars": [
+      { "char": "危", "romaji": "ki", "type": "input" },
+      { "char": "機", "romaji": "ki", "type": "input" },
+      { "char": "一", "romaji": "ip", "type": "input" },
+      { "char": "髪", "romaji": "patsu", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "緊", "romaji": "kin", "type": "input" },
+      { "char": "急", "romaji": "kyuu", "type": "input" },
+      { "char": "事", "romaji": "ji", "type": "input" },
+      { "char": "態", "romaji": "tai", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_45",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Tiền thuê nhà (Gia tô). Tiền điện.",
+    "chars": [
+      { "char": "家", "romaji": "ya", "type": "input" },
+      { "char": "賃", "romaji": "chin", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "電", "romaji": "den", "type": "input" },
+      { "char": "気", "romaji": "ki", "type": "input" },
+      { "char": "代", "romaji": "dai", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_46",
+    "type": "kanji-text",
+    "level": "N3",
+    "meaning": "Tàu điện chật kín người (Mãn viên điện xa). Giờ cao điểm.",
+    "chars": [
+      { "char": "満", "romaji": "man", "type": "input" },
+      { "char": "員", "romaji": "in", "type": "input" },
+      { "char": "電", "romaji": "den", "type": "input" },
+      { "char": "車", "romaji": "sha", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "ラ", "romaji": "ra", "type": "input" },
+      { "char": "ッ", "romaji": "sshu", "type": "input" },
+      { "char": "シ", "romaji": "shi", "type": "input" },
+      { "char": "ュ", "romaji": "yu", "type": "input" },
+      { "char": "時", "romaji": "ji", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_47",
+    "type": "kanji-text",
+    "level": "N4",
+    "meaning": "Đại lý bất động sản (Bất động sản ốc). Hợp đồng.",
+    "chars": [
+      { "char": "不", "romaji": "fu", "type": "input" },
+      { "char": "動", "romaji": "dou", "type": "input" },
+      { "char": "産", "romaji": "san", "type": "input" },
+      { "char": "屋", "romaji": "ya", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "契", "romaji": "kei", "type": "input" },
+      { "char": "約", "romaji": "yaku", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kanji_long_48",
+    "type": "kanji-text",
+    "level": "N3",
+    "meaning": "Tăng trưởng kinh tế. Dân số giảm.",
+    "chars": [
+      { "char": "経", "romaji": "kei", "type": "input" },
+      { "char": "済", "romaji": "zai", "type": "input" },
+      { "char": "成", "romaji": "sei", "type": "input" },
+      { "char": "長", "romaji": "chou", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "人", "romaji": "jin", "type": "input" },
+      { "char": "口", "romaji": "kou", "type": "input" },
+      { "char": "減", "romaji": "gen", "type": "input" },
+      { "char": "少", "romaji": "shou", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kata_sent_1",
+    "type": "katakana-text",
+    "level": "N5",
+    "meaning": "Rất vui được gặp bạn. Tôi là người Việt Nam. Kia là cái gì? Xin cảm ơn.",
+    "chars": [
+      { "char": "ハ", "romaji": "ha", "type": "input" },
+      { "char": "ジ", "romaji": "ji", "type": "input" },
+      { "char": "メ", "romaji": "me", "type": "input" },
+      { "char": "マ", "romaji": "ma", "type": "input" },
+      { "char": "シ", "romaji": "shi", "type": "input" },
+      { "char": "テ", "romaji": "te", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "ワ", "romaji": "wa", "type": "input" },
+      { "char": "タ", "romaji": "ta", "type": "input" },
+      { "char": "シ", "romaji": "shi", "type": "input" },
+      { "char": "ハ", "romaji": "wa", "type": "input" },
+      { "char": "ベ", "romaji": "be", "type": "input" },
+      { "char": "ト", "romaji": "to", "type": "input" },
+      { "char": "ナ", "romaji": "na", "type": "input" },
+      { "char": "ム", "romaji": "mu", "type": "input" },
+      { "char": "ジ", "romaji": "ji", "type": "input" },
+      { "char": "ン", "romaji": "n", "type": "input" },
+      { "char": "デ", "romaji": "de", "type": "input" },
+      { "char": "ス", "romaji": "su", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "ア", "romaji": "a", "type": "input" },
+      { "char": "レ", "romaji": "re", "type": "input" },
+      { "char": "ハ", "romaji": "wa", "type": "input" },
+      { "char": "ナ", "romaji": "na", "type": "input" },
+      { "char": "ン", "romaji": "n", "type": "input" },
+      { "char": "デ", "romaji": "de", "type": "input" },
+      { "char": "ス", "romaji": "su", "type": "input" },
+      { "char": "カ", "romaji": "ka", "type": "input" },
+      { "char": "?", "romaji": "?", "type": "punctuation" },
+      { "char": "ア", "romaji": "a", "type": "input" },
+      { "char": "リ", "romaji": "ri", "type": "input" },
+      { "char": "ガ", "romaji": "ga", "type": "input" },
+      { "char": "ト", "romaji": "to", "type": "input" },
+      { "char": "ウ", "romaji": "u", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kata_sent_2",
+    "type": "katakana-text",
+    "level": "N5",
+    "meaning": "Tôi ăn cơm. Tôi uống nước. Tôi xem tivi. Tôi đi ngủ.",
+    "chars": [
+      { "char": "ワ", "romaji": "wa", "type": "input" },
+      { "char": "タ", "romaji": "ta", "type": "input" },
+      { "char": "シ", "romaji": "shi", "type": "input" },
+      { "char": "ハ", "romaji": "wa", "type": "input" },
+      { "char": "ゴ", "romaji": "go", "type": "input" },
+      { "char": "ハ", "romaji": "ha", "type": "input" },
+      { "char": "ン", "romaji": "n", "type": "input" },
+      { "char": "ヲ", "romaji": "o", "type": "input" },
+      { "char": "タ", "romaji": "ta", "type": "input" },
+      { "char": "ベ", "romaji": "be", "type": "input" },
+      { "char": "マ", "romaji": "ma", "type": "input" },
+      { "char": "ス", "romaji": "su", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "ミ", "romaji": "mi", "type": "input" },
+      { "char": "ズ", "romaji": "zu", "type": "input" },
+      { "char": "ヲ", "romaji": "o", "type": "input" },
+      { "char": "ノ", "romaji": "no", "type": "input" },
+      { "char": "ミ", "romaji": "mi", "type": "input" },
+      { "char": "マ", "romaji": "ma", "type": "input" },
+      { "char": "ス", "romaji": "su", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "テ", "romaji": "te", "type": "input" },
+      { "char": "レ", "romaji": "re", "type": "input" },
+      { "char": "ビ", "romaji": "bi", "type": "input" },
+      { "char": "ヲ", "romaji": "o", "type": "input" },
+      { "char": "ミ", "romaji": "mi", "type": "input" },
+      { "char": "マ", "romaji": "ma", "type": "input" },
+      { "char": "ス", "romaji": "su", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "ネ", "romaji": "ne", "type": "input" },
+      { "char": "マ", "romaji": "ma", "type": "input" },
+      { "char": "ス", "romaji": "su", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "kata_sent_3",
+    "type": "katakana-text",
+    "level": "N5",
+    "meaning": "Cái này bao nhiêu tiền? Tôi đi bằng xe buýt. Ngày mai bạn rảnh không? Xin lỗi.",
+    "chars": [
+      { "char": "コ", "romaji": "ko", "type": "input" },
+      { "char": "レ", "romaji": "re", "type": "input" },
+      { "char": "ハ", "romaji": "wa", "type": "input" },
+      { "char": "イ", "romaji": "i", "type": "input" },
+      { "char": "ク", "romaji": "ku", "type": "input" },
+      { "char": "ラ", "romaji": "ra", "type": "input" },
+      { "char": "デ", "romaji": "de", "type": "input" },
+      { "char": "ス", "romaji": "su", "type": "input" },
+      { "char": "カ", "romaji": "ka", "type": "input" },
+      { "char": "?", "romaji": "?", "type": "punctuation" },
+      { "char": "バ", "romaji": "ba", "type": "input" },
+      { "char": "ス", "romaji": "su", "type": "input" },
+      { "char": "デ", "romaji": "de", "type": "input" },
+      { "char": "イ", "romaji": "i", "type": "input" },
+      { "char": "キ", "romaji": "ki", "type": "input" },
+      { "char": "マ", "romaji": "ma", "type": "input" },
+      { "char": "ス", "romaji": "su", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" },
+      { "char": "ア", "romaji": "a", "type": "input" },
+      { "char": "シ", "romaji": "shi", "type": "input" },
+      { "char": "タ", "romaji": "ta", "type": "input" },
+      { "char": "ヒ", "romaji": "hi", "type": "input" },
+      { "char": "マ", "romaji": "ma", "type": "input" },
+      { "char": "デ", "romaji": "de", "type": "input" },
+      { "char": "ス", "romaji": "su", "type": "input" },
+      { "char": "カ", "romaji": "ka", "type": "input" },
+      { "char": "?", "romaji": "?", "type": "punctuation" },
+      { "char": "ス", "romaji": "su", "type": "input" },
+      { "char": "ミ", "romaji": "mi", "type": "input" },
+      { "char": "マ", "romaji": "ma", "type": "input" },
+      { "char": "セ", "romaji": "se", "type": "input" },
+      { "char": "ン", "romaji": "n", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "mixed_1",
+    "type": "mixed-text",
+    "level": "N5",
+    "meaning": "Tôi uống cà phê tại quán giải khát. (Kanji + Katakana + Hiragana)",
+    "chars": [
+      { "char": "喫", "romaji": "kis", "type": "input" },
+      { "char": "茶", "romaji": "sa", "type": "input" },
+      { "char": "店", "romaji": "ten", "type": "input" },
+      { "char": "で", "romaji": "de", "type": "input" },
+      { "char": "コ", "romaji": "ko", "type": "input" },
+      { "char": "ー", "romaji": "-", "type": "input" },
+      { "char": "ヒ", "romaji": "hi", "type": "input" },
+      { "char": "ー", "romaji": "-", "type": "input" },
+      { "char": "を", "romaji": "o", "type": "input" },
+      { "char": "飲", "romaji": "no", "type": "input" },
+      { "char": "み", "romaji": "mi", "type": "input" },
+      { "char": "ま", "romaji": "ma", "type": "input" },
+      { "char": "す", "romaji": "su", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "mixed_2",
+    "type": "mixed-text",
+    "level": "N5",
+    "meaning": "Hôm qua, tôi đã mua áo sơ mi và bánh mì ở trung tâm thương mại.",
+    "chars": [
+      { "char": "昨", "romaji": "ki", "type": "input" },
+      { "char": "日", "romaji": "nou", "type": "input" },
+      { "char": "、", "romaji": ",", "type": "punctuation" },
+      { "char": "デ", "romaji": "de", "type": "input" },
+      { "char": "パ", "romaji": "pa", "type": "input" },
+      { "char": "ー", "romaji": "-", "type": "input" },
+      { "char": "ト", "romaji": "to", "type": "input" },
+      { "char": "で", "romaji": "de", "type": "input" },
+      { "char": "シ", "romaji": "shi", "type": "input" },
+      { "char": "ャ", "romaji": "xya", "type": "input" },
+      { "char": "ツ", "romaji": "tsu", "type": "input" },
+      { "char": "と", "romaji": "to", "type": "input" },
+      { "char": "パ", "romaji": "pa", "type": "input" },
+      { "char": "ン", "romaji": "n", "type": "input" },
+      { "char": "を", "romaji": "o", "type": "input" },
+      { "char": "買", "romaji": "ka", "type": "input" },
+      { "char": "い", "romaji": "i", "type": "input" },
+      { "char": "ま", "romaji": "ma", "type": "input" },
+      { "char": "し", "romaji": "shi", "type": "input" },
+      { "char": "た", "romaji": "ta", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "mixed_3",
+    "type": "mixed-text",
+    "level": "N4",
+    "meaning": "Chủ nhật tuần sau, tôi đi Nhật Bản bằng máy bay.",
+    "chars": [
+      { "char": "来", "romaji": "rai", "type": "input" },
+      { "char": "週", "romaji": "shuu", "type": "input" },
+      { "char": "の", "romaji": "no", "type": "input" },
+      { "char": "日", "romaji": "nichi", "type": "input" },
+      { "char": "曜", "romaji": "you", "type": "input" },
+      { "char": "日", "romaji": "bi", "type": "input" },
+      { "char": "、", "romaji": ",", "type": "punctuation" },
+      { "char": "飛", "romaji": "hi", "type": "input" },
+      { "char": "行", "romaji": "kou", "type": "input" },
+      { "char": "機", "romaji": "ki", "type": "input" },
+      { "char": "で", "romaji": "de", "type": "input" },
+      { "char": "日", "romaji": "ni", "type": "input" },
+      { "char": "本", "romaji": "ppon", "type": "input" },
+      { "char": "へ", "romaji": "e", "type": "input" },
+      { "char": "行", "romaji": "i", "type": "input" },
+      { "char": "き", "romaji": "ki", "type": "input" },
+      { "char": "ま", "romaji": "ma", "type": "input" },
+      { "char": "す", "romaji": "su", "type": "input" },
+      { "char": "。", "romaji": ".", "type": "punctuation" }
+    ]
+  },
+  {
+    "id": "mixed_4",
+    "type": "mixed-text",
+    "level": "N4",
+    "meaning": "Người Mỹ đó đang ăn hamburger bằng đũa.",
+    "chars": [
+      { "char": "そ", "romaji": "so", "type": "input" },
+      { "char": "の", "romaji": "no", "type": "input" },
+      { "char": "ア", "romaji": "a", "type": "input" },
+      { "char": "メ", "romaji": "me", "type": "input" },
+      { "char": "リ", "romaji": "ri", "type": "input" },
+      { "char": "カ", "romaji": "ka", "type": "input" },
+      { "char": "人", "romaji": "jin", "type": "input" },
+      { "char": "は", "romaji": "wa", "type": "input" },
+      { "char": "箸", "romaji": "hashi", "type": "input" },
+      { "char": "で", "romaji": "de", "type": "input" },
+      { "char": "ハ", "romaji": "ha", "type": "input" },
+      { "char": "ン", "romaji": "n", "type": "input" },
+      { "char": "バ", "romaji": "ba", "type": "input" },
+      { "char": "ー", "romaji": "-", "type": "input" },
+      { "char": "ガ", "romaji": "ga", "type": "input" },
+      { "char": "ー", "romaji": "-", "type": "input" },
+      { "char": "を", "romaji": "o", "type": "input" },
+      { "char": "食", "romaji": "ta", "type": "input" },
+      { "char": "べ", "romaji": "be", "type": "input" },
+      { "char": "て", "romaji": "te", "type": "input" },
+      { "char": "い", "romaji": "i", "type": "input" },
+      { "char": "ま", "romaji": "ma", "type": "input" },
+      { "char": "す", "romaji": "su", "type": "input" },
       { "char": "。", "romaji": ".", "type": "punctuation" }
     ]
   }
