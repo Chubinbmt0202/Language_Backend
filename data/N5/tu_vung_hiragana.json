@@ -1,0 +1,2342 @@
+[
+  {
+    "id": "hira_2",
+    "fullWord": "いぬ",
+    "meaning": "Con chó",
+    "imageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=600",
+    "parts": ["い", "ぬ"],
+    "options": ["い", "ぬ", "ね", "め", "あ", "う", "の", "る", "り", "ま"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "hira_3",
+    "fullWord": "さかな",
+    "meaning": "Con cá",
+    "imageUrl": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=600",
+    "parts": ["さ", "か", "な"],
+    "options": ["さ", "き", "か", "が", "な", "ぬ", "は", "ま", "た", "ら"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_2",
+    "fullWord": "カメラ",
+    "meaning": "Máy ảnh",
+    "imageUrl": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600",
+    "parts": ["カ", "メ", "ラ"],
+    "options": ["カ", "ガ", "メ", "ヌ", "ラ", "ル", "タ", "ナ", "ハ", "マ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kata_3",
+    "fullWord": "パン",
+    "meaning": "Bánh mì",
+    "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600",
+    "parts": ["パ", "ン"],
+    "options": ["ハ", "バ", "パ", "ン", "ソ", "リ", "ワ", "オ", "ホ", "マ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_1",
+    "fullWord": "日本",
+    "meaning": "Nhật Bản",
+    "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=600",
+    "parts": ["日", "本"],
+    "options": ["日", "本", "月", "火", "木", "人", "山", "川", "大", "中"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "kanji_2",
+    "fullWord": "先生",
+    "meaning": "Giáo viên",
+    "imageUrl": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600",
+    "parts": ["先", "生"],
+    "options": ["先", "生", "学", "校", "人", "大", "小", "子", "男", "女"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_1",
+    "fullWord": "食べる",
+    "meaning": "Ăn",
+    "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600",
+    "parts": ["食", "べ", "る"],
+    "options": ["食", "飲", "べ", "る", "れ", "ま", "す", "い", "く", "き"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "mixed_2",
+    "fullWord": "見る",
+    "meaning": "Xem/Nhìn",
+    "imageUrl": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600",
+    "parts": ["見", "る"],
+    "options": ["見", "貝", "る", "れ", "行", "来", "ま", "す", "目", "耳"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "mixed_3",
+    "fullWord": "日本語",
+    "meaning": "Tiếng Nhật",
+    "imageUrl": "https://images.unsplash.com/photo-1528164344705-47542687990d?w=600",
+    "parts": ["日", "本", "語"],
+    "options": ["日", "本", "語", "語", "英", "中", "人", "国", "何", "話"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_4",
+    "fullWord": "たまご",
+    "meaning": "Quả trứng",
+    "imageUrl": "https://images.unsplash.com/photo-1506084868730-342b1f8505b0?w=600",
+    "parts": ["た", "ま", "ご"],
+    "options": ["た", "だ", "ま", "も", "こ", "ご", "な", "に", "は", "ほ"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_4",
+    "fullWord": "トイレ",
+    "meaning": "Nhà vệ sinh",
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=600",
+    "parts": ["ト", "イ", "レ"],
+    "options": ["ト", "ド", "イ", "エ", "レ", "ル", "リ", "ソ", "ン", "ワ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kata_5",
+    "fullWord": "コーヒー",
+    "meaning": "Cà phê",
+    "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600",
+    "parts": ["コ", "ー", "ヒ", "ー"],
+    "options": ["コ", "ゴ", "ヒ", "ビ", "ピ", "ー", "レ", "リ", "フ", "ヘ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_3",
+    "fullWord": "大学",
+    "meaning": "Trường đại học",
+    "imageUrl": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=600",
+    "parts": ["大", "学"],
+    "options": ["大", "太", "学", "校", "生", "先", "小", "中", "高", "子"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "kanji_4",
+    "fullWord": "今日",
+    "meaning": "Hôm nay",
+    "imageUrl": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=600",
+    "parts": ["今", "日"],
+    "options": ["今", "日", "月", "年", "時", "分", "何", "来", "去", "週"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "kanji_5",
+    "fullWord": "山",
+    "meaning": "Núi",
+    "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600",
+    "parts": ["山"],
+    "options": ["山", "川", "田", "水", "火", "木", "土", "金", "日", "月"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_4",
+    "fullWord": "行く",
+    "meaning": "Đi",
+    "imageUrl": "https://images.unsplash.com/photo-1507035895480-2b3156c31fc8?w=600",
+    "parts": ["行", "く"],
+    "options": ["行", "来", "帰", "く", "き", "い", "る", "ま", "す", "な"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "mixed_5",
+    "fullWord": "飲む",
+    "meaning": "Uống",
+    "imageUrl": "https://images.unsplash.com/photo-1544145945-f904253d0c7b?w=600",
+    "parts": ["飲", "む"],
+    "options": ["飲", "食", "む", "み", "ま", "す", "る", "れ", "ね", "ん"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "mixed_6",
+    "fullWord": "大きい",
+    "meaning": "Lớn / To",
+    "imageUrl": "https://images.unsplash.com/photo-1551009175-15bdf9dcb580?w=600",
+    "parts": ["大", "き", "い"],
+    "options": ["大", "小", "き", "い", "高", "長", "く", "け", "に", "り"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_5",
+    "fullWord": "くるま",
+    "meaning": "Xe hơi",
+    "imageUrl": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=600",
+    "parts": ["く", "る", "ま"],
+    "options": ["く", "ぐ", "る", "ろ", "ま", "ほ", "は", "け", "れ", "め"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kanji_6",
+    "fullWord": "半分",
+    "meaning": "Một nửa / 30 phút",
+    "imageUrl": "https://images.unsplash.com/photo-1558961779-9ef4a0ad2211?w=600",
+    "parts": ["半", "分"],
+    "options": ["半", "平", "分", "刀", "分", "時", "日", "月", "年", "今"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "hira_6",
+    "fullWord": "あさごはん",
+    "meaning": "Bữa sáng",
+    "imageUrl": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=600",
+    "parts": ["あ", "さ", "ご", "は", "ん"],
+    "options": ["あ", "お", "さ", "き", "ご", "こ", "は", "ほ", "ん", "め"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_6",
+    "fullWord": "テレビ",
+    "meaning": "Tivi",
+    "imageUrl": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=600",
+    "parts": ["テ", "レ", "ビ"],
+    "options": ["テ", "デ", "レ", "ル", "ヒ", "ビ", "ピ", "ラ", "ト", "ド"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_7",
+    "fullWord": "名前",
+    "meaning": "Tên",
+    "imageUrl": "https://images.unsplash.com/photo-1512428559087-560fa5ceab42?w=600",
+    "parts": ["名", "前"],
+    "options": ["名", "各", "前", "後", "右", "左", "人", "先", "生", "子"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_7",
+    "fullWord": "書く",
+    "meaning": "Viết",
+    "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=600",
+    "parts": ["書", "く"],
+    "options": ["書", "画", "く", "き", "い", "る", "ま", "す", "読", "話"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "mixed_8",
+    "fullWord": "新しい",
+    "meaning": "Mới",
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600",
+    "parts": ["新", "し", "い"],
+    "options": ["新", "親", "し", "じ", "い", "り", "古", "高", "安", "長"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_8",
+    "fullWord": "水曜目",
+    "meaning": "Thứ tư",
+    "imageUrl": "https://images.unsplash.com/photo-1520211417231-33945894998c?w=600",
+    "parts": ["水", "曜", "日"],
+    "options": ["水", "氷", "曜", "日", "月", "火", "木", "金", "土", "日"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_7",
+    "fullWord": "ともだち",
+    "meaning": "Bạn bè",
+    "imageUrl": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600",
+    "parts": ["と", "も", "だ", "ち"],
+    "options": ["と", "ど", "も", "め", "だ", "た", "ち", "ぢ", "ら", "る"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_7",
+    "fullWord": "バス",
+    "meaning": "Xe buýt",
+    "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600",
+    "parts": ["バ", "ス"],
+    "options": ["ハ", "バ", "パ", "ス", "ズ", "ヌ", "ソ", "ン", "ラ", "ル"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_9",
+    "fullWord": "父",
+    "meaning": "Bố (mình)",
+    "imageUrl": "https://images.unsplash.com/photo-1552059344-248b039f263f?w=600",
+    "parts": ["父"],
+    "options": ["父", "母", "兄", "弟", "姉", "妹", "人", "男", "女", "子"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "kanji_10",
+    "fullWord": "千円",
+    "meaning": "Một nghìn Yên",
+    "imageUrl": "https://images.unsplash.com/photo-1626014303757-646637e97457?w=600",
+    "parts": ["千", "円"],
+    "options": ["千", "万", "円", "百", "口", "日", "本", "上", "下", "中"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "hira_8",
+    "fullWord": "としょかん",
+    "meaning": "Thư viện",
+    "imageUrl": "https://images.unsplash.com/photo-1507738911711-1f354d015407?w=600",
+    "parts": ["と", "しょ", "か", "ん"],
+    "options": ["と", "ど", "し", "じ", "よ", "ょ", "か", "が", "ん", "め"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_8",
+    "fullWord": "レストラン",
+    "meaning": "Nhà hàng",
+    "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600",
+    "parts": ["レ", "ス", "ト", "ラ", "ン"],
+    "options": ["レ", "ル", "ス", "ズ", "ト", "ド", "ラ", "テ", "ン", "ソ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "mixed_9",
+    "fullWord": "勉強する",
+    "meaning": "Học tập",
+    "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600",
+    "parts": ["勉", "強", "す", "る"],
+    "options": ["勉", "強", "す", "る", "れ", "な", "教", "師", "学", "校"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_11",
+    "fullWord": "入口",
+    "meaning": "Lối vào",
+    "imageUrl": "https://images.unsplash.com/photo-1517502446272-680979357062?w=600",
+    "parts": ["入", "口"],
+    "options": ["入", "人", "口", "ロ", "出", "山", "門", "開", "閉", "中"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "hira_9",
+    "fullWord": "たべもの",
+    "meaning": "Đồ ăn",
+    "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600",
+    "parts": ["た", "べ", "も", "の"],
+    "options": ["た", "だ", "へ", "べ", "ぺ", "も", "の", "め", "は", "に"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_9",
+    "fullWord": "ホテル",
+    "meaning": "Khách sạn",
+    "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600",
+    "parts": ["ホ", "テ", "ル"],
+    "options": ["ホ", "ボ", "ポ", "テ", "デ", "ル", "レ", "リ", "ハ", "ナ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "mixed_10",
+    "fullWord": "話す",
+    "meaning": "Nói chuyện",
+    "imageUrl": "https://images.unsplash.com/photo-1521791136064-7986c2923216?w=600",
+    "parts": ["話", "す"],
+    "options": ["話", "語", "す", "ず", "言", "読", "書", "る", "ま", "し"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_12",
+    "fullWord": "右",
+    "meaning": "Bên phải",
+    "imageUrl": "https://images.unsplash.com/photo-1503387762-592dea58ef21?w=600",
+    "parts": ["右"],
+    "options": ["右", "左", "上", "下", "中", "外", "石", "口", "目", "耳"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_11",
+    "fullWord": "高い",
+    "meaning": "Đắt / Cao",
+    "imageUrl": "https://images.unsplash.com/photo-1449156001935-d2873a89676d?w=600",
+    "parts": ["高", "い"],
+    "options": ["高", "低", "安", "い", "り", "に", "く", "け", "大", "小"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_13",
+    "fullWord": "帰る",
+    "meaning": "Về (nhà)",
+    "imageUrl": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=600",
+    "parts": ["帰", "る"],
+    "options": ["帰", "行", "来", "る", "れ", "ろ", "ま", "す", "持", "待"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_10",
+    "fullWord": "てんき",
+    "meaning": "Thời tiết",
+    "imageUrl": "https://images.unsplash.com/photo-1438312504911-37d45e1f0e52?w=600",
+    "parts": ["て", "ん", "き"],
+    "options": ["て", "で", "ん", "き", "ぎ", "に", "ち", "は", "ま", "け"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_10",
+    "fullWord": "ネクタイ",
+    "meaning": "Cà vạt",
+    "imageUrl": "https://images.unsplash.com/photo-1589756823253-573a76633ecf?w=600",
+    "parts": ["ネ", "ク", "タ", "イ"],
+    "options": ["ネ", "ヌ", "ク", "ワ", "タ", "ダ", "イ", "エ", "ラ", "リ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_14",
+    "fullWord": "目",
+    "meaning": "Mắt",
+    "imageUrl": "https://images.unsplash.com/photo-1544433480-e44299d8199f?w=600",
+    "parts": ["目"],
+    "options": ["目", "日", "耳", "口", "手", "足", "見", "自", "貝", "見"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "kanji_15",
+    "fullWord": "女の子",
+    "meaning": "Bé gái",
+    "imageUrl": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=600",
+    "parts": ["女", "の", "子"],
+    "options": ["女", "男", "の", "子", "学", "生", "人", "先", "生", "大"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_11",
+    "fullWord": "やすみ",
+    "meaning": "Nghỉ ngơi / Ngày nghỉ",
+    "imageUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600",
+    "parts": ["や", "す", "み"],
+    "options": ["や", "ゆ", "よ", "す", "ず", "み", "む", "め", "き", "に"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_11",
+    "fullWord": "シャツ",
+    "meaning": "Áo sơ mi",
+    "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600",
+    "parts": ["シ", "ャ", "ツ"],
+    "options": ["シ", "ツ", "ャ", "ュ", "ョ", "ソ", "ン", "リ", "ラ", "ル"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "mixed_12",
+    "fullWord": "雨が降る",
+    "meaning": "Trời mưa",
+    "imageUrl": "https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?w=600",
+    "parts": ["雨", "が", "降", "る"],
+    "options": ["雨", "雪", "が", "か", "降", "る", "れ", "ま", "す", "天"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_16",
+    "fullWord": "外国人",
+    "meaning": "Người nước ngoài",
+    "imageUrl": "https://images.unsplash.com/photo-1521295121812-320d860d565f?w=600",
+    "parts": ["外", "国", "人"],
+    "options": ["外", "内", "国", "語", "人", "入", "出", "名", "本", "中"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_13",
+    "fullWord": "便利",
+    "meaning": "Tiện lợi",
+    "imageUrl": "https://images.unsplash.com/photo-1586769852044-692d6e3703f0?w=600",
+    "parts": ["便", "利"],
+    "options": ["便", "更", "利", "和", "用", "機", "使", "不", "安", "静"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "kanji_17",
+    "fullWord": "電車",
+    "meaning": "Tàu điện",
+    "imageUrl": "https://images.unsplash.com/photo-1532105956626-9569c03602f6?w=600",
+    "parts": ["電", "車"],
+    "options": ["電", "雷", "車", "軍", "気", "火", "水", "山", "駅", "道"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_14",
+    "fullWord": "古い",
+    "meaning": "Cũ",
+    "imageUrl": "https://images.unsplash.com/photo-1523309328928-867160990426?w=600",
+    "parts": ["古", "い"],
+    "options": ["古", "苦", "い", "り", "新", "高", "安", "小", "大", "長"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_12",
+    "fullWord": "えき",
+    "meaning": "Nhà ga",
+    "imageUrl": "https://images.unsplash.com/photo-1495015707742-744046d15f30?w=600",
+    "parts": ["え", "き"],
+    "options": ["え", "い", "お", "き", "ぎ", "に", "ち", "は", "ま", "け"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_12",
+    "fullWord": "ノート",
+    "meaning": "Vở / Quyển tập",
+    "imageUrl": "https://images.unsplash.com/photo-1517842645767-c639042777db?w=600",
+    "parts": ["ノ", "ー", "ト"],
+    "options": ["ノ", "ソ", "ン", "ー", "ト", "ド", "ナ", "ヌ", "ネ", "ハ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_18",
+    "fullWord": "出口",
+    "meaning": "Lối ra",
+    "imageUrl": "https://images.unsplash.com/photo-1522036662453-70584b1a2072?w=600",
+    "parts": ["出", "口"],
+    "options": ["出", "入", "山", "口", "ロ", "門", "開", "閉", "外", "内"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_15",
+    "fullWord": "安い",
+    "meaning": "Rẻ",
+    "imageUrl": "https://images.unsplash.com/photo-1554672408-730436b60dde?w=600",
+    "parts": ["安", "い"],
+    "options": ["安", "字", "い", "り", "高", "新", "古", "小", "大", "長"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_13",
+    "fullWord": "おんがく",
+    "meaning": "Âm nhạc",
+    "imageUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600",
+    "parts": ["お", "ん", "が", "く"],
+    "options": ["お", "あ", "ん", "か", "が", "く", "ぐ", "に", "ち", "ら"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_13",
+    "fullWord": "ハンバーグ",
+    "meaning": "Thịt bò viên (Hamburg)",
+    "imageUrl": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=600",
+    "parts": ["ハ", "ン", "バ", "ー", "グ"],
+    "options": ["ハ", "バ", "パ", "ン", "ソ", "ー", "ク", "グ", "ラ", "ル"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_19",
+    "fullWord": "時計",
+    "meaning": "Đồng hồ",
+    "imageUrl": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade?w=600",
+    "parts": ["時", "計"],
+    "options": ["時", "計", "寺", "計", "言", "話", "分", "秒", "日", "月"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_16",
+    "fullWord": "待つ",
+    "meaning": "Đợi / Chờ",
+    "imageUrl": "https://images.unsplash.com/photo-1495571758719-6c13b2841238?w=600",
+    "parts": ["待", "つ"],
+    "options": ["待", "特", "持", "つ", "づ", "る", "れ", "い", "ま", "す"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_20",
+    "fullWord": "左",
+    "meaning": "Bên trái",
+    "imageUrl": "https://images.unsplash.com/photo-1594411132644-84d468161f43?w=600",
+    "parts": ["左"],
+    "options": ["左", "右", "石", "口", "在", "友", "上", "下", "中", "外"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "hira_14",
+    "fullWord": "くだもの",
+    "meaning": "Trái cây / Hoa quả",
+    "imageUrl": "https://images.unsplash.com/photo-1619566636858-adb3ef26400b?w=600",
+    "parts": ["く", "だ", "も", "の"],
+    "options": ["く", "ぐ", "た", "だ", "も", "め", "の", "ぬ", "は", "に"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_14",
+    "fullWord": "ネコ",
+    "meaning": "Con mèo (Katana)",
+    "imageUrl": "https://images.unsplash.com/photo-1533733501047-cf86a4bc12c7?w=600",
+    "parts": ["ネ", "コ"],
+    "options": ["ネ", "ヌ", "コ", "ゴ", "ユ", "ヨ", "ラ", "ル", "メ", "ヌ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "mixed_17",
+    "fullWord": "面白い",
+    "meaning": "Thú vị / Hay",
+    "imageUrl": "https://images.unsplash.com/photo-1533035353720-f1c6a75cd8ab?w=600",
+    "parts": ["面", "白", "い"],
+    "options": ["面", "白", "黒", "い", "り", "自", "由", "高", "安", "新"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_21",
+    "fullWord": "先生",
+    "meaning": "Giáo viên",
+    "imageUrl": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=600",
+    "parts": ["先", "生"],
+    "options": ["先", "洗", "生", "産", "学", "校", "人", "大", "小", "子"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "hira_15",
+    "fullWord": "おちゃ",
+    "meaning": "Trà",
+    "imageUrl": "https://images.unsplash.com/photo-1544787210-2213d84ad96b?w=600",
+    "parts": ["お", "ちゃ"],
+    "options": ["お", "あ", "ち", "ぢ", "ゃ", "ゅ", "ょ", "つ", "は", "ま"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_15",
+    "fullWord": "スポーツ",
+    "meaning": "Thể thao",
+    "imageUrl": "https://images.unsplash.com/photo-1461896704190-321aa8829978?w=600",
+    "parts": ["ス", "ポ", "ー", "ツ"],
+    "options": ["ス", "ズ", "ホ", "ボ", "ポ", "ー", "ツ", "シ", "ソ", "ン"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "mixed_18",
+    "fullWord": "料理",
+    "meaning": "Nấu ăn / Món ăn",
+    "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600",
+    "parts": ["料", "理"],
+    "options": ["料", "科", "理", "野", "食", "飲", "作", "る", "ま", "す"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "kanji_22",
+    "fullWord": "半分",
+    "meaning": "Một nửa",
+    "imageUrl": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=600",
+    "parts": ["半", "分"],
+    "options": ["半", "平", "分", "刀", "時", "日", "今", "先", "来", "月"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_19",
+    "fullWord": "泳ぐ",
+    "meaning": "Bơi",
+    "imageUrl": "https://images.unsplash.com/photo-1530549387633-f71af9946f14?w=600",
+    "parts": ["泳", "ぐ"],
+    "options": ["泳", "水", "海", "ぐ", "く", "き", "い", "る", "ま", "す"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_23",
+    "fullWord": "母",
+    "meaning": "Mẹ (mình)",
+    "imageUrl": "https://images.unsplash.com/photo-1590001140016-e5652932c028?w=600",
+    "parts": ["母"],
+    "options": ["母", "父", "女", "毎", "毒", "海", "人", "姉", "妹", "兄"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "hira_16",
+    "fullWord": "くだもの",
+    "meaning": "Hoa quả / Trái cây",
+    "imageUrl": "https://images.unsplash.com/photo-1519996529931-28324d5a630e?w=600",
+    "parts": ["く", "だ", "も", "の"],
+    "options": ["く", "ぐ", "た", "だ", "も", "め", "の", "ぬ", "は", "に"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_16",
+    "fullWord": "テーブル",
+    "meaning": "Cái bàn",
+    "imageUrl": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?w=600",
+    "parts": ["テ", "ー", "ブ", "ル"],
+    "options": ["テ", "デ", "ー", "ブ", "プ", "ル", "レ", "リ", "ト", "ド"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "mixed_20",
+    "fullWord": "白い",
+    "meaning": "Màu trắng",
+    "imageUrl": "https://images.unsplash.com/photo-1554188248-986adbb73be4?w=600",
+    "parts": ["白", "い"],
+    "options": ["白", "自", "百", "い", "り", "黒", "赤", "青", "高", "安"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_24",
+    "fullWord": "空",
+    "meaning": "Bầu trời",
+    "imageUrl": "https://images.unsplash.com/photo-1464802686167-b939a8575a42?w=600",
+    "parts": ["空"],
+    "options": ["空", "天", "気", "雲", "海", "山", "川", "穴", "立", "日"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "hira_17",
+    "fullWord": "おかし",
+    "meaning": "Bánh kẹo",
+    "imageUrl": "https://images.unsplash.com/photo-1582043242270-42c1296c0919?w=600",
+    "parts": ["お", "か", "し"],
+    "options": ["お", "あ", "か", "が", "し", "じ", "さ", "す", "せ", "そ"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_17",
+    "fullWord": "ギター",
+    "meaning": "Đàn ghi-ta",
+    "imageUrl": "https://images.unsplash.com/photo-1525201548942-d8b8967d0f52?w=600",
+    "parts": ["ギ", "タ", "ー"],
+    "options": ["キ", "ギ", "タ", "ダ", "ー", "レ", "リ", "ラ", "イ", "エ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "mixed_21",
+    "fullWord": "家族",
+    "meaning": "Gia đình",
+    "imageUrl": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=600",
+    "parts": ["家", "族"],
+    "options": ["家", "族", "旅", "人", "父", "母", "兄", "弟", "姉", "妹"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "kanji_25",
+    "fullWord": "赤い",
+    "meaning": "Màu đỏ",
+    "imageUrl": "https://images.unsplash.com/photo-1527489377706-5bf97e608852?w=600",
+    "parts": ["赤", "い"],
+    "options": ["赤", "亦", "い", "り", "青", "黒", "白", "大", "小", "高"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "mixed_22",
+    "fullWord": "散歩する",
+    "meaning": "Đi dạo",
+    "imageUrl": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=600",
+    "parts": ["散", "歩", "す", "る"],
+    "options": ["散", "歩", "す", "る", "行", "来", "帰", "走", "泳", "読"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_26",
+    "fullWord": "欲しい",
+    "meaning": "Muốn (có cái gì đó)",
+    "imageUrl": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=600",
+    "parts": ["欲", "し", "い"],
+    "options": ["欲", "歌", "し", "じ", "い", "り", "飲", "食", "見", "聞"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_18",
+    "fullWord": "へや",
+    "meaning": "Căn phòng",
+    "imageUrl": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=600",
+    "parts": ["へ", "や"],
+    "options": ["へ", "べ", "ぺ", "や", "ゆ", "よ", "り", "に", "わ", "を"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_18",
+    "fullWord": "ベッド",
+    "meaning": "Cái giường",
+    "imageUrl": "https://images.unsplash.com/photo-1505691938895-1758d7eaa511?w=600",
+    "parts": ["ベ", "ッ", "ド"],
+    "options": ["ヘ", "ベ", "ペ", "ッ", "ツ", "ト", "ド", "ナ", "ニ", "ヌ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_27",
+    "fullWord": "毎日",
+    "meaning": "Mỗi ngày",
+    "imageUrl": "https://images.unsplash.com/photo-1506784923340-008709423696?w=600",
+    "parts": ["毎", "日"],
+    "options": ["毎", "海", "日", "月", "年", "週", "時", "分", "今", "先"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "hira_19",
+    "fullWord": "えんぴつ",
+    "meaning": "Bút chì",
+    "imageUrl": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=600",
+    "parts": ["え", "ん", "ぴ", "つ"],
+    "options": ["え", "い", "ん", "ひ", "び", "ぴ", "つ", "づ", "け", "め"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_19",
+    "fullWord": "ペン",
+    "meaning": "Bút mực",
+    "imageUrl": "https://images.unsplash.com/photo-1511108690759-009324a90311?w=600",
+    "parts": ["ペ", "ン"],
+    "options": ["ヘ", "ベ", "ペ", "ン", "ソ", "リ", "ワ", "オ", "ユ", "ヨ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "mixed_23",
+    "fullWord": "好き",
+    "meaning": "Thích",
+    "imageUrl": "https://images.unsplash.com/photo-1518199266791-bd373292e915?w=600",
+    "parts": ["好", "き"],
+    "options": ["好", "嫌", "き", "ぎ", "い", "る", "ま", "す", "女", "子"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_28",
+    "fullWord": "時間",
+    "meaning": "Thời gian",
+    "imageUrl": "https://images.unsplash.com/photo-1509130298739-e4e811804811?w=600",
+    "parts": ["時", "間"],
+    "options": ["時", "寺", "間", "門", "問", "分", "秒", "日", "月", "年"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_24",
+    "fullWord": "分かる",
+    "meaning": "Hiểu / Biết",
+    "imageUrl": "https://images.unsplash.com/photo-1554415707-6e8cfc93fe23?w=600",
+    "parts": ["分", "か", "る"],
+    "options": ["分", "半", "か", "が", "る", "れ", "ま", "す", "知", "聞"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_29",
+    "fullWord": "中",
+    "meaning": "Bên trong",
+    "imageUrl": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=600",
+    "parts": ["中"],
+    "options": ["中", "内", "外", "上", "下", "左", "右", "口", "日", "本"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "kanji_30",
+    "fullWord": "耳",
+    "meaning": "Tai",
+    "imageUrl": "https://images.unsplash.com/photo-1598560917807-1bae44bd2be8?w=600",
+    "parts": ["耳"],
+    "options": ["耳", "目", "口", "日", "手", "足", "聞", "取", "自", "面"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "hira_20",
+    "fullWord": "くだもの",
+    "meaning": "Trái cây",
+    "imageUrl": "https://images.unsplash.com/photo-1610832958506-aa56368176cf?w=600",
+    "parts": ["く", "だ", "も", "の"],
+    "options": ["く", "ぐ", "だ", "た", "も", "め", "の", "ぬ", "は", "ま"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_20",
+    "fullWord": "コップ",
+    "meaning": "Cái cốc / Ly",
+    "imageUrl": "https://images.unsplash.com/photo-1517256011271-10bc5063195c?w=600",
+    "parts": ["コ", "ッ", "プ"],
+    "options": ["コ", "ゴ", "ッ", "ツ", "フ", "ブ", "プ", "エ", "オ", "ユ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_31",
+    "fullWord": "口",
+    "meaning": "Miệng",
+    "imageUrl": "https://images.unsplash.com/photo-1506461883276-594a12b11cf3?w=600",
+    "parts": ["口"],
+    "options": ["口", "ロ", "日", "目", "耳", "手", "足", "中", "回", "四"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_25",
+    "fullWord": "買い物",
+    "meaning": "Mua sắm",
+    "imageUrl": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=600",
+    "parts": ["買", "い", "物"],
+    "options": ["買", "売", "い", "り", "物", "者", "行", "来", "持", "待"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_21",
+    "fullWord": "おなじ",
+    "meaning": "Giống nhau",
+    "imageUrl": "https://images.unsplash.com/photo-1542044896530-05d85be9b11a?w=600",
+    "parts": ["お", "な", "じ"],
+    "options": ["お", "あ", "な", "ま", "し", "じ", "ち", "ぢ", "ら", "る"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_21",
+    "fullWord": "ミルク",
+    "meaning": "Sữa",
+    "imageUrl": "https://images.unsplash.com/photo-1550583724-1255d1ba55c2?w=600",
+    "parts": ["ミ", "ル", "ク"],
+    "options": ["ミ", "ニ", "ル", "レ", "ク", "グ", "ワ", "ラ", "ム", "メ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "mixed_26",
+    "fullWord": "上",
+    "meaning": "Phía trên",
+    "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=600",
+    "parts": ["上"],
+    "options": ["上", "下", "中", "外", "右", "左", "正", "立", "止", "山"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "kanji_32",
+    "fullWord": "下",
+    "meaning": "Phía dưới",
+    "imageUrl": "https://images.unsplash.com/photo-1533633008323-96b5275822f3?w=600",
+    "parts": ["下"],
+    "options": ["下", "上", "中", "外", "左", "右", "不", "万", "天", "木"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_27",
+    "fullWord": "歌う",
+    "meaning": "Hát",
+    "imageUrl": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?w=600",
+    "parts": ["歌", "う"],
+    "options": ["歌", "欲", "飲", "食", "う", "お", "わ", "る", "ま", "す"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "mixed_28",
+    "fullWord": "聞く",
+    "meaning": "Nghe / Hỏi",
+    "imageUrl": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=600",
+    "parts": ["聞", "く"],
+    "options": ["聞", "門", "間", "く", "き", "い", "る", "ま", "す", "話"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_22",
+    "fullWord": "にく",
+    "meaning": "Thịt",
+    "imageUrl": "https://images.unsplash.com/photo-1607623814075-e51df1bdc822?w=600",
+    "parts": ["に", "く"],
+    "options": ["に", "こ", "ぬ", "め", "く", "ぐ", "は", "ま", "た", "ら"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_22",
+    "fullWord": "ナイフ",
+    "meaning": "Con dao",
+    "imageUrl": "https://images.unsplash.com/photo-1594051673824-3474d2036412?w=600",
+    "parts": ["ナ", "イ", "フ"],
+    "options": ["ナ", "メ", "イ", "エ", "フ", "ブ", "プ", "ヌ", "ラ", "ル"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_33",
+    "fullWord": "休み",
+    "meaning": "Nghỉ ngơi",
+    "imageUrl": "https://images.unsplash.com/photo-1516534775068-ba3e84529513?w=600",
+    "parts": ["休", "み"],
+    "options": ["休", "体", "み", "む", "め", "る", "ま", "す", "木", "人"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_23",
+    "fullWord": "やさい",
+    "meaning": "Rau củ",
+    "imageUrl": "https://images.unsplash.com/photo-1566385101042-1a000c1267c4?w=600",
+    "parts": ["や", "さ", "い"],
+    "options": ["や", "ゆ", "よ", "さ", "き", "い", "り", "に", "ち", "は"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_23",
+    "fullWord": "フォーク",
+    "meaning": "Cái nĩa",
+    "imageUrl": "https://images.unsplash.com/photo-1571506503830-466035f8d09e?w=600",
+    "parts": ["フ", "ォ", "ー", "ク"],
+    "options": ["フ", "ブ", "オ", "ォ", "ー", "ク", "グ", "ラ", "ル", "タ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_34",
+    "fullWord": "足",
+    "meaning": "Chân",
+    "imageUrl": "https://images.unsplash.com/photo-1562259929-b4e1fd3aef0b?w=600",
+    "parts": ["足"],
+    "options": ["足", "是", "定", "手", "目", "耳", "口", "走", "人", "大"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_29",
+    "fullWord": "明るい",
+    "meaning": "Sáng sủa",
+    "imageUrl": "https://images.unsplash.com/photo-1470252649358-96753a782901?w=600",
+    "parts": ["明", "る", "い"],
+    "options": ["明", "暗", "日", "月", "る", "れ", "い", "り", "高", "新"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_35",
+    "fullWord": "一万",
+    "meaning": "Mười nghìn (1 vạn)",
+    "imageUrl": "https://images.unsplash.com/photo-1580519542036-c47de6196ba5?w=600",
+    "parts": ["一", "万"],
+    "options": ["一", "二", "万", "方", "千", "円", "百", "大", "小", "中"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_30",
+    "fullWord": "有名",
+    "meaning": "Nổi tiếng",
+    "imageUrl": "https://images.unsplash.com/photo-1514525253344-f8145a49800a?w=600",
+    "parts": ["有", "名"],
+    "options": ["有", "友", "名", "各", "人", "先", "生", "大", "小", "高"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_31",
+    "fullWord": "楽しい",
+    "meaning": "Vui vẻ",
+    "imageUrl": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?w=600",
+    "parts": ["楽", "し", "い"],
+    "options": ["楽", "薬", "し", "じ", "い", "り", "面", "白", "高", "安"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_24",
+    "fullWord": "としうえ",
+    "meaning": "Lớn tuổi hơn",
+    "imageUrl": "https://images.unsplash.com/photo-1581579438747-1dc8d17bbce4?w=600",
+    "parts": ["と", "し", "う", "え"],
+    "options": ["と", "ど", "し", "じ", "う", "え", "い", "お", "ん", "め"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_24",
+    "fullWord": "エアコン",
+    "meaning": "Máy điều hòa",
+    "imageUrl": "https://images.unsplash.com/photo-1631545724602-990833331908?w=600",
+    "parts": ["エ", "ア", "コ", "ン"],
+    "options": ["エ", "工", "ア", "コ", "ゴ", "ン", "ソ", "リ", "ワ", "マ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_36",
+    "fullWord": "上手",
+    "meaning": "Giỏi",
+    "imageUrl": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600",
+    "parts": ["上", "手"],
+    "options": ["上", "下", "手", "毛", "中", "外", "右", "左", "人", "先"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_32",
+    "fullWord": "下手",
+    "meaning": "Kém / Dở",
+    "imageUrl": "https://images.unsplash.com/photo-1542382156909-9ae37b3f56fd?w=600",
+    "parts": ["下", "手"],
+    "options": ["下", "上", "手", "毛", "中", "外", "右", "左", "不", "万"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "hira_25",
+    "fullWord": "きっさてん",
+    "meaning": "Quán giải khát / Cafe",
+    "imageUrl": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=600",
+    "parts": ["き", "っ", "さ", "て", "ん"],
+    "options": ["き", "ぎ", "っ", "つ", "さ", "ざ", "て", "で", "ん", "め"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_25",
+    "fullWord": "エレベーター",
+    "meaning": "Thang máy",
+    "imageUrl": "https://images.unsplash.com/photo-1545127398-14699f923c42?w=600",
+    "parts": ["エ", "レ", "ベ", "ー", "タ", "ー"],
+    "options": ["エ", "レ", "ベ", "ー", "タ", "ダ", "ル", "リ", "ラ", "イ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "mixed_33",
+    "fullWord": "雪が降る",
+    "meaning": "Tuyết rơi",
+    "imageUrl": "https://images.unsplash.com/photo-1418985991508-e473a43fd6f6?w=600",
+    "parts": ["雪", "が", "降", "る"],
+    "options": ["雪", "雨", "が", "か", "降", "る", "れ", "ま", "す", "白"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_37",
+    "fullWord": "去年",
+    "meaning": "Năm ngoái",
+    "imageUrl": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=600",
+    "parts": ["去", "年"],
+    "options": ["去", "法", "年", "月", "日", "週", "今", "来", "先", "時"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_34",
+    "fullWord": "静か",
+    "meaning": "Yên tĩnh",
+    "imageUrl": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=600",
+    "parts": ["静", "か"],
+    "options": ["静", "青", "か", "が", "な", "に", "に", "ま", "す", "る"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "mixed_35",
+    "fullWord": "覚える",
+    "meaning": "Ghi nhớ",
+    "imageUrl": "https://images.unsplash.com/photo-1454165205744-3b78555e5572?w=600",
+    "parts": ["覚", "え", "る"],
+    "options": ["覚", "学", "え", "る", "れ", "ま", "す", "見", "忘", "記"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_26",
+    "fullWord": "おみやげ",
+    "meaning": "Quà lưu niệm",
+    "imageUrl": "https://images.unsplash.com/photo-1549465220-1a8b9238cd48?w=600",
+    "parts": ["お", "み", "や", "げ"],
+    "options": ["お", "あ", "み", "む", "や", "ゆ", "げ", "け", "は", "に"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_26",
+    "fullWord": "パソコン",
+    "meaning": "Máy tính cá nhân",
+    "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600",
+    "parts": ["パ", "ソ", "コ", "ン"],
+    "options": ["ハ", "バ", "パ", "ソ", "ン", "コ", "リ", "ス", "ズ", "マ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_38",
+    "fullWord": "作文",
+    "meaning": "Bài văn xuôi / Tập làm văn",
+    "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=600",
+    "parts": ["作", "文"],
+    "options": ["作", "昨", "文", "父", "学", "校", "書", "読", "手", "紙"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_36",
+    "fullWord": "青い",
+    "meaning": "Màu xanh dương",
+    "imageUrl": "https://images.unsplash.com/photo-1500462859233-01997a4b1752?w=600",
+    "parts": ["青", "い"],
+    "options": ["青", "昔", "い", "り", "赤", "白", "黒", "緑", "大", "小"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_27",
+    "fullWord": "たてもの",
+    "meaning": "Tòa nhà",
+    "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600",
+    "parts": ["た", "て", "も", "の"],
+    "options": ["た", "だ", "て", "で", "も", "め", "の", "ぬ", "は", "ま"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_27",
+    "fullWord": "ラジオ",
+    "meaning": "Đài Radio",
+    "imageUrl": "https://images.unsplash.com/photo-1557133336-963660395171?w=600",
+    "parts": ["ラ", "ジ", "オ"],
+    "options": ["ラ", "ル", "シ", "ジ", "オ", "オ", "エ", "ス", "リ", "ヨ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "mixed_37",
+    "fullWord": "借りる",
+    "meaning": "Mượn",
+    "imageUrl": "https://images.unsplash.com/photo-1524578271613-d550eabcad51?w=600",
+    "parts": ["借", "り", "る"],
+    "options": ["借", "貸", "り", "る", "れ", "ま", "す", "持", "行", "来"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_39",
+    "fullWord": "半分",
+    "meaning": "Một nửa",
+    "imageUrl": "https://images.unsplash.com/photo-1495480137269-ff29bd0a695c?w=600",
+    "parts": ["半", "分"],
+    "options": ["半", "平", "分", "刀", "時", "間", "日", "今", "先", "来"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_38",
+    "fullWord": "黒い",
+    "meaning": "Màu đen",
+    "imageUrl": "https://images.unsplash.com/photo-1502139214982-d0ad755818d8?w=600",
+    "parts": ["黒", "い"],
+    "options": ["黒", "里", "い", "り", "白", "赤", "青", "暗", "高", "安"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kata_28",
+    "fullWord": "スマホ",
+    "meaning": "Điện thoại thông minh",
+    "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600",
+    "parts": ["ス", "マ", "ホ"],
+    "options": ["ス", "ズ", "マ", "ム", "ホ", "ボ", "ポ", "ヌ", "ナ", "ラ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "hira_28",
+    "fullWord": "にわ",
+    "meaning": "Cái sân / Khu vườn",
+    "imageUrl": "https://images.unsplash.com/photo-1558905619-17254261ecd8?w=600",
+    "parts": ["に", "わ"],
+    "options": ["に", "こ", "わ", "れ", "ね", "め", "は", "ほ", "ろ", "る"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kanji_40",
+    "fullWord": "地下鉄",
+    "meaning": "Tàu điện ngầm",
+    "imageUrl": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=600",
+    "parts": ["地", "下", "鉄"],
+    "options": ["地", "池", "下", "上", "鉄", "銀", "金", "車", "電", "道"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_39",
+    "fullWord": "走る",
+    "meaning": "Chạy",
+    "imageUrl": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=600",
+    "parts": ["走", "る"],
+    "options": ["走", "歩", "る", "れ", "ま", "す", "足", "行", "来", "帰"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_29",
+    "fullWord": "はがき",
+    "meaning": "Bưu thiếp",
+    "imageUrl": "https://images.unsplash.com/photo-1575225336109-798448937190?w=600",
+    "parts": ["は", "が", "き"],
+    "options": ["は", "ほ", "か", "が", "き", "ぎ", "に", "ち", "ま", "な"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_29",
+    "fullWord": "ニュース",
+    "meaning": "Tin tức",
+    "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600",
+    "parts": ["ニ", "ュ", "ー", "ス"],
+    "options": ["ニ", "リ", "ユ", "ュ", "ー", "ス", "ズ", "ン", "ソ", "ト"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_41",
+    "fullWord": "図書館",
+    "meaning": "Thư viện",
+    "imageUrl": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=600",
+    "parts": ["図", "書", "館"],
+    "options": ["図", "書", "館", "官", "画", "教", "室", "校", "大", "学"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_40",
+    "fullWord": "降りる",
+    "meaning": "Xuống (xe/tàu)",
+    "imageUrl": "https://images.unsplash.com/photo-1560113432-21da7d06637e?w=600",
+    "parts": ["降", "り", "る"],
+    "options": ["降", "乗", "り", "る", "れ", "ま", "す", "雨", "雪", "入"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_42",
+    "fullWord": "映画",
+    "meaning": "Phim ảnh",
+    "imageUrl": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600",
+    "parts": ["映", "画"],
+    "options": ["映", "画", "図", "書", "見", "聞", "作", "勉", "強", "楽"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_41",
+    "fullWord": "忙しい",
+    "meaning": "Bận rộn",
+    "imageUrl": "https://images.unsplash.com/photo-1484417894907-623942c8ee29?w=600",
+    "parts": ["忙", "し", "い"],
+    "options": ["忙", "忘", "し", "じ", "い", "り", "高", "安", "新", "古"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kata_30",
+    "fullWord": "カメラ",
+    "meaning": "Máy ảnh",
+    "imageUrl": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600",
+    "parts": ["カ", "メ", "ラ"],
+    "options": ["カ", "ガ", "メ", "ヌ", "ラ", "ル", "リ", "タ", "ダ", "ト"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "hira_30",
+    "fullWord": "おふろ",
+    "meaning": "Bồn tắm / Phòng tắm",
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=600",
+    "parts": ["お", "ふ", "ろ"],
+    "options": ["お", "あ", "ふ", "ぶ", "ぷ", "ろ", "る", "れ", "わ", "を"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kanji_43",
+    "fullWord": "半分",
+    "meaning": "Một nửa",
+    "imageUrl": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=600",
+    "parts": ["半", "分"],
+    "options": ["半", "平", "分", "刀", "時", "間", "日", "本", "中", "外"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_42",
+    "fullWord": "時々",
+    "meaning": "Thỉnh thoảng",
+    "imageUrl": "https://images.unsplash.com/photo-1501139083538-0139583c060f?w=600",
+    "parts": ["時", "々"],
+    "options": ["時", "寺", "々", "日", "月", "年", "毎", "分", "秒", "何"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_31",
+    "fullWord": "かいだん",
+    "meaning": "Cầu thang",
+    "imageUrl": "https://images.unsplash.com/photo-1506755855567-92ff770e8d30?w=600",
+    "parts": ["か", "い", "だ", "ん"],
+    "options": ["か", "が", "い", "え", "だ", "た", "ん", "め", "け", "に"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_31",
+    "fullWord": "ドア",
+    "meaning": "Cửa ra vào",
+    "imageUrl": "https://images.unsplash.com/photo-1517502446272-680979357062?w=600",
+    "parts": ["ド", "ア"],
+    "options": ["ト", "ド", "ア", "マ", "ヤ", "ユ", "ラ", "ル", "エ", "オ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_44",
+    "fullWord": "台所",
+    "meaning": "Nhà bếp",
+    "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=600",
+    "parts": ["台", "所"],
+    "options": ["台", "大", "所", "近", "室", "教", "図", "書", "家", "庭"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_43",
+    "fullWord": "いつも",
+    "meaning": "Luôn luôn",
+    "imageUrl": "https://images.unsplash.com/photo-1490730141103-6ca27a9f4685?w=600",
+    "parts": ["い", "つ", "も"],
+    "options": ["い", "え", "つ", "っ", "も", "め", "ま", "す", "ど", "こ"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kanji_45",
+    "fullWord": "電気",
+    "meaning": "Điện / Đèn điện",
+    "imageUrl": "https://images.unsplash.com/photo-1513506491742-1421012fe2cf?w=600",
+    "parts": ["電", "気"],
+    "options": ["電", "雷", "気", "汽", "車", "火", "水", "山", "話", "聞"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_44",
+    "fullWord": "切る",
+    "meaning": "Cắt",
+    "imageUrl": "https://images.unsplash.com/photo-1514416205405-075ab2f15964?w=600",
+    "parts": ["切", "る"],
+    "options": ["切", "分", "刀", "る", "れ", "ま", "す", "い", "き", "し"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_46",
+    "fullWord": "仕事",
+    "meaning": "Công việc",
+    "imageUrl": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=600",
+    "parts": ["仕", "事"],
+    "options": ["仕", "任", "事", "言", "名", "前", "勉", "強", "人", "員"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "hira_32",
+    "fullWord": "きょうしつ",
+    "meaning": "Lớp học",
+    "imageUrl": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=600",
+    "parts": ["きょう", "し", "つ"],
+    "options": ["きょ", "きょう", "し", "じ", "つ", "づ", "に", "は", "ま", "な"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_32",
+    "fullWord": "メール",
+    "meaning": "Thư điện tử / Email",
+    "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600",
+    "parts": ["メ", "ー", "ル"],
+    "options": ["メ", "ヌ", "ー", "ル", "レ", "リ", "ア", "イ", "カ", "ガ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "mixed_45",
+    "fullWord": "練習する",
+    "meaning": "Luyện tập",
+    "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600",
+    "parts": ["練", "習", "す", "る"],
+    "options": ["練", "習", "す", "る", "れ", "ま", "勉", "強", "作", "文"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_33",
+    "fullWord": "じしょ",
+    "meaning": "Từ điển",
+    "imageUrl": "https://images.unsplash.com/photo-1544640805-3536c67ca20d?w=600",
+    "parts": ["じ", "しょ"],
+    "options": ["じ", "し", "ち", "しょ", "ちょ", "よ", "ん", "め", "は", "に"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_33",
+    "fullWord": "カレンダー",
+    "meaning": "Lịch / Tờ lịch",
+    "imageUrl": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=600",
+    "parts": ["カ", "レ", "ン", "ダ", "ー"],
+    "options": ["カ", "レ", "ン", "タ", "ダ", "ー", "ラ", "ル", "メ", "ヌ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_47",
+    "fullWord": "会社",
+    "meaning": "Công ty",
+    "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600",
+    "parts": ["会", "社"],
+    "options": ["会", "合", "社", "車", "者", "員", "店", "家", "庭", "所"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_46",
+    "fullWord": "始める",
+    "meaning": "Bắt đầu",
+    "imageUrl": "https://images.unsplash.com/photo-1519750783826-e2420f4d687f?w=600",
+    "parts": ["始", "め", "る"],
+    "options": ["始", "終", "め", "る", "れ", "ま", "す", "い", "き", "し"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_48",
+    "fullWord": "辞める",
+    "meaning": "Nghỉ việc / Từ bỏ",
+    "imageUrl": "https://images.unsplash.com/photo-1521791136064-7986c2923216?w=600",
+    "parts": ["辞", "め", "る"],
+    "options": ["辞", "辞", "め", "る", "れ", "ま", "す", "手", "紙", "聞"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "mixed_47",
+    "fullWord": "覚える",
+    "meaning": "Nhớ / Thuộc lòng",
+    "imageUrl": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?w=600",
+    "parts": ["覚", "え", "る"],
+    "options": ["覚", "忘", "え", "る", "れ", "ま", "す", "見", "聞", "学"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_34",
+    "fullWord": "おべんとう",
+    "meaning": "Cơm hộp",
+    "imageUrl": "https://images.unsplash.com/photo-1590601397223-28827e7d0f98?w=600",
+    "parts": ["お", "べ", "ん", "と", "う"],
+    "options": ["お", "あ", "べ", "ぺ", "ん", "め", "と", "ど", "う", "い"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_34",
+    "fullWord": "コーヒー",
+    "meaning": "Cà phê",
+    "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600",
+    "parts": ["コ", "ー", "ヒ", "ー"],
+    "options": ["コ", "ー", "ヒ", "ビ", "ピ", "エ", "オ", "リ", "レ", "ス"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_49",
+    "fullWord": "外国人",
+    "meaning": "Người nước ngoài",
+    "imageUrl": "https://images.unsplash.com/photo-1523731407965-2430cd12f5e4?w=600",
+    "parts": ["外", "国", "人"],
+    "options": ["外", "内", "国", "語", "人", "入", "出", "本", "日", "中"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_48",
+    "fullWord": "走る",
+    "meaning": "Chạy",
+    "imageUrl": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=600",
+    "parts": ["走", "る"],
+    "options": ["走", "歩", "る", "れ", "ま", "す", "行", "来", "帰", "足"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_35",
+    "fullWord": "てがみ",
+    "meaning": "Lá thư",
+    "imageUrl": "https://images.unsplash.com/photo-1576400619801-4430e713608d?w=600",
+    "parts": ["て", "が", "み"],
+    "options": ["て", "で", "か", "が", "み", "む", "は", "ほ", "に", "ち"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_35",
+    "fullWord": "バス",
+    "meaning": "Xe buýt",
+    "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600",
+    "parts": ["バ", "ス"],
+    "options": ["ハ", "バ", "パ", "ス", "ズ", "ル", "レ", "リ", "ト", "ド"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_50",
+    "fullWord": "空",
+    "meaning": "Bầu trời",
+    "imageUrl": "https://images.unsplash.com/photo-1534088568595-a066f410bcda?w=600",
+    "parts": ["空"],
+    "options": ["空", "天", "気", "雲", "海", "山", "川", "日", "月", "星"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_49",
+    "fullWord": "起きる",
+    "meaning": "Thức dậy",
+    "imageUrl": "https://images.unsplash.com/photo-1541480601022-2308c0f02487?w=600",
+    "parts": ["起", "き", "る"],
+    "options": ["起", "寝", "き", "る", "れ", "ま", "す", "行", "来", "帰"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_36",
+    "fullWord": "しんぶん",
+    "meaning": "Tờ báo",
+    "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600",
+    "parts": ["し", "ん", "ぶ", "ん"],
+    "options": ["し", "じ", "ん", "ふ", "ぶ", "ぷ", "は", "ま", "め", "き"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_36",
+    "fullWord": "タクシー",
+    "meaning": "Xe taxi",
+    "imageUrl": "https://images.unsplash.com/photo-1556122071-e404be7457cd?w=600",
+    "parts": ["タ", "ク", "シ", "ー"],
+    "options": ["タ", "ダ", "ク", "グ", "シ", "ジ", "ー", "レ", "リ", "ラ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_51",
+    "fullWord": "家族",
+    "meaning": "Gia đình",
+    "imageUrl": "https://images.unsplash.com/photo-1511895426328-dc8714191300?w=600",
+    "parts": ["家", "族"],
+    "options": ["家", "族", "旅", "人", "父", "母", "兄", "弟", "姉", "妹"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_50",
+    "fullWord": "寝る",
+    "meaning": "Ngủ",
+    "imageUrl": "https://images.unsplash.com/photo-1520206159506-6975a6439169?w=600",
+    "parts": ["寝", "る"],
+    "options": ["寝", "起", "る", "れ", "ま", "す", "い", "き", "し", "ち"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_52",
+    "fullWord": "春",
+    "meaning": "Mùa xuân",
+    "imageUrl": "https://images.unsplash.com/photo-1522383225653-ed111181a951?w=600",
+    "parts": ["春"],
+    "options": ["春", "夏", "秋", "冬", "天", "気", "雨", "雪", "風", "花"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "kanji_53",
+    "fullWord": "夏",
+    "meaning": "Mùa hè",
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600",
+    "parts": ["夏"],
+    "options": ["夏", "春", "秋", "冬", "海", "山", "川", "天", "気", "暑"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "kanji_54",
+    "fullWord": "秋",
+    "meaning": "Mùa thu",
+    "imageUrl": "https://images.unsplash.com/photo-1507181179506-598491b53db4?w=600",
+    "parts": ["秋"],
+    "options": ["秋", "春", "夏", "冬", "月", "風", "花", "山", "木", "葉"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "kanji_55",
+    "fullWord": "冬",
+    "meaning": "Mùa đông",
+    "imageUrl": "https://images.unsplash.com/photo-1418985991508-e473a43fd6f6?w=600",
+    "parts": ["冬"],
+    "options": ["冬", "春", "夏", "秋", "雪", "氷", "寒", "白", "天", "気"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_51",
+    "fullWord": "泳ぐ",
+    "meaning": "Bơi",
+    "imageUrl": "https://images.unsplash.com/photo-1530549387633-f71af9946f14?w=600",
+    "parts": ["泳", "ぐ"],
+    "options": ["泳", "水", "海", "ぐ", "く", "き", "い", "る", "ま", "す"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kata_37",
+    "fullWord": "パーティー",
+    "meaning": "Bữa tiệc",
+    "imageUrl": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600",
+    "parts": ["パ", "ー", "テ", "ィ", "ー"],
+    "options": ["パ", "バ", "ー", "テ", "デ", "ィ", "イ", "リ", "ラ", "ル"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "hira_37",
+    "fullWord": "くだもの",
+    "meaning": "Trái cây",
+    "imageUrl": "https://images.unsplash.com/photo-1619566636858-adb3ef26400b?w=600",
+    "parts": ["く", "だ", "も", "の"],
+    "options": ["く", "ぐ", "だ", "た", "も", "め", "の", "ぬ", "は", "に"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kanji_56",
+    "fullWord": "入口",
+    "meaning": "Lối vào",
+    "imageUrl": "https://images.unsplash.com/photo-1517502446272-680979357062?w=600",
+    "parts": ["入", "口"],
+    "options": ["入", "出", "口", "ロ", "門", "開", "閉", "中", "外", "山"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "kanji_57",
+    "fullWord": "出口",
+    "meaning": "Lối ra",
+    "imageUrl": "https://images.unsplash.com/photo-1522036662453-70584b1a2072?w=600",
+    "parts": ["出", "口"],
+    "options": ["出", "入", "口", "ロ", "門", "開", "閉", "外", "内", "川"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_52",
+    "fullWord": "飛ぶ",
+    "meaning": "Bay",
+    "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600",
+    "parts": ["飛", "ぶ"],
+    "options": ["飛", "空", "ぶ", "ぷ", "ふ", "る", "れ", "ま", "す", "い"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_38",
+    "fullWord": "かいもの",
+    "meaning": "Mua sắm",
+    "imageUrl": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=600",
+    "parts": ["か", "い", "も", "の"],
+    "options": ["か", "が", "い", "え", "も", "め", "の", "ぬ", "は", "に"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_38",
+    "fullWord": "プール",
+    "meaning": "Hồ bơi",
+    "imageUrl": "https://images.unsplash.com/photo-1530549387633-f71af9946f14?w=600",
+    "parts": ["プ", "ー", "ル"],
+    "options": ["フ", "ブ", "プ", "ー", "ル", "レ", "リ", "ラ", "ム", "ヌ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_58",
+    "fullWord": "半分",
+    "meaning": "Một nửa",
+    "imageUrl": "https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?w=600",
+    "parts": ["半", "分"],
+    "options": ["半", "平", "分", "刀", "時", "間", "日", "本", "中", "外"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_53",
+    "fullWord": "待つ",
+    "meaning": "Đợi",
+    "imageUrl": "https://images.unsplash.com/photo-1495571758719-6c13b2841238?w=600",
+    "parts": ["待", "つ"],
+    "options": ["待", "持", "特", "つ", "づ", "る", "れ", "い", "き", "し"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_39",
+    "fullWord": "おんがく",
+    "meaning": "Âm nhạc",
+    "imageUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600",
+    "parts": ["お", "ん", "が", "く"],
+    "options": ["お", "あ", "ん", "め", "が", "か", "く", "ぐ", "に", "ち"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_39",
+    "fullWord": "エレベーター",
+    "meaning": "Thang máy",
+    "imageUrl": "https://images.unsplash.com/photo-1545127398-14699f923c42?w=600",
+    "parts": ["エ", "レ", "ベ", "ー", "タ", "ー"],
+    "options": ["エ", "レ", "ベ", "ペ", "ー", "タ", "ダ", "ル", "リ", "ラ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_59",
+    "fullWord": "地図",
+    "meaning": "Bản đồ",
+    "imageUrl": "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=600",
+    "parts": ["地", "図"],
+    "options": ["地", "池", "図", "画", "書", "館", "道", "路", "中", "外"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_54",
+    "fullWord": "教える",
+    "meaning": "Dạy / Chỉ dẫn",
+    "imageUrl": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=600",
+    "parts": ["教", "え", "る"],
+    "options": ["教", "学", "先", "え", "る", "れ", "ま", "す", "習", "練"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_60",
+    "fullWord": "手",
+    "meaning": "Bàn tay",
+    "imageUrl": "https://images.unsplash.com/photo-1516733968668-dbdce39c46ef?w=600",
+    "parts": ["手"],
+    "options": ["手", "毛", "足", "目", "耳", "口", "人", "子", "名", "前"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "hira_40",
+    "fullWord": "からだ",
+    "meaning": "Cơ thể",
+    "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=600",
+    "parts": ["か", "ら", "だ"],
+    "options": ["か", "が", "ら", "る", "だ", "た", "な", "ま", "は", "に"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_40",
+    "fullWord": "ビデオ",
+    "meaning": "Video / Băng hình",
+    "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600",
+    "parts": ["ビ", "デ", "オ"],
+    "options": ["ヒ", "ビ", "ピ", "テ", "デ", "オ", "エ", "ト", "ド", "ラ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "mixed_55",
+    "fullWord": "疲れる",
+    "meaning": "Mệt mỏi",
+    "imageUrl": "https://images.unsplash.com/photo-1516146483818-466033333333?w=600",
+    "parts": ["疲", "れ", "る"],
+    "options": ["疲", "病", "れ", "る", "ま", "す", "い", "き", "し", "ち"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_61",
+    "fullWord": "病院",
+    "meaning": "Bệnh viện",
+    "imageUrl": "https://images.unsplash.com/photo-1586773860418-d319a39855df?w=600",
+    "parts": ["病", "院"],
+    "options": ["病", "院", "校", "室", "大", "学", "店", "社", "会", "員"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "hira_41",
+    "fullWord": "くすり",
+    "meaning": "Thuốc",
+    "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600",
+    "parts": ["く", "す", "り"],
+    "options": ["く", "ぐ", "す", "ず", "り", "る", "れ", "ろ", "い", "え"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "mixed_56",
+    "fullWord": "忘れる",
+    "meaning": "Quên",
+    "imageUrl": "https://images.unsplash.com/photo-1456406644174-8ddd4cd52a06?w=600",
+    "parts": ["忘", "れ", "る"],
+    "options": ["忘", "忙", "れ", "る", "ま", "す", "覚", "え", "出", "し"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kata_41",
+    "fullWord": "ボタン",
+    "meaning": "Nút bấm / Khuy áo",
+    "imageUrl": "https://images.unsplash.com/photo-1549213783-82b5f8b24e0d?w=600",
+    "parts": ["ボ", "タ", "ン"],
+    "options": ["ホ", "ボ", "ポ", "タ", "ダ", "ン", "ソ", "ン", "リ", "ラ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_62",
+    "fullWord": "意味",
+    "meaning": "Ý nghĩa",
+    "imageUrl": "https://images.unsplash.com/photo-1455849318743-b2233052fcff?w=600",
+    "parts": ["意", "味"],
+    "options": ["意", "味", "音", "楽", "勉", "強", "習", "教", "聞", "話"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_57",
+    "fullWord": "困る",
+    "meaning": "Rắc rối / Khó khăn",
+    "imageUrl": "https://images.unsplash.com/photo-1502101872267-41d902f7f843?w=600",
+    "parts": ["困", "る"],
+    "options": ["困", "回", "る", "れ", "ま", "す", "い", "き", "し", "ち"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_42",
+    "fullWord": "さいふ",
+    "meaning": "Ví tiền",
+    "imageUrl": "https://images.unsplash.com/photo-1627123430985-63dfd6a6bfbd?w=600",
+    "parts": ["さ", "い", "ふ"],
+    "options": ["さ", "ざ", "い", "え", "ふ", "ぶ", "ぷ", "は", "ま", "め"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kanji_63",
+    "fullWord": "交番",
+    "meaning": "Đồn cảnh sát",
+    "imageUrl": "https://images.unsplash.com/photo-1554754160-590089e9335?w=600",
+    "parts": ["交", "番"],
+    "options": ["交", "校", "番", "播", "警", "察", "駅", "館", "病", "院"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_58",
+    "fullWord": "広い",
+    "meaning": "Rộng",
+    "imageUrl": "https://images.unsplash.com/photo-1510443224424-442442442442?w=600",
+    "parts": ["広", "い"],
+    "options": ["広", "狭", "い", "り", "大", "小", "高", "安", "新", "古"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kata_42",
+    "fullWord": "コップ",
+    "meaning": "Cái cốc / Ly",
+    "imageUrl": "https://images.unsplash.com/photo-1517256011271-10bc5063195c?w=600",
+    "parts": ["コ", "ッ", "プ"],
+    "options": ["コ", "ゴ", "ッ", "ツ", "フ", "ブ", "プ", "エ", "オ", "リ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_64",
+    "fullWord": "洋服",
+    "meaning": "Quần áo tây",
+    "imageUrl": "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?w=600",
+    "parts": ["洋", "服"],
+    "options": ["洋", "様", "服", "複", "着", "物", "シャツ", "ズボン", "大", "小"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "kanji_65",
+    "fullWord": "料理",
+    "meaning": "Món ăn / Nấu ăn",
+    "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600",
+    "parts": ["料", "理"],
+    "options": ["料", "科", "理", "野", "食", "飲", "作", "勉", "強", "習"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "hira_43",
+    "fullWord": "ゆっくり",
+    "meaning": "Thong thả / Chậm rãi",
+    "imageUrl": "https://images.unsplash.com/photo-1502101872267-41d902f7f843?w=600",
+    "parts": ["ゆ", "っ", "く", "り"],
+    "options": ["ゆ", "よ", "っ", "つ", "く", "ぐ", "り", "る", "れ", "ろ"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_43",
+    "fullWord": "パン",
+    "meaning": "Bánh mì",
+    "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=600",
+    "parts": ["パ", "ン"],
+    "options": ["ハ", "バ", "パ", "ン", "ソ", "ン", "リ", "ラ", "ル", "レ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "mixed_59",
+    "fullWord": "貸す",
+    "meaning": "Cho mượn",
+    "imageUrl": "https://images.unsplash.com/photo-1526614183561-4bfb419a2371?w=600",
+    "parts": ["貸", "す"],
+    "options": ["貸", "借", "す", "ず", "る", "れ", "ま", "す", "い", "き"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_66",
+    "fullWord": "写真",
+    "meaning": "Hình ảnh / Bức ảnh",
+    "imageUrl": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600",
+    "parts": ["写", "真"],
+    "options": ["写", "真", "車", "真", "画", "映", "鏡", "目", "見", "聞"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "hira_44",
+    "fullWord": "さんぽ",
+    "meaning": "Đi dạo",
+    "imageUrl": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=600",
+    "parts": ["さ", "ん", "ぽ"],
+    "options": ["さ", "ざ", "ん", "め", "ほ", "ぼ", "破", "い", "き", "る"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "mixed_60",
+    "fullWord": "脱ぐ",
+    "meaning": "Cởi (quần áo, giày)",
+    "imageUrl": "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?w=600",
+    "parts": ["脱", "ぐ"],
+    "options": ["脱", "着", "ぐ", "く", "き", "い", "る", "れ", "ま", "す"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_67",
+    "fullWord": "映画館",
+    "meaning": "Rạp chiếu phim",
+    "imageUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600",
+    "parts": ["映", "画", "館"],
+    "options": ["映", "画", "館", "官", "図", "書", "病", "院", "校", "大"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "hira_45",
+    "fullWord": "いろいろ",
+    "meaning": "Nhiều / Đa dạng",
+    "imageUrl": "https://images.unsplash.com/photo-1513519245088-0e12902e35ca?w=600",
+    "parts": ["い", "ろ", "い", "ろ"],
+    "options": ["い", "え", "ろ", "る", "れ", "わ", "を", "り", "に", "ち"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "mixed_61",
+    "fullWord": "登る",
+    "meaning": "Leo / Trèo (núi)",
+    "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600",
+    "parts": ["登", "る"],
+    "options": ["登", "山", "る", "れ", "ろ", "ま", "す", "行", "来", "帰"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kata_44",
+    "fullWord": "ニュース",
+    "meaning": "Tin tức",
+    "imageUrl": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=600",
+    "parts": ["ニ", "ュ", "ー", "ス"],
+    "options": ["ニ", "ュ", "ー", "ス", "ズ", "ン", "ソ", "ト", "ド", "レ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_68",
+    "fullWord": "郵便局",
+    "meaning": "Bưu điện",
+    "imageUrl": "https://images.unsplash.com/photo-1566937169390-7be4c63b8a0e?w=600",
+    "parts": ["郵", "便", "局"],
+    "options": ["郵", "便", "局", "駅", "館", "病", "院", "社", "会", "員"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "hira_46",
+    "fullWord": "まっすぐ",
+    "meaning": "Thẳng tắp",
+    "imageUrl": "https://images.unsplash.com/photo-1476820865390-c59aeeb9e19a?w=600",
+    "parts": ["ま", "っ", "す", "ぐ"],
+    "options": ["ま", "っ", "す", "ず", "ぐ", "く", "は", "に", "な", "め"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "mixed_62",
+    "fullWord": "開ける",
+    "meaning": "Mở (cửa, hộp)",
+    "imageUrl": "https://images.unsplash.com/photo-1516733968668-dbdce39c46ef?w=600",
+    "parts": ["開", "け", "る"],
+    "options": ["開", "閉", "け", "げ", "る", "れ", "ま", "す", "い", "き"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_69",
+    "fullWord": "冷蔵庫",
+    "meaning": "Tủ lạnh",
+    "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=600",
+    "parts": ["冷", "蔵", "庫"],
+    "options": ["冷", "蔵", "庫", "車", "電", "気", "火", "水", "台", "所"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "kanji_70",
+    "fullWord": "洗濯",
+    "meaning": "Giặt giũ",
+    "imageUrl": "https://images.unsplash.com/photo-1545173153-5d070fc42194?w=600",
+    "parts": ["洗", "濯"],
+    "options": ["洗", "濯", "流", "湯", "水", "台", "所", "家", "事", "作"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "hira_47",
+    "fullWord": "そろそろ",
+    "meaning": "Sắp sửa / Đến lúc",
+    "imageUrl": "https://images.unsplash.com/photo-1509130298739-e4e811804811?w=600",
+    "parts": ["そ", "ろ", "そ", "ろ"],
+    "options": ["そ", "ぞ", "ろ", "る", "れ", "ろ", "り", "に", "ち", "は"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_45",
+    "fullWord": "サンダル",
+    "meaning": "Giày xăng-đan",
+    "imageUrl": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=600",
+    "parts": ["サ", "ン", "ダ", "ル"],
+    "options": ["サ", "ザ", "ン", "ソ", "タ", "ダ", "ル", "レ", "リ", "ラ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "mixed_63",
+    "fullWord": "閉める",
+    "meaning": "Đóng (cửa)",
+    "imageUrl": "https://images.unsplash.com/photo-1513506491742-1421012fe2cf?w=600",
+    "parts": ["閉", "め", "る"],
+    "options": ["閉", "開", "め", "る", "れ", "ま", "す", "い", "き", "し"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_71",
+    "fullWord": "散歩",
+    "meaning": "Đi dạo",
+    "imageUrl": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=600",
+    "parts": ["散", "歩"],
+    "options": ["散", "歩", "歩", "走", "行", "来", "帰", "足", "手", "道"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "hira_48",
+    "fullWord": "だんだん",
+    "meaning": "Dần dần",
+    "imageUrl": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=600",
+    "parts": ["だ", "ん", "だ", "ん"],
+    "options": ["た", "だ", "ん", "め", "な", "に", "は", "ほ", "ま", "み"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_46",
+    "fullWord": "スリッパ",
+    "meaning": "Dép đi trong nhà",
+    "imageUrl": "https://images.unsplash.com/photo-1591130901020-ef135c337ddf?w=600",
+    "parts": ["ス", "リ", "ッ", "パ"],
+    "options": ["ス", "ズ", "リ", "ル", "ッ", "ツ", "ハ", "バ", "パ", "ン"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "mixed_64",
+    "fullWord": "座る",
+    "meaning": "Ngồi",
+    "imageUrl": "https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1?w=600",
+    "parts": ["座", "る"],
+    "options": ["座", "立", "る", "れ", "ま", "す", "い", "き", "し", "ち"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_72",
+    "fullWord": "自分",
+    "meaning": "Tự bản thân",
+    "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=600",
+    "parts": ["自", "分"],
+    "options": ["自", "白", "目", "分", "半", "刀", "人", "先", "生", "子"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_65",
+    "fullWord": "磨く",
+    "meaning": "Đánh (răng) / Chà sát",
+    "imageUrl": "https://images.unsplash.com/photo-1559591937-e620443f1144?w=600",
+    "parts": ["磨", "く"],
+    "options": ["磨", "魔", "く", "き", "い", "る", "れ", "ま", "す", "歯"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "hira_49",
+    "fullWord": "にぎやか",
+    "meaning": "Náo nhiệt",
+    "imageUrl": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?w=600",
+    "parts": ["に", "ぎ", "や", "か"],
+    "options": ["に", "き", "ぎ", "や", "ゆ", "よ", "か", "が", "な", "ま"],
+    "level": "N5",
+    "type": "Hiragana"
+  },
+  {
+    "id": "kata_47",
+    "fullWord": "ポケット",
+    "meaning": "Túi áo / Túi quần",
+    "imageUrl": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=600",
+    "parts": ["ポ", "ケ", "ッ", "ト"],
+    "options": ["ホ", "ボ", "ポ", "ケ", "ゲ", "ッ", "ツ", "ト", "ド", "ラ"],
+    "level": "N5",
+    "type": "Katakana"
+  },
+  {
+    "id": "kanji_73",
+    "fullWord": "大使館",
+    "meaning": "Đại sứ quán",
+    "imageUrl": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=600",
+    "parts": ["大", "使", "館"],
+    "options": ["大", "使", "館", "官", "図", "書", "病", "院", "社", "会"],
+    "level": "N5",
+    "type": "Kanji"
+  },
+  {
+    "id": "mixed_66",
+    "fullWord": "見せる",
+    "meaning": "Cho xem",
+    "imageUrl": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=600",
+    "parts": ["見", "せ", "る"],
+    "options": ["見", "目", "せ", "る", "れ", "ま", "す", "い", "き", "し"],
+    "level": "N5",
+    "type": "Mixed"
+  },
+  {
+    "id": "kanji_74",
+    "fullWord": "公園",
+    "meaning": "Công viên",
+    "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=600",
+    "parts": ["公", "園"],
+    "options": ["公", "園", "校", "大", "学", "店", "家", "庭", "山", "川"],
+    "level": "N5",
+    "type": "Kanji"
+  }
+]
