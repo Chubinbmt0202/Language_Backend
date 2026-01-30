@@ -1,0 +1,1706 @@
+[
+  {
+    "id": 1,
+    "type": "wordForm",
+    "sentence": "The manager was very _______ with the results.",
+    "baseWord": "satisfy",
+    "answer": "satisfied",
+    "hint": "Cần tính từ miêu tả cảm xúc.",
+    "translate": "Người quản lý rất hài lòng với kết quả."
+  },
+  {
+    "id": 2,
+    "type": "wordForm",
+    "sentence": "She completed the report _______.",
+    "baseWord": "success",
+    "answer": "successfully",
+    "hint": "Trạng từ bổ nghĩa cho động từ.",
+    "translate": "Cô ấy hoàn thành báo cáo một cách thành công."
+  },
+  {
+    "id": 3,
+    "type": "wordForm",
+    "sentence": "The _______ of the project depends on teamwork.",
+    "baseWord": "succeed",
+    "answer": "success",
+    "hint": "Cần một danh từ làm chủ ngữ.",
+    "translate": "Sự thành công của dự án phụ thuộc vào làm việc nhóm."
+  },
+  {
+    "id": 4,
+    "type": "wordForm",
+    "sentence": "They are _______ looking for a new house.",
+    "baseWord": "active",
+    "answer": "actively",
+    "hint": "Trạng từ đứng trước động từ V-ing.",
+    "translate": "Họ đang tích cực tìm kiếm một ngôi nhà mới."
+  },
+  {
+    "id": 5,
+    "type": "wordForm",
+    "sentence": "Education is very _______ for future careers.",
+    "baseWord": "importance",
+    "answer": "important",
+    "hint": "Sau tobe là tính từ.",
+    "translate": "Giáo dục rất quan trọng cho sự nghiệp tương lai."
+  },
+  {
+    "id": 6,
+    "type": "wordForm",
+    "sentence": "He is a very _______ driver.",
+    "baseWord": "care",
+    "answer": "careful",
+    "hint": "Tính từ bổ nghĩa cho danh từ driver.",
+    "translate": "Anh ấy là một tài xế rất cẩn thận."
+  },
+  {
+    "id": 7,
+    "type": "wordForm",
+    "sentence": "The children played _______ in the garden all afternoon.",
+    "baseWord": "happy",
+    "answer": "happily",
+    "explanation": "Cần một trạng từ (Adverb) để bổ nghĩa cho động từ 'played'. Trạng từ thường được hình thành bằng cách thêm đuôi '-ly' vào tính từ (happy -> happily).",
+    "translate": "Lũ trẻ đã chơi đùa vui vẻ trong vườn suốt cả buổi chiều.",
+    "hint": "Trạng từ chỉ cách thức đứng sau động từ thường."
+  },
+  {
+    "id": 8,
+    "type": "wordForm",
+    "sentence": "You should be _______ when handling these chemicals.",
+    "baseWord": "caution",
+    "answer": "cautious",
+    "explanation": "Sau động từ tobe 'be' thường là một tính từ (Adjective) để mô tả tính chất hoặc trạng thái của chủ ngữ. 'Cautious' là tính từ của danh từ 'caution'.",
+    "translate": "Bạn nên cẩn trọng khi xử lý các hóa chất này.",
+    "hint": "Cần tính từ đứng sau động từ tobe."
+  },
+  {
+    "id": 9,
+    "type": "wordForm",
+    "sentence": "The _______ of the internet has changed our lives.",
+    "baseWord": "invent",
+    "answer": "invention",
+    "explanation": "Cấu trúc 'The + ... + of' luôn yêu cầu một danh từ (Noun) ở giữa. 'Invention' là danh từ chỉ sự phát minh, đóng vai trò làm chủ ngữ chính trong câu.",
+    "translate": "Sự phát minh ra internet đã thay đổi cuộc sống của chúng ta.",
+    "hint": "Cần danh từ đứng sau mạo từ 'The'."
+  },
+  {
+    "id": 10,
+    "type": "wordForm",
+    "sentence": "She has a very _______ imagination.",
+    "baseWord": "create",
+    "answer": "creative",
+    "explanation": "Cần một tính từ (Adjective) đứng trước danh từ 'imagination' để bổ nghĩa cho nó. Tính từ thường có các hậu tố như '-ive'.",
+    "translate": "Cô ấy có một trí tưởng tượng rất sáng tạo.",
+    "hint": "Tính từ đứng trước danh từ để miêu tả đặc điểm."
+  },
+  {
+    "id": 11,
+    "type": "wordForm",
+    "sentence": "Unfortunately, the weather was _______ for a picnic.",
+    "baseWord": "suit",
+    "answer": "unsuitable",
+    "explanation": "Dựa vào từ 'Unfortunately' (Thật không may), ta cần một tính từ mang nghĩa phủ định. Thêm tiền tố 'un-' và hậu tố '-able' vào gốc từ 'suit'.",
+    "translate": "Thật không may, thời tiết không phù hợp cho một buổi dã ngoại.",
+    "hint": "Cần tính từ mang nghĩa phủ định dựa vào ngữ cảnh."
+  },
+  {
+    "id": 12,
+    "type": "wordForm",
+    "sentence": "He gave a brief _______ of the new product.",
+    "baseWord": "describe",
+    "answer": "description",
+    "explanation": "Sau tính từ 'brief' (ngắn gọn) và mạo từ 'a' phải là một danh từ (Noun). 'Description' là dạng danh từ của động từ 'describe'.",
+    "translate": "Anh ấy đã đưa ra một bản mô tả ngắn gọn về sản phẩm mới.",
+    "hint": "Cần danh từ đứng sau tính từ."
+  },
+  {
+    "id": 13,
+    "type": "wordForm",
+    "sentence": "The students are _______ about the upcoming field trip.",
+    "baseWord": "excite",
+    "answer": "excited",
+    "explanation": "Sử dụng tính từ đuôi '-ed' khi diễn tả cảm xúc của con người về một sự việc nào đó. (Phân biệt với đuôi '-ing' dùng cho tính chất sự vật).",
+    "translate": "Các học sinh đang rất hào hứng về chuyến tham quan sắp tới.",
+    "hint": "Tính từ chỉ cảm xúc của con người (người bị tác động)."
+  },
+  {
+    "id": 14,
+    "type": "wordForm",
+    "sentence": "We need to _______ the local environment.",
+    "baseWord": "protection",
+    "answer": "protect",
+    "explanation": "Sau cấu trúc 'need to' phải là một động từ nguyên thể (Verb bare). 'Protect' là động từ của danh từ 'protection'.",
+    "translate": "Chúng ta cần bảo vệ môi trường địa phương.",
+    "hint": "Cần động từ nguyên mẫu sau 'to'."
+  },
+  {
+    "id": 15,
+    "type": "wordForm",
+    "sentence": "Smoking is _______ to your health.",
+    "baseWord": "harm",
+    "answer": "harmful",
+    "explanation": "Cần một tính từ (Adjective) sau động từ tobe 'is' để chỉ đặc điểm của hành động hút thuốc. 'Harmful' có nghĩa là gây hại.",
+    "translate": "Hút thuốc lá có hại cho sức khỏe của bạn.",
+    "hint": "Cấu trúc: To be + Adjective."
+  },
+  {
+    "id": 16,
+    "type": "wordForm",
+    "sentence": "He answered all the questions _______.",
+    "baseWord": "correct",
+    "answer": "correctly",
+    "explanation": "Trạng từ (Adverb) 'correctly' đứng cuối câu để bổ nghĩa cho cách thức thực hiện động từ 'answered' (trả lời như thế nào? -> trả lời đúng).",
+    "translate": "Anh ấy đã trả lời tất cả các câu hỏi một cách chính xác.",
+    "hint": "Trạng từ bổ nghĩa cho động từ thường."
+  },
+  {
+    "id": 17,
+    "type": "wordForm",
+    "sentence": "The movie was so _______ that I almost fell asleep.",
+    "baseWord": "bore",
+    "answer": "boring",
+    "explanation": "Cần một tính từ để mô tả tính chất của sự vật (the movie). Trong tiếng Anh, tính từ đuôi '-ing' dùng cho vật gây ra cảm giác, còn '-ed' dùng cho người nhận cảm giác đó.",
+    "translate": "Bộ phim chán đến mức tôi gần như ngủ gật.",
+    "hint": "Tính từ đuôi -ing mô tả đặc điểm của sự vật/hiện tượng."
+  },
+  {
+    "id": 18,
+    "type": "wordForm",
+    "sentence": "She has the _______ to speak three languages fluently.",
+    "baseWord": "able",
+    "answer": "ability",
+    "explanation": "Sau mạo từ 'the' và trước cụm động từ 'to speak' cần một danh từ. Danh từ 'ability' thường đi với cấu trúc 'ability to do something' (khả năng làm gì).",
+    "translate": "Cô ấy có khả năng nói trôi chảy ba ngôn ngữ.",
+    "hint": "Cần danh từ làm tân ngữ sau mạo từ 'the'."
+  },
+  {
+    "id": 19,
+    "type": "wordForm",
+    "sentence": "The internet helps us communicate _______.",
+    "baseWord": "easy",
+    "answer": "easily",
+    "explanation": "Cần một trạng từ (Adverb) để bổ nghĩa cho động từ 'communicate'. Trạng từ chỉ cách thức thường đứng sau động từ hoặc tân ngữ. Lưu ý đổi 'y' thành 'i' trước khi thêm '-ly'.",
+    "translate": "Internet giúp chúng ta giao tiếp một cách dễ dàng.",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'communicate'."
+  },
+  {
+    "id": 20,
+    "type": "wordForm",
+    "sentence": "We were _______ by his amazing performance.",
+    "baseWord": "impress",
+    "answer": "impressed",
+    "explanation": "Câu này ở dạng bị động (be + V3/ed). 'Impressed' đóng vai trò là tính từ mô tả cảm xúc của con người (chúng tôi) khi bị tác động bởi buổi biểu diễn.",
+    "translate": "Chúng tôi đã bị ấn tượng bởi màn trình diễn tuyệt vời của anh ấy.",
+    "hint": "Tính từ đuôi -ed chỉ cảm xúc của người về một sự việc."
+  },
+  {
+    "id": 21,
+    "type": "wordForm",
+    "sentence": "There is a _______ between the two laptops.",
+    "baseWord": "differ",
+    "answer": "difference",
+    "explanation": "Sau mạo từ 'a' và tính từ/lượng từ phải là một danh từ số ít. 'Difference' (sự khác biệt) là danh từ của động từ 'differ'. Dấu hiệu là hậu tố '-ence'.",
+    "translate": "Có một sự khác biệt giữa hai chiếc máy tính xách tay này.",
+    "hint": "Cần danh từ đứng sau mạo từ 'a'."
+  },
+  {
+    "id": 22,
+    "type": "wordForm",
+    "sentence": "You must be _______ when you cross the street.",
+    "baseWord": "care",
+    "answer": "careful",
+    "explanation": "Sau động từ khuyết thiếu 'must be' là một tính từ mô tả trạng thái của chủ ngữ 'You'. Hậu tố '-ful' thường tạo thành tính từ mang nghĩa 'có đầy đủ đặc điểm gì đó'.",
+    "translate": "Bạn phải cẩn thận khi băng qua đường.",
+    "hint": "Tính từ đứng sau tobe để khuyên bảo/mô tả."
+  },
+  {
+    "id": 23,
+    "type": "wordForm",
+    "sentence": "The air _______ in this city is getting worse.",
+    "baseWord": "pollute",
+    "answer": "pollution",
+    "explanation": "Ở đây ta cần một danh từ để kết hợp với 'air' tạo thành danh từ ghép (Air pollution - ô nhiễm không khí) làm chủ ngữ của câu.",
+    "translate": "Tình trạng ô nhiễm không khí ở thành phố này đang trở nên tồi tệ hơn.",
+    "hint": "Danh từ đóng vai trò làm chủ ngữ (đứng trước giới từ/động từ)."
+  },
+  {
+    "id": 24,
+    "type": "wordForm",
+    "sentence": "They _______ agreed to sign the contract.",
+    "baseWord": "final",
+    "answer": "finally",
+    "explanation": "Trạng từ (Adverb) có thể đứng trước động từ chính 'agreed' để nhấn mạnh thời điểm hoặc trình tự của hành động (cuối cùng thì họ cũng...).",
+    "translate": "Cuối cùng họ đã đồng ý ký hợp đồng.",
+    "hint": "Trạng từ đứng trước động từ để bổ nghĩa về thời gian/trình tự."
+  },
+  {
+    "id": 25,
+    "type": "wordForm",
+    "sentence": "He is a _______ scientist who won many awards.",
+    "baseWord": "fame",
+    "answer": "famous",
+    "explanation": "Cần một tính từ đứng trước danh từ 'scientist' để bổ nghĩa. 'Famous' (nổi tiếng) là tính từ của danh từ 'fame'. Hậu tố '-ous' là dấu hiệu của tính từ.",
+    "translate": "Ông ấy là một nhà khoa học nổi tiếng, người đã giành được nhiều giải thưởng.",
+    "hint": "Tính từ đứng trước danh từ để phân loại/mô tả."
+  },
+  {
+    "id": 26,
+    "type": "wordForm",
+    "sentence": "Don't be _______! We have plenty of time.",
+    "baseWord": "impatience",
+    "answer": "impatient",
+    "explanation": "Sau 'Don't be' cần một tính từ. Dựa vào ngữ cảnh 'chúng ta có nhiều thời gian', ta cần tính từ mang nghĩa 'nóng nảy/thiếu kiên nhẫn' là 'impatient'.",
+    "translate": "Đừng có nôn nóng! Chúng ta còn nhiều thời gian mà.",
+    "hint": "Tính từ đứng sau 'be' trong câu mệnh lệnh."
+  },
+  {
+    "id": 27,
+    "type": "wordForm",
+    "sentence": "The weather was _______, so we had to cancel the boat trip.",
+    "baseWord": "storm",
+    "answer": "stormy",
+    "explanation": "Cần một tính từ (Adjective) sau động từ 'was' để miêu tả tình trạng thời tiết. Hậu tố '-y' thường được thêm vào danh từ chỉ hiện tượng thiên nhiên để tạo tính từ (sun -> sunny, rain -> rainy).",
+    "translate": "Thời tiết đầy giông bão, vì vậy chúng tôi đã phải hủy chuyến đi thuyền.",
+    "hint": "Tính từ miêu tả thời tiết."
+  },
+  {
+    "id": 28,
+    "type": "wordForm",
+    "sentence": "It is _______ to drive a car without a license.",
+    "baseWord": "legal",
+    "answer": "illegal",
+    "explanation": "Dựa vào ngữ cảnh 'lái xe không bằng lái', ta cần một tính từ mang nghĩa phủ định. Tiền tố 'il-' được thêm vào trước các từ bắt đầu bằng chữ 'l' để tạo nghĩa trái ngược (legal -> illegal).",
+    "translate": "Lái xe ô tô mà không có bằng lái là phạm pháp.",
+    "hint": "Cần tính từ mang nghĩa phủ định (trái nghĩa với legal)."
+  },
+  {
+    "id": 29,
+    "type": "wordForm",
+    "sentence": "The _______ of the new mall will create many jobs.",
+    "baseWord": "construct",
+    "answer": "construction",
+    "explanation": "Cấu trúc 'The + [Noun] + of'. Ta cần danh từ chỉ sự việc/hành động xây dựng. Hậu tố '-ion' là dấu hiệu nhận biết danh từ rất phổ biến từ động từ gốc.",
+    "translate": "Việc xây dựng trung tâm thương mại mới sẽ tạo ra nhiều việc làm.",
+    "hint": "Danh từ chỉ sự xây dựng."
+  },
+  {
+    "id": 30,
+    "type": "wordForm",
+    "sentence": "He handled the fragile vase _______.",
+    "baseWord": "careful",
+    "answer": "carefully",
+    "explanation": "Cần một trạng từ (Adverb) bổ nghĩa cho động từ 'handled' (cầm nắm/xử lý như thế nào?). Trạng từ được hình thành bằng cách: Tính từ 'careful' + đuôi '-ly'.",
+    "translate": "Anh ấy đã cầm chiếc bình dễ vỡ một cách cẩn thận.",
+    "hint": "Trạng từ bổ nghĩa cho hành động 'handled'."
+  },
+  {
+    "id": 31,
+    "type": "wordForm",
+    "sentence": "The staff at the hotel were very _______.",
+    "baseWord": "help",
+    "answer": "helpful",
+    "explanation": "Sau 'were very' cần một tính từ miêu tả tính chất của con người. Hậu tố '-ful' mang nghĩa 'có nhiều/đầy sự giúp đỡ'.",
+    "translate": "Nhân viên tại khách sạn đã rất nhiệt tình giúp đỡ.",
+    "hint": "Tính từ miêu tả đặc điểm tính cách/thái độ."
+  },
+  {
+    "id": 32,
+    "type": "wordForm",
+    "sentence": "I sent him an _______ to my birthday party.",
+    "baseWord": "invite",
+    "answer": "invitation",
+    "explanation": "Sau mạo từ 'an' phải là một danh từ số ít bắt đầu bằng một nguyên âm. 'Invitation' là danh từ của động từ 'invite'.",
+    "translate": "Tôi đã gửi cho anh ấy một lời mời đến bữa tiệc sinh nhật của mình.",
+    "hint": "Cần danh từ làm tân ngữ sau 'an'."
+  },
+  {
+    "id": 33,
+    "type": "wordForm",
+    "sentence": "This street is very _______ at night.",
+    "baseWord": "danger",
+    "answer": "dangerous",
+    "explanation": "Sau 'is very' cần một tính từ. Từ 'danger' là danh từ (mối nguy hiểm), ta chuyển sang tính từ 'dangerous' (nguy hiểm) bằng cách thêm hậu tố '-ous'.",
+    "translate": "Con đường này rất nguy hiểm vào ban đêm.",
+    "hint": "Tính từ mô tả đặc điểm của con đường."
+  },
+  {
+    "id": 34,
+    "type": "wordForm",
+    "sentence": "She was _______ with her exam results.",
+    "baseWord": "appoint",
+    "answer": "disappointed",
+    "explanation": "Dùng tính từ đuôi '-ed' để diễn tả cảm giác bị thất vọng của chủ ngữ 'She'. Thêm tiền tố 'dis-' vào trước 'appointed' (đã được sắp đặt) để tạo từ 'disappointed' (thất vọng).",
+    "translate": "Cô ấy đã thất vọng với kết quả kỳ thi của mình.",
+    "hint": "Tính từ chỉ cảm xúc tiêu cực của con người."
+  },
+  {
+    "id": 35,
+    "type": "wordForm",
+    "sentence": "The teacher gave us a clear _______ of the lesson.",
+    "baseWord": "explain",
+    "answer": "explanation",
+    "explanation": "Sau tính từ 'clear' cần một danh từ. Lưu ý: khi chuyển từ động từ 'explain' sang danh từ 'explanation', chữ 'i' trong 'plain' sẽ bị mất đi.",
+    "translate": "Giáo viên đã cho chúng tôi một lời giải thích rõ ràng về bài học.",
+    "hint": "Danh từ đứng sau tính từ 'clear'."
+  },
+  {
+    "id": 36,
+    "type": "wordForm",
+    "sentence": "Technology has _______ improved in recent years.",
+    "baseWord": "significance",
+    "answer": "significantly",
+    "explanation": "Trạng từ (Adverb) đứng trước động từ 'improved' để chỉ mức độ cải thiện. Ta chuyển danh từ 'significance' -> tính từ 'significant' -> trạng từ 'significantly'.",
+    "translate": "Công nghệ đã cải thiện đáng kể trong những năm gần đây.",
+    "hint": "Trạng từ chỉ mức độ, đứng giữa trợ động từ và động từ chính."
+  },
+  {
+    "id": 37,
+    "type": "wordForm",
+    "sentence": "The volunteer program has many _______ benefits.",
+    "baseWord": "society",
+    "answer": "social",
+    "explanation": "Cần một tính từ (Adjective) để bổ nghĩa cho danh từ 'benefits'. 'Social' là tính từ của 'society', dùng để chỉ các vấn đề thuộc về xã hội.",
+    "translate": "Chương trình tình nguyện có nhiều lợi ích xã hội.",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'benefits'."
+  },
+  {
+    "id": 38,
+    "type": "wordForm",
+    "sentence": "I'm sorry for the _______, but the flight is delayed.",
+    "baseWord": "convenient",
+    "answer": "inconvenience",
+    "explanation": "Sau mạo từ 'the' cần một danh từ. Vì chuyến bay bị hoãn nên đây là một 'sự bất tiện'. Ta thêm tiền tố phủ định 'in-' và hậu tố danh từ '-ce'.",
+    "translate": "Tôi xin lỗi vì sự bất tiện này, nhưng chuyến bay đã bị hoãn.",
+    "hint": "Danh từ mang nghĩa phủ định của 'convenient'."
+  },
+  {
+    "id": 39,
+    "type": "wordForm",
+    "sentence": "The children were _______ dressed for the cold weather.",
+    "baseWord": "warm",
+    "answer": "warmly",
+    "explanation": "Cần một trạng từ (Adverb) bổ nghĩa cho phân từ 'dressed' (mặc như thế nào?). Trạng từ 'warmly' ở đây có nghĩa là 'mặc đủ ấm'.",
+    "translate": "Lũ trẻ đã được mặc đồ ấm áp để phù hợp với thời tiết lạnh.",
+    "hint": "Trạng từ đứng trước tính từ/phân từ để bổ nghĩa."
+  },
+  {
+    "id": 40,
+    "type": "wordForm",
+    "sentence": "There is no _______ evidence that he committed the crime.",
+    "baseWord": "science",
+    "answer": "scientific",
+    "explanation": "Cần một tính từ đứng trước danh từ 'evidence' (bằng chứng). 'Scientific' là tính từ liên quan đến khoa học.",
+    "translate": "Không có bằng chứng khoa học nào cho thấy anh ta đã phạm tội.",
+    "hint": "Tính từ của danh từ 'science'."
+  },
+  {
+    "id": 41,
+    "type": "wordForm",
+    "sentence": "She gave a _______ performance and won the first prize.",
+    "baseWord": "wonder",
+    "answer": "wonderful",
+    "explanation": "Cần một tính từ để khen ngợi màn trình diễn. Hậu tố '-ful' (đầy sự...) tạo thành tính từ 'wonderful' (tuyệt vời).",
+    "translate": "Cô ấy đã có một màn trình diễn tuyệt vời và giành giải nhất.",
+    "hint": "Tính từ mang nghĩa tích cực mô tả sự vật."
+  },
+  {
+    "id": 42,
+    "type": "wordForm",
+    "sentence": "We need to _______ the process to save time.",
+    "baseWord": "simple",
+    "answer": "simplify",
+    "explanation": "Sau 'need to' là một động từ nguyên mẫu. Hậu tố '-ify' thường được dùng để biến tính từ thành động từ mang nghĩa 'làm cho trở nên...' (đơn giản hóa).",
+    "translate": "Chúng ta cần đơn giản hóa quy trình để tiết kiệm thời gian.",
+    "hint": "Động từ của tính từ 'simple'."
+  },
+  {
+    "id": 43,
+    "type": "wordForm",
+    "sentence": "The _______ of the forest is very important for the planet.",
+    "baseWord": "preserve",
+    "answer": "preservation",
+    "explanation": "Cấu trúc 'The + [Noun] + of'. Ta cần danh từ chỉ hành động bảo tồn. Lưu ý hậu tố '-ation'.",
+    "translate": "Việc bảo tồn rừng là rất quan trọng đối với hành tinh.",
+    "hint": "Danh từ của động từ 'preserve'."
+  },
+  {
+    "id": 44,
+    "type": "wordForm",
+    "sentence": "He is very _______ and always wants to win.",
+    "baseWord": "compete",
+    "answer": "competitive",
+    "explanation": "Cần tính từ sau 'is very' để mô tả tính cách. 'Competitive' dùng để chỉ một người có tính cạnh tranh cao, luôn muốn giành chiến thắng.",
+    "translate": "Anh ấy rất hiếu thắng và luôn muốn giành chiến thắng.",
+    "hint": "Tính từ chỉ đặc điểm tính cách từ động từ 'compete'."
+  },
+  {
+    "id": 45,
+    "type": "wordForm",
+    "sentence": "The information in the book is _______.",
+    "baseWord": "rely",
+    "answer": "reliable",
+    "explanation": "Sau tobe 'is' cần một tính từ. Hậu tố '-able' mang nghĩa 'có thể'. 'Reliable' nghĩa là có thể tin cậy được.",
+    "translate": "Thông tin trong cuốn sách này rất đáng tin cậy.",
+    "hint": "Tính từ mang nghĩa 'có thể tin tưởng'."
+  },
+  {
+    "id": 46,
+    "type": "wordForm",
+    "sentence": "He _______ failed the test because he didn't study.",
+    "baseWord": "probable",
+    "answer": "probably",
+    "explanation": "Trạng từ chỉ khả năng (Adverb of probability) đứng trước động từ chính 'failed' để dự đoán hoặc đưa ra lý do.",
+    "translate": "Anh ấy có lẽ đã trượt bài kiểm tra vì anh ấy không học bài.",
+    "hint": "Trạng từ đứng trước động từ chính."
+  },
+  {
+    "id": 47,
+    "type": "wordForm",
+    "sentence": "The news of the accident was _______.",
+    "baseWord": "fright",
+    "answer": "frightening",
+    "explanation": "Cần tính từ đuôi '-ing' để mô tả tính chất của sự việc (tin tức gây sợ hãi).",
+    "translate": "Tin tức về vụ tai nạn thật đáng sợ.",
+    "hint": "Tính từ miêu tả tính chất của vật/việc."
+  },
+  {
+    "id": 48,
+    "type": "wordForm",
+    "sentence": "He was _______ when he heard the bad news.",
+    "baseWord": "hope",
+    "answer": "hopeless",
+    "explanation": "Dựa vào 'bad news', ta cần tính từ mang nghĩa tiêu cực. Hậu tố '-less' nghĩa là 'không có'.",
+    "translate": "Anh ấy đã cảm thấy tuyệt vọng khi nghe tin xấu đó.",
+    "hint": "Tính từ mang nghĩa 'không có hy vọng'."
+  },
+  {
+    "id": 49,
+    "type": "wordForm",
+    "sentence": "She was _______ enough to admit her mistake.",
+    "baseWord": "courage",
+    "answer": "courageous",
+    "explanation": "Sau 'was' và trước 'enough' cần một tính từ. 'Courageous' là tính từ của 'courage'.",
+    "translate": "Cô ấy đã đủ dũng cảm để thừa nhận lỗi sai của mình.",
+    "hint": "Tính từ của danh từ 'courage' (dũng cảm)."
+  },
+  {
+    "id": 50,
+    "type": "wordForm",
+    "sentence": "The party was _______ organized.",
+    "baseWord": "bad",
+    "answer": "badly",
+    "explanation": "Cần trạng từ để bổ nghĩa cho phân từ/động từ 'organized' (được tổ chức như thế nào?).",
+    "translate": "Bữa tiệc đã được tổ chức rất tồi tệ.",
+    "hint": "Trạng từ bổ nghĩa cho quá khứ phân từ."
+  },
+  {
+    "id": 51,
+    "type": "wordForm",
+    "sentence": "He is an _______ person; he never tells the truth.",
+    "baseWord": "honest",
+    "answer": "dishonest",
+    "explanation": "Ngữ cảnh 'không bao giờ nói dối' yêu cầu nghĩa trái ngược. Thêm tiền tố 'dis-'.",
+    "translate": "Anh ta là một người không trung thực; anh ta chẳng bao giờ nói thật.",
+    "hint": "Cần tính từ trái nghĩa với 'honest'."
+  },
+  {
+    "id": 52,
+    "type": "wordForm",
+    "sentence": "The _______ of technology has made our lives easier.",
+    "baseWord": "develop",
+    "answer": "development",
+    "explanation": "Cần danh từ làm chủ ngữ. Hậu tố '-ment' biến động từ thành danh từ.",
+    "translate": "Sự phát triển của công nghệ đã làm cho cuộc sống của chúng ta dễ dàng hơn.",
+    "hint": "Danh từ của động từ 'develop'."
+  },
+  {
+    "id": 53,
+    "type": "wordForm",
+    "sentence": "They need to _______ the road to reduce traffic jams.",
+    "baseWord": "wide",
+    "answer": "widen",
+    "explanation": "Sau 'need to' là động từ. Hậu tố '-en' cộng vào tính từ 'wide' để tạo thành động từ 'làm cho rộng ra'.",
+    "translate": "Họ cần mở rộng con đường để giảm ùn tắc giao thông.",
+    "hint": "Động từ có nghĩa là 'làm cho rộng ra'."
+  },
+  {
+    "id": 54,
+    "type": "wordForm",
+    "sentence": "You must give a _______ for your absence.",
+    "baseWord": "justify",
+    "answer": "justification",
+    "explanation": "Sau mạo từ 'a' cần một danh từ. 'Justification' là sự bào chữa/lý do chính đáng.",
+    "translate": "Bạn phải đưa ra sự giải thích thỏa đáng cho sự vắng mặt của mình.",
+    "hint": "Danh từ của động từ 'justify'."
+  },
+  {
+    "id": 55,
+    "type": "wordForm",
+    "sentence": "The government is trying to _______ the economy.",
+    "baseWord": "stable",
+    "answer": "stabilize",
+    "explanation": "Sau 'trying to' cần động từ. Hậu tố '-ize' mang nghĩa là 'làm cho trở nên ổn định'.",
+    "translate": "Chính phủ đang cố gắng ổn định nền kinh tế.",
+    "hint": "Động từ của tính từ 'stable'."
+  },
+  {
+    "id": 56,
+    "type": "wordForm",
+    "sentence": "We are waiting for the _______ of the results.",
+    "baseWord": "announce",
+    "answer": "announcement",
+    "explanation": "Sau 'the' và trước 'of' cần một danh từ chỉ sự thông báo.",
+    "translate": "Chúng tôi đang chờ đợi việc công bố kết quả.",
+    "hint": "Danh từ của động từ 'announce'."
+  },
+  {
+    "id": 47,
+    "type": "wordForm",
+    "sentence": "The news of the accident was _______.",
+    "baseWord": "fright",
+    "answer": "frightening",
+    "explanation": "Cần tính từ đuôi '-ing' để mô tả tính chất của sự việc (tin tức gây sợ hãi).",
+    "translate": "Tin tức về vụ tai nạn thật đáng sợ.",
+    "hint": "Tính từ miêu tả tính chất của vật/việc."
+  },
+  {
+    "id": 48,
+    "type": "wordForm",
+    "sentence": "He was _______ when he heard the bad news.",
+    "baseWord": "hope",
+    "answer": "hopeless",
+    "explanation": "Dựa vào 'bad news', ta cần tính từ mang nghĩa tiêu cực. Hậu tố '-less' nghĩa là 'không có'.",
+    "translate": "Anh ấy đã cảm thấy tuyệt vọng khi nghe tin xấu đó.",
+    "hint": "Tính từ mang nghĩa 'không có hy vọng'."
+  },
+  {
+    "id": 49,
+    "type": "wordForm",
+    "sentence": "She was _______ enough to admit her mistake.",
+    "baseWord": "courage",
+    "answer": "courageous",
+    "explanation": "Sau 'was' và trước 'enough' cần một tính từ. 'Courageous' là tính từ của 'courage'.",
+    "translate": "Cô ấy đã đủ dũng cảm để thừa nhận lỗi sai của mình.",
+    "hint": "Tính từ của danh từ 'courage' (dũng cảm)."
+  },
+  {
+    "id": 50,
+    "type": "wordForm",
+    "sentence": "The party was _______ organized.",
+    "baseWord": "bad",
+    "answer": "badly",
+    "explanation": "Cần trạng từ để bổ nghĩa cho phân từ/động từ 'organized' (được tổ chức như thế nào?).",
+    "translate": "Bữa tiệc đã được tổ chức rất tồi tệ.",
+    "hint": "Trạng từ bổ nghĩa cho quá khứ phân từ."
+  },
+  {
+    "id": 51,
+    "type": "wordForm",
+    "sentence": "He is an _______ person; he never tells the truth.",
+    "baseWord": "honest",
+    "answer": "dishonest",
+    "explanation": "Ngữ cảnh 'không bao giờ nói dối' yêu cầu nghĩa trái ngược. Thêm tiền tố 'dis-'.",
+    "translate": "Anh ta là một người không trung thực; anh ta chẳng bao giờ nói thật.",
+    "hint": "Cần tính từ trái nghĩa với 'honest'."
+  },
+  {
+    "id": 52,
+    "type": "wordForm",
+    "sentence": "The _______ of technology has made our lives easier.",
+    "baseWord": "develop",
+    "answer": "development",
+    "explanation": "Cần danh từ làm chủ ngữ. Hậu tố '-ment' biến động từ thành danh từ.",
+    "translate": "Sự phát triển của công nghệ đã làm cho cuộc sống của chúng ta dễ dàng hơn.",
+    "hint": "Danh từ của động từ 'develop'."
+  },
+  {
+    "id": 53,
+    "type": "wordForm",
+    "sentence": "They need to _______ the road to reduce traffic jams.",
+    "baseWord": "wide",
+    "answer": "widen",
+    "explanation": "Sau 'need to' là động từ. Hậu tố '-en' cộng vào tính từ 'wide' để tạo thành động từ 'làm cho rộng ra'.",
+    "translate": "Họ cần mở rộng con đường để giảm ùn tắc giao thông.",
+    "hint": "Động từ có nghĩa là 'làm cho rộng ra'."
+  },
+  {
+    "id": 54,
+    "type": "wordForm",
+    "sentence": "You must give a _______ for your absence.",
+    "baseWord": "justify",
+    "answer": "justification",
+    "explanation": "Sau mạo từ 'a' cần một danh từ. 'Justification' là sự bào chữa/lý do chính đáng.",
+    "translate": "Bạn phải đưa ra sự giải thích thỏa đáng cho sự vắng mặt của mình.",
+    "hint": "Danh từ của động từ 'justify'."
+  },
+  {
+    "id": 55,
+    "type": "wordForm",
+    "sentence": "The government is trying to _______ the economy.",
+    "baseWord": "stable",
+    "answer": "stabilize",
+    "explanation": "Sau 'trying to' cần động từ. Hậu tố '-ize' mang nghĩa là 'làm cho trở nên ổn định'.",
+    "translate": "Chính phủ đang cố gắng ổn định nền kinh tế.",
+    "hint": "Động từ của tính từ 'stable'."
+  },
+  {
+    "id": 56,
+    "type": "wordForm",
+    "sentence": "We are waiting for the _______ of the results.",
+    "baseWord": "announce",
+    "answer": "announcement",
+    "explanation": "Sau 'the' và trước 'of' cần một danh từ chỉ sự thông báo.",
+    "translate": "Chúng tôi đang chờ đợi việc công bố kết quả.",
+    "hint": "Danh từ của động từ 'announce'."
+  },
+  {
+    "id": 62,
+    "type": "wordForm",
+    "sentence": "The price of the house is _______ high.",
+    "baseWord": "extreme",
+    "answer": "extremely",
+    "explanation": "Cần trạng từ bổ nghĩa cho tính từ 'high' (cao như thế nào? -> cực kỳ cao).",
+    "translate": "Giá của ngôi nhà đó cao một cách cực kỳ.",
+    "hint": "Trạng từ đứng trước tính từ để nhấn mạnh."
+  },
+  {
+    "id": 63,
+    "type": "wordForm",
+    "sentence": "We should _______ our energy consumption.",
+    "baseWord": "low",
+    "answer": "lower",
+    "explanation": "Sau 'should' cần động từ nguyên mẫu. 'Lower' vừa là tính từ so sánh, vừa là động từ (làm thấp xuống/giảm xuống).",
+    "translate": "Chúng ta nên giảm mức tiêu thụ năng lượng của mình.",
+    "hint": "Động từ có nghĩa là 'làm giảm xuống'."
+  },
+  {
+    "id": 64,
+    "type": "wordForm",
+    "sentence": "She has a _______ collection of stamps.",
+    "baseWord": "vary",
+    "answer": "varied",
+    "explanation": "Cần tính từ đứng trước danh từ 'collection'. 'Varied' nghĩa là đa dạng, nhiều loại.",
+    "translate": "Cô ấy có một bộ sưu tập tem rất đa dạng.",
+    "hint": "Tính từ mô tả sự phong phú, đa dạng."
+  },
+  {
+    "id": 65,
+    "type": "wordForm",
+    "sentence": "The project was _______ successful.",
+    "baseWord": "part",
+    "answer": "partially",
+    "explanation": "Cần trạng từ bổ nghĩa cho tính từ 'successful' (thành công một phần).",
+    "translate": "Dự án đã thành công một phần.",
+    "hint": "Trạng từ có nghĩa là 'một phần nào đó'."
+  },
+  {
+    "id": 66,
+    "type": "wordForm",
+    "sentence": "Please _______ your seatbelt during takeoff.",
+    "baseWord": "fast",
+    "answer": "fasten",
+    "explanation": "Câu mệnh lệnh cần một động từ. 'Fasten' nghĩa là thắt chặt, buộc chặt.",
+    "translate": "Vui lòng thắt dây an toàn khi máy bay cất cánh.",
+    "hint": "Động từ thường đi với 'seatbelt'."
+  },
+  {
+    "id": 67,
+    "type": "wordForm",
+    "sentence": "The _______ are demanding better working conditions.",
+    "baseWord": "employ",
+    "answer": "employees",
+    "explanation": "Đứng đầu câu làm chủ ngữ và đi với động từ số nhiều 'are', ta cần một danh từ chỉ người ở số nhiều. 'Employee' (nhân viên) là người được thuê.",
+    "translate": "Các nhân viên đang yêu cầu điều kiện làm việc tốt hơn.",
+    "hint": "Danh từ chỉ người (số nhiều) bị tác động bởi hành động thuê."
+  },
+  {
+    "id": 68,
+    "type": "wordForm",
+    "sentence": "She is a talented _______ who has performed worldwide.",
+    "baseWord": "music",
+    "answer": "musician",
+    "explanation": "Sau mạo từ 'a' và tính từ 'talented' cần một danh từ chỉ người. Hậu tố '-ian' thường dùng để chỉ người làm trong lĩnh vực nghệ thuật/khoa học.",
+    "translate": "Cô ấy là một nhạc sĩ tài năng, người đã biểu diễn khắp thế giới.",
+    "hint": "Danh từ chỉ người chơi nhạc."
+  },
+  {
+    "id": 69,
+    "type": "wordForm",
+    "sentence": "The _______ of the company decided to retire early.",
+    "baseWord": "found",
+    "answer": "founder",
+    "explanation": "Cần một danh từ chỉ người đứng sau 'The'. 'Founder' là người sáng lập (từ động từ 'found' - sáng lập, không phải quá khứ của find).",
+    "translate": "Người sáng lập công ty đã quyết định nghỉ hưu sớm.",
+    "hint": "Danh từ chỉ người sáng lập."
+  },
+  {
+    "id": 70,
+    "type": "wordForm",
+    "sentence": "They are looking for _______ to help with the charity event.",
+    "baseWord": "volunteer",
+    "answer": "volunteers",
+    "explanation": "Cần danh từ số nhiều làm tân ngữ sau giới từ 'for'. Trong trường hợp này, 'volunteer' vừa là động từ, vừa là danh từ.",
+    "translate": "Họ đang tìm kiếm những tình nguyện viên để giúp đỡ sự kiện từ thiện.",
+    "hint": "Danh từ số nhiều chỉ người tự nguyện giúp đỡ."
+  },
+  {
+    "id": 71,
+    "type": "wordForm",
+    "sentence": "The _______ gave a very inspiring speech.",
+    "baseWord": "politics",
+    "answer": "politician",
+    "explanation": "Chủ ngữ của câu cần một danh từ chỉ người. 'Politician' là chính trị gia.",
+    "translate": "Chính trị gia đó đã có một bài phát biểu rất truyền cảm hứng.",
+    "hint": "Danh từ chỉ người làm chính trị."
+  },
+  {
+    "id": 72,
+    "type": "wordForm",
+    "sentence": "The house was _______ decorated for the wedding.",
+    "baseWord": "beauty",
+    "answer": "beautifully",
+    "explanation": "Cần một trạng từ (Adv) đứng giữa trợ động từ 'was' và phân từ 'decorated' để bổ nghĩa cho cách thức trang trí.",
+    "translate": "Ngôi nhà được trang trí một cách đẹp đẽ cho lễ cưới.",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'decorate'."
+  },
+  {
+    "id": 73,
+    "type": "wordForm",
+    "sentence": "There is a _______ of water in this area during summer.",
+    "baseWord": "short",
+    "answer": "shortage",
+    "explanation": "Cần danh từ sau 'a'. Hậu tố '-age' tạo thành danh từ 'shortage' nghĩa là sự thiếu hụt.",
+    "translate": "Có một sự thiếu hụt nước ở khu vực này vào mùa hè.",
+    "hint": "Danh từ chỉ sự thiếu thốn."
+  },
+  {
+    "id": 74,
+    "type": "wordForm",
+    "sentence": "The computer system is _______; it crashes all the time.",
+    "baseWord": "rely",
+    "answer": "unreliable",
+    "explanation": "Dựa vào nghĩa vế sau 'nó luôn bị hỏng', ta cần tính từ mang nghĩa phủ định 'không thể tin cậy'. Kết hợp tiền tố 'un-' và hậu tố '-able'.",
+    "translate": "Hệ thống máy tính này không đáng tin cậy; nó cứ bị hỏng suốt.",
+    "hint": "Tính từ phủ định của 'rely'."
+  },
+  {
+    "id": 75,
+    "type": "wordForm",
+    "sentence": "The team celebrated their _______ victory.",
+    "baseWord": "triumph",
+    "answer": "triumphant",
+    "explanation": "Cần tính từ đứng trước danh từ 'victory'. 'Triumphant' nghĩa là chiến thắng oanh liệt/vui mừng vì chiến thắng.",
+    "translate": "Đội bóng đã ăn mừng chiến thắng oanh liệt của họ.",
+    "hint": "Tính từ của danh từ 'triumph'."
+  },
+  {
+    "id": 76,
+    "type": "wordForm",
+    "sentence": "We must _______ the importance of regular exercise.",
+    "baseWord": "emphasis",
+    "answer": "emphasize",
+    "explanation": "Sau 'must' cần một động từ nguyên mẫu. 'Emphasize' là động từ của danh từ 'emphasis' (sự nhấn mạnh).",
+    "translate": "Chúng ta phải nhấn mạnh tầm quan trọng của việc tập thể dục thường xuyên.",
+    "hint": "Động từ có nghĩa là 'nhấn mạnh'."
+  },
+  {
+    "id": 77,
+    "type": "wordForm",
+    "sentence": "He was _______ of the risks involved in the project.",
+    "baseWord": "aware",
+    "answer": "unaware",
+    "explanation": "Thường dùng trong ngữ cảnh người đó không biết về rủi ro. Tiền tố 'un-' tạo nghĩa phủ định 'không nhận thức được'.",
+    "translate": "Anh ấy đã không nhận thức được những rủi ro liên quan đến dự án.",
+    "hint": "Tính từ phủ định: không biết, không nhận thấy."
+  },
+  {
+    "id": 78,
+    "type": "wordForm",
+    "sentence": "The _______ of the island is strictly protected.",
+    "baseWord": "biology",
+    "answer": "biodiversity",
+    "explanation": "Cần một danh từ chỉ sự đa dạng sinh học. Đây là từ ghép giữa 'bio' và 'diversity'.",
+    "translate": "Sự đa dạng sinh học của hòn đảo được bảo vệ nghiêm ngặt.",
+    "hint": "Danh từ chỉ sự phong phú về các loài sinh vật."
+  },
+  {
+    "id": 79,
+    "type": "wordForm",
+    "sentence": "She has an _______ personality and makes friends easily.",
+    "baseWord": "out",
+    "answer": "outgoing",
+    "explanation": "Cần tính từ mô tả tính cách con người. 'Outgoing' là người cởi mở, hướng ngoại.",
+    "translate": "Cô ấy có tính cách hướng ngoại và kết bạn rất dễ dàng.",
+    "hint": "Tính từ chỉ người thích giao lưu, cởi mở."
+  },
+  {
+    "id": 80,
+    "type": "wordForm",
+    "sentence": "The company’s _______ has increased by 20% this year.",
+    "baseWord": "produce",
+    "answer": "productivity",
+    "explanation": "Sau sở hữu cách 'company's' cần một danh từ. 'Productivity' (năng suất) phù hợp với ngữ cảnh tăng trưởng %.",
+    "translate": "Năng suất của công ty đã tăng 20% trong năm nay.",
+    "hint": "Danh từ chỉ khả năng sản xuất/hiệu quả công việc."
+  },
+  {
+    "id": 81,
+    "type": "wordForm",
+    "sentence": "It’s _______ to think that the problem will solve itself.",
+    "baseWord": "logic",
+    "answer": "illogical",
+    "explanation": "Cần tính từ sau 'It's'. Theo ngữ cảnh 'vấn đề tự giải quyết' là điều vô lý, nên dùng tiền tố phủ định 'il-'.",
+    "translate": "Thật là phi logic khi nghĩ rằng vấn đề sẽ tự giải quyết.",
+    "hint": "Tính từ trái nghĩa với 'logical'."
+  },
+  {
+    "id": 82,
+    "type": "wordForm",
+    "sentence": "The exam was _______ easy; everyone passed.",
+    "baseWord": "surprise",
+    "answer": "surprisingly",
+    "explanation": "Cần trạng từ bổ nghĩa cho tính từ 'easy'. 'Surprisingly' mang nghĩa 'một cách đáng ngạc nhiên'.",
+    "translate": "Kỳ thi dễ một cách đáng ngạc nhiên; tất cả mọi người đều đỗ.",
+    "hint": "Trạng từ chỉ thái độ/đánh giá của người nói."
+  },
+  {
+    "id": 83,
+    "type": "wordForm",
+    "sentence": "You need to _______ your account before you can log in.",
+    "baseWord": "active",
+    "answer": "activate",
+    "explanation": "Sau 'need to' là động từ. Hậu tố '-ate' biến tính từ 'active' thành động từ 'activate' (kích hoạt).",
+    "translate": "Bạn cần kích hoạt tài khoản trước khi có thể đăng nhập.",
+    "hint": "Động từ có nghĩa là 'làm cho hoạt động'."
+  },
+  {
+    "id": 84,
+    "type": "wordForm",
+    "sentence": "The child looked at the toys _______.",
+    "baseWord": "long",
+    "answer": "longingly",
+    "explanation": "Trạng từ 'longingly' (một cách khao khát/thèm muốn) bổ nghĩa cho động từ 'looked'.",
+    "translate": "Đứa trẻ nhìn những món đồ chơi một cách đầy khao khát.",
+    "hint": "Trạng từ mô tả cảm xúc khi nhìn."
+  },
+  {
+    "id": 85,
+    "type": "wordForm",
+    "sentence": "He is a very _______ person and loves to tell jokes.",
+    "baseWord": "humor",
+    "answer": "humorous",
+    "explanation": "Cần tính từ đứng trước 'person'. 'Humorous' là tính từ của 'humor' (hài hước).",
+    "translate": "Anh ấy là một người rất hài hước và thích kể chuyện cười.",
+    "hint": "Tính từ mô tả người có khiếu hài hước."
+  },
+  {
+    "id": 86,
+    "type": "wordForm",
+    "sentence": "We should not _______ the power of nature.",
+    "baseWord": "estimate",
+    "answer": "underestimate",
+    "explanation": "Sau 'not' cần động từ. Tiền tố 'under-' (dưới/thấp) kết hợp với 'estimate' (đánh giá) tạo nghĩa 'đánh giá thấp'.",
+    "translate": "Chúng ta không nên đánh giá thấp sức mạnh của thiên nhiên.",
+    "hint": "Động từ có nghĩa là 'coi thường/đánh giá quá thấp'."
+  },
+  {
+    "id": 87,
+    "type": "wordForm",
+    "sentence": "The ________ of the experiment confirmed our theory.",
+    "baseWord": "conclude",
+    "answer": "conclusion",
+    "explanation": "Cần một danh từ làm chủ ngữ sau mạo từ 'The'. 'Conclusion' là danh từ của động từ 'conclude', mang nghĩa là sự kết luận.",
+    "translate": "Kết luận của thí nghiệm đã xác nhận lý thuyết của chúng tôi.",
+    "hint": "Danh từ của động từ 'conclude'."
+  },
+  {
+    "id": 88,
+    "type": "wordForm",
+    "sentence": "He was ________ to find that his car had been stolen.",
+    "baseWord": "horror",
+    "answer": "horrified",
+    "explanation": "Sử dụng tính từ đuôi '-ed' để diễn tả cảm giác kinh hãi của chủ ngữ là người (He).",
+    "translate": "Anh ấy đã kinh hãi khi phát hiện ra chiếc xe của mình bị đánh cắp.",
+    "hint": "Tính từ chỉ cảm giác sợ hãi/kinh hoàng của con người."
+  },
+  {
+    "id": 89,
+    "type": "wordForm",
+    "sentence": "She is very ________ and always finishes her work on time.",
+    "baseWord": "rely",
+    "answer": "reliable",
+    "explanation": "Cần tính từ miêu tả tính cách. 'Reliable' nghĩa là đáng tin cậy, luôn hoàn thành trách nhiệm.",
+    "translate": "Cô ấy rất đáng tin cậy và luôn hoàn thành công việc đúng hạn.",
+    "hint": "Tính từ mang nghĩa 'có thể tin cậy'."
+  },
+  {
+    "id": 90,
+    "type": "wordForm",
+    "sentence": "The government is trying to ________ the legal system.",
+    "baseWord": "modern",
+    "answer": "modernize",
+    "explanation": "Sau 'to' cần một động từ. Hậu tố '-ize' giúp chuyển tính từ 'modern' thành động từ mang nghĩa 'hiện đại hóa'.",
+    "translate": "Chính phủ đang cố gắng hiện đại hóa hệ thống pháp luật.",
+    "hint": "Động từ của tính từ 'modern'."
+  },
+  {
+    "id": 91,
+    "type": "wordForm",
+    "sentence": "The sudden ________ of the lights scared the children.",
+    "baseWord": "appear",
+    "answer": "disappearance",
+    "explanation": "Dựa vào ngữ cảnh 'đèn tắt làm trẻ em sợ', ta cần danh từ mang nghĩa phủ định. Thêm tiền tố 'dis-' và hậu tố '-ance' vào động từ 'appear'.",
+    "translate": "Sự biến mất đột ngột của ánh sáng đã làm lũ trẻ sợ hãi.",
+    "hint": "Danh từ mang nghĩa trái ngược với 'appearance'."
+  },
+  {
+    "id": 92,
+    "type": "wordForm",
+    "sentence": "The book provides ________ information about the history of the city.",
+    "baseWord": "value",
+    "answer": "valuable",
+    "explanation": "Cần một tính từ bổ nghĩa cho danh từ 'information'. 'Valuable' nghĩa là có giá trị, hữu ích.",
+    "translate": "Cuốn sách cung cấp những thông tin có giá trị về lịch sử thành phố.",
+    "hint": "Tính từ của danh từ 'value'."
+  },
+  {
+    "id": 93,
+    "type": "wordForm",
+    "sentence": "They ________ agreed to change the plan.",
+    "baseWord": "willing",
+    "answer": "willingly",
+    "explanation": "Trạng từ 'willingly' bổ nghĩa cho động từ 'agreed', diễn tả hành động được thực hiện một cách tự nguyện.",
+    "translate": "Họ đã sẵn lòng đồng ý thay đổi kế hoạch.",
+    "hint": "Trạng từ của tính từ 'willing'."
+  },
+  {
+    "id": 94,
+    "type": "wordForm",
+    "sentence": "The ________ of the new project is still under discussion.",
+    "baseWord": "feasible",
+    "answer": "feasibility",
+    "explanation": "Cần danh từ làm chủ ngữ. 'Feasibility' là tính khả thi của một kế hoạch hoặc dự án.",
+    "translate": "Tính khả thi của dự án mới vẫn đang được thảo luận.",
+    "hint": "Danh từ của tính từ 'feasible'."
+  },
+  {
+    "id": 95,
+    "type": "wordForm",
+    "sentence": "It is ________ to smoke in public places.",
+    "baseWord": "polite",
+    "answer": "impolite",
+    "explanation": "Cần tính từ mang nghĩa phủ định sau 'It is'. Thêm tiền tố 'im-' vào trước 'polite' để tạo nghĩa mất lịch sự.",
+    "translate": "Hút thuốc ở nơi công cộng là bất lịch sự.",
+    "hint": "Tính từ trái nghĩa với 'polite'."
+  },
+  {
+    "id": 96,
+    "type": "wordForm",
+    "sentence": "The artist's work is ________ across the world.",
+    "baseWord": "recognize",
+    "answer": "recognized",
+    "explanation": "Ở đây dùng như một tính từ dạng phân từ (Passive voice), có nghĩa là được công nhận/thừa nhận rộng rãi.",
+    "translate": "Tác phẩm của người nghệ sĩ được công nhận trên toàn thế giới.",
+    "hint": "Dạng bị động (V-ed) của động từ 'recognize'."
+  },
+  {
+    "id": 97,
+    "type": "wordForm",
+    "sentence": "Please ________ that you have signed all the documents.",
+    "baseWord": "sure",
+    "answer": "ensure",
+    "explanation": "Câu mệnh lệnh cần một động từ ở đầu câu. Tiền tố 'en-' kết hợp với 'sure' tạo thành động từ 'đảm bảo'.",
+    "translate": "Vui lòng đảm bảo rằng bạn đã ký vào tất cả các tài liệu.",
+    "hint": "Động từ của tính từ 'sure'."
+  },
+  {
+    "id": 98,
+    "type": "wordForm",
+    "sentence": "The ________ of the mountain was covered in snow.",
+    "baseWord": "high",
+    "answer": "height",
+    "explanation": "Cần danh từ sau mạo từ 'The'. 'Height' là danh từ chỉ chiều cao hoặc đỉnh cao.",
+    "translate": "Đỉnh cao của ngọn núi đã bị tuyết bao phủ.",
+    "hint": "Danh từ của tính từ 'high'."
+  },
+  {
+    "id": 99,
+    "type": "wordForm",
+    "sentence": "He is an ________ boy who loves playing sports.",
+    "baseWord": "energy",
+    "answer": "energetic",
+    "explanation": "Cần tính từ đứng trước danh từ 'boy'. 'Energetic' (tràn đầy năng lượng) là tính từ của 'energy'.",
+    "translate": "Cậu ấy là một cậu bé năng động, rất thích chơi thể thao.",
+    "hint": "Tính từ của danh từ 'energy'."
+  },
+  {
+    "id": 100,
+    "type": "wordForm",
+    "sentence": "The price of oil has fluctuated ________ this year.",
+    "baseWord": "consider",
+    "answer": "considerably",
+    "explanation": "Cần trạng từ bổ nghĩa cho động từ 'fluctuated' (dao động). 'Considerably' nghĩa là một cách đáng kể.",
+    "translate": "Giá dầu đã biến động đáng kể trong năm nay.",
+    "hint": "Trạng từ của tính từ 'considerable'."
+  },
+  {
+    "id": 101,
+    "type": "wordForm",
+    "sentence": "You need to ________ your password for security reasons.",
+    "baseWord": "strong",
+    "answer": "strengthen",
+    "explanation": "Sau 'need to' là động từ. Hậu tố '-en' thêm vào danh từ/tính từ để tạo động từ 'làm cho mạnh lên'.",
+    "translate": "Bạn cần tăng cường mật khẩu của mình vì lý do bảo mật.",
+    "hint": "Động từ của tính từ 'strong'."
+  },
+  {
+    "id": 102,
+    "type": "wordForm",
+    "sentence": "The ________ between the two countries is improving.",
+    "baseWord": "relation",
+    "answer": "relationship",
+    "explanation": "Cần một danh từ chỉ mối quan hệ giữa hai thực thể. Hậu tố '-ship' giúp tạo danh từ chỉ trạng thái/mối quan hệ.",
+    "translate": "Mối quan hệ giữa hai nước đang được cải thiện.",
+    "hint": "Danh từ chỉ mối quan hệ từ 'relation'."
+  },
+  {
+    "id": 103,
+    "type": "wordForm",
+    "sentence": "It was a ________ decision to quit his job.",
+    "baseWord": "courage",
+    "answer": "courageous",
+    "explanation": "Cần tính từ đứng trước danh từ 'decision'. 'Courageous' (dũng cảm) mô tả tính chất của quyết định.",
+    "translate": "Đó là một quyết định dũng cảm khi bỏ việc.",
+    "hint": "Tính từ của danh từ 'courage'."
+  },
+  {
+    "id": 104,
+    "type": "wordForm",
+    "sentence": "The company provides ________ training for all staff.",
+    "baseWord": "profession",
+    "answer": "professional",
+    "explanation": "Cần tính từ bổ nghĩa cho danh từ 'training'. 'Professional' nghĩa là mang tính chuyên nghiệp.",
+    "translate": "Công ty cung cấp chương trình đào tạo chuyên nghiệp cho tất cả nhân viên.",
+    "hint": "Tính từ của danh từ 'profession'."
+  },
+  {
+    "id": 105,
+    "type": "wordForm",
+    "sentence": "Her ________ to the project was invaluable.",
+    "baseWord": "contribute",
+    "answer": "contribution",
+    "explanation": "Sau tính từ sở hữu 'Her' cần một danh từ. 'Contribution' là sự đóng góp.",
+    "translate": "Sự đóng góp của cô ấy cho dự án là vô giá.",
+    "hint": "Danh từ của động từ 'contribute'."
+  },
+  {
+    "id": 106,
+    "type": "wordForm",
+    "sentence": "He was ________ for several months before finding a job.",
+    "baseWord": "employ",
+    "answer": "unemployed",
+    "explanation": "Cần tính từ sau 'was'. Dựa vào ngữ cảnh 'trước khi tìm được việc', ta dùng tính từ mang nghĩa phủ định 'thất nghiệp'.",
+    "translate": "Anh ấy đã thất nghiệp trong vài tháng trước khi tìm được việc làm.",
+    "hint": "Tính từ phủ định của động từ 'employ' (thuê làm)."
+  },
+  {
+    "id": 107,
+    "type": "wordForm",
+    "sentence": "The ________ of the virus is a major concern for doctors.",
+    "baseWord": "spread",
+    "answer": "spreading",
+    "explanation": "Cần một danh từ/danh động từ làm chủ ngữ. Trong ngữ cảnh này 'spreading' hoặc danh từ 'spread' (sự lây lan) đều đúng, nhưng 'spreading' nhấn mạnh vào quá trình đang diễn ra.",
+    "translate": "Sự lây lan của virus là một mối quan tâm lớn đối với các bác sĩ.",
+    "hint": "Danh từ/Danh động từ chỉ sự lan rộng."
+  },
+  {
+    "id": 108,
+    "type": "wordForm",
+    "sentence": "He is ________ for his kindness and generosity.",
+    "baseWord": "know",
+    "answer": "well-known",
+    "explanation": "Cần một tính từ ghép (Compound Adjective) để miêu tả danh tiếng. 'Well-known' có nghĩa là nổi tiếng, được nhiều người biết đến.",
+    "translate": "Anh ấy nổi tiếng vì lòng tốt và sự hào hiệp của mình.",
+    "hint": "Tính từ ghép có nghĩa là 'nổi tiếng'."
+  },
+  {
+    "id": 109,
+    "type": "wordForm",
+    "sentence": "The ________ of the new law caused a lot of protest.",
+    "baseWord": "implement",
+    "answer": "implementation",
+    "explanation": "Sau mạo từ 'The' và trước giới từ 'of' cần một danh từ. 'Implementation' là sự thi hành, sự triển khai.",
+    "translate": "Việc thực thi luật mới đã gây ra rất nhiều cuộc biểu tình.",
+    "hint": "Danh từ của động từ 'implement'."
+  },
+  {
+    "id": 110,
+    "type": "wordForm",
+    "sentence": "The children were ________ to get their presents.",
+    "baseWord": "patient",
+    "answer": "impatient",
+    "explanation": "Dựa vào tâm lý trẻ em khi đợi quà, ta cần tính từ mang nghĩa phủ định 'nôn nóng'. Thêm tiền tố 'im-' vào trước 'patient'.",
+    "translate": "Lũ trẻ đã rất nôn nóng để nhận được quà của chúng.",
+    "hint": "Tính từ trái nghĩa với 'kiên nhẫn'."
+  },
+  {
+    "id": 111,
+    "type": "wordForm",
+    "sentence": "She has a ________ interest in photography.",
+    "baseWord": "passion",
+    "answer": "passionate",
+    "explanation": "Cần một tính từ bổ nghĩa cho danh từ 'interest'. 'Passionate' nghĩa là nồng nhiệt, đầy đam mê.",
+    "translate": "Cô ấy có một niềm đam mê mãnh liệt với nhiếp ảnh.",
+    "hint": "Tính từ của danh từ 'passion'."
+  },
+  {
+    "id": 112,
+    "type": "wordForm",
+    "sentence": "The experiment was ________ unsuccessful.",
+    "baseWord": "total",
+    "answer": "totally",
+    "explanation": "Trạng từ 'totally' bổ nghĩa cho tính từ 'unsuccessful' để nhấn mạnh mức độ thất bại (hoàn toàn).",
+    "translate": "Thí nghiệm đó đã hoàn toàn thất bại.",
+    "hint": "Trạng từ nhấn mạnh mức độ."
+  },
+  {
+    "id": 113,
+    "type": "wordForm",
+    "sentence": "The ________ of the ocean is still a mystery to us.",
+    "baseWord": "deep",
+    "answer": "depth",
+    "explanation": "Cần danh từ sau 'The'. 'Depth' là danh từ chỉ độ sâu, lưu ý cách biến đổi từ tính từ 'deep'.",
+    "translate": "Độ sâu của đại dương vẫn còn là một bí ẩn đối với chúng ta.",
+    "hint": "Danh từ của tính từ 'deep'."
+  },
+  {
+    "id": 114,
+    "type": "wordForm",
+    "sentence": "We need to ________ the costs before making a decision.",
+    "baseWord": "analysis",
+    "answer": "analyze",
+    "explanation": "Sau 'need to' là động từ. Đuôi '-ze' (hoặc -se) biến danh từ 'analysis' thành động từ 'analyze' (phân tích).",
+    "translate": "Chúng ta cần phân tích các chi phí trước khi đưa ra quyết định.",
+    "hint": "Động từ của danh từ 'analysis'."
+  },
+  {
+    "id": 115,
+    "type": "wordForm",
+    "sentence": "The company's success is ________ on its employees.",
+    "baseWord": "depend",
+    "answer": "dependent",
+    "explanation": "Sau 'is' và trước 'on' cần một tính từ. Cấu trúc 'to be dependent on' nghĩa là phụ thuộc vào cái gì đó.",
+    "translate": "Sự thành công của công ty phụ thuộc vào nhân viên của mình.",
+    "hint": "Tính từ của động từ 'depend'."
+  },
+  {
+    "id": 116,
+    "type": "wordForm",
+    "sentence": "He spoke ________ about his childhood experiences.",
+    "baseWord": "emotion",
+    "answer": "emotionally",
+    "explanation": "Cần trạng từ bổ nghĩa cho động từ 'spoke'. Ta chuyển từ danh từ 'emotion' -> tính từ 'emotional' -> trạng từ 'emotionally'.",
+    "translate": "Anh ấy đã nói một cách đầy xúc động về những trải nghiệm thời thơ ấu của mình.",
+    "hint": "Trạng từ mô tả cách thức nói chuyện."
+  },
+  {
+    "id": 117,
+    "type": "wordForm",
+    "sentence": "The ________ of the new museum will be next month.",
+    "baseWord": "open",
+    "answer": "opening",
+    "explanation": "Cần danh từ sau 'The'. 'Opening' ở đây chỉ sự khánh thành hoặc buổi khai trương.",
+    "translate": "Buổi khai trương bảo tàng mới sẽ diễn ra vào tháng tới.",
+    "hint": "Danh từ chỉ sự kiện bắt đầu."
+  },
+  {
+    "id": 118,
+    "type": "wordForm",
+    "sentence": "Smoking is ________ forbidden in this building.",
+    "baseWord": "strict",
+    "answer": "strictly",
+    "explanation": "Trạng từ 'strictly' (một cách nghiêm ngặt) bổ nghĩa cho phân từ 'forbidden' (bị cấm).",
+    "translate": "Hút thuốc bị nghiêm cấm trong tòa nhà này.",
+    "hint": "Trạng từ chỉ mức độ nghiêm ngặt."
+  },
+  {
+    "id": 119,
+    "type": "wordForm",
+    "sentence": "The news was ________ to everyone in the room.",
+    "baseWord": "shock",
+    "answer": "shocking",
+    "explanation": "Tính từ đuôi '-ing' mô tả tính chất của tin tức (tin tức gây sốc).",
+    "translate": "Tin tức đó thật chấn động đối với tất cả mọi người trong phòng.",
+    "hint": "Tính từ miêu tả tính chất sự vật."
+  },
+  {
+    "id": 120,
+    "type": "wordForm",
+    "sentence": "We should ________ more students to join the club.",
+    "baseWord": "courage",
+    "answer": "encourage",
+    "explanation": "Sau 'should' cần một động từ. Tiền tố 'en-' cộng với 'courage' tạo thành động từ 'khuyến khích/động viên'.",
+    "translate": "Chúng ta nên khuyến khích nhiều sinh viên hơn tham gia câu lạc bộ.",
+    "hint": "Động từ mang nghĩa 'tiếp thêm dũng khí/động viên'."
+  },
+  {
+    "id": 121,
+    "type": "wordForm",
+    "sentence": "The ________ of the sun is essential for plants.",
+    "baseWord": "bright",
+    "answer": "brightness",
+    "explanation": "Sau mạo từ 'The' và trước giới từ 'of' cần danh từ. Hậu tố '-ness' thường dùng để tạo danh từ từ tính từ.",
+    "translate": "Độ sáng của mặt trời là điều cần thiết cho thực vật.",
+    "hint": "Danh từ của tính từ 'bright'."
+  },
+  {
+    "id": 122,
+    "type": "wordForm",
+    "sentence": "He is an ________ runner and has won many races.",
+    "baseWord": "exception",
+    "answer": "exceptional",
+    "explanation": "Cần tính từ đứng trước danh từ 'runner'. 'Exceptional' nghĩa là xuất chúng, khác biệt với số đông.",
+    "translate": "Anh ấy là một người chạy bộ xuất chúng và đã giành được nhiều cuộc đua.",
+    "hint": "Tính từ mang nghĩa 'phi thường/xuất chúng'."
+  },
+  {
+    "id": 123,
+    "type": "wordForm",
+    "sentence": "The ________ of the city has increased significantly.",
+    "baseWord": "populate",
+    "answer": "population",
+    "explanation": "Cần danh từ làm chủ ngữ. 'Population' nghĩa là dân số.",
+    "translate": "Dân số của thành phố đã tăng lên đáng kể.",
+    "hint": "Danh từ của động từ 'populate'."
+  },
+  {
+    "id": 124,
+    "type": "wordForm",
+    "sentence": "I found his explanation very ________.",
+    "baseWord": "confuse",
+    "answer": "confusing",
+    "explanation": "Cần tính từ mô tả tính chất của 'explanation'. Đuôi '-ing' dùng cho vật gây ra cảm giác bối rối.",
+    "translate": "Tôi thấy lời giải thích của anh ta rất khó hiểu.",
+    "hint": "Tính từ miêu tả đặc điểm của sự vật."
+  },
+  {
+    "id": 125,
+    "type": "wordForm",
+    "sentence": "She ________ finished the marathon despite the pain.",
+    "baseWord": "brave",
+    "answer": "bravely",
+    "explanation": "Trạng từ 'bravely' bổ nghĩa cho hành động 'finished', thể hiện sự dũng cảm khi thực hiện.",
+    "translate": "Cô ấy đã hoàn thành cuộc marathon một cách dũng cảm bất chấp đau đớn.",
+    "hint": "Trạng từ của tính từ 'brave'."
+  },
+  {
+    "id": 126,
+    "type": "wordForm",
+    "sentence": "The ________ of the project is to reduce waste.",
+    "baseWord": "object",
+    "answer": "objective",
+    "explanation": "Ở đây ta cần danh từ 'objective' mang nghĩa là mục tiêu, mục đích (khác với 'object' là vật thể).",
+    "translate": "Mục tiêu của dự án là giảm thiểu rác thải.",
+    "hint": "Danh từ mang nghĩa 'mục tiêu'."
+  },
+  {
+    "id": 127,
+    "type": "wordForm",
+    "sentence": "He lacks the ________ to lift such heavy boxes.",
+    "baseWord": "strong",
+    "answer": "strength",
+    "explanation": "Sau mạo từ 'the' cần một danh từ. Lưu ý sự thay đổi đặc biệt từ tính từ 'strong' sang danh từ 'strength'.",
+    "translate": "Anh ấy thiếu sức mạnh để nhấc những chiếc hộp nặng như vậy.",
+    "hint": "Danh từ của tính từ 'strong'."
+  },
+  {
+    "id": 128,
+    "type": "wordForm",
+    "sentence": "The ________ of the new product was a huge success.",
+    "baseWord": "advertise",
+    "answer": "advertisement",
+    "explanation": "Cần danh từ chỉ sự quảng cáo sau 'The'. Hậu tố '-ment' được thêm vào sau động từ 'advertise'.",
+    "translate": "Việc quảng cáo sản phẩm mới đã thành công rực rỡ.",
+    "hint": "Danh từ của động từ 'advertise'."
+  },
+  {
+    "id": 129,
+    "type": "wordForm",
+    "sentence": "It is ________ to keep your password secret.",
+    "baseWord": "advise",
+    "answer": "advisable",
+    "explanation": "Cần một tính từ sau 'It is'. 'Advisable' nghĩa là nên làm, thích hợp để làm theo.",
+    "translate": "Bạn nên giữ bí mật mật khẩu của mình.",
+    "hint": "Tính từ của động từ 'advise'."
+  },
+  {
+    "id": 130,
+    "type": "wordForm",
+    "sentence": "The city is famous for its ________ buildings.",
+    "baseWord": "history",
+    "answer": "historic",
+    "explanation": "Cần tính từ đứng trước danh từ 'buildings'. Phân biệt: 'Historic' là cổ kính/có tầm quan trọng lịch sử, 'Historical' là thuộc về lịch sử.",
+    "translate": "Thành phố này nổi tiếng với những tòa nhà mang tính lịch sử.",
+    "hint": "Tính từ mô tả tính chất lịch sử/cổ kính."
+  },
+  {
+    "id": 131,
+    "type": "wordForm",
+    "sentence": "He was very ________ when I lost my job.",
+    "baseWord": "sympathy",
+    "answer": "sympathetic",
+    "explanation": "Cần tính từ sau 'was very' để mô tả thái độ. 'Sympathetic' nghĩa là đồng cảm, thông cảm.",
+    "translate": "Anh ấy đã rất thông cảm khi tôi mất việc.",
+    "hint": "Tính từ của danh từ 'sympathy'."
+  },
+  {
+    "id": 132,
+    "type": "wordForm",
+    "sentence": "We should ________ the use of plastic bags.",
+    "baseWord": "minimum",
+    "answer": "minimize",
+    "explanation": "Sau 'should' cần một động từ. Hậu tố '-ize' giúp tạo động từ mang nghĩa 'giảm thiểu đến mức thấp nhất'.",
+    "translate": "Chúng ta nên giảm thiểu việc sử dụng túi nilon.",
+    "hint": "Động từ của 'minimum'."
+  },
+  {
+    "id": 133,
+    "type": "wordForm",
+    "sentence": "There are several ________ between the two cultures.",
+    "baseWord": "similar",
+    "answer": "similarities",
+    "explanation": "Sau lượng từ 'several' cần một danh từ số nhiều. 'Similarity' là sự tương đồng.",
+    "translate": "Có một vài điểm tương đồng giữa hai nền văn hóa.",
+    "hint": "Danh từ số nhiều của 'similar'."
+  },
+  {
+    "id": 134,
+    "type": "wordForm",
+    "sentence": "The movie was ________ long and boring.",
+    "baseWord": "unbelieve",
+    "answer": "unbelievably",
+    "explanation": "Cần trạng từ để bổ nghĩa cho tính từ 'long'. 'Unbelievably' nghĩa là cực kỳ, đến mức không tin được.",
+    "translate": "Bộ phim dài và chán một cách khó tin.",
+    "hint": "Trạng từ nhấn mạnh mang nghĩa 'không thể tin được'."
+  },
+  {
+    "id": 135,
+    "type": "wordForm",
+    "sentence": "They are working on a ________ solution to the problem.",
+    "baseWord": "practice",
+    "answer": "practical",
+    "explanation": "Cần tính từ đứng trước 'solution'. 'Practical' nghĩa là thực tế, có tính khả thi.",
+    "translate": "Họ đang nghiên cứu một giải pháp thực tế cho vấn đề.",
+    "hint": "Tính từ của danh từ 'practice'."
+  },
+  {
+    "id": 136,
+    "type": "wordForm",
+    "sentence": "The ________ of the plane was delayed due to fog.",
+    "baseWord": "depart",
+    "answer": "departure",
+    "explanation": "Cần danh từ sau 'The'. 'Departure' là sự khởi hành, sự ra đi.",
+    "translate": "Sự khởi hành của máy bay đã bị hoãn do sương mù.",
+    "hint": "Danh từ của động từ 'depart'."
+  },
+  {
+    "id": 137,
+    "type": "wordForm",
+    "sentence": "She has an ________ voice that everyone loves.",
+    "baseWord": "amaze",
+    "answer": "amazing",
+    "explanation": "Cần tính từ đuôi '-ing' mô tả đặc điểm của giọng hát (gây ngạc nhiên/tuyệt vời).",
+    "translate": "Cô ấy có một giọng hát tuyệt vời mà ai cũng yêu thích.",
+    "hint": "Tính từ miêu tả đặc điểm sự vật/hiện tượng."
+  },
+  {
+    "id": 138,
+    "type": "wordForm",
+    "sentence": "The manager ________ the importancia of teamwork.",
+    "baseWord": "note",
+    "answer": "noted",
+    "explanation": "Cần một động từ chia ở thì quá khứ (hoặc hiện tại tùy ngữ cảnh) để chỉ hành động ghi chú hoặc lưu ý.",
+    "translate": "Người quản lý đã lưu ý về tầm quan trọng của việc làm việc nhóm.",
+    "hint": "Động từ chia theo thì phù hợp."
+  },
+  {
+    "id": 139,
+    "type": "wordForm",
+    "sentence": "You should ________ your skills to get a better job.",
+    "baseWord": "rich",
+    "answer": "enrich",
+    "explanation": "Sử dụng tiền tố 'en-' kết hợp với tính từ 'rich' để tạo động từ 'làm giàu thêm/trau dồi thêm'.",
+    "translate": "Bạn nên trau dồi các kỹ năng của mình để có được một công việc tốt hơn.",
+    "hint": "Động từ có nghĩa là 'làm cho phong phú thêm'."
+  },
+  {
+    "id": 140,
+    "type": "wordForm",
+    "sentence": "His ________ to win was very clear.",
+    "baseWord": "determine",
+    "answer": "determination",
+    "explanation": "Sau tính từ sở hữu 'His' cần một danh từ. 'Determination' nghĩa là sự quyết tâm.",
+    "translate": "Sự quyết tâm giành chiến thắng của anh ấy rất rõ ràng.",
+    "hint": "Danh từ của động từ 'determine'."
+  },
+  {
+    "id": 141,
+    "type": "wordForm",
+    "sentence": "She lives in a very ________ neighborhood.",
+    "baseWord": "peace",
+    "answer": "peaceful",
+    "explanation": "Cần tính từ bổ nghĩa cho 'neighborhood'. Hậu tố '-ful' tạo tính từ mang nghĩa 'yên bình'.",
+    "translate": "Cô ấy sống ở một khu phố rất yên bình.",
+    "hint": "Tính từ mang nghĩa 'yên tĩnh, thanh bình'."
+  },
+  {
+    "id": 142,
+    "type": "wordForm",
+    "sentence": "We were ________ with the service at the restaurant.",
+    "baseWord": "satisfy",
+    "answer": "dissatisfied",
+    "explanation": "Dựa vào ngữ cảnh thường dùng trong phàn nàn, ta dùng tiền tố 'dis-' và hậu tố '-ed' để tạo tính từ chỉ cảm giác không hài lòng.",
+    "translate": "Chúng tôi đã không hài lòng với dịch vụ tại nhà hàng đó.",
+    "hint": "Tính từ trái nghĩa với 'satisfied'."
+  },
+  {
+    "id": 143,
+    "type": "wordForm",
+    "sentence": "The ________ of fossil fuels is damaging the environment.",
+    "baseWord": "consume",
+    "answer": "consumption",
+    "explanation": "Cần danh từ chỉ sự tiêu thụ. Lưu ý biến đổi từ 'consume' sang 'consumption'.",
+    "translate": "Việc tiêu thụ nhiên liệu hóa thạch đang gây hại cho môi trường.",
+    "hint": "Danh từ của động từ 'consume'."
+  },
+  {
+    "id": 144,
+    "type": "wordForm",
+    "sentence": "He answered the question ________.",
+    "baseWord": "logic",
+    "answer": "logically",
+    "explanation": "Cần trạng từ bổ nghĩa cho cách thức trả lời (trả lời một cách logic).",
+    "translate": "Anh ấy đã trả lời câu hỏi một cách logic.",
+    "hint": "Trạng từ của tính từ 'logical'."
+  },
+  {
+    "id": 145,
+    "type": "wordForm",
+    "sentence": "The project needs a ________ investment of capital.",
+    "baseWord": "substance",
+    "answer": "substantial",
+    "explanation": "Cần tính từ bổ nghĩa cho 'investment'. 'Substantial' nghĩa là đáng kể, to lớn.",
+    "translate": "Dự án cần một sự đầu tư vốn đáng kể.",
+    "hint": "Tính từ mang nghĩa 'to lớn/đáng kể'."
+  },
+  {
+    "id": 146,
+    "type": "wordForm",
+    "sentence": "The ________ of the species is in danger.",
+    "baseWord": "survive",
+    "answer": "survival",
+    "explanation": "Sau 'The' cần danh từ. 'Survival' là sự sống còn, sự sinh tồn.",
+    "translate": "Sự sống còn của loài này đang gặp nguy hiểm.",
+    "hint": "Danh từ của động từ 'survive'."
+  },
+  {
+    "id": 147,
+    "type": "wordForm",
+    "sentence": "The company is looking for a ________ solution to the budget crisis.",
+    "baseWord": "profit",
+    "answer": "profitable",
+    "explanation": "Cần một tính từ đứng trước danh từ 'solution'. 'Profitable' nghĩa là có lợi nhuận hoặc mang lại hiệu quả về kinh tế.",
+    "translate": "Công ty đang tìm kiếm một giải pháp có lãi cho cuộc khủng hoảng ngân sách.",
+    "hint": "Tính từ của danh từ 'profit'."
+  },
+  {
+    "id": 148,
+    "type": "wordForm",
+    "sentence": "He was promoted to a ________ position last month.",
+    "baseWord": "manage",
+    "answer": "managerial",
+    "explanation": "Cần tính từ bổ nghĩa cho 'position'. 'Managerial' là tính từ thuộc về quản lý (khác với 'managing').",
+    "translate": "Anh ấy đã được thăng chức lên một vị trí quản lý vào tháng trước.",
+    "hint": "Tính từ liên quan đến cấp quản lý."
+  },
+  {
+    "id": 149,
+    "type": "wordForm",
+    "sentence": "The ________ of the new tax policy is still uncertain.",
+    "baseWord": "effective",
+    "answer": "effectiveness",
+    "explanation": "Sau 'The' cần danh từ. 'Effectiveness' là sự hiệu quả, tính hiệu lực của một chính sách.",
+    "translate": "Hiệu quả của chính sách thuế mới vẫn còn chưa chắc chắn.",
+    "hint": "Danh từ của tính từ 'effective'."
+  },
+  {
+    "id": 150,
+    "type": "wordForm",
+    "sentence": "We need to ________ the contract before signing it.",
+    "baseWord": "legal",
+    "answer": "legalize",
+    "explanation": "Sau 'need to' là động từ. 'Legalize' nghĩa là hợp pháp hóa.",
+    "translate": "Chúng ta cần hợp pháp hóa hợp đồng trước khi ký.",
+    "hint": "Động từ của tính từ 'legal'."
+  },
+  {
+    "id": 151,
+    "type": "wordForm",
+    "sentence": "The bank requires ________ of your identity.",
+    "baseWord": "prove",
+    "answer": "proof",
+    "explanation": "Sau động từ 'requires' cần một danh từ làm tân ngữ. Lưu ý sự thay đổi từ động từ 'prove' sang danh từ 'proof'.",
+    "translate": "Ngân hàng yêu cầu bằng chứng về danh tính của bạn.",
+    "hint": "Danh từ của động từ 'prove' (bằng chứng)."
+  },
+  {
+    "id": 152,
+    "type": "wordForm",
+    "sentence": "The marketing campaign was ________ successful.",
+    "baseWord": "commerce",
+    "answer": "commercially",
+    "explanation": "Cần trạng từ bổ nghĩa cho tính từ 'successful'. 'Commercially successful' là thành công về mặt thương mại.",
+    "translate": "Chiến dịch tiếp thị đã thành công rực rỡ về mặt thương mại.",
+    "hint": "Trạng từ của danh từ 'commerce'."
+  },
+  {
+    "id": 153,
+    "type": "wordForm",
+    "sentence": "There is a ________ demand for organic food nowadays.",
+    "baseWord": "grow",
+    "answer": "growing",
+    "explanation": "Sử dụng hiện tại phân từ (V-ing) như một tính từ để mô tả xu hướng đang tăng lên.",
+    "translate": "Ngày nay có một nhu cầu đang tăng cao đối với thực phẩm hữu cơ.",
+    "hint": "Tính từ mô tả xu hướng đang diễn ra."
+  },
+  {
+    "id": 154,
+    "type": "wordForm",
+    "sentence": "The workers are ________ for higher wages.",
+    "baseWord": "negotiate",
+    "answer": "negotiating",
+    "explanation": "Chia động từ ở thì hiện tại tiếp diễn (are + V-ing) để chỉ hành động đang thực hiện.",
+    "translate": "Các công nhân đang thương lượng để có mức lương cao hơn.",
+    "hint": "Dạng V-ing của động từ 'negotiate'."
+  },
+  {
+    "id": 155,
+    "type": "wordForm",
+    "sentence": "She has a very ________ approach to problem-solving.",
+    "baseWord": "analysis",
+    "answer": "analytical",
+    "explanation": "Cần tính từ đứng trước 'approach'. 'Analytical' nghĩa là có tính phân tích, thấu đáo.",
+    "translate": "Cô ấy có một cách tiếp cận rất mang tính phân tích để giải quyết vấn đề.",
+    "hint": "Tính từ của danh từ 'analysis'."
+  },
+  {
+    "id": 156,
+    "type": "wordForm",
+    "sentence": "The ________ of the meeting was to set new targets.",
+    "baseWord": "intending",
+    "answer": "intention",
+    "explanation": "Cần danh từ làm chủ ngữ. 'Intention' là ý định, mục đích.",
+    "translate": "Ý định của cuộc họp là để thiết lập các mục tiêu mới.",
+    "hint": "Danh từ của động từ 'intend'."
+  },
+  {
+    "id": 157,
+    "type": "wordForm",
+    "sentence": "The new software is ________ with most operating systems.",
+    "baseWord": "compare",
+    "answer": "compatible",
+    "explanation": "Sau 'is' và đi với giới từ 'with', ta cần tính từ 'compatible' (tương thích).",
+    "translate": "Phần mềm mới tương thích với hầu hết các hệ điều hành.",
+    "hint": "Tính từ mang nghĩa 'tương thích'."
+  },
+  {
+    "id": 158,
+    "type": "wordForm",
+    "sentence": "He gave a ________ account of the events.",
+    "baseWord": "rely",
+    "answer": "reliable",
+    "explanation": "Cần tính từ bổ nghĩa cho 'account' (bản tường thuật). 'Reliable' là đáng tin cậy.",
+    "translate": "Anh ấy đã đưa ra một bản tường thuật đáng tin cậy về các sự kiện.",
+    "hint": "Tính từ mang nghĩa 'có thể tin cậy'."
+  },
+  {
+    "id": 159,
+    "type": "wordForm",
+    "sentence": "The government provided ________ aid to the victims.",
+    "baseWord": "finance",
+    "answer": "financial",
+    "explanation": "Cần tính từ đứng trước danh từ 'aid' (sự viện trợ). 'Financial' thuộc về tài chính.",
+    "translate": "Chính phủ đã cung cấp viện trợ tài chính cho các nạn nhân.",
+    "hint": "Tính từ của danh từ 'finance'."
+  },
+  {
+    "id": 160,
+    "type": "wordForm",
+    "sentence": "The ________ of the company has been steady.",
+    "baseWord": "expand",
+    "answer": "expansion",
+    "explanation": "Sau 'The' cần danh từ. 'Expansion' là sự mở rộng quy mô.",
+    "translate": "Sự mở rộng của công ty đã diễn ra đều đặn.",
+    "hint": "Danh từ của động từ 'expand'."
+  },
+  {
+    "id": 161,
+    "type": "wordForm",
+    "sentence": "He is ________ for the loss of the documents.",
+    "baseWord": "response",
+    "answer": "responsible",
+    "explanation": "Cấu trúc 'to be responsible for' nghĩa là chịu trách nhiệm cho việc gì.",
+    "translate": "Anh ấy chịu trách nhiệm cho việc làm mất các tài liệu.",
+    "hint": "Tính từ của danh từ 'response'."
+  },
+  {
+    "id": 162,
+    "type": "wordForm",
+    "sentence": "The machine operates ________.",
+    "baseWord": "automatic",
+    "answer": "automatically",
+    "explanation": "Trạng từ 'automatically' bổ nghĩa cho động từ 'operates'.",
+    "translate": "Máy móc vận hành một cách tự động.",
+    "hint": "Trạng từ của tính từ 'automatic'."
+  },
+  {
+    "id": 163,
+    "type": "wordForm",
+    "sentence": "We must take ________ action to solve the problem.",
+    "baseWord": "decide",
+    "answer": "decisive",
+    "explanation": "Cần tính từ đứng trước 'action'. 'Decisive action' là hành động quyết đoán/mang tính quyết định.",
+    "translate": "Chúng ta phải có hành động quyết đoán để giải quyết vấn đề.",
+    "hint": "Tính từ của động từ 'decide'."
+  },
+  {
+    "id": 164,
+    "type": "wordForm",
+    "sentence": "There is a ________ of skilled workers in the tech industry.",
+    "baseWord": "scarce",
+    "answer": "scarcity",
+    "explanation": "Sau 'a' cần danh từ. 'Scarcity' là sự khan hiếm.",
+    "translate": "Có một sự khan hiếm công nhân lành nghề trong ngành công nghệ.",
+    "hint": "Danh từ của tính từ 'scarce'."
+  },
+  {
+    "id": 165,
+    "type": "wordForm",
+    "sentence": "The data was ________ collected over five years.",
+    "baseWord": "system",
+    "answer": "systematically",
+    "explanation": "Trạng từ 'systematically' bổ nghĩa cho phân từ 'collected' (được thu thập một cách có hệ thống).",
+    "translate": "Dữ liệu đã được thu thập một cách có hệ thống trong suốt năm năm.",
+    "hint": "Trạng từ của danh từ 'system'."
+  },
+  {
+    "id": 166,
+    "type": "wordForm",
+    "sentence": "The ________ of the building was completed ahead of schedule.",
+    "baseWord": "renovate",
+    "answer": "renovation",
+    "explanation": "Cần danh từ chỉ sự cải tạo/nâng cấp tòa nhà sau 'The'.",
+    "translate": "Việc cải tạo tòa nhà đã được hoàn thành trước thời hạn.",
+    "hint": "Danh từ của động từ 'renovate'."
+  }
+]

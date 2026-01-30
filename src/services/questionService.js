@@ -1,51 +1,62 @@
 const fs = require("fs");
-const { get } = require("http");
 const path = require("path");
 
-// Sử dụng process.cwd() để lấy thư mục gốc nơi chạy lệnh node
 const DATA_DIR = path.join(process.cwd(), "data");
 
 let GLOBAL_QUESTION_BANK = [];
 
+/**
+ * Duyệt thư mục đệ quy, lấy tất cả file .json
+ */
+const getAllJsonFiles = (dirPath, arrayOfFiles = []) => {
+  const files = fs.readdirSync(dirPath);
+
+  files.forEach((file) => {
+    const fullPath = path.join(dirPath, file);
+
+    if (fs.statSync(fullPath).isDirectory()) {
+      getAllJsonFiles(fullPath, arrayOfFiles);
+    } else if (file.endsWith(".json")) {
+      arrayOfFiles.push(fullPath);
+    }
+  });
+
+  return arrayOfFiles;
+};
+
 const loadDatabase = () => {
   try {
-    let count = 0;
-    const allFiles = [];
-
-    // Reset lại kho câu hỏi
     GLOBAL_QUESTION_BANK = [];
+    let count = 0;
 
-    if (fs.existsSync(DATA_DIR)) {
-      const levels = fs.readdirSync(DATA_DIR);
-
-      levels.forEach((level) => {
-        const levelPath = path.join(DATA_DIR, level);
-        if (fs.statSync(levelPath).isDirectory()) {
-          const files = fs.readdirSync(levelPath);
-          files.forEach((file) => {
-            if (file.endsWith(".json")) {
-              const filePath = path.join(levelPath, file);
-              const fileContent = fs.readFileSync(filePath, "utf-8");
-              try {
-                const questions = JSON.parse(fileContent);
-                if (Array.isArray(questions)) {
-                  GLOBAL_QUESTION_BANK.push(...questions);
-                  count += questions.length;
-                  allFiles.push(`${level}/${file}`);
-                }
-              } catch (err) {
-                console.error(`⚠️ Lỗi cú pháp JSON ở file ${file}:`, err.message);
-              }
-            }
-          });
-        }
-      });
+    if (!fs.existsSync(DATA_DIR)) {
+      console.warn("⚠️ Folder data không tồn tại");
+      return false;
     }
 
+    const jsonFiles = getAllJsonFiles(DATA_DIR);
+
+    jsonFiles.forEach((filePath) => {
+      try {
+        const fileContent = fs.readFileSync(filePath, "utf-8");
+        const data = JSON.parse(fileContent);
+
+        if (Array.isArray(data)) {
+          GLOBAL_QUESTION_BANK.push(...data);
+          count += data.length;
+        }
+      } catch (err) {
+        console.error(`⚠️ Lỗi JSON ở file ${filePath}:`, err.message);
+      }
+    });
+
     console.log("------------------------------------------------");
-    console.log(`✅ Đã load thành công ${count} mục dữ liệu từ:`);
-    console.log(allFiles.join(", "));
+    console.log(`✅ Đã load ${count} câu hỏi từ ${jsonFiles.length} file`);
+    jsonFiles.forEach((f) =>
+      console.log("📄", path.relative(DATA_DIR, f))
+    );
     console.log("------------------------------------------------");
+
     return true;
   } catch (error) {
     console.error("❌ Lỗi load dữ liệu:", error);
@@ -53,13 +64,15 @@ const loadDatabase = () => {
   }
 };
 
-// Hàm lấy dữ liệu (Getter)
+// Getter
 const getQuestionsByType = (type) => {
   return GLOBAL_QUESTION_BANK.filter((q) => q.type === type);
 };
 
 const getQuestionsByTypeAndLevel = (type, level) => {
-  return GLOBAL_QUESTION_BANK.filter((q) => q.type === type && q.level === level);
+  return GLOBAL_QUESTION_BANK.filter(
+    (q) => q.type === type && q.level === level
+  );
 };
 
 module.exports = {
