@@ -9,7 +9,8 @@ router.post("/generate-quiz-vocab", quizController.generateQuizVocab);
 
 // english quiz routes
 router.post("/generate-quiz-wordForm", quizControllerEnglish.generateQuizEnglishWordForm);
-
+router.post("/generate-quiz-suffixes", quizControllerEnglish.generateQuizEnglishSuffixes);
+router.post("/generate-quiz-error", quizControllerEnglish.generateQuizEnglishPrefixes);
 
 router.get("/reload-data", quizController.reloadData);
 

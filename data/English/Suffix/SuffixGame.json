@@ -1,0 +1,3222 @@
+[
+  {
+    "id": 1,
+    "type": "suffixes",
+    "sentence": "The internet has changed the way we _______ with each other.",
+    "options": [
+      { "key": "A", "text": "communication", "type": "Noun" },
+      { "key": "B", "text": "communicate", "type": "Verb" },
+      { "key": "C", "text": "communicative", "type": "Adj" },
+      { "key": "D", "text": "communicator", "type": "Noun (Person)" }
+    ],
+    "answer": "B",
+    "hint": "Sau chủ ngữ 'we' và trước cụm giới từ cần một Động từ chính (V-bare).",
+    "translate": "Internet đã thay đổi cách chúng ta giao tiếp với nhau."
+  },
+  {
+    "id": 2,
+    "type": "suffixes",
+    "sentence": "The manager provided a _______ explanation of the new company policy.",
+    "options": [
+      { "key": "A", "text": "clear", "type": "Adj" },
+      { "key": "B", "text": "clearing", "type": "V-ing" },
+      { "key": "C", "text": "clearly", "type": "Adv" },
+      { "key": "D", "text": "clearness", "type": "Noun" }
+    ],
+    "answer": "A",
+    "hint": "Đứng trước danh từ 'explanation' cần một Tính từ để bổ nghĩa.",
+    "translate": "Quản lý đã đưa ra một lời giải thích rõ ràng về chính sách mới của công ty."
+  },
+  {
+    "id": 3,
+    "type": "suffixes",
+    "sentence": "Our team worked _______ to finish the project before the deadline.",
+    "options": [
+      { "key": "A", "text": "hardship", "type": "Noun" },
+      { "key": "B", "text": "hardly", "type": "Adv" },
+      { "key": "C", "text": "harder", "type": "Adj/Adv (Comp)" },
+      { "key": "D", "text": "hard", "type": "Adj/Adv" }
+    ],
+    "answer": "D",
+    "hint": "Cần một trạng từ bổ nghĩa cho động từ 'worked'. Lưu ý: 'hard' vừa là tính từ vừa là trạng từ (chăm chỉ), còn 'hardly' nghĩa là 'hiếm khi'.",
+    "translate": "Nhóm của chúng tôi đã làm việc chăm chỉ để hoàn thành dự án trước thời hạn."
+  },
+  {
+    "id": 4,
+    "type": "suffixes",
+    "sentence": "The marketing department is looking for a _______ candidate for the position.",
+    "options": [
+      { "key": "A", "text": "creativity", "type": "Noun" },
+      { "key": "B", "text": "create", "type": "Verb" },
+      { "key": "C", "text": "creative", "type": "Adj" },
+      { "key": "D", "text": "creatively", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Cấu trúc 'a + Adj + Noun'. 'Creative' (hậu tố -ive) là tính từ bổ nghĩa cho 'candidate'.",
+    "translate": "Bộ phận marketing đang tìm kiếm một ứng viên sáng tạo cho vị trí này."
+  },
+  {
+    "id": 5,
+    "type": "suffixes",
+    "sentence": "Please submit your _______ to the human resources office by Friday.",
+    "options": [
+      { "key": "A", "text": "apply", "type": "Verb" },
+      { "key": "B", "text": "applicant", "type": "Noun (Person)" },
+      { "key": "C", "text": "applicable", "type": "Adj" },
+      { "key": "D", "text": "application", "type": "Noun (Thing)" }
+    ],
+    "answer": "D",
+    "hint": "Sau tính từ sở hữu 'your' cần một Danh từ. Dựa vào ngữ cảnh 'submit' (nộp), ta chọn 'application' (đơn ứng tuyển).",
+    "translate": "Vui lòng nộp đơn ứng tuyển của bạn cho văn phòng nhân sự trước thứ Sáu."
+  },
+  {
+    "id": 6,
+    "type": "suffixes",
+    "sentence": "The new software system is _______ efficient compared to the old one.",
+    "options": [
+      { "key": "A", "text": "remark", "type": "Verb" },
+      { "key": "B", "text": "remarkable", "type": "Adj" },
+      { "key": "C", "text": "remarkably", "type": "Adv" },
+      { "key": "D", "text": "remarked", "type": "V-ed" }
+    ],
+    "answer": "C",
+    "hint": "Đứng trước tính từ 'efficient' cần một Trạng từ (hậu tố -ly) để bổ nghĩa.",
+    "translate": "Hệ thống phần mềm mới hiệu quả một cách đáng kể so với hệ thống cũ."
+  },
+  {
+    "id": 7,
+    "type": "suffixes",
+    "sentence": "All employees are encouraged to _______ in the upcoming workshop.",
+    "options": [
+      { "key": "A", "text": "participation", "type": "Noun" },
+      { "key": "B", "text": "participate", "type": "Verb" },
+      { "key": "C", "text": "participant", "type": "Noun (Person)" },
+      { "key": "D", "text": "participatory", "type": "Adj" }
+    ],
+    "answer": "B",
+    "hint": "Sau cấu trúc 'be encouraged to' cần một Động từ nguyên mẫu (V-bare).",
+    "translate": "Tất cả nhân viên được khuyến khích tham gia vào buổi hội thảo sắp tới."
+  },
+  {
+    "id": 8,
+    "type": "suffixes",
+    "sentence": "The CEO expressed _______ regarding the company's growth next year.",
+    "options": [
+      { "key": "A", "text": "optimism", "type": "Noun" },
+      { "key": "B", "text": "optimistic", "type": "Adj" },
+      { "key": "C", "text": "optimistically", "type": "Adv" },
+      { "key": "D", "text": "optimize", "type": "Verb" }
+    ],
+    "answer": "A",
+    "hint": "Sau động từ ngoại động 'expressed' cần một Danh từ làm tân ngữ.",
+    "translate": "Giám đốc điều hành đã bày tỏ sự lạc quan về sự tăng trưởng của công ty trong năm tới."
+  },
+  {
+    "id": 9,
+    "type": "suffixes",
+    "sentence": "The technical support team solved the problem _______.",
+    "options": [
+      { "key": "A", "text": "quick", "type": "Adj" },
+      { "key": "B", "text": "quickness", "type": "Noun" },
+      { "key": "C", "text": "quicken", "type": "Verb" },
+      { "key": "D", "text": "quickly", "type": "Adv" }
+    ],
+    "answer": "D",
+    "hint": "Cần một trạng từ đứng cuối câu để bổ nghĩa cho động từ 'solved'.",
+    "translate": "Đội hỗ trợ kỹ thuật đã giải quyết vấn đề một cách nhanh chóng."
+  },
+  {
+    "id": 10,
+    "type": "suffixes",
+    "sentence": "The board members had a long _______ about the budget cuts.",
+    "options": [
+      { "key": "A", "text": "discuss", "type": "Verb" },
+      { "key": "B", "text": "discussion", "type": "Noun" },
+      { "key": "C", "text": "discussible", "type": "Adj" },
+      { "key": "D", "text": "discursive", "type": "Adj" }
+    ],
+    "answer": "B",
+    "hint": "Sau tính từ 'long' và mạo từ 'a' cần một Danh từ.",
+    "translate": "Các thành viên ban quản trị đã có một cuộc thảo luận dài về việc cắt giảm ngân sách."
+  },
+  {
+    "id": 11,
+    "type": "suffixes",
+    "sentence": "The recent _______ in technology has led to significant changes in the workplace.",
+    "options": [
+      { "key": "A", "text": "advance", "type": "Verb/Noun" },
+      { "key": "B", "text": "advancement", "type": "Noun (-ment)" },
+      { "key": "C", "text": "advanced", "type": "Adj (-ed)" },
+      { "key": "D", "text": "advancing", "type": "V-ing" }
+    ],
+    "answer": "B",
+    "hint": "Sau tính từ 'recent' và trước giới từ 'in' cần một danh từ chỉ sự tiến bộ.",
+    "translate": "Sự tiến bộ gần đây trong công nghệ đã dẫn đến những thay đổi đáng kể tại nơi làm việc."
+  },
+  {
+    "id": 12,
+    "type": "suffixes",
+    "sentence": "Employees must dress _______ when meeting with high-profile clients.",
+    "options": [
+      { "key": "A", "text": "professional", "type": "Adj" },
+      { "key": "B", "text": "profession", "type": "Noun" },
+      { "key": "C", "text": "professionally", "type": "Adv (-ly)" },
+      { "key": "D", "text": "professionalism", "type": "Noun (-ism)" }
+    ],
+    "answer": "C",
+    "hint": "Cần một trạng từ để bổ nghĩa cho động từ 'dress' (ăn mặc như thế nào).",
+    "translate": "Nhân viên phải ăn mặc một cách chuyên nghiệp khi gặp gỡ những khách hàng quan trọng."
+  },
+  {
+    "id": 13,
+    "type": "suffixes",
+    "sentence": "The committee reached a _______ decision after hours of debate.",
+    "options": [
+      { "key": "A", "text": "final", "type": "Adj (-al)" },
+      { "key": "B", "text": "finally", "type": "Adv" },
+      { "key": "C", "text": "finalize", "type": "Verb (-ize)" },
+      { "key": "D", "text": "finality", "type": "Noun (-ity)" }
+    ],
+    "answer": "A",
+    "hint": "Cấu trúc 'a + Adj + Noun'. 'Final' bổ nghĩa cho danh từ 'decision'.",
+    "translate": "Ủy ban đã đưa ra quyết định cuối cùng sau nhiều giờ tranh luận."
+  },
+  {
+    "id": 14,
+    "type": "suffixes",
+    "sentence": "We need to _______ the production process to meet the increasing demand.",
+    "options": [
+      { "key": "A", "text": "modern", "type": "Adj" },
+      { "key": "B", "text": "modernize", "type": "Verb (-ize)" },
+      { "key": "C", "text": "modernization", "type": "Noun" },
+      { "key": "D", "text": "modernly", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Sau 'need to' cần một động từ nguyên mẫu (V-bare).",
+    "translate": "Chúng ta cần hiện đại hóa quy trình sản xuất để đáp ứng nhu cầu ngày càng tăng."
+  },
+  {
+    "id": 15,
+    "type": "suffixes",
+    "sentence": "The new marketing strategy was _______ successful in attracting young customers.",
+    "options": [
+      { "key": "A", "text": "extreme", "type": "Adj" },
+      { "key": "B", "text": "extremist", "type": "Noun" },
+      { "key": "C", "text": "extremely", "type": "Adv (-ly)" },
+      { "key": "D", "text": "extremity", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Cần trạng từ bổ nghĩa cho tính từ 'successful'.",
+    "translate": "Chiến lược tiếp thị mới đã cực kỳ thành công trong việc thu hút khách hàng trẻ."
+  },
+  {
+    "id": 16,
+    "type": "suffixes",
+    "sentence": "Please provide a _______ of your previous work experience.",
+    "options": [
+      { "key": "A", "text": "summarize", "type": "Verb" },
+      { "key": "B", "text": "summary", "type": "Noun (-y)" },
+      { "key": "C", "text": "summarily", "type": "Adv" },
+      { "key": "D", "text": "summarizing", "type": "V-ing" }
+    ],
+    "answer": "B",
+    "hint": "Sau mạo từ 'a' cần một danh từ.",
+    "translate": "Vui lòng cung cấp một bản tóm tắt về kinh nghiệm làm việc trước đây của bạn."
+  },
+  {
+    "id": 17,
+    "type": "suffixes",
+    "sentence": "The supervisor was impressed by the _______ of the project report.",
+    "options": [
+      { "key": "A", "text": "accurate", "type": "Adj" },
+      { "key": "B", "text": "accurately", "type": "Adv" },
+      { "key": "C", "text": "accuracy", "type": "Noun (-acy)" },
+      { "key": "D", "text": "accurateness", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ.",
+    "translate": "Người giám sát đã bị ấn tượng bởi sự chính xác của bản báo cáo dự án."
+  },
+  {
+    "id": 18,
+    "type": "suffixes",
+    "sentence": "Ms. Lee is a highly _______ architect who has won several awards.",
+    "options": [
+      { "key": "A", "text": "competence", "type": "Noun" },
+      { "key": "B", "text": "competently", "type": "Adv" },
+      { "key": "C", "text": "compete", "type": "Verb" },
+      { "key": "D", "text": "competent", "type": "Adj (-ent)" }
+    ],
+    "answer": "D",
+    "hint": "Sau trạng từ 'highly' và trước danh từ 'architect' cần một tính từ.",
+    "translate": "Bà Lee là một kiến trúc sư rất có năng lực, người đã giành được nhiều giải thưởng."
+  },
+  {
+    "id": 19,
+    "type": "suffixes",
+    "sentence": "The bank requires _______ of identity before opening a new account.",
+    "options": [
+      { "key": "A", "text": "verify", "type": "Verb" },
+      { "key": "B", "text": "verifiable", "type": "Adj" },
+      { "key": "C", "text": "verification", "type": "Noun (-tion)" },
+      { "key": "D", "text": "verified", "type": "V-ed" }
+    ],
+    "answer": "C",
+    "hint": "Sau động từ 'requires' cần một danh từ làm tân ngữ.",
+    "translate": "Ngân hàng yêu cầu sự xác minh danh tính trước khi mở một tài khoản mới."
+  },
+  {
+    "id": 20,
+    "type": "suffixes",
+    "sentence": "The company offers a _______ salary and excellent benefits.",
+    "options": [
+      { "key": "A", "text": "competitor", "type": "Noun (Person)" },
+      { "key": "B", "text": "competitive", "type": "Adj (-ive)" },
+      { "key": "C", "text": "competitively", "type": "Adv" },
+      { "key": "D", "text": "competition", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Cấu trúc 'a + Adj + Noun'. 'Competitive' (cạnh tranh) bổ nghĩa cho 'salary'.",
+    "translate": "Công ty đưa ra mức lương cạnh tranh và các chế độ đãi ngộ tuyệt vời."
+  },
+  {
+    "id": 21,
+    "type": "suffixes",
+    "sentence": "We hope to _______ our partnership with the local suppliers.",
+    "options": [
+      { "key": "A", "text": "strong", "type": "Adj" },
+      { "key": "B", "text": "strength", "type": "Noun" },
+      { "key": "C", "text": "strengthen", "type": "Verb (-en)" },
+      { "key": "D", "text": "strongly", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Sau 'hope to' cần một động từ nguyên mẫu.",
+    "translate": "Chúng tôi hy vọng sẽ thắt chặt/tăng cường mối quan hệ hợp tác với các nhà cung cấp địa phương."
+  },
+  {
+    "id": 22,
+    "type": "suffixes",
+    "sentence": "The information in the brochure is _______ and may change without notice.",
+    "options": [
+      { "key": "A", "text": "tentative", "type": "Adj (-ive)" },
+      { "key": "B", "text": "tentatively", "type": "Adv" },
+      { "key": "C", "text": "tentativeness", "type": "Noun" },
+      { "key": "D", "text": "tentativeist", "type": "Noun" }
+    ],
+    "answer": "A",
+    "hint": "Sau động từ to-be 'is' cần một tính từ.",
+    "translate": "Thông tin trong sách hướng dẫn là dự kiến và có thể thay đổi mà không cần thông báo."
+  },
+  {
+    "id": 23,
+    "type": "suffixes",
+    "sentence": "The technician performed the repairs _______ to avoid any further issues.",
+    "options": [
+      { "key": "A", "text": "careful", "type": "Adj" },
+      { "key": "B", "text": "carefully", "type": "Adv (-ly)" },
+      { "key": "C", "text": "carefulness", "type": "Noun" },
+      { "key": "D", "text": "care", "type": "Noun/Verb" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho hành động 'performed the repairs'.",
+    "translate": "Kỹ thuật viên đã thực hiện việc sửa chữa một cách cẩn thận để tránh bất kỳ vấn đề nào phát sinh thêm."
+  },
+  {
+    "id": 24,
+    "type": "suffixes",
+    "sentence": "There is a high _______ that the merger will be approved.",
+    "options": [
+      { "key": "A", "text": "probable", "type": "Adj" },
+      { "key": "B", "text": "probably", "type": "Adv" },
+      { "key": "C", "text": "probability", "type": "Noun (-ity)" },
+      { "key": "D", "text": "probabilist", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Sau tính từ 'high' cần một danh từ.",
+    "translate": "Có khả năng cao là việc sáp nhập sẽ được thông qua."
+  },
+  {
+    "id": 25,
+    "type": "suffixes",
+    "sentence": "The new law will _______ affect small businesses in the region.",
+    "options": [
+      { "key": "A", "text": "direct", "type": "Adj" },
+      { "key": "B", "text": "direction", "type": "Noun" },
+      { "key": "C", "text": "directly", "type": "Adv (-ly)" },
+      { "key": "D", "text": "director", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ đứng giữa trợ động từ 'will' và động từ chính 'affect' để bổ nghĩa.",
+    "translate": "Luật mới sẽ ảnh hưởng trực tiếp đến các doanh nghiệp nhỏ trong khu vực."
+  },
+  {
+    "id": 26,
+    "type": "suffixes",
+    "sentence": "The company's _______ to quality has made it a leader in the industry.",
+    "options": [
+      { "key": "A", "text": "commit", "type": "Verb" },
+      { "key": "B", "text": "committed", "type": "Adj" },
+      { "key": "C", "text": "commitment", "type": "Noun (-ment)" },
+      { "key": "D", "text": "committing", "type": "V-ing" }
+    ],
+    "answer": "C",
+    "hint": "Sở hữu cách 'company's' phải đi kèm với một danh từ.",
+    "translate": "Sự cam kết về chất lượng của công ty đã giúp nó trở thành đơn vị dẫn đầu trong ngành."
+  },
+  {
+    "id": 27,
+    "type": "suffixes",
+    "sentence": "Please ensure that all _______ are signed before the end of the day.",
+    "options": [
+      { "key": "A", "text": "agree", "type": "Verb" },
+      { "key": "B", "text": "agreed", "type": "V-ed" },
+      { "key": "C", "text": "agreeable", "type": "Adj" },
+      { "key": "D", "text": "agreements", "type": "Noun (-ment)" }
+    ],
+    "answer": "D",
+    "hint": "Sau 'all' và đóng vai trò chủ ngữ của 'are signed' cần một danh từ số nhiều.",
+    "translate": "Vui lòng đảm bảo rằng tất cả các thỏa thuận đều được ký trước khi kết thúc ngày."
+  },
+  {
+    "id": 28,
+    "type": "suffixes",
+    "sentence": "The speakers at the conference were very _______.",
+    "options": [
+      { "key": "A", "text": "inform", "type": "Verb" },
+      { "key": "B", "text": "informative", "type": "Adj (-ive)" },
+      { "key": "C", "text": "information", "type": "Noun" },
+      { "key": "D", "text": "informatively", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Sau trạng từ chỉ mức độ 'very' và động từ to-be 'were' cần một tính từ.",
+    "translate": "Các diễn giả tại hội nghị đã cung cấp rất nhiều thông tin hữu ích."
+  },
+  {
+    "id": 29,
+    "type": "suffixes",
+    "sentence": "The laboratory follows strict _______ procedures to ensure safety.",
+    "options": [
+      { "key": "A", "text": "operate", "type": "Verb" },
+      { "key": "B", "text": "operation", "type": "Noun" },
+      { "key": "C", "text": "operational", "type": "Adj (-al)" },
+      { "key": "D", "text": "operatively", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Cần một tính từ bổ nghĩa cho danh từ 'procedures'.",
+    "translate": "Phòng thí nghiệm tuân thủ các quy trình vận hành nghiêm ngặt để đảm bảo an toàn."
+  },
+  {
+    "id": 30,
+    "type": "suffixes",
+    "sentence": "The hotel is _______ located near the city's main attractions.",
+    "options": [
+      { "key": "A", "text": "convenience", "type": "Noun" },
+      { "key": "B", "text": "convenient", "type": "Adj" },
+      { "key": "C", "text": "conveniently", "type": "Adv (-ly)" },
+      { "key": "D", "text": "convening", "type": "V-ing" }
+    ],
+    "answer": "C",
+    "hint": "Cấu trúc 'be + Adv + P2 (located)'. Trạng từ bổ nghĩa cho vị trí.",
+    "translate": "Khách sạn nằm ở vị trí thuận tiện gần các điểm tham quan chính của thành phố."
+  },
+  {
+    "id": 31,
+    "type": "suffixes",
+    "sentence": "The government is offering _______ support to start-up companies.",
+    "options": [
+      { "key": "A", "text": "finance", "type": "Noun/Verb" },
+      { "key": "B", "text": "financial", "type": "Adj (-ial)" },
+      { "key": "C", "text": "financially", "type": "Adv" },
+      { "key": "D", "text": "financier", "type": "Noun (Person)" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'support'.",
+    "translate": "Chính phủ đang cung cấp hỗ trợ tài chính cho các công ty khởi nghiệp."
+  },
+  {
+    "id": 32,
+    "type": "suffixes",
+    "sentence": "The production team must work _______ to improve the product quality.",
+    "options": [
+      { "key": "A", "text": "collaborative", "type": "Adj" },
+      { "key": "B", "text": "collaboration", "type": "Noun" },
+      { "key": "C", "text": "collaborate", "type": "Verb" },
+      { "key": "D", "text": "collaboratively", "type": "Adv (-ly)" }
+    ],
+    "answer": "D",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'work'.",
+    "translate": "Nhóm sản xuất phải làm việc một cách hợp tác để cải thiện chất lượng sản phẩm."
+  },
+  {
+    "id": 33,
+    "type": "suffixes",
+    "sentence": "The _______ of the new bridge will take approximately two years.",
+    "options": [
+      { "key": "A", "text": "construct", "type": "Verb" },
+      { "key": "B", "text": "construction", "type": "Noun (-tion)" },
+      { "key": "C", "text": "constructive", "type": "Adj" },
+      { "key": "D", "text": "constructively", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Sau mạo từ 'the' và trước giới từ 'of' cần một danh từ.",
+    "translate": "Việc xây dựng cây cầu mới sẽ mất khoảng hai năm."
+  },
+  {
+    "id": 34,
+    "type": "suffixes",
+    "sentence": "All flight _______ should report to the gate immediately.",
+    "options": [
+      { "key": "A", "text": "attend", "type": "Verb" },
+      { "key": "B", "text": "attendance", "type": "Noun (-ance)" },
+      { "key": "C", "text": "attendants", "type": "Noun (Person -s)" },
+      { "key": "D", "text": "attentive", "type": "Adj" }
+    ],
+    "answer": "C",
+    "hint": "Cần danh từ chỉ người số nhiều để làm chủ ngữ cho động từ 'report'. 'Flight attendants': tiếp viên hàng không.",
+    "translate": "Tất cả tiếp viên hàng không nên có mặt tại cửa khởi hành ngay lập tức."
+  },
+  {
+    "id": 35,
+    "type": "suffixes",
+    "sentence": "The CEO's speech was _______ inspiring to the new recruits.",
+    "options": [
+      { "key": "A", "text": "true", "type": "Adj" },
+      { "key": "B", "text": "truth", "type": "Noun" },
+      { "key": "C", "text": "truly", "type": "Adv" },
+      { "key": "D", "text": "trust", "type": "Noun/Verb" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho tính từ 'inspiring'.",
+    "translate": "Bài phát biểu của CEO thực sự truyền cảm hứng cho những nhân viên mới."
+  },
+  {
+    "id": 36,
+    "type": "suffixes",
+    "sentence": "The company has a _______ reputation for delivering projects on time.",
+    "options": [
+      { "key": "A", "text": "rely", "type": "Verb" },
+      { "key": "B", "text": "reliable", "type": "Adj (-able)" },
+      { "key": "C", "text": "reliably", "type": "Adv" },
+      { "key": "D", "text": "reliability", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'reputation'.",
+    "translate": "Công ty có danh tiếng đáng tin cậy về việc bàn giao các dự án đúng hạn."
+  },
+  {
+    "id": 37,
+    "type": "suffixes",
+    "sentence": "You should check the _______ of the equipment before use.",
+    "options": [
+      { "key": "A", "text": "available", "type": "Adj" },
+      { "key": "B", "text": "availability", "type": "Noun (-ity)" },
+      { "key": "C", "text": "avail", "type": "Verb" },
+      { "key": "D", "text": "availably", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Sau 'the' và trước 'of' cần một danh từ.",
+    "translate": "Bạn nên kiểm tra tính sẵn có (tình trạng còn hàng/sử dụng được) của thiết bị trước khi dùng."
+  },
+  {
+    "id": 38,
+    "type": "suffixes",
+    "sentence": "The manager reacted _______ to the news of the budget increase.",
+    "options": [
+      { "key": "A", "text": "enthusiasm", "type": "Noun" },
+      { "key": "B", "text": "enthusiastic", "type": "Adj" },
+      { "key": "C", "text": "enthusiastically", "type": "Adv (-ly)" },
+      { "key": "D", "text": "enthusiast", "type": "Noun (Person)" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'reacted'.",
+    "translate": "Quản lý đã phản ứng một cách đầy nhiệt huyết trước tin tức tăng ngân sách."
+  },
+  {
+    "id": 39,
+    "type": "suffixes",
+    "sentence": "The design of the new office is both functional and _______.",
+    "options": [
+      { "key": "A", "text": "beauty", "type": "Noun" },
+      { "key": "B", "text": "beautiful", "type": "Adj (-ful)" },
+      { "key": "C", "text": "beautifully", "type": "Adv" },
+      { "key": "D", "text": "beautify", "type": "Verb" }
+    ],
+    "answer": "B",
+    "hint": "Sau 'is' và song hành với tính từ 'functional' qua từ nối 'and' cần một tính từ.",
+    "translate": "Thiết kế của văn phòng mới vừa mang tính chức năng vừa mang tính thẩm mỹ (đẹp)."
+  },
+  {
+    "id": 40,
+    "type": "suffixes",
+    "sentence": "Please _______ the receipt as proof of purchase for the warranty.",
+    "options": [
+      { "key": "A", "text": "retain", "type": "Verb" },
+      { "key": "B", "text": "retention", "type": "Noun" },
+      { "key": "C", "text": "retainable", "type": "Adj" },
+      { "key": "D", "text": "retaining", "type": "V-ing" }
+    ],
+    "answer": "A",
+    "hint": "Câu mệnh lệnh bắt đầu bằng 'Please' cần một động từ nguyên mẫu.",
+    "translate": "Vui lòng giữ lại hóa đơn như một bằng chứng mua hàng để được bảo hành."
+  },
+  {
+    "id": 41,
+    "type": "suffixes",
+    "sentence": "The survey results indicate that customer _______ has increased by 20%.",
+    "options": [
+      { "key": "A", "text": "satisfy", "type": "Verb" },
+      { "key": "B", "text": "satisfactory", "type": "Adj" },
+      { "key": "C", "text": "satisfaction", "type": "Noun (-tion)" },
+      { "key": "D", "text": "satisfied", "type": "Adj/V-ed" }
+    ],
+    "answer": "C",
+    "hint": "Cụm danh từ ghép 'customer satisfaction' (sự hài lòng của khách hàng) làm chủ ngữ.",
+    "translate": "Kết quả khảo sát cho thấy sự hài lòng của khách hàng đã tăng thêm 20%."
+  },
+  {
+    "id": 42,
+    "type": "suffixes",
+    "sentence": "The accountant is responsible for the _______ of the financial records.",
+    "options": [
+      { "key": "A", "text": "maintain", "type": "Verb" },
+      { "key": "B", "text": "maintenance", "type": "Noun (-ance)" },
+      { "key": "C", "text": "maintainable", "type": "Adj" },
+      { "key": "D", "text": "maintained", "type": "V-ed" }
+    ],
+    "answer": "B",
+    "hint": "Sau 'the' và trước 'of' cần một danh từ.",
+    "translate": "Kế toán chịu trách nhiệm bảo trì/duy trì các hồ sơ tài chính."
+  },
+  {
+    "id": 43,
+    "type": "suffixes",
+    "sentence": "Mr. Harrison was _______ to the position of Senior Director.",
+    "options": [
+      { "key": "A", "text": "promote", "type": "Verb" },
+      { "key": "B", "text": "promotion", "type": "Noun" },
+      { "key": "C", "text": "promoted", "type": "V-ed (Passive)" },
+      { "key": "D", "text": "promotional", "type": "Adj" }
+    ],
+    "answer": "C",
+    "hint": "Cấu trúc bị động 'be + V-ed'.",
+    "translate": "Ông Harrison đã được thăng chức lên vị trí Giám đốc cấp cao."
+  },
+  {
+    "id": 44,
+    "type": "suffixes",
+    "sentence": "We need to hire a _______ assistant to help with administrative tasks.",
+    "options": [
+      { "key": "A", "text": "depend", "type": "Verb" },
+      { "key": "B", "text": "dependence", "type": "Noun" },
+      { "key": "C", "text": "dependably", "type": "Adv" },
+      { "key": "D", "text": "dependable", "type": "Adj (-able)" }
+    ],
+    "answer": "D",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'assistant' (trợ lý đáng tin cậy).",
+    "translate": "Chúng ta cần thuê một trợ lý đáng tin cậy để giúp đỡ các công việc hành chính."
+  },
+  {
+    "id": 45,
+    "type": "suffixes",
+    "sentence": "The new policy will be _______ starting next month.",
+    "options": [
+      { "key": "A", "text": "effect", "type": "Noun" },
+      { "key": "B", "text": "effective", "type": "Adj (-ive)" },
+      { "key": "C", "text": "effectively", "type": "Adv" },
+      { "key": "D", "text": "effectiveness", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Sau 'be' cần một tính từ để chỉ trạng thái của chính sách (có hiệu lực).",
+    "translate": "Chính sách mới sẽ có hiệu lực bắt đầu từ tháng tới."
+  },
+  {
+    "id": 46,
+    "type": "suffixes",
+    "sentence": "The legal team is reviewing the _______ of the contract.",
+    "options": [
+      { "key": "A", "text": "specifics", "type": "Noun (Plural)" },
+      { "key": "B", "text": "specify", "type": "Verb" },
+      { "key": "C", "text": "specific", "type": "Adj" },
+      { "key": "D", "text": "specifically", "type": "Adv" }
+    ],
+    "answer": "A",
+    "hint": "Sau 'the' cần một danh từ. 'Specifics' nghĩa là các chi tiết cụ thể.",
+    "translate": "Nhóm pháp lý đang xem xét các chi tiết cụ thể của hợp đồng."
+  },
+  {
+    "id": 47,
+    "type": "suffixes",
+    "sentence": "The manager spoke _______ about the team's achievements.",
+    "options": [
+      { "key": "A", "text": "pride", "type": "Noun" },
+      { "key": "B", "text": "proud", "type": "Adj" },
+      { "key": "C", "text": "proudly", "type": "Adv (-ly)" },
+      { "key": "D", "text": "proudness", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'spoke'.",
+    "translate": "Quản lý đã nói một cách đầy tự hào về những thành tựu của nhóm."
+  },
+  {
+    "id": 48,
+    "type": "suffixes",
+    "sentence": "It is _______ to wear safety gear in the construction zone.",
+    "options": [
+      { "key": "A", "text": "compulsion", "type": "Noun" },
+      { "key": "B", "text": "compulsory", "type": "Adj (-ory)" },
+      { "key": "C", "text": "compulsively", "type": "Adv" },
+      { "key": "D", "text": "compel", "type": "Verb" }
+    ],
+    "answer": "B",
+    "hint": "Cấu trúc 'It is + Adj + to V'. 'Compulsory' nghĩa là bắt buộc.",
+    "translate": "Việc mặc đồ bảo hộ trong khu vực thi công là bắt buộc."
+  },
+  {
+    "id": 49,
+    "type": "suffixes",
+    "sentence": "The company has decided to _______ its operations in Asia.",
+    "options": [
+      { "key": "A", "text": "expansion", "type": "Noun" },
+      { "key": "B", "text": "expansive", "type": "Adj" },
+      { "key": "C", "text": "expand", "type": "Verb" },
+      { "key": "D", "text": "expansively", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Sau 'decided to' cần một động từ nguyên mẫu.",
+    "translate": "Công ty đã quyết định mở rộng các hoạt động tại Châu Á."
+  },
+  {
+    "id": 50,
+    "type": "suffixes",
+    "sentence": "The interior designer chose a _______ color scheme for the lobby.",
+    "options": [
+      { "key": "A", "text": "distinct", "type": "Adj" },
+      { "key": "B", "text": "distinction", "type": "Noun" },
+      { "key": "C", "text": "distinctive", "type": "Adj (-ive)" },
+      { "key": "D", "text": "distinctly", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Cần tính từ bổ nghĩa cho 'color scheme'. 'Distinctive' (đặc biệt/nổi bật).",
+    "translate": "Nhà thiết kế nội thất đã chọn một hệ màu sắc đặc trưng cho sảnh chờ."
+  },
+  {
+    "id": 51,
+    "type": "suffixes",
+    "sentence": "The software update will _______ improve the system's performance.",
+    "options": [
+      { "key": "A", "text": "measure", "type": "Verb/Noun" },
+      { "key": "B", "text": "measurable", "type": "Adj" },
+      { "key": "C", "text": "measurably", "type": "Adv (-ly)" },
+      { "key": "D", "text": "measurement", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ đứng giữa trợ động từ và động từ chính.",
+    "translate": "Bản cập nhật phần mềm sẽ cải thiện hiệu suất hệ thống một cách đáng kể."
+  },
+  {
+    "id": 52,
+    "type": "suffixes",
+    "sentence": "Please send a _______ of the payment to the billing department.",
+    "options": [
+      { "key": "A", "text": "confirm", "type": "Verb" },
+      { "key": "B", "text": "confirmation", "type": "Noun (-tion)" },
+      { "key": "C", "text": "confirmed", "type": "V-ed" },
+      { "key": "D", "text": "confirming", "type": "V-ing" }
+    ],
+    "answer": "B",
+    "hint": "Sau mạo từ 'a' cần một danh từ.",
+    "translate": "Vui lòng gửi giấy xác nhận thanh toán cho bộ phận hóa đơn."
+  },
+  {
+    "id": 53,
+    "type": "suffixes",
+    "sentence": "The new employee is very _______ and learns tasks quickly.",
+    "options": [
+      { "key": "A", "text": "energy", "type": "Noun" },
+      { "key": "B", "text": "energetically", "type": "Adv" },
+      { "key": "C", "text": "energize", "type": "Verb" },
+      { "key": "D", "text": "energetic", "type": "Adj (-etic)" }
+    ],
+    "answer": "D",
+    "hint": "Sau 'is very' cần tính từ mô tả tính cách/trạng thái người.",
+    "translate": "Nhân viên mới rất năng động và học việc rất nhanh."
+  },
+  {
+    "id": 54,
+    "type": "suffixes",
+    "sentence": "The data analysis was _______ by a team of experts.",
+    "options": [
+      { "key": "A", "text": "conduct", "type": "Verb" },
+      { "key": "B", "text": "conducted", "type": "V-ed (Passive)" },
+      { "key": "C", "text": "conductor", "type": "Noun" },
+      { "key": "D", "text": "conduction", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Câu bị động: 'was + V-ed'.",
+    "translate": "Việc phân tích dữ liệu được thực hiện bởi một nhóm các chuyên gia."
+  },
+  {
+    "id": 55,
+    "type": "suffixes",
+    "sentence": "The company's logo is _______ recognizable around the world.",
+    "options": [
+      { "key": "A", "text": "instant", "type": "Adj" },
+      { "key": "B", "text": "instantly", "type": "Adv (-ly)" },
+      { "key": "C", "text": "instance", "type": "Noun" },
+      { "key": "D", "text": "instantaneous", "type": "Adj" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho tính từ 'recognizable'.",
+    "translate": "Logo của công ty có thể được nhận diện ngay lập tức trên toàn thế giới."
+  },
+  {
+    "id": 56,
+    "type": "suffixes",
+    "sentence": "The committee members expressed _______ about the proposed project.",
+    "options": [
+      { "key": "A", "text": "hesitate", "type": "Verb" },
+      { "key": "B", "text": "hesitantly", "type": "Adv" },
+      { "key": "C", "text": "hesitation", "type": "Noun (-tion)" },
+      { "key": "D", "text": "hesitant", "type": "Adj" }
+    ],
+    "answer": "C",
+    "hint": "Sau động từ ngoại động 'expressed' cần một danh từ.",
+    "translate": "Các thành viên ủy ban đã bày tỏ sự do dự về dự án được đề xuất."
+  },
+  {
+    "id": 57,
+    "type": "suffixes",
+    "sentence": "The CEO made a _______ contribution to the local charity.",
+    "options": [
+      { "key": "A", "text": "generosity", "type": "Noun" },
+      { "key": "B", "text": "generously", "type": "Adv" },
+      { "key": "C", "text": "generous", "type": "Adj (-ous)" },
+      { "key": "D", "text": "generalize", "type": "Verb" }
+    ],
+    "answer": "C",
+    "hint": "Cấu trúc 'a + Adj + Noun'. 'Generous' (hào phóng).",
+    "translate": "Giám đốc điều hành đã có một sự đóng góp hào phóng cho từ thiện địa phương."
+  },
+  {
+    "id": 58,
+    "type": "suffixes",
+    "sentence": "The marketing team needs to _______ the target audience for the new product.",
+    "options": [
+      { "key": "A", "text": "identity", "type": "Noun" },
+      { "key": "B", "text": "identifiable", "type": "Adj" },
+      { "key": "C", "text": "identify", "type": "Verb (-ify)" },
+      { "key": "D", "text": "identification", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Sau 'needs to' cần động từ nguyên mẫu.",
+    "translate": "Nhóm tiếp thị cần xác định đối tượng khách hàng mục tiêu cho sản phẩm mới."
+  },
+  {
+    "id": 59,
+    "type": "suffixes",
+    "sentence": "The airline apologized for the _______ caused by the flight delay.",
+    "options": [
+      { "key": "A", "text": "inconvenient", "type": "Adj" },
+      { "key": "B", "text": "inconvenience", "type": "Noun (-ence)" },
+      { "key": "C", "text": "inconveniently", "type": "Adv" },
+      { "key": "D", "text": "inconveniencing", "type": "V-ing" }
+    ],
+    "answer": "B",
+    "hint": "Sau 'the' và trước 'caused' (mệnh đề quan hệ rút gọn) cần một danh từ.",
+    "translate": "Hãng hàng không đã xin lỗi về sự bất tiện gây ra bởi việc hoãn chuyến bay."
+  },
+  {
+    "id": 60,
+    "type": "suffixes",
+    "sentence": "The new manager is _______ to improving team morale.",
+    "options": [
+      { "key": "A", "text": "commit", "type": "Verb" },
+      { "key": "B", "text": "commitment", "type": "Noun" },
+      { "key": "C", "text": "committed", "type": "Adj (-ed)" },
+      { "key": "D", "text": "committing", "type": "V-ing" }
+    ],
+    "answer": "C",
+    "hint": "Cấu trúc 'be committed to + V-ing' (tận tâm/cam kết làm gì).",
+    "translate": "Người quản lý mới rất tận tâm trong việc cải thiện tinh thần của nhóm."
+  },
+  {
+    "id": 61,
+    "type": "suffixes",
+    "sentence": "The legal department handles all _______ matters for the firm.",
+    "options": [
+      { "key": "A", "text": "regulate", "type": "Verb" },
+      { "key": "B", "text": "regulatory", "type": "Adj (-ory)" },
+      { "key": "C", "text": "regulation", "type": "Noun" },
+      { "key": "D", "text": "regulator", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'matters'. 'Regulatory matters' (vấn đề pháp quy).",
+    "translate": "Bộ phận pháp lý xử lý tất cả các vấn đề pháp quy cho công ty."
+  },
+  {
+    "id": 62,
+    "type": "suffixes",
+    "sentence": "The candidate's _______ impressed the interview panel.",
+    "options": [
+      { "key": "A", "text": "confident", "type": "Adj" },
+      { "key": "B", "text": "confidently", "type": "Adv" },
+      { "key": "C", "text": "confidence", "type": "Noun (-ence)" },
+      { "key": "D", "text": "confidential", "type": "Adj" }
+    ],
+    "answer": "C",
+    "hint": "Sau sở hữu cách cần một danh từ.",
+    "translate": "Sự tự tin của ứng viên đã gây ấn tượng với hội đồng phỏng vấn."
+  },
+  {
+    "id": 63,
+    "type": "suffixes",
+    "sentence": "We need to find a _______ solution to the parking problem.",
+    "options": [
+      { "key": "A", "text": "practice", "type": "Noun/Verb" },
+      { "key": "B", "text": "practically", "type": "Adv" },
+      { "key": "C", "text": "practical", "type": "Adj (-al)" },
+      { "key": "D", "text": "practitioner", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Tính từ bổ nghĩa cho 'solution' (giải pháp thực tế).",
+    "translate": "Chúng ta cần tìm một giải pháp thực tế cho vấn đề đỗ xe."
+  },
+  {
+    "id": 64,
+    "type": "suffixes",
+    "sentence": "The sales figures for this quarter are _______ better than expected.",
+    "options": [
+      { "key": "A", "text": "significance", "type": "Noun" },
+      { "key": "B", "text": "significant", "type": "Adj" },
+      { "key": "C", "text": "significantly", "type": "Adv (-ly)" },
+      { "key": "D", "text": "signified", "type": "V-ed" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho tính từ so sánh 'better'.",
+    "translate": "Số liệu bán hàng quý này tốt hơn đáng kể so với dự kiến."
+  },
+  {
+    "id": 65,
+    "type": "suffixes",
+    "sentence": "The hotel guests appreciated the _______ of the staff.",
+    "options": [
+      { "key": "A", "text": "courteous", "type": "Adj" },
+      { "key": "B", "text": "courtesy", "type": "Noun (-sy)" },
+      { "key": "C", "text": "courteously", "type": "Adv" },
+      { "key": "D", "text": "court", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Sau 'the' và trước 'of' cần danh từ. 'Courtesy' (sự lịch thiệp).",
+    "translate": "Khách ở khách sạn đánh giá cao sự lịch thiệp của nhân viên."
+  },
+  {
+    "id": 66,
+    "type": "suffixes",
+    "sentence": "Please _______ the document before printing it.",
+    "options": [
+      { "key": "A", "text": "final", "type": "Adj" },
+      { "key": "B", "text": "finalize", "type": "Verb (-ize)" },
+      { "key": "C", "text": "finalization", "type": "Noun" },
+      { "key": "D", "text": "finally", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Câu mệnh lệnh bắt đầu bằng động từ nguyên mẫu.",
+    "translate": "Vui lòng hoàn tất tài liệu trước khi in."
+  },
+  {
+    "id": 67,
+    "type": "suffixes",
+    "sentence": "The training program is designed to _______ employee productivity.",
+    "options": [
+      { "key": "A", "text": "high", "type": "Adj" },
+      { "key": "B", "text": "heighten", "type": "Verb (-en)" },
+      { "key": "C", "text": "height", "type": "Noun" },
+      { "key": "D", "text": "highly", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Sau 'to' (để làm gì) cần một động từ. 'Heighten' (nâng cao).",
+    "translate": "Chương trình đào tạo được thiết kế để nâng cao năng suất của nhân viên."
+  },
+  {
+    "id": 68,
+    "type": "suffixes",
+    "sentence": "The manager provided a _______ analysis of the market trends.",
+    "options": [
+      { "key": "A", "text": "comprehensive", "type": "Adj (-ive)" },
+      { "key": "B", "text": "comprehend", "type": "Verb" },
+      { "key": "C", "text": "comprehension", "type": "Noun" },
+      { "key": "D", "text": "comprehensively", "type": "Adv" }
+    ],
+    "answer": "A",
+    "hint": "Tính từ bổ nghĩa cho 'analysis'. 'Comprehensive' (toàn diện).",
+    "translate": "Quản lý đã đưa ra một phân tích toàn diện về xu hướng thị trường."
+  },
+  {
+    "id": 69,
+    "type": "suffixes",
+    "sentence": "The safety inspector _______ checked all the fire extinguishers.",
+    "options": [
+      { "key": "A", "text": "thorough", "type": "Adj" },
+      { "key": "B", "text": "thoroughly", "type": "Adv (-ly)" },
+      { "key": "C", "text": "thoroughness", "type": "Noun" },
+      { "key": "D", "text": "through", "type": "Prep" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'checked'.",
+    "translate": "Thanh tra an toàn đã kiểm tra kỹ lưỡng tất cả các bình chữa cháy."
+  },
+  {
+    "id": 70,
+    "type": "suffixes",
+    "sentence": "The new project will require _______ resources and manpower.",
+    "options": [
+      { "key": "A", "text": "addition", "type": "Noun" },
+      { "key": "B", "text": "additional", "type": "Adj (-al)" },
+      { "key": "C", "text": "additionally", "type": "Adv" },
+      { "key": "D", "text": "additive", "type": "Noun/Adj" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'resources'.",
+    "translate": "Dự án mới sẽ yêu cầu thêm nguồn lực và nhân lực."
+  },
+  {
+    "id": 71,
+    "type": "suffixes",
+    "sentence": "The company’s _______ growth is due to its expansion into overseas markets.",
+    "options": [
+      { "key": "A", "text": "phenomenon", "type": "Noun" },
+      { "key": "B", "text": "phenomenal", "type": "Adj (-al)" },
+      { "key": "C", "text": "phenomenally", "type": "Adv" },
+      { "key": "D", "text": "phenomena", "type": "Noun (Plural)" }
+    ],
+    "answer": "B",
+    "hint": "Cần một tính từ bổ nghĩa cho danh từ 'growth'. 'Phenomenal' nghĩa là phi thường/đáng kinh ngạc.",
+    "translate": "Sự tăng trưởng phi thường của công ty là nhờ vào việc mở rộng sang các thị trường nước ngoài."
+  },
+  {
+    "id": 72,
+    "type": "suffixes",
+    "sentence": "The board has given its _______ for the merger to proceed.",
+    "options": [
+      { "key": "A", "text": "approve", "type": "Verb" },
+      { "key": "B", "text": "approved", "type": "V-ed" },
+      { "key": "C", "text": "approval", "type": "Noun (-al)" },
+      { "key": "D", "text": "approvingly", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Sau tính từ sở hữu 'its' cần một danh từ. Lưu ý: 'Approval' là danh từ dù có đuôi -al thường thấy ở tính từ.",
+    "translate": "Hội đồng quản trị đã đưa ra sự chấp thuận để việc sáp nhập được tiến hành."
+  },
+  {
+    "id": 73,
+    "type": "suffixes",
+    "sentence": "The new security system is _______ superior to the previous one.",
+    "options": [
+      { "key": "A", "text": "technique", "type": "Noun" },
+      { "key": "B", "text": "technical", "type": "Adj" },
+      { "key": "C", "text": "technically", "type": "Adv (-ly)" },
+      { "key": "D", "text": "technician", "type": "Noun (Person)" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho tính từ 'superior'.",
+    "translate": "Hệ thống an ninh mới vượt trội về mặt kỹ thuật so với hệ thống trước đó."
+  },
+  {
+    "id": 74,
+    "type": "suffixes",
+    "sentence": "We need to _______ the contract to reflect the new terms.",
+    "options": [
+      { "key": "A", "text": "modify", "type": "Verb (-ify)" },
+      { "key": "B", "text": "modification", "type": "Noun" },
+      { "key": "C", "text": "modified", "type": "V-ed" },
+      { "key": "D", "text": "modifier", "type": "Noun" }
+    ],
+    "answer": "A",
+    "hint": "Sau 'need to' cần một động từ nguyên mẫu.",
+    "translate": "Chúng ta cần sửa đổi hợp đồng để phản ánh các điều khoản mới."
+  },
+  {
+    "id": 75,
+    "type": "suffixes",
+    "sentence": "The marketing campaign was _______ effective in boosting sales.",
+    "options": [
+      { "key": "A", "text": "surprise", "type": "Noun/Verb" },
+      { "key": "B", "text": "surprising", "type": "Adj" },
+      { "key": "C", "text": "surprisingly", "type": "Adv (-ly)" },
+      { "key": "D", "text": "surprised", "type": "Adj" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho tính từ 'effective'.",
+    "translate": "Chiến dịch tiếp thị đã hiệu quả một cách đáng ngạc nhiên trong việc thúc đẩy doanh số."
+  },
+  {
+    "id": 76,
+    "type": "suffixes",
+    "sentence": "The candidate's resume shows a _______ of experience in various fields.",
+    "options": [
+      { "key": "A", "text": "diverse", "type": "Adj" },
+      { "key": "B", "text": "diversify", "type": "Verb" },
+      { "key": "C", "text": "diversity", "type": "Noun (-ity)" },
+      { "key": "D", "text": "diversely", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Sau mạo từ 'a' và trước 'of' cần một danh từ.",
+    "translate": "Sơ yếu lý lịch của ứng viên cho thấy sự đa dạng về kinh nghiệm trong nhiều lĩnh vực khác nhau."
+  },
+  {
+    "id": 77,
+    "type": "suffixes",
+    "sentence": "The supervisor gave _______ instructions on how to operate the machinery.",
+    "options": [
+      { "key": "A", "text": "specify", "type": "Verb" },
+      { "key": "B", "text": "specific", "type": "Adj (-ic)" },
+      { "key": "C", "text": "specifically", "type": "Adv" },
+      { "key": "D", "text": "specification", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'instructions'.",
+    "translate": "Người giám sát đã đưa ra những hướng dẫn cụ thể về cách vận hành máy móc."
+  },
+  {
+    "id": 78,
+    "type": "suffixes",
+    "sentence": "The company’s _______ has improved significantly since the restructuring.",
+    "options": [
+      { "key": "A", "text": "profitable", "type": "Adj" },
+      { "key": "B", "text": "profitably", "type": "Adv" },
+      { "key": "C", "text": "profitability", "type": "Noun (-ity)" },
+      { "key": "D", "text": "profit", "type": "Noun/Verb" }
+    ],
+    "answer": "C",
+    "hint": "Sau sở hữu cách 'company’s' cần một danh từ làm chủ ngữ. 'Profitability' (khả năng sinh lời).",
+    "translate": "Khả năng sinh lời của công ty đã cải thiện đáng kể kể từ khi tái cơ cấu."
+  },
+  {
+    "id": 79,
+    "type": "suffixes",
+    "sentence": "Please _______ the attached form and return it to us by Friday.",
+    "options": [
+      { "key": "A", "text": "complete", "type": "Verb/Adj" },
+      { "key": "B", "text": "completion", "type": "Noun" },
+      { "key": "C", "text": "completely", "type": "Adv" },
+      { "key": "D", "text": "completeness", "type": "Noun" }
+    ],
+    "answer": "A",
+    "hint": "Câu mệnh lệnh bắt đầu với 'Please' + V-bare.",
+    "translate": "Vui lòng hoàn thành mẫu đơn đính kèm và gửi lại cho chúng tôi trước thứ Sáu."
+  },
+  {
+    "id": 80,
+    "type": "suffixes",
+    "sentence": "The customer service representative handled the complaint _______.",
+    "options": [
+      { "key": "A", "text": "professional", "type": "Adj" },
+      { "key": "B", "text": "professionalism", "type": "Noun" },
+      { "key": "C", "text": "professionally", "type": "Adv (-ly)" },
+      { "key": "D", "text": "profession", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'handled'.",
+    "translate": "Đại diện dịch vụ khách hàng đã xử lý khiếu nại một cách chuyên nghiệp."
+  },
+  {
+    "id": 81,
+    "type": "suffixes",
+    "sentence": "There is a _______ difference between the two marketing plans.",
+    "options": [
+      { "key": "A", "text": "notice", "type": "Verb/Noun" },
+      { "key": "B", "text": "noticeably", "type": "Adv" },
+      { "key": "C", "text": "noticeable", "type": "Adj (-able)" },
+      { "key": "D", "text": "noticed", "type": "V-ed" }
+    ],
+    "answer": "C",
+    "hint": "Cấu trúc 'a + Adj + Noun'. 'Noticeable' (đáng chú ý).",
+    "translate": "Có một sự khác biệt đáng chú ý giữa hai kế hoạch tiếp thị."
+  },
+  {
+    "id": 82,
+    "type": "suffixes",
+    "sentence": "The project’s _______ depends on everyone’s cooperation.",
+    "options": [
+      { "key": "A", "text": "succeed", "type": "Verb" },
+      { "key": "B", "text": "success", "type": "Noun (-ss)" },
+      { "key": "C", "text": "successful", "type": "Adj" },
+      { "key": "D", "text": "successfully", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Sau sở hữu cách cần một danh từ làm chủ ngữ.",
+    "translate": "Sự thành công của dự án phụ thuộc vào sự hợp tác của mọi người."
+  },
+  {
+    "id": 83,
+    "type": "suffixes",
+    "sentence": "The new law will _______ impact the way we handle data.",
+    "options": [
+      { "key": "A", "text": "fundamental", "type": "Adj" },
+      { "key": "B", "text": "fundamentally", "type": "Adv (-ly)" },
+      { "key": "C", "text": "fundament", "type": "Noun" },
+      { "key": "D", "text": "fundamentalism", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'impact'.",
+    "translate": "Luật mới sẽ tác động về mặt cơ bản đến cách chúng ta xử lý dữ liệu."
+  },
+  {
+    "id": 84,
+    "type": "suffixes",
+    "sentence": "The manager is known for her _______ and fairness.",
+    "options": [
+      { "key": "A", "text": "objective", "type": "Adj/Noun" },
+      { "key": "B", "text": "objectively", "type": "Adv" },
+      { "key": "C", "text": "objectivity", "type": "Noun (-ity)" },
+      { "key": "D", "text": "object", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Sau tính từ sở hữu 'her' và song hành với danh từ 'fairness' cần một danh từ.",
+    "translate": "Người quản lý được biết đến vì sự khách quan và công bằng của mình."
+  },
+  {
+    "id": 85,
+    "type": "suffixes",
+    "sentence": "The technician will _______ the equipment to ensure it’s working properly.",
+    "options": [
+      { "key": "A", "text": "inspect", "type": "Verb (-ect)" },
+      { "key": "B", "text": "inspection", "type": "Noun" },
+      { "key": "C", "text": "inspector", "type": "Noun (Person)" },
+      { "key": "D", "text": "inspectable", "type": "Adj" }
+    ],
+    "answer": "A",
+    "hint": "Sau trợ động từ 'will' cần động từ nguyên mẫu.",
+    "translate": "Kỹ thuật viên sẽ kiểm tra thiết bị để đảm bảo nó hoạt động bình thường."
+  },
+  {
+    "id": 86,
+    "type": "suffixes",
+    "sentence": "The research findings are _______ to our current project.",
+    "options": [
+      { "key": "A", "text": "relevance", "type": "Noun" },
+      { "key": "B", "text": "relevant", "type": "Adj (-ant)" },
+      { "key": "C", "text": "relevantly", "type": "Adv" },
+      { "key": "D", "text": "relevancy", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Sau to-be 'are' cần một tính từ. Cấu trúc 'be relevant to' (liên quan đến).",
+    "translate": "Các kết quả nghiên cứu có liên quan đến dự án hiện tại của chúng tôi."
+  },
+  {
+    "id": 87,
+    "type": "suffixes",
+    "sentence": "Please _______ that all lights are turned off before you leave.",
+    "options": [
+      { "key": "A", "text": "sure", "type": "Adj" },
+      { "key": "B", "text": "surely", "type": "Adv" },
+      { "key": "C", "text": "ensure", "type": "Verb (Prefix en-)" },
+      { "key": "D", "text": "sureness", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Câu mệnh lệnh bắt đầu bằng động từ. 'Ensure' (đảm bảo).",
+    "translate": "Vui lòng đảm bảo rằng tất cả đèn đã được tắt trước khi bạn rời đi."
+  },
+  {
+    "id": 88,
+    "type": "suffixes",
+    "sentence": "The company’s _______ to environmental protection is widely recognized.",
+    "options": [
+      { "key": "A", "text": "adhere", "type": "Verb" },
+      { "key": "B", "text": "adherent", "type": "Noun/Adj" },
+      { "key": "C", "text": "adherence", "type": "Noun (-ence)" },
+      { "key": "D", "text": "adhesively", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Sau sở hữu cách cần một danh từ. 'Adherence to' (sự tuân thủ/gắn bó với).",
+    "translate": "Sự tuân thủ của công ty đối với việc bảo vệ môi trường được công nhận rộng rãi."
+  },
+  {
+    "id": 89,
+    "type": "suffixes",
+    "sentence": "The new employee showed great _______ during the orientation program.",
+    "options": [
+      { "key": "A", "text": "enthusiastic", "type": "Adj" },
+      { "key": "B", "text": "enthusiastically", "type": "Adv" },
+      { "key": "C", "text": "enthusiasm", "type": "Noun (-asm)" },
+      { "key": "D", "text": "enthuse", "type": "Verb" }
+    ],
+    "answer": "C",
+    "hint": "Sau tính từ 'great' cần một danh từ làm tân ngữ.",
+    "translate": "Nhân viên mới đã thể hiện sự nhiệt huyết tuyệt vời trong chương trình định hướng."
+  },
+  {
+    "id": 90,
+    "type": "suffixes",
+    "sentence": "The information provided was _______ incorrect.",
+    "options": [
+      { "key": "A", "text": "fact", "type": "Noun" },
+      { "key": "B", "text": "factual", "type": "Adj" },
+      { "key": "C", "text": "factually", "type": "Adv (-ly)" },
+      { "key": "D", "text": "factoid", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho tính từ 'incorrect'.",
+    "translate": "Thông tin được cung cấp là sai lệch về mặt thực tế."
+  },
+  {
+    "id": 91,
+    "type": "suffixes",
+    "sentence": "The _______ of the new museum will be held next month.",
+    "options": [
+      { "key": "A", "text": "open", "type": "Verb/Adj" },
+      { "key": "B", "text": "opening", "type": "Noun (-ing)" },
+      { "key": "C", "text": "openly", "type": "Adv" },
+      { "key": "D", "text": "openness", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Sau 'the' và trước 'of' cần danh từ. 'Opening' (lễ khai trương).",
+    "translate": "Lễ khai trương bảo tàng mới sẽ được tổ chức vào tháng tới."
+  },
+  {
+    "id": 92,
+    "type": "suffixes",
+    "sentence": "It is _______ to check your credit report once a year.",
+    "options": [
+      { "key": "A", "text": "advice", "type": "Noun" },
+      { "key": "B", "text": "advise", "type": "Verb" },
+      { "key": "C", "text": "advisable", "type": "Adj (-able)" },
+      { "key": "D", "text": "advisory", "type": "Adj/Noun" }
+    ],
+    "answer": "C",
+    "hint": "Cấu trúc 'It is + Adj + to V'. 'Advisable' (nên làm/thỏa đáng).",
+    "translate": "Bạn nên kiểm tra báo cáo tín dụng của mình mỗi năm một lần."
+  },
+  {
+    "id": 93,
+    "type": "suffixes",
+    "sentence": "The CEO’s decision was _______ based on the market research.",
+    "options": [
+      { "key": "A", "text": "entire", "type": "Adj" },
+      { "key": "B", "text": "entirety", "type": "Noun" },
+      { "key": "C", "text": "entirely", "type": "Adv (-ly)" },
+      { "key": "D", "text": "entitle", "type": "Verb" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho động từ phân từ 'based'.",
+    "translate": "Quyết định của CEO hoàn toàn dựa trên nghiên cứu thị trường."
+  },
+  {
+    "id": 94,
+    "type": "suffixes",
+    "sentence": "The company has a _______ policy regarding workplace safety.",
+    "options": [
+      { "key": "A", "text": "strictness", "type": "Noun" },
+      { "key": "B", "text": "strictly", "type": "Adv" },
+      { "key": "C", "text": "strict", "type": "Adj (-ct)" },
+      { "key": "D", "text": "stricten", "type": "Verb" }
+    ],
+    "answer": "C",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'policy'.",
+    "translate": "Công ty có một chính sách nghiêm ngặt về an toàn tại nơi làm việc."
+  },
+  {
+    "id": 95,
+    "type": "suffixes",
+    "sentence": "The software is _______ updated to ensure peak performance.",
+    "options": [
+      { "key": "A", "text": "regular", "type": "Adj" },
+      { "key": "B", "text": "regularity", "type": "Noun" },
+      { "key": "C", "text": "regularize", "type": "Verb" },
+      { "key": "D", "text": "regularly", "type": "Adv (-ly)" }
+    ],
+    "answer": "D",
+    "hint": "Trạng từ bổ nghĩa cho động từ bị động 'updated'.",
+    "translate": "Phần mềm được cập nhật thường xuyên để đảm bảo hiệu suất cao nhất."
+  },
+  {
+    "id": 96,
+    "type": "suffixes",
+    "sentence": "The _______ of the project will be evaluated by the department head.",
+    "options": [
+      { "key": "A", "text": "effective", "type": "Adj" },
+      { "key": "B", "text": "effectiveness", "type": "Noun (-ness)" },
+      { "key": "C", "text": "effectively", "type": "Adv" },
+      { "key": "D", "text": "effect", "type": "Noun/Verb" }
+    ],
+    "answer": "B",
+    "hint": "Sau 'the' cần danh từ làm chủ ngữ. 'Effectiveness' (hiệu quả).",
+    "translate": "Hiệu quả của dự án sẽ được đánh giá bởi trưởng bộ phận."
+  },
+  {
+    "id": 97,
+    "type": "suffixes",
+    "sentence": "We need to find a way to _______ our operational costs.",
+    "options": [
+      { "key": "A", "text": "reduction", "type": "Noun" },
+      { "key": "B", "text": "reduce", "type": "Verb (-uce)" },
+      { "key": "C", "text": "reducible", "type": "Adj" },
+      { "key": "D", "text": "reducibly", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Sau 'to' (để làm gì) cần một động từ nguyên mẫu.",
+    "translate": "Chúng ta cần tìm cách giảm chi phí vận hành."
+  },
+  {
+    "id": 98,
+    "type": "suffixes",
+    "sentence": "The hotel offers _______ views of the ocean from every room.",
+    "options": [
+      { "key": "A", "text": "spectacle", "type": "Noun" },
+      { "key": "B", "text": "spectacular", "type": "Adj (-ular)" },
+      { "key": "C", "text": "spectacularly", "type": "Adv" },
+      { "key": "D", "text": "spectate", "type": "Verb" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'views'. 'Spectacular' (hùng vĩ/ngoạn mục).",
+    "translate": "Khách sạn cung cấp tầm nhìn ngoạn mục ra đại dương từ mỗi phòng."
+  },
+  {
+    "id": 99,
+    "type": "suffixes",
+    "sentence": "The new employee is _______ to learn and grow within the company.",
+    "options": [
+      { "key": "A", "text": "eagerly", "type": "Adv" },
+      { "key": "B", "text": "eagerness", "type": "Noun" },
+      { "key": "C", "text": "eager", "type": "Adj (-er)" },
+      { "key": "D", "text": "eagered", "type": "V-ed" }
+    ],
+    "answer": "C",
+    "hint": "Sau 'is' cần một tính từ mô tả trạng thái chủ thể. 'Be eager to' (hăng hái làm gì).",
+    "translate": "Nhân viên mới rất hăng hái học hỏi và phát triển trong công ty."
+  },
+  {
+    "id": 100,
+    "type": "suffixes",
+    "sentence": "The team worked _______ to meet the tight deadline.",
+    "options": [
+      { "key": "A", "text": "tireless", "type": "Adj" },
+      { "key": "B", "text": "tirelessly", "type": "Adv (-ly)" },
+      { "key": "C", "text": "tired", "type": "Adj" },
+      { "key": "D", "text": "tiresomeness", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'worked'. 'Tirelessly' (không mệt mỏi).",
+    "translate": "Nhóm đã làm việc không mệt mỏi để kịp thời hạn eo hẹp."
+  },
+  {
+    "id": 101,
+    "type": "suffixes",
+    "sentence": "The marketing director is known for her _______ and innovative approach.",
+    "options": [
+      { "key": "A", "text": "resourceful", "type": "Adj" },
+      { "key": "B", "text": "resource", "type": "Noun" },
+      { "key": "C", "text": "resourcefulness", "type": "Noun (-ness)" },
+      { "key": "D", "text": "resourcefully", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Sau tính từ sở hữu 'her' và song hành với danh từ 'approach' cần một danh từ chỉ phẩm chất.",
+    "translate": "Giám đốc tiếp thị nổi tiếng với sự tháo vát và cách tiếp cận sáng tạo."
+  },
+  {
+    "id": 102,
+    "type": "suffixes",
+    "sentence": "The merger will _______ create the largest telecommunications firm in the country.",
+    "options": [
+      { "key": "A", "text": "potential", "type": "Adj/Noun" },
+      { "key": "B", "text": "potentially", "type": "Adv (-ly)" },
+      { "key": "C", "text": "potent", "type": "Adj" },
+      { "key": "D", "text": "potentiality", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ đứng giữa trợ động từ 'will' và động từ chính 'create'.",
+    "translate": "Việc sáp nhập có khả năng sẽ tạo ra công ty viễn thông lớn nhất cả nước."
+  },
+  {
+    "id": 103,
+    "type": "suffixes",
+    "sentence": "The maintenance crew worked _______ to restore power after the storm.",
+    "options": [
+      { "key": "A", "text": "diligent", "type": "Adj" },
+      { "key": "B", "text": "diligence", "type": "Noun" },
+      { "key": "C", "text": "diligently", "type": "Adv (-ly)" },
+      { "key": "D", "text": "dilute", "type": "Verb" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho hành động 'worked'.",
+    "translate": "Đội bảo trì đã làm việc một cách cần mẫn để khôi phục điện sau cơn bão."
+  },
+  {
+    "id": 104,
+    "type": "suffixes",
+    "sentence": "We need to _______ the risks involved before making a final decision.",
+    "options": [
+      { "key": "A", "text": "assessment", "type": "Noun" },
+      { "key": "B", "text": "assess", "type": "Verb (-ess)" },
+      { "key": "C", "text": "assessable", "type": "Adj" },
+      { "key": "D", "text": "assessor", "type": "Noun (Person)" }
+    ],
+    "answer": "B",
+    "hint": "Sau 'need to' cần một động từ nguyên mẫu.",
+    "translate": "Chúng ta cần đánh giá các rủi ro liên quan trước khi đưa ra quyết định cuối cùng."
+  },
+  {
+    "id": 105,
+    "type": "suffixes",
+    "sentence": "The newly hired consultant is _______ qualified for the position.",
+    "options": [
+      { "key": "A", "text": "exception", "type": "Noun" },
+      { "key": "B", "text": "exceptional", "type": "Adj" },
+      { "key": "C", "text": "exceptionally", "type": "Adv (-ly)" },
+      { "key": "D", "text": "except", "type": "Prep/Verb" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho tính từ 'qualified'.",
+    "translate": "Nhà tư vấn mới được thuê có năng lực chuyên môn cực kỳ tốt (vượt trội) cho vị trí này."
+  },
+  {
+    "id": 106,
+    "type": "suffixes",
+    "sentence": "The company’s _______ to diversity has helped it attract top talent.",
+    "options": [
+      { "key": "A", "text": "adhere", "type": "Verb" },
+      { "key": "B", "text": "adherent", "type": "Adj/Noun" },
+      { "key": "C", "text": "adherence", "type": "Noun (-ence)" },
+      { "key": "D", "text": "adhesively", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Cần danh từ đứng sau sở hữu cách.",
+    "translate": "Sự tuân thủ các nguyên tắc về đa dạng của công ty đã giúp nó thu hút được những tài năng hàng đầu."
+  },
+  {
+    "id": 107,
+    "type": "suffixes",
+    "sentence": "The legal department handles all _______ related to intellectual property.",
+    "options": [
+      { "key": "A", "text": "complain", "type": "Verb" },
+      { "key": "B", "text": "complaints", "type": "Noun (Plural)" },
+      { "key": "C", "text": "complainant", "type": "Noun (Person)" },
+      { "key": "D", "text": "complaining", "type": "V-ing" }
+    ],
+    "answer": "B",
+    "hint": "Sau 'all' cần danh từ số nhiều làm tân ngữ. 'Complaints' (khiếu nại).",
+    "translate": "Bộ phận pháp lý xử lý tất cả các khiếu nại liên quan đến sở hữu trí tuệ."
+  },
+  {
+    "id": 108,
+    "type": "suffixes",
+    "sentence": "The hotel lobby was _______ decorated for the holiday season.",
+    "options": [
+      { "key": "A", "text": "extravagance", "type": "Noun" },
+      { "key": "B", "text": "extravagant", "type": "Adj" },
+      { "key": "C", "text": "extravagantly", "type": "Adv (-ly)" },
+      { "key": "D", "text": "extravagantness", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho phân từ 'decorated'.",
+    "translate": "Sảnh khách sạn được trang hoàng một cách xa hoa cho mùa lễ hội."
+  },
+  {
+    "id": 109,
+    "type": "suffixes",
+    "sentence": "Please _______ the receipt to the expense report for reimbursement.",
+    "options": [
+      { "key": "A", "text": "attachment", "type": "Noun" },
+      { "key": "B", "text": "attachable", "type": "Adj" },
+      { "key": "C", "text": "attach", "type": "Verb (-ach)" },
+      { "key": "D", "text": "attaching", "type": "V-ing" }
+    ],
+    "answer": "C",
+    "hint": "Câu mệnh lệnh bắt đầu bằng động từ nguyên mẫu.",
+    "translate": "Vui lòng đính kèm hóa đơn vào báo cáo chi phí để được hoàn tiền."
+  },
+  {
+    "id": 110,
+    "type": "suffixes",
+    "sentence": "The research team found a _______ correlation between the two variables.",
+    "options": [
+      { "key": "A", "text": "signify", "type": "Verb" },
+      { "key": "B", "text": "significance", "type": "Noun" },
+      { "key": "C", "text": "significant", "type": "Adj (-ant)" },
+      { "key": "D", "text": "significantly", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'correlation'.",
+    "translate": "Nhóm nghiên cứu đã tìm thấy một sự tương quan đáng kể giữa hai biến số."
+  },
+  {
+    "id": 111,
+    "type": "suffixes",
+    "sentence": "The CEO expressed _______ regarding the upcoming merger.",
+    "options": [
+      { "key": "A", "text": "apprehensive", "type": "Adj" },
+      { "key": "B", "text": "apprehend", "type": "Verb" },
+      { "key": "C", "text": "apprehension", "type": "Noun (-sion)" },
+      { "key": "D", "text": "apprehensively", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Sau động từ ngoại động 'expressed' cần một danh từ làm tân ngữ. 'Apprehension' (sự lo ngại).",
+    "translate": "Giám đốc điều hành đã bày tỏ sự lo ngại về việc sáp nhập sắp tới."
+  },
+  {
+    "id": 112,
+    "type": "suffixes",
+    "sentence": "The customer's feedback was _______ helpful for improving our service.",
+    "options": [
+      { "key": "A", "text": "immensity", "type": "Noun" },
+      { "key": "B", "text": "immense", "type": "Adj" },
+      { "key": "C", "text": "immensely", "type": "Adv (-ly)" },
+      { "key": "D", "text": "immenseness", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho tính từ 'helpful'.",
+    "translate": "Phản hồi của khách hàng đã cực kỳ hữu ích cho việc cải thiện dịch vụ của chúng tôi."
+  },
+  {
+    "id": 113,
+    "type": "suffixes",
+    "sentence": "Our primary objective is to _______ customer satisfaction.",
+    "options": [
+      { "key": "A", "text": "maximize", "type": "Verb (-ize)" },
+      { "key": "B", "text": "maximum", "type": "Adj/Noun" },
+      { "key": "C", "text": "maximization", "type": "Noun" },
+      { "key": "D", "text": "maximally", "type": "Adv" }
+    ],
+    "answer": "A",
+    "hint": "Sau 'to' (để làm gì) cần một động từ nguyên mẫu.",
+    "translate": "Mục tiêu chính của chúng tôi là tối đa hóa sự hài lòng của khách hàng."
+  },
+  {
+    "id": 114,
+    "type": "suffixes",
+    "sentence": "The new furniture in the lobby is both _______ and functional.",
+    "options": [
+      { "key": "A", "text": "style", "type": "Noun/Verb" },
+      { "key": "B", "text": "stylish", "type": "Adj (-ish)" },
+      { "key": "C", "text": "stylishly", "type": "Adv" },
+      { "key": "D", "text": "stylist", "type": "Noun (Person)" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ đi sau 'is' và song hành với 'functional'.",
+    "translate": "Nội thất mới ở sảnh chờ vừa hợp thời trang vừa mang tính ứng dụng cao."
+  },
+  {
+    "id": 115,
+    "type": "suffixes",
+    "sentence": "The board members had a _______ discussion about the budget proposal.",
+    "options": [
+      { "key": "A", "text": "vigor", "type": "Noun" },
+      { "key": "B", "text": "vigorous", "type": "Adj (-ous)" },
+      { "key": "C", "text": "vigorously", "type": "Adv" },
+      { "key": "D", "text": "invigorate", "type": "Verb" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ bổ nghĩa cho 'discussion'. 'Vigorous' (sôi nổi/mạnh mẽ).",
+    "translate": "Các thành viên ban quản trị đã có một cuộc thảo luận sôi nổi về đề xuất ngân sách."
+  },
+  {
+    "id": 116,
+    "type": "suffixes",
+    "sentence": "The data entry clerk works _______ to ensure all records are updated.",
+    "options": [
+      { "key": "A", "text": "method", "type": "Noun" },
+      { "key": "B", "text": "methodical", "type": "Adj" },
+      { "key": "C", "text": "methodically", "type": "Adv (-ly)" },
+      { "key": "D", "text": "methodology", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'works'.",
+    "translate": "Nhân viên nhập liệu làm việc một cách có phương pháp để đảm bảo tất cả hồ sơ được cập nhật."
+  },
+  {
+    "id": 117,
+    "type": "suffixes",
+    "sentence": "There is a _______ need for more affordable housing in this area.",
+    "options": [
+      { "key": "A", "text": "pressing", "type": "Adj (-ing)" },
+      { "key": "B", "text": "press", "type": "Verb/Noun" },
+      { "key": "C", "text": "pressure", "type": "Noun" },
+      { "key": "D", "text": "pressured", "type": "Adj" }
+    ],
+    "answer": "A",
+    "hint": "Tính từ 'pressing' mang nghĩa 'cấp bách' bổ nghĩa cho 'need'.",
+    "translate": "Có một nhu cầu cấp bách về nhà ở giá rẻ hơn tại khu vực này."
+  },
+  {
+    "id": 118,
+    "type": "suffixes",
+    "sentence": "The company decided to _______ the launch of the new product.",
+    "options": [
+      { "key": "A", "text": "postponement", "type": "Noun" },
+      { "key": "B", "text": "postpone", "type": "Verb (-one)" },
+      { "key": "C", "text": "postponed", "type": "V-ed" },
+      { "key": "D", "text": "postponing", "type": "V-ing" }
+    ],
+    "answer": "B",
+    "hint": "Sau 'decided to' cần một động từ nguyên mẫu.",
+    "translate": "Công ty đã quyết định hoãn việc ra mắt sản phẩm mới."
+  },
+  {
+    "id": 119,
+    "type": "suffixes",
+    "sentence": "The supervisor’s _______ of the incident was detailed and accurate.",
+    "options": [
+      { "key": "A", "text": "describe", "type": "Verb" },
+      { "key": "B", "text": "descriptive", "type": "Adj" },
+      { "key": "C", "text": "description", "type": "Noun (-tion)" },
+      { "key": "D", "text": "describable", "type": "Adj" }
+    ],
+    "answer": "C",
+    "hint": "Danh từ đứng sau sở hữu cách làm chủ ngữ.",
+    "translate": "Bản mô tả của người giám sát về sự cố rất chi tiết và chính xác."
+  },
+  {
+    "id": 120,
+    "type": "suffixes",
+    "sentence": "The sales representatives are _______ to meet their monthly quotas.",
+    "options": [
+      { "key": "A", "text": "determination", "type": "Noun" },
+      { "key": "B", "text": "determine", "type": "Verb" },
+      { "key": "C", "text": "determined", "type": "Adj (-ed)" },
+      { "key": "D", "text": "determinately", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Tính từ mô tả trạng thái của chủ ngữ (kiên định/quyết tâm).",
+    "translate": "Các đại diện bán hàng rất quyết tâm để đạt được chỉ tiêu hàng tháng."
+  },
+  {
+    "id": 121,
+    "type": "suffixes",
+    "sentence": "The newly implemented policy is _______ to all employees.",
+    "options": [
+      { "key": "A", "text": "apply", "type": "Verb" },
+      { "key": "B", "text": "application", "type": "Noun" },
+      { "key": "C", "text": "applicable", "type": "Adj (-able)" },
+      { "key": "D", "text": "applicant", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Sau 'is' cần tính từ. Cấu trúc 'be applicable to' (được áp dụng cho).",
+    "translate": "Chính sách mới được triển khai áp dụng cho tất cả nhân viên."
+  },
+  {
+    "id": 122,
+    "type": "suffixes",
+    "sentence": "The technical manual contains _______ instructions for setup.",
+    "options": [
+      { "key": "A", "text": "simplify", "type": "Verb" },
+      { "key": "B", "text": "simplified", "type": "Adj (-ed)" },
+      { "key": "C", "text": "simplicity", "type": "Noun" },
+      { "key": "D", "text": "simply", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'instructions'.",
+    "translate": "Sách hướng dẫn kỹ thuật chứa các hướng dẫn đã được đơn giản hóa cho việc cài đặt."
+  },
+  {
+    "id": 123,
+    "type": "suffixes",
+    "sentence": "The company’s _______ reputation has attracted many investors.",
+    "options": [
+      { "key": "A", "text": "impeccable", "type": "Adj (-able)" },
+      { "key": "B", "text": "impeccably", "type": "Adv" },
+      { "key": "C", "text": "impeccability", "type": "Noun" },
+      { "key": "D", "text": "impeccableness", "type": "Noun" }
+    ],
+    "answer": "A",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'reputation'. 'Impeccable' (hoàn hảo/không chê vào đâu được).",
+    "translate": "Danh tiếng hoàn hảo của công ty đã thu hút nhiều nhà đầu tư."
+  },
+  {
+    "id": 124,
+    "type": "suffixes",
+    "sentence": "The construction of the new office building is _______ on schedule.",
+    "options": [
+      { "key": "A", "text": "current", "type": "Adj" },
+      { "key": "B", "text": "currently", "type": "Adv (-ly)" },
+      { "key": "C", "text": "currency", "type": "Noun" },
+      { "key": "D", "text": "currentness", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho cả cụm giới từ 'on schedule'.",
+    "translate": "Việc xây dựng tòa nhà văn phòng mới hiện đang đúng tiến độ."
+  },
+  {
+    "id": 125,
+    "type": "suffixes",
+    "sentence": "The manager provided a _______ summary of the meeting's key points.",
+    "options": [
+      { "key": "A", "text": "brevity", "type": "Noun" },
+      { "key": "B", "text": "brief", "type": "Adj" },
+      { "key": "C", "text": "briefly", "type": "Adv" },
+      { "key": "D", "text": "briefness", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'summary'.",
+    "translate": "Người quản lý đã cung cấp một bản tóm tắt ngắn gọn về các điểm chính của cuộc họp."
+  },
+  {
+    "id": 126,
+    "type": "suffixes",
+    "sentence": "The new software will _______ the process of generating reports.",
+    "options": [
+      { "key": "A", "text": "facilitation", "type": "Noun" },
+      { "key": "B", "text": "facilitator", "type": "Noun" },
+      { "key": "C", "text": "facilitate", "type": "Verb (-ate)" },
+      { "key": "D", "text": "facilitating", "type": "V-ing" }
+    ],
+    "answer": "C",
+    "hint": "Sau trợ động từ 'will' cần động từ nguyên mẫu. 'Facilitate' (tạo điều kiện/làm cho dễ dàng).",
+    "translate": "Phần mềm mới sẽ tạo điều kiện thuận lợi cho quá trình tạo báo cáo."
+  },
+  {
+    "id": 127,
+    "type": "suffixes",
+    "sentence": "The candidate's interview was _______ impressive to the panel.",
+    "options": [
+      { "key": "A", "text": "genuine", "type": "Adj" },
+      { "key": "B", "text": "genuinely", "type": "Adv (-ly)" },
+      { "key": "C", "text": "genuineness", "type": "Noun" },
+      { "key": "D", "text": "genuflect", "type": "Verb" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho tính từ 'impressive'.",
+    "translate": "Buổi phỏng vấn của ứng viên thực sự đã gây ấn tượng với hội đồng."
+  },
+  {
+    "id": 128,
+    "type": "suffixes",
+    "sentence": "All staff members are expected to act _______ at all times.",
+    "options": [
+      { "key": "A", "text": "ethical", "type": "Adj" },
+      { "key": "B", "text": "ethically", "type": "Adv (-ly)" },
+      { "key": "C", "text": "ethics", "type": "Noun" },
+      { "key": "D", "text": "ethicist", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'act'.",
+    "translate": "Tất cả nhân viên được mong đợi luôn hành động một cách có đạo đức."
+  },
+  {
+    "id": 129,
+    "type": "suffixes",
+    "sentence": "The hotel offers _______ amenities to its guests.",
+    "options": [
+      { "key": "A", "text": "luxury", "type": "Noun" },
+      { "key": "B", "text": "luxurious", "type": "Adj (-ous)" },
+      { "key": "C", "text": "luxuriously", "type": "Adv" },
+      { "key": "D", "text": "luxuriate", "type": "Verb" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'amenities'.",
+    "translate": "Khách sạn cung cấp các tiện nghi sang trọng cho khách hàng."
+  },
+  {
+    "id": 130,
+    "type": "suffixes",
+    "sentence": "The company has achieved _______ success in the last fiscal year.",
+    "options": [
+      { "key": "A", "text": "consider", "type": "Verb" },
+      { "key": "B", "text": "consideration", "type": "Noun" },
+      { "key": "C", "text": "considerable", "type": "Adj (-able)" },
+      { "key": "D", "text": "considerably", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'success'. 'Considerable' (đáng kể).",
+    "translate": "Công ty đã đạt được thành công đáng kể trong năm tài chính vừa qua."
+  },
+  {
+    "id": 131,
+    "type": "suffixes",
+    "sentence": "The marketing team's _______ to the project was crucial for its success.",
+    "options": [
+      { "key": "A", "text": "contribute", "type": "Verb" },
+      { "key": "B", "text": "contributor", "type": "Noun (Person)" },
+      { "key": "C", "text": "contribution", "type": "Noun (Thing)" },
+      { "key": "D", "text": "contributory", "type": "Adj" }
+    ],
+    "answer": "C",
+    "hint": "Sau sở hữu cách cần một danh từ chỉ sự đóng góp (vật/việc), không phải người.",
+    "translate": "Sự đóng góp của nhóm tiếp thị cho dự án là yếu tố then chốt cho thành công của nó."
+  },
+  {
+    "id": 132,
+    "type": "suffixes",
+    "sentence": "The new law will _______ affect the way companies handle consumer data.",
+    "options": [
+      { "key": "A", "text": "adversity", "type": "Noun" },
+      { "key": "B", "text": "adverse", "type": "Adj" },
+      { "key": "C", "text": "adversely", "type": "Adv (-ly)" },
+      { "key": "D", "text": "adversary", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'affect'. 'Adversely affect' (ảnh hưởng bất lợi) là một cụm từ phổ biến.",
+    "translate": "Luật mới sẽ ảnh hưởng bất lợi đến cách các công ty xử lý dữ liệu người tiêu dùng."
+  },
+  {
+    "id": 133,
+    "type": "suffixes",
+    "sentence": "The CEO's _______ of the new strategy was met with great enthusiasm.",
+    "options": [
+      { "key": "A", "text": "articulate", "type": "Verb/Adj" },
+      { "key": "B", "text": "articulation", "type": "Noun (-tion)" },
+      { "key": "C", "text": "articulately", "type": "Adv" },
+      { "key": "D", "text": "articulateness", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Cần danh từ đứng sau sở hữu cách. 'Articulation' (sự trình bày rõ ràng).",
+    "translate": "Sự trình bày rõ ràng của CEO về chiến lược mới đã nhận được sự hưởng ứng nhiệt tình."
+  },
+  {
+    "id": 134,
+    "type": "suffixes",
+    "sentence": "The technical support team resolved the issue with _______ speed.",
+    "options": [
+      { "key": "A", "text": "astonish", "type": "Verb" },
+      { "key": "B", "text": "astonishing", "type": "Adj (-ing)" },
+      { "key": "C", "text": "astonishingly", "type": "Adv" },
+      { "key": "D", "text": "astonishment", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'speed'.",
+    "translate": "Đội ngũ hỗ trợ kỹ thuật đã giải quyết vấn đề với tốc độ đáng kinh ngạc."
+  },
+  {
+    "id": 135,
+    "type": "suffixes",
+    "sentence": "The information provided in the report is _______ confidential.",
+    "options": [
+      { "key": "A", "text": "strict", "type": "Adj" },
+      { "key": "B", "text": "strictly", "type": "Adv (-ly)" },
+      { "key": "C", "text": "strictness", "type": "Noun" },
+      { "key": "D", "text": "stricter", "type": "Adj (Comp)" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho tính từ 'confidential'. 'Strictly confidential' (tuyệt mật).",
+    "translate": "Thông tin được cung cấp trong báo cáo là tuyệt mật."
+  },
+  {
+    "id": 136,
+    "type": "suffixes",
+    "sentence": "All candidates must provide _______ of their professional certifications.",
+    "options": [
+      { "key": "A", "text": "verify", "type": "Verb" },
+      { "key": "B", "text": "verifiable", "type": "Adj" },
+      { "key": "C", "text": "verification", "type": "Noun (-tion)" },
+      { "key": "D", "text": "verity", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Sau động từ ngoại động 'provide' cần một danh từ.",
+    "translate": "Tất cả các ứng viên phải cung cấp bằng chứng xác minh các chứng chỉ chuyên môn của họ."
+  },
+  {
+    "id": 137,
+    "type": "suffixes",
+    "sentence": "The manager's _______ in the team led to improved performance.",
+    "options": [
+      { "key": "A", "text": "confide", "type": "Verb" },
+      { "key": "B", "text": "confident", "type": "Adj" },
+      { "key": "C", "text": "confidence", "type": "Noun (-ence)" },
+      { "key": "D", "text": "confidentiality", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Danh từ đứng sau sở hữu cách. 'Confidence in someone' (Sự tin tưởng vào ai đó).",
+    "translate": "Sự tin tưởng của người quản lý vào nhóm đã dẫn đến hiệu suất làm việc được cải thiện."
+  },
+  {
+    "id": 138,
+    "type": "suffixes",
+    "sentence": "The company decided to _______ the distribution network.",
+    "options": [
+      { "key": "A", "text": "central", "type": "Adj" },
+      { "key": "B", "text": "centralize", "type": "Verb (-ize)" },
+      { "key": "C", "text": "centralization", "type": "Noun" },
+      { "key": "D", "text": "centrally", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Sau 'decided to' cần một động từ nguyên mẫu.",
+    "translate": "Công ty đã quyết định tập trung hóa mạng lưới phân phối."
+  },
+  {
+    "id": 139,
+    "type": "suffixes",
+    "sentence": "The research findings were _______ presented at the conference.",
+    "options": [
+      { "key": "A", "text": "persuade", "type": "Verb" },
+      { "key": "B", "text": "persuasive", "type": "Adj" },
+      { "key": "C", "text": "persuasively", "type": "Adv (-ly)" },
+      { "key": "D", "text": "persuasion", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho phân từ 'presented'.",
+    "translate": "Các kết quả nghiên cứu đã được trình bày một cách đầy thuyết phục tại hội nghị."
+  },
+  {
+    "id": 140,
+    "type": "suffixes",
+    "sentence": "The newly hired architect is known for his _______ designs.",
+    "options": [
+      { "key": "A", "text": "innovate", "type": "Verb" },
+      { "key": "B", "text": "innovation", "type": "Noun" },
+      { "key": "C", "text": "innovative", "type": "Adj (-ive)" },
+      { "key": "D", "text": "innovator", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'designs'.",
+    "translate": "Kiến trúc sư mới được thuê nổi tiếng với những thiết kế đầy tính sáng tạo."
+  },
+  {
+    "id": 141,
+    "type": "suffixes",
+    "sentence": "The production line must operate _______ to maintain safety standards.",
+    "options": [
+      { "key": "A", "text": "efficiency", "type": "Noun" },
+      { "key": "B", "text": "efficient", "type": "Adj" },
+      { "key": "C", "text": "efficiently", "type": "Adv (-ly)" },
+      { "key": "D", "text": "efficacious", "type": "Adj" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'operate'.",
+    "translate": "Dây chuyền sản xuất phải vận hành hiệu quả để duy trì các tiêu chuẩn an toàn."
+  },
+  {
+    "id": 142,
+    "type": "suffixes",
+    "sentence": "There is a significant _______ between the two financial reports.",
+    "options": [
+      { "key": "A", "text": "discrepant", "type": "Adj" },
+      { "key": "B", "text": "discrepancy", "type": "Noun (-ancy)" },
+      { "key": "C", "text": "discrepantly", "type": "Adv" },
+      { "key": "D", "text": "discrepancies", "type": "Noun (Plural)" }
+    ],
+    "answer": "B",
+    "hint": "Sau 'a' và tính từ 'significant' cần một danh từ số ít.",
+    "translate": "Có một sự khác biệt (sai lệch) đáng kể giữa hai bản báo cáo tài chính."
+  },
+  {
+    "id": 143,
+    "type": "suffixes",
+    "sentence": "The board reached a _______ agreement after lengthy negotiations.",
+    "options": [
+      { "key": "A", "text": "unanimity", "type": "Noun" },
+      { "key": "B", "text": "unanimous", "type": "Adj (-ous)" },
+      { "key": "C", "text": "unanimously", "type": "Adv" },
+      { "key": "D", "text": "unanimateness", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'agreement'. 'Unanimous' (nhất trí).",
+    "translate": "Ban quản trị đã đạt được một thỏa thuận nhất trí sau các cuộc đàm phán kéo dài."
+  },
+  {
+    "id": 144,
+    "type": "suffixes",
+    "sentence": "The government is seeking a _______ solution to the economic crisis.",
+    "options": [
+      { "key": "A", "text": "sustain", "type": "Verb" },
+      { "key": "B", "text": "sustainability", "type": "Noun" },
+      { "key": "C", "text": "sustainable", "type": "Adj (-able)" },
+      { "key": "D", "text": "sustainably", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'solution'. 'Sustainable' (bền vững).",
+    "translate": "Chính phủ đang tìm kiếm một giải pháp bền vững cho cuộc khủng hoảng kinh tế."
+  },
+  {
+    "id": 145,
+    "type": "suffixes",
+    "sentence": "The technician _______ inspected the server for any vulnerabilities.",
+    "options": [
+      { "key": "A", "text": "rigorous", "type": "Adj" },
+      { "key": "B", "text": "rigorously", "type": "Adv (-ly)" },
+      { "key": "C", "text": "rigor", "type": "Noun" },
+      { "key": "D", "text": "rigorousness", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'inspected'.",
+    "translate": "Kỹ thuật viên đã kiểm tra máy chủ một cách nghiêm ngặt để tìm bất kỳ lỗ hổng nào."
+  },
+  {
+    "id": 146,
+    "type": "suffixes",
+    "sentence": "The company's new initiative is _______ towards reducing carbon emissions.",
+    "options": [
+      { "key": "A", "text": "orient", "type": "Verb" },
+      { "key": "B", "text": "orientation", "type": "Noun" },
+      { "key": "C", "text": "oriented", "type": "Adj (-ed)" },
+      { "key": "D", "text": "oriental", "type": "Adj" }
+    ],
+    "answer": "C",
+    "hint": "Tính từ ở dạng phân từ mô tả mục tiêu của sáng kiến. 'Be oriented towards' (được định hướng theo).",
+    "translate": "Sáng kiến mới của công ty được định hướng tới việc giảm lượng khí thải carbon."
+  },
+  {
+    "id": 147,
+    "type": "suffixes",
+    "sentence": "The manager's _______ in handling the situation was commendable.",
+    "options": [
+      { "key": "A", "text": "discreet", "type": "Adj" },
+      { "key": "B", "text": "discretion", "type": "Noun (-tion)" },
+      { "key": "C", "text": "discreetly", "type": "Adv" },
+      { "key": "D", "text": "discreetness", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Danh từ đứng sau sở hữu cách. 'Discretion' (sự thận trọng/sáng suốt).",
+    "translate": "Sự thận trọng của người quản lý trong việc xử lý tình huống là rất đáng khen ngợi."
+  },
+  {
+    "id": 148,
+    "type": "suffixes",
+    "sentence": "The software update will _______ the security of the entire network.",
+    "options": [
+      { "key": "A", "text": "fortify", "type": "Verb (-ify)" },
+      { "key": "B", "text": "fortification", "type": "Noun" },
+      { "key": "C", "text": "fortified", "type": "V-ed" },
+      { "key": "D", "text": "fortress", "type": "Noun" }
+    ],
+    "answer": "A",
+    "hint": "Sau trợ động từ 'will' cần động từ nguyên mẫu. 'Fortify' (củng cố/làm cho vững chắc).",
+    "translate": "Bản cập nhật phần mềm sẽ củng cố tính bảo mật của toàn bộ mạng lưới."
+  },
+  {
+    "id": 149,
+    "type": "suffixes",
+    "sentence": "The results of the clinical trial were _______ significant.",
+    "options": [
+      { "key": "A", "text": "statistic", "type": "Noun" },
+      { "key": "B", "text": "statistical", "type": "Adj" },
+      { "key": "C", "text": "statistically", "type": "Adv (-ly)" },
+      { "key": "D", "text": "statistician", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho tính từ 'significant'. 'Statistically significant' (có ý nghĩa về mặt thống kê).",
+    "translate": "Các kết quả của thử nghiệm lâm sàng có ý nghĩa quan trọng về mặt thống kê."
+  },
+  {
+    "id": 150,
+    "type": "suffixes",
+    "sentence": "The company's commitment to _______ is evident in its latest annual report.",
+    "options": [
+      { "key": "A", "text": "transparent", "type": "Adj" },
+      { "key": "B", "text": "transparency", "type": "Noun (-ency)" },
+      { "key": "C", "text": "transparently", "type": "Adv" },
+      { "key": "D", "text": "transparence", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Sau giới từ 'to' trong cụm 'commitment to' cần một danh từ.",
+    "translate": "Sự cam kết của công ty về tính minh bạch được thể hiện rõ trong báo cáo thường niên mới nhất."
+  },
+  {
+    "id": 151,
+    "type": "suffixes",
+    "sentence": "The proposed _______ for the old warehouse includes turning it into a community center.",
+    "options": [
+      { "key": "A", "text": "utilize", "type": "Verb" },
+      { "key": "B", "text": "utilizing", "type": "V-ing" },
+      { "key": "C", "text": "utilization", "type": "Noun (-tion)" },
+      { "key": "D", "text": "utilitarian", "type": "Adj" }
+    ],
+    "answer": "C",
+    "hint": "Sau tính từ 'proposed' cần một danh từ làm chủ ngữ chính.",
+    "translate": "Việc sử dụng được đề xuất cho nhà kho cũ bao gồm việc biến nó thành một trung tâm cộng đồng."
+  },
+  {
+    "id": 152,
+    "type": "suffixes",
+    "sentence": "The software's _______ features are what set it apart from its competitors.",
+    "options": [
+      { "key": "A", "text": "distinguish", "type": "Verb" },
+      { "key": "B", "text": "distinguishable", "type": "Adj" },
+      { "key": "C", "text": "distinctive", "type": "Adj (-ive)" },
+      { "key": "D", "text": "distinctly", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Cần tính từ bổ nghĩa cho 'features'. 'Distinctive' nghĩa là đặc trưng/nổi bật.",
+    "translate": "Các tính năng đặc trưng của phần mềm là thứ tạo nên sự khác biệt so với các đối thủ."
+  },
+  {
+    "id": 153,
+    "type": "suffixes",
+    "sentence": "We were _______ surprised by the high quality of the submitted entries.",
+    "options": [
+      { "key": "A", "text": "pleasant", "type": "Adj" },
+      { "key": "B", "text": "pleasantly", "type": "Adv (-ly)" },
+      { "key": "C", "text": "pleasantness", "type": "Noun" },
+      { "key": "D", "text": "pleasure", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho tính từ/phân từ 'surprised'. Cụm 'pleasantly surprised' (ngạc nhiên một cách thú vị).",
+    "translate": "Chúng tôi đã ngạc nhiên một cách thú vị trước chất lượng cao của các bài dự thi."
+  },
+  {
+    "id": 154,
+    "type": "suffixes",
+    "sentence": "The contract requires the _______ of all materials within 30 days.",
+    "options": [
+      { "key": "A", "text": "dispose", "type": "Verb" },
+      { "key": "B", "text": "disposable", "type": "Adj" },
+      { "key": "C", "text": "disposal", "type": "Noun (-al)" },
+      { "key": "D", "text": "disposed", "type": "V-ed" }
+    ],
+    "answer": "C",
+    "hint": "Dù có đuôi -al, 'Disposal' là một danh từ (sự vứt bỏ/xử lý). Đứng sau 'the' và trước 'of'.",
+    "translate": "Hợp đồng yêu cầu việc xử lý tất cả các vật liệu trong vòng 30 ngày."
+  },
+  {
+    "id": 155,
+    "type": "suffixes",
+    "sentence": "Ms. Tanaka is an _______ talented graphic designer.",
+    "options": [
+      { "key": "A", "text": "incredible", "type": "Adj" },
+      { "key": "B", "text": "incredibly", "type": "Adv (-ly)" },
+      { "key": "C", "text": "incredibility", "type": "Noun" },
+      { "key": "D", "text": "incredulous", "type": "Adj" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho tính từ 'talented'.",
+    "translate": "Bà Tanaka là một nhà thiết kế đồ họa tài năng đến kinh ngạc."
+  },
+  {
+    "id": 156,
+    "type": "suffixes",
+    "sentence": "The company had to _______ the terms of the agreement due to unforeseen costs.",
+    "options": [
+      { "key": "A", "text": "negotiation", "type": "Noun" },
+      { "key": "B", "text": "negotiable", "type": "Adj" },
+      { "key": "C", "text": "renegotiate", "type": "Verb (-ate)" },
+      { "key": "D", "text": "negotiator", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Sau 'had to' cần một động từ nguyên mẫu.",
+    "translate": "Công ty đã phải thương lượng lại các điều khoản của thỏa thuận do những chi phí không lường trước."
+  },
+  {
+    "id": 157,
+    "type": "suffixes",
+    "sentence": "The project was completed _______ ahead of the original deadline.",
+    "options": [
+      { "key": "A", "text": "well", "type": "Adv" },
+      { "key": "B", "text": "good", "type": "Adj" },
+      { "key": "C", "text": "better", "type": "Adj/Adv" },
+      { "key": "D", "text": "best", "type": "Adj/Adv" }
+    ],
+    "answer": "A",
+    "hint": "Dùng 'well' như một trạng từ để nhấn mạnh cụm giới từ chỉ thời gian 'ahead of'.",
+    "translate": "Dự án đã được hoàn thành sớm hơn nhiều so với thời hạn ban đầu."
+  },
+  {
+    "id": 158,
+    "type": "suffixes",
+    "sentence": "The security team is _______ to any suspicious activity in the building.",
+    "options": [
+      { "key": "A", "text": "alertly", "type": "Adv" },
+      { "key": "B", "text": "alertness", "type": "Noun" },
+      { "key": "C", "text": "alert", "type": "Adj" },
+      { "key": "D", "text": "alerting", "type": "V-ing" }
+    ],
+    "answer": "C",
+    "hint": "Sau 'is' cần tính từ. Cấu trúc 'be alert to' (cảnh giác với).",
+    "translate": "Đội an ninh luôn cảnh giác với bất kỳ hoạt động nghi vấn nào trong tòa nhà."
+  },
+  {
+    "id": 159,
+    "type": "suffixes",
+    "sentence": "The _______ of the new bridge has significantly reduced commute times.",
+    "options": [
+      { "key": "A", "text": "complete", "type": "Verb/Adj" },
+      { "key": "B", "text": "completely", "type": "Adv" },
+      { "key": "C", "text": "completion", "type": "Noun (-tion)" },
+      { "key": "D", "text": "completeness", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Sau 'the' và trước 'of' cần một danh từ chỉ sự hoàn thành.",
+    "translate": "Việc hoàn thành cây cầu mới đã làm giảm đáng kể thời gian đi lại."
+  },
+  {
+    "id": 160,
+    "type": "suffixes",
+    "sentence": "We are seeking a _______ individual to manage our sales department.",
+    "options": [
+      { "key": "A", "text": "motivate", "type": "Verb" },
+      { "key": "B", "text": "motivated", "type": "Adj (-ed)" },
+      { "key": "C", "text": "motivation", "type": "Noun" },
+      { "key": "D", "text": "motivator", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ phân từ 'motivated' bổ nghĩa cho danh từ chỉ người 'individual'.",
+    "translate": "Chúng tôi đang tìm kiếm một cá nhân có động lực để quản lý bộ phận bán hàng của mình."
+  },
+  {
+    "id": 161,
+    "type": "suffixes",
+    "sentence": "The manager's _______ approach to problem-solving is very effective.",
+    "options": [
+      { "key": "A", "text": "analysis", "type": "Noun" },
+      { "key": "B", "text": "analytical", "type": "Adj (-ical)" },
+      { "key": "C", "text": "analyze", "type": "Verb" },
+      { "key": "D", "text": "analytically", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'approach'.",
+    "translate": "Cách tiếp cận mang tính phân tích của người quản lý đối với việc giải quyết vấn đề rất hiệu quả."
+  },
+  {
+    "id": 162,
+    "type": "suffixes",
+    "sentence": "The company's new policy has been _______ received by most employees.",
+    "options": [
+      { "key": "A", "text": "favorable", "type": "Adj" },
+      { "key": "B", "text": "favorably", "type": "Adv (-ly)" },
+      { "key": "C", "text": "favor", "type": "Noun/Verb" },
+      { "key": "D", "text": "favorite", "type": "Adj/Noun" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho phân từ 'received' trong cấu trúc bị động.",
+    "translate": "Chính sách mới của công ty đã được hầu hết nhân viên đón nhận một cách thuận lợi."
+  },
+  {
+    "id": 163,
+    "type": "suffixes",
+    "sentence": "The legal department must ensure the _______ of the contract.",
+    "options": [
+      { "key": "A", "text": "valid", "type": "Adj" },
+      { "key": "B", "text": "validate", "type": "Verb" },
+      { "key": "C", "text": "validity", "type": "Noun (-ity)" },
+      { "key": "D", "text": "validly", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Sau 'the' cần một danh từ. 'Validity' (giá trị pháp lý/tính hiệu lực).",
+    "translate": "Bộ phận pháp lý phải đảm bảo tính hiệu lực của hợp đồng."
+  },
+  {
+    "id": 164,
+    "type": "suffixes",
+    "sentence": "The software is designed to _______ generate reports based on data.",
+    "options": [
+      { "key": "A", "text": "automatic", "type": "Adj" },
+      { "key": "B", "text": "automatically", "type": "Adv (-ly)" },
+      { "key": "C", "text": "automation", "type": "Noun" },
+      { "key": "D", "text": "automaton", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'generate'.",
+    "translate": "Phần mềm được thiết kế để tự động tạo báo cáo dựa trên dữ liệu."
+  },
+  {
+    "id": 165,
+    "type": "suffixes",
+    "sentence": "The _______ of the research project was funded by a government grant.",
+    "options": [
+      { "key": "A", "text": "entirety", "type": "Noun (-ity)" },
+      { "key": "B", "text": "entire", "type": "Adj" },
+      { "key": "C", "text": "entirely", "type": "Adv" },
+      { "key": "D", "text": "entitle", "type": "Verb" }
+    ],
+    "answer": "A",
+    "hint": "Cần danh từ làm chủ ngữ chính sau 'the'. 'Entirety' (toàn bộ/tổng thể).",
+    "translate": "Toàn bộ dự án nghiên cứu đã được tài trợ bởi một khoản trợ cấp từ chính phủ."
+  },
+  {
+    "id": 166,
+    "type": "suffixes",
+    "sentence": "The technician found a _______ flaw in the system's architecture.",
+    "options": [
+      { "key": "A", "text": "critic", "type": "Noun (Person)" },
+      { "key": "B", "text": "critically", "type": "Adv" },
+      { "key": "C", "text": "critical", "type": "Adj (-al)" },
+      { "key": "D", "text": "criticism", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'flaw'. 'Critical flaw' (thiếu sót nghiêm trọng).",
+    "translate": "Kỹ thuật viên đã tìm thấy một thiếu sót nghiêm trọng trong kiến trúc của hệ thống."
+  },
+  {
+    "id": 167,
+    "type": "suffixes",
+    "sentence": "We are committed to providing _______ services to all our clients.",
+    "options": [
+      { "key": "A", "text": "exception", "type": "Noun" },
+      { "key": "B", "text": "exceptional", "type": "Adj (-al)" },
+      { "key": "C", "text": "exceptionally", "type": "Adv" },
+      { "key": "D", "text": "except", "type": "Prep" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'services'. 'Exceptional' (xuất sắc/vượt trội).",
+    "translate": "Chúng tôi cam kết cung cấp những dịch vụ xuất sắc cho tất cả khách hàng của mình."
+  },
+  {
+    "id": 168,
+    "type": "suffixes",
+    "sentence": "The new employee's performance has been _______ impressive.",
+    "options": [
+      { "key": "A", "text": "consistent", "type": "Adj" },
+      { "key": "B", "text": "consistently", "type": "Adv (-ly)" },
+      { "key": "C", "text": "consistency", "type": "Noun" },
+      { "key": "D", "text": "consist", "type": "Verb" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho tính từ 'impressive'.",
+    "translate": "Hiệu suất làm việc của nhân viên mới luôn ấn tượng một cách nhất quán."
+  },
+  {
+    "id": 169,
+    "type": "suffixes",
+    "sentence": "The company decided to _______ the production of its flagship product.",
+    "options": [
+      { "key": "A", "text": "discontinue", "type": "Verb (-ue)" },
+      { "key": "B", "text": "discontinuous", "type": "Adj" },
+      { "key": "C", "text": "discontinuation", "type": "Noun" },
+      { "key": "D", "text": "discontinuance", "type": "Noun" }
+    ],
+    "answer": "A",
+    "hint": "Sau 'decided to' cần một động từ nguyên mẫu.",
+    "translate": "Công ty đã quyết định ngừng sản xuất sản phẩm chủ lực của mình."
+  },
+  {
+    "id": 170,
+    "type": "suffixes",
+    "sentence": "The _______ of the new policy will begin next Monday.",
+    "options": [
+      { "key": "A", "text": "implement", "type": "Verb" },
+      { "key": "B", "text": "implementation", "type": "Noun (-tion)" },
+      { "key": "C", "text": "implementable", "type": "Adj" },
+      { "key": "D", "text": "implementing", "type": "V-ing" }
+    ],
+    "answer": "B",
+    "hint": "Danh từ làm chủ ngữ sau mạo từ 'the'. 'Implementation' (việc triển khai).",
+    "translate": "Việc triển khai chính sách mới sẽ bắt đầu vào thứ Hai tới."
+  },
+  {
+    "id": 171,
+    "type": "suffixes",
+    "sentence": "The CEO expressed his _______ for the hard work of all staff members.",
+    "options": [
+      { "key": "A", "text": "appreciate", "type": "Verb" },
+      { "key": "B", "text": "appreciative", "type": "Adj" },
+      { "key": "C", "text": "appreciation", "type": "Noun (-tion)" },
+      { "key": "D", "text": "appreciatively", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Sau tính từ sở hữu 'his' cần một danh từ làm tân ngữ.",
+    "translate": "Giám đốc điều hành đã bày tỏ sự trân trọng đối với sự làm việc chăm chỉ của tất cả nhân viên."
+  },
+  {
+    "id": 172,
+    "type": "suffixes",
+    "sentence": "The new marketing campaign has proved _______ successful so far.",
+    "options": [
+      { "key": "A", "text": "highly", "type": "Adv (-ly)" },
+      { "key": "B", "text": "high", "type": "Adj/Adv" },
+      { "key": "C", "text": "height", "type": "Noun" },
+      { "key": "D", "text": "heighten", "type": "Verb" }
+    ],
+    "answer": "A",
+    "hint": "Trạng từ 'highly' thường đi kèm với các tính từ như 'successful' để chỉ mức độ cao.",
+    "translate": "Chiến dịch tiếp thị mới đã chứng minh là rất thành công cho đến nay."
+  },
+  {
+    "id": 173,
+    "type": "suffixes",
+    "sentence": "The HR manager is looking for a _______ to fill the vacancy in the accounting department.",
+    "options": [
+      { "key": "A", "text": "replace", "type": "Verb" },
+      { "key": "B", "text": "replacement", "type": "Noun (-ment)" },
+      { "key": "C", "text": "replaceable", "type": "Adj" },
+      { "key": "D", "text": "replacing", "type": "V-ing" }
+    ],
+    "answer": "B",
+    "hint": "Cần một danh từ chỉ người/vật thay thế sau mạo từ 'a'.",
+    "translate": "Trưởng phòng nhân sự đang tìm người thay thế để lấp đầy vị trí trống trong bộ phận kế toán."
+  },
+  {
+    "id": 174,
+    "type": "suffixes",
+    "sentence": "The information in the user manual is _______ organized.",
+    "options": [
+      { "key": "A", "text": "logic", "type": "Noun" },
+      { "key": "B", "text": "logical", "type": "Adj" },
+      { "key": "C", "text": "logically", "type": "Adv (-ly)" },
+      { "key": "D", "text": "logician", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho phân từ/tính từ 'organized'.",
+    "translate": "Thông tin trong sách hướng dẫn sử dụng được sắp xếp một cách logic."
+  },
+  {
+    "id": 175,
+    "type": "suffixes",
+    "sentence": "The company decided to _______ the terms of the contract.",
+    "options": [
+      { "key": "A", "text": "simplification", "type": "Noun" },
+      { "key": "B", "text": "simplify", "type": "Verb (-ify)" },
+      { "key": "C", "text": "simple", "type": "Adj" },
+      { "key": "D", "text": "simply", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Sau 'decided to' cần một động từ nguyên mẫu.",
+    "translate": "Công ty đã quyết định đơn giản hóa các điều khoản của hợp đồng."
+  },
+  {
+    "id": 176,
+    "type": "suffixes",
+    "sentence": "The director made a _______ regarding the future of the company.",
+    "options": [
+      { "key": "A", "text": "predict", "type": "Verb" },
+      { "key": "B", "text": "predictive", "type": "Adj" },
+      { "key": "C", "text": "prediction", "type": "Noun (-tion)" },
+      { "key": "D", "text": "predictable", "type": "Adj" }
+    ],
+    "answer": "C",
+    "hint": "Cấu trúc 'make a + Noun'. 'Prediction' (sự dự đoán).",
+    "translate": "Giám đốc đã đưa ra một lời dự đoán liên quan đến tương lai của công ty."
+  },
+  {
+    "id": 177,
+    "type": "suffixes",
+    "sentence": "The security system provides _______ protection against unauthorized access.",
+    "options": [
+      { "key": "A", "text": "rely", "type": "Verb" },
+      { "key": "B", "text": "reliability", "type": "Noun" },
+      { "key": "C", "text": "reliable", "type": "Adj (-able)" },
+      { "key": "D", "text": "reliably", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'protection'.",
+    "translate": "Hệ thống an ninh cung cấp sự bảo vệ đáng tin cậy chống lại sự truy cập trái phép."
+  },
+  {
+    "id": 178,
+    "type": "suffixes",
+    "sentence": "The committee is _______ composed of industry experts.",
+    "options": [
+      { "key": "A", "text": "primary", "type": "Adj" },
+      { "key": "B", "text": "primarily", "type": "Adv (-ly)" },
+      { "key": "C", "text": "primacy", "type": "Noun" },
+      { "key": "D", "text": "primal", "type": "Adj" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho phân từ 'composed'. 'Primarily' (chủ yếu).",
+    "translate": "Ủy ban chủ yếu bao gồm các chuyên gia trong ngành."
+  },
+  {
+    "id": 179,
+    "type": "suffixes",
+    "sentence": "The customer found the new interface very _______.",
+    "options": [
+      { "key": "A", "text": "intuit", "type": "Verb" },
+      { "key": "B", "text": "intuition", "type": "Noun" },
+      { "key": "C", "text": "intuitive", "type": "Adj (-ive)" },
+      { "key": "D", "text": "intuitively", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Sau 'found + O + Adj'. 'Intuitive' (trực quan/dễ sử dụng).",
+    "translate": "Khách hàng thấy giao diện mới rất trực quan."
+  },
+  {
+    "id": 180,
+    "type": "suffixes",
+    "sentence": "Please _______ the data to ensure there are no errors.",
+    "options": [
+      { "key": "A", "text": "analysis", "type": "Noun" },
+      { "key": "B", "text": "analyst", "type": "Noun (Person)" },
+      { "key": "C", "text": "analyze", "type": "Verb (-ize)" },
+      { "key": "D", "text": "analytical", "type": "Adj" }
+    ],
+    "answer": "C",
+    "hint": "Câu mệnh lệnh cần một động từ nguyên mẫu.",
+    "translate": "Vui lòng phân tích dữ liệu để đảm bảo không có lỗi."
+  },
+  {
+    "id": 181,
+    "type": "suffixes",
+    "sentence": "The company's _______ growth has impressed many market analysts.",
+    "options": [
+      { "key": "A", "text": "sustain", "type": "Verb" },
+      { "key": "B", "text": "sustainable", "type": "Adj (-able)" },
+      { "key": "C", "text": "sustainably", "type": "Adv" },
+      { "key": "D", "text": "sustainability", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'growth'.",
+    "translate": "Sự tăng trưởng bền vững của công ty đã gây ấn tượng với nhiều nhà phân tích thị trường."
+  },
+  {
+    "id": 182,
+    "type": "suffixes",
+    "sentence": "The new employee is _______ to take on more responsibilities.",
+    "options": [
+      { "key": "A", "text": "eagerness", "type": "Noun" },
+      { "key": "B", "text": "eagerly", "type": "Adv" },
+      { "key": "C", "text": "eager", "type": "Adj (-er)" },
+      { "key": "D", "text": "eagered", "type": "V-ed" }
+    ],
+    "answer": "C",
+    "hint": "Sau 'is' cần tính từ mô tả trạng thái chủ ngữ.",
+    "translate": "Nhân viên mới rất hăng hái đảm nhận thêm nhiều trách nhiệm."
+  },
+  {
+    "id": 183,
+    "type": "suffixes",
+    "sentence": "The manager spoke _______ about the team's future projects.",
+    "options": [
+      { "key": "A", "text": "enthusiasm", "type": "Noun" },
+      { "key": "B", "text": "enthusiast", "type": "Noun (Person)" },
+      { "key": "C", "text": "enthusiastically", "type": "Adv (-ly)" },
+      { "key": "D", "text": "enthusiastic", "type": "Adj" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'spoke'.",
+    "translate": "Quản lý đã nói một cách nhiệt huyết về các dự án tương lai của nhóm."
+  },
+  {
+    "id": 184,
+    "type": "suffixes",
+    "sentence": "The legal advisor recommended a _______ approach to the dispute.",
+    "options": [
+      { "key": "A", "text": "caution", "type": "Noun/Verb" },
+      { "key": "B", "text": "cautious", "type": "Adj (-ous)" },
+      { "key": "C", "text": "cautiously", "type": "Adv" },
+      { "key": "D", "text": "cautionary", "type": "Adj" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ bổ nghĩa cho 'approach'. 'Cautious' (thận trọng).",
+    "translate": "Cố vấn pháp lý đã khuyến nghị một cách tiếp cận thận trọng đối với cuộc tranh chấp."
+  },
+  {
+    "id": 185,
+    "type": "suffixes",
+    "sentence": "The results of the test are _______ within 24 hours.",
+    "options": [
+      { "key": "A", "text": "avail", "type": "Verb" },
+      { "key": "B", "text": "available", "type": "Adj (-able)" },
+      { "key": "C", "text": "availability", "type": "Noun" },
+      { "key": "D", "text": "availably", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Sau 'are' cần một tính từ.",
+    "translate": "Kết quả xét nghiệm sẽ có trong vòng 24 giờ."
+  },
+  {
+    "id": 186,
+    "type": "suffixes",
+    "sentence": "The company has achieved a _______ level of success in the tech industry.",
+    "options": [
+      { "key": "A", "text": "remark", "type": "Verb" },
+      { "key": "B", "text": "remarkably", "type": "Adv" },
+      { "key": "C", "text": "remarkable", "type": "Adj (-able)" },
+      { "key": "D", "text": "remarkableness", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Tính từ bổ nghĩa cho 'level'. 'Remarkable' (đáng chú ý/xuất sắc).",
+    "translate": "Công ty đã đạt được một mức độ thành công đáng chú ý trong ngành công nghệ."
+  },
+  {
+    "id": 187,
+    "type": "suffixes",
+    "sentence": "The technical team will _______ the problem as soon as possible.",
+    "options": [
+      { "key": "A", "text": "rectification", "type": "Noun" },
+      { "key": "B", "text": "rectify", "type": "Verb (-ify)" },
+      { "key": "C", "text": "rectifiable", "type": "Adj" },
+      { "key": "D", "text": "rectified", "type": "V-ed" }
+    ],
+    "answer": "B",
+    "hint": "Sau 'will' cần động từ nguyên mẫu. 'Rectify' (khắc phục/sửa chữa).",
+    "translate": "Đội ngũ kỹ thuật sẽ khắc phục vấn đề sớm nhất có thể."
+  },
+  {
+    "id": 188,
+    "type": "suffixes",
+    "sentence": "The newly installed software runs _______ on all systems.",
+    "options": [
+      { "key": "A", "text": "smooth", "type": "Adj" },
+      { "key": "B", "text": "smoothly", "type": "Adv (-ly)" },
+      { "key": "C", "text": "smoothness", "type": "Noun" },
+      { "key": "D", "text": "smoothen", "type": "Verb" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'runs'.",
+    "translate": "Phần mềm mới cài đặt chạy mượt mà trên tất cả các hệ thống."
+  },
+  {
+    "id": 189,
+    "type": "suffixes",
+    "sentence": "All employees are expected to _______ with the company's dress code.",
+    "options": [
+      { "key": "A", "text": "compliance", "type": "Noun" },
+      { "key": "B", "text": "compliant", "type": "Adj" },
+      { "key": "C", "text": "comply", "type": "Verb (-y)" },
+      { "key": "D", "text": "compliantly", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Sau 'expected to' cần động từ nguyên mẫu. 'Comply with' (tuân thủ).",
+    "translate": "Tất cả nhân viên được mong đợi tuân thủ quy định về trang phục của công ty."
+  },
+  {
+    "id": 190,
+    "type": "suffixes",
+    "sentence": "The marketing department needs a _______ for the new campaign.",
+    "options": [
+      { "key": "A", "text": "strategy", "type": "Noun" },
+      { "key": "B", "text": "strategic", "type": "Adj (-ic)" },
+      { "key": "C", "text": "strategically", "type": "Adv" },
+      { "key": "D", "text": "strategist", "type": "Noun (Person)" }
+    ],
+    "answer": "A",
+    "hint": "Cần một danh từ sau mạo từ 'a'.",
+    "translate": "Bộ phận tiếp thị cần một chiến lược cho chiến dịch mới."
+  },
+  {
+    "id": 191,
+    "type": "suffixes",
+    "sentence": "The candidate's performance was _______ exceptional during the interview.",
+    "options": [
+      { "key": "A", "text": "truth", "type": "Noun" },
+      { "key": "B", "text": "true", "type": "Adj" },
+      { "key": "C", "text": "truly", "type": "Adv (-ly)" },
+      { "key": "D", "text": "truthful", "type": "Adj" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho tính từ 'exceptional'.",
+    "translate": "Màn thể hiện của ứng viên thực sự là xuất sắc trong buổi phỏng vấn."
+  },
+  {
+    "id": 192,
+    "type": "suffixes",
+    "sentence": "The manager provided a _______ explanation of the project's goals.",
+    "options": [
+      { "key": "A", "text": "comprehend", "type": "Verb" },
+      { "key": "B", "text": "comprehensive", "type": "Adj (-ive)" },
+      { "key": "C", "text": "comprehension", "type": "Noun" },
+      { "key": "D", "text": "comprehensively", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'explanation'. 'Comprehensive' (toàn diện).",
+    "translate": "Quản lý đã cung cấp một lời giải thích toàn diện về các mục tiêu của dự án."
+  },
+  {
+    "id": 193,
+    "type": "suffixes",
+    "sentence": "The technician will _______ the server as part of the routine maintenance.",
+    "options": [
+      { "key": "A", "text": "optimization", "type": "Noun" },
+      { "key": "B", "text": "optimize", "type": "Verb (-ize)" },
+      { "key": "C", "text": "optimal", "type": "Adj" },
+      { "key": "D", "text": "optimistically", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Sau 'will' cần động từ nguyên mẫu.",
+    "translate": "Kỹ thuật viên sẽ tối ưu hóa máy chủ như một phần của việc bảo trì định kỳ."
+  },
+  {
+    "id": 194,
+    "type": "suffixes",
+    "sentence": "The board reached a _______ decision on the investment proposal.",
+    "options": [
+      { "key": "A", "text": "final", "type": "Adj (-al)" },
+      { "key": "B", "text": "finalize", "type": "Verb" },
+      { "key": "C", "text": "finally", "type": "Adv" },
+      { "key": "D", "text": "finality", "type": "Noun" }
+    ],
+    "answer": "A",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'decision'.",
+    "translate": "Ban quản trị đã đưa ra quyết định cuối cùng về đề xuất đầu tư."
+  },
+  {
+    "id": 195,
+    "type": "suffixes",
+    "sentence": "The supervisor handled the situation _______ despite the pressure.",
+    "options": [
+      { "key": "A", "text": "calm", "type": "Adj/Noun/Verb" },
+      { "key": "B", "text": "calmly", "type": "Adv (-ly)" },
+      { "key": "C", "text": "calmness", "type": "Noun" },
+      { "key": "D", "text": "calming", "type": "V-ing" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'handled'.",
+    "translate": "Người giám sát đã xử lý tình huống một cách bình tĩnh bất chấp áp lực."
+  },
+  {
+    "id": 196,
+    "type": "suffixes",
+    "sentence": "The new law will _______ affect small businesses in the area.",
+    "options": [
+      { "key": "A", "text": "direct", "type": "Adj/Adv" },
+      { "key": "B", "text": "directly", "type": "Adv (-ly)" },
+      { "key": "C", "text": "direction", "type": "Noun" },
+      { "key": "D", "text": "director", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'affect'.",
+    "translate": "Luật mới sẽ ảnh hưởng trực tiếp đến các doanh nghiệp nhỏ trong khu vực."
+  },
+  {
+    "id": 197,
+    "type": "suffixes",
+    "sentence": "The information provided was _______ incorrect according to the records.",
+    "options": [
+      { "key": "A", "text": "fact", "type": "Noun" },
+      { "key": "B", "text": "factual", "type": "Adj" },
+      { "key": "C", "text": "factually", "type": "Adv (-ly)" },
+      { "key": "D", "text": "factitious", "type": "Adj" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho tính từ 'incorrect'.",
+    "translate": "Thông tin được cung cấp là sai về mặt thực tế theo các hồ sơ."
+  },
+  {
+    "id": 198,
+    "type": "suffixes",
+    "sentence": "The hotel is _______ located in the heart of the city.",
+    "options": [
+      { "key": "A", "text": "convenience", "type": "Noun" },
+      { "key": "B", "text": "conveniently", "type": "Adv (-ly)" },
+      { "key": "C", "text": "convenient", "type": "Adj" },
+      { "key": "D", "text": "convene", "type": "Verb" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho phân từ 'located'.",
+    "translate": "Khách sạn nằm ở vị trí thuận tiện ngay trung tâm thành phố."
+  },
+  {
+    "id": 199,
+    "type": "suffixes",
+    "sentence": "The CEO's _______ of the new strategy was well received.",
+    "options": [
+      { "key": "A", "text": "present", "type": "Verb/Adj/Noun" },
+      { "key": "B", "text": "presentation", "type": "Noun (-tion)" },
+      { "key": "C", "text": "presentable", "type": "Adj" },
+      { "key": "D", "text": "presently", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Sau sở hữu cách cần một danh từ làm chủ ngữ.",
+    "translate": "Phần trình bày của CEO về chiến lược mới đã được đón nhận nồng nhiệt."
+  },
+  {
+    "id": 200,
+    "type": "suffixes",
+    "sentence": "The company is committed to _______ its operational processes.",
+    "options": [
+      { "key": "A", "text": "modern", "type": "Adj" },
+      { "key": "B", "text": "modernize", "type": "Verb" },
+      { "key": "C", "text": "modernization", "type": "Noun" },
+      { "key": "D", "text": "modernizing", "type": "V-ing (-ing)" }
+    ],
+    "answer": "D",
+    "hint": "Sau 'committed to' cần một V-ing (động từ thêm đuôi -ing đóng vai trò danh từ).",
+    "translate": "Công ty cam kết hiện đại hóa các quy trình vận hành của mình."
+  },
+  {
+    "id": 231,
+    "type": "suffixes",
+    "sentence": "The company provides a _______ environment for its employees to grow.",
+    "options": [
+      { "key": "A", "text": "support", "type": "Verb/Noun" },
+      { "key": "B", "text": "supportive", "type": "Adj (-ive)" },
+      { "key": "C", "text": "supporter", "type": "Noun (Person)" },
+      { "key": "D", "text": "supportively", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'environment'. 'Supportive environment' (môi trường mang tính hỗ trợ).",
+    "translate": "Công ty cung cấp một môi trường mang tính hỗ trợ để nhân viên phát triển."
+  },
+  {
+    "id": 232,
+    "type": "suffixes",
+    "sentence": "The architect's _______ of the building was both modern and functional.",
+    "options": [
+      { "key": "A", "text": "conceptualize", "type": "Verb" },
+      { "key": "B", "text": "conceptually", "type": "Adv" },
+      { "key": "C", "text": "conceptualization", "type": "Noun (-tion)" },
+      { "key": "D", "text": "conceptive", "type": "Adj" }
+    ],
+    "answer": "C",
+    "hint": "Cần một danh từ trừu tượng đứng sau sở hữu cách làm chủ ngữ.",
+    "translate": "Sự khái niệm hóa tòa nhà của kiến trúc sư vừa hiện đại vừa mang tính ứng dụng."
+  },
+  {
+    "id": 233,
+    "type": "suffixes",
+    "sentence": "The manager acted _______ to resolve the conflict between the team members.",
+    "options": [
+      { "key": "A", "text": "decisive", "type": "Adj" },
+      { "key": "B", "text": "decisively", "type": "Adv (-ly)" },
+      { "key": "C", "text": "decision", "type": "Noun" },
+      { "key": "D", "text": "decisiveness", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'acted'. 'Act decisively' (hành động quyết đoán).",
+    "translate": "Người quản lý đã hành động quyết đoán để giải quyết mâu thuẫn giữa các thành viên trong nhóm."
+  },
+  {
+    "id": 234,
+    "type": "suffixes",
+    "sentence": "We need to ensure the _______ of our data before sharing it with partners.",
+    "options": [
+      { "key": "A", "text": "confidential", "type": "Adj" },
+      { "key": "B", "text": "confidentiality", "type": "Noun (-ity)" },
+      { "key": "C", "text": "confidentially", "type": "Adv" },
+      { "key": "D", "text": "confide", "type": "Verb" }
+    ],
+    "answer": "B",
+    "hint": "Sau 'the' và trước 'of' cần một danh từ. 'Confidentiality' (tính bảo mật).",
+    "translate": "Chúng ta cần đảm bảo tính bảo mật của dữ liệu trước khi chia sẻ với các đối tác."
+  },
+  {
+    "id": 235,
+    "type": "suffixes",
+    "sentence": "The newly installed system is _______ faster than the old one.",
+    "options": [
+      { "key": "A", "text": "notable", "type": "Adj" },
+      { "key": "B", "text": "notably", "type": "Adv (-ly)" },
+      { "key": "C", "text": "notability", "type": "Noun" },
+      { "key": "D", "text": "notate", "type": "Verb" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho tính từ so sánh 'faster'.",
+    "translate": "Hệ thống mới được cài đặt nhanh hơn đáng kể so với hệ thống cũ."
+  },
+  {
+    "id": 236,
+    "type": "suffixes",
+    "sentence": "The marketing director is looking for _______ ways to reach new customers.",
+    "options": [
+      { "key": "A", "text": "innovate", "type": "Verb" },
+      { "key": "B", "text": "innovation", "type": "Noun" },
+      { "key": "C", "text": "innovative", "type": "Adj (-ive)" },
+      { "key": "D", "text": "innovatively", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'ways'.",
+    "translate": "Giám đốc tiếp thị đang tìm kiếm những cách thức sáng tạo để tiếp cận khách hàng mới."
+  },
+  {
+    "id": 237,
+    "type": "suffixes",
+    "sentence": "The customer was _______ with the service provided by the hotel.",
+    "options": [
+      { "key": "A", "text": "satisfy", "type": "Verb" },
+      { "key": "B", "text": "satisfaction", "type": "Noun" },
+      { "key": "C", "text": "satisfied", "type": "Adj (-ed)" },
+      { "key": "D", "text": "satisfactory", "type": "Adj" }
+    ],
+    "answer": "C",
+    "hint": "Dùng tính từ đuôi -ed để diễn tả cảm xúc của con người. 'Satisfied' (hài lòng).",
+    "translate": "Khách hàng đã hài lòng với dịch vụ do khách sạn cung cấp."
+  },
+  {
+    "id": 238,
+    "type": "suffixes",
+    "sentence": "Please provide a _______ of the proposed changes.",
+    "options": [
+      { "key": "A", "text": "summarize", "type": "Verb" },
+      { "key": "B", "text": "summary", "type": "Noun (-y)" },
+      { "key": "C", "text": "summarily", "type": "Adv" },
+      { "key": "D", "text": "summarizing", "type": "V-ing" }
+    ],
+    "answer": "B",
+    "hint": "Sau mạo từ 'a' cần một danh từ. 'Summary' (bản tóm tắt).",
+    "translate": "Vui lòng cung cấp một bản tóm tắt về những thay đổi đề xuất."
+  },
+  {
+    "id": 239,
+    "type": "suffixes",
+    "sentence": "The new employee is very _______ and always asks questions.",
+    "options": [
+      { "key": "A", "text": "curiously", "type": "Adv" },
+      { "key": "B", "text": "curiosity", "type": "Noun" },
+      { "key": "C", "text": "curious", "type": "Adj (-ous)" },
+      { "key": "D", "text": "curate", "type": "Verb" }
+    ],
+    "answer": "C",
+    "hint": "Sau 'is very' cần tính từ miêu tả tính cách.",
+    "translate": "Nhân viên mới rất tò mò và luôn đặt câu hỏi."
+  },
+  {
+    "id": 240,
+    "type": "suffixes",
+    "sentence": "The company will _______ the software to include new features.",
+    "options": [
+      { "key": "A", "text": "update", "type": "Verb/Noun" },
+      { "key": "B", "text": "updatable", "type": "Adj" },
+      { "key": "C", "text": "updated", "type": "V-ed" },
+      { "key": "D", "text": "updating", "type": "V-ing" }
+    ],
+    "answer": "A",
+    "hint": "Sau trợ động từ 'will' cần động từ nguyên mẫu.",
+    "translate": "Công ty sẽ cập nhật phần mềm để bao gồm các tính năng mới."
+  },
+  {
+    "id": 241,
+    "type": "suffixes",
+    "sentence": "The research findings are _______ significant for the future of the project.",
+    "options": [
+      { "key": "A", "text": "potential", "type": "Adj/Noun" },
+      { "key": "B", "text": "potentially", "type": "Adv (-ly)" },
+      { "key": "C", "text": "potent", "type": "Adj" },
+      { "key": "D", "text": "potentiality", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho tính từ 'significant'.",
+    "translate": "Các kết quả nghiên cứu có tiềm năng mang ý nghĩa quan trọng cho tương lai của dự án."
+  },
+  {
+    "id": 242,
+    "type": "suffixes",
+    "sentence": "The supervisor provided _______ feedback on my performance.",
+    "options": [
+      { "key": "A", "text": "construct", "type": "Verb" },
+      { "key": "B", "text": "constructive", "type": "Adj (-ive)" },
+      { "key": "C", "text": "construction", "type": "Noun" },
+      { "key": "D", "text": "constructively", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'feedback'. 'Constructive feedback' (phản hồi mang tính xây dựng).",
+    "translate": "Người giám sát đã đưa ra phản hồi mang tính xây dựng về hiệu suất của tôi."
+  },
+  {
+    "id": 243,
+    "type": "suffixes",
+    "sentence": "The new law will _______ change the way we operate.",
+    "options": [
+      { "key": "A", "text": "radical", "type": "Adj" },
+      { "key": "B", "text": "radically", "type": "Adv (-ly)" },
+      { "key": "C", "text": "radicalism", "type": "Noun" },
+      { "key": "D", "text": "radicalize", "type": "Verb" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'change'. 'Radically' (một cách triệt để).",
+    "translate": "Luật mới sẽ thay đổi cách chúng ta vận hành một cách triệt để."
+  },
+  {
+    "id": 244,
+    "type": "suffixes",
+    "sentence": "The company’s _______ to environmental sustainability is commendable.",
+    "options": [
+      { "key": "A", "text": "dedicate", "type": "Verb" },
+      { "key": "B", "text": "dedication", "type": "Noun (-tion)" },
+      { "key": "C", "text": "dedicated", "type": "Adj" },
+      { "key": "D", "text": "dedicative", "type": "Adj" }
+    ],
+    "answer": "B",
+    "hint": "Danh từ đứng sau sở hữu cách làm chủ ngữ. 'Dedication to' (sự tận hiến/cống hiến cho).",
+    "translate": "Sự tận hiến của công ty đối với sự bền vững môi trường là rất đáng khen ngợi."
+  },
+  {
+    "id": 245,
+    "type": "suffixes",
+    "sentence": "The technician worked _______ to fix the server issue.",
+    "options": [
+      { "key": "A", "text": "persistent", "type": "Adj" },
+      { "key": "B", "text": "persistently", "type": "Adv (-ly)" },
+      { "key": "C", "text": "persistence", "type": "Noun" },
+      { "key": "D", "text": "persist", "type": "Verb" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'worked'.",
+    "translate": "Kỹ thuật viên đã làm việc một cách kiên trì để sửa lỗi máy chủ."
+  },
+  {
+    "id": 246,
+    "type": "suffixes",
+    "sentence": "The newly hired manager is _______ qualified for the position.",
+    "options": [
+      { "key": "A", "text": "amply", "type": "Adv (-ly)" },
+      { "key": "B", "text": "ample", "type": "Adj" },
+      { "key": "C", "text": "amplification", "type": "Noun" },
+      { "key": "D", "text": "amplify", "type": "Verb" }
+    ],
+    "answer": "A",
+    "hint": "Trạng từ bổ nghĩa cho tính từ 'qualified'. 'Amply qualified' (thừa tiêu chuẩn/có trình độ dư dả).",
+    "translate": "Người quản lý mới được thuê có trình độ dư dả cho vị trí này."
+  },
+  {
+    "id": 247,
+    "type": "suffixes",
+    "sentence": "The results of the survey are _______ to our marketing strategy.",
+    "options": [
+      { "key": "A", "text": "relevant", "type": "Adj (-ant)" },
+      { "key": "B", "text": "relevance", "type": "Noun" },
+      { "key": "C", "text": "relevantly", "type": "Adv" },
+      { "key": "D", "text": "relevancy", "type": "Noun" }
+    ],
+    "answer": "A",
+    "hint": "Sau 'are' cần tính từ. Cụm 'be relevant to' (có liên quan/phù hợp với).",
+    "translate": "Kết quả khảo sát có liên quan mật thiết tới chiến lược marketing của chúng tôi."
+  },
+  {
+    "id": 248,
+    "type": "suffixes",
+    "sentence": "The hotel is _______ located near the city’s major business district.",
+    "options": [
+      { "key": "A", "text": "ideal", "type": "Adj" },
+      { "key": "B", "text": "ideally", "type": "Adv (-ly)" },
+      { "key": "C", "text": "idealism", "type": "Noun" },
+      { "key": "D", "text": "idealize", "type": "Verb" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho phân từ 'located'.",
+    "translate": "Khách sạn nằm ở vị trí lý tưởng gần khu kinh doanh chính của thành phố."
+  },
+  {
+    "id": 249,
+    "type": "suffixes",
+    "sentence": "The company achieved _______ success in the last quarter.",
+    "options": [
+      { "key": "A", "text": "substance", "type": "Noun" },
+      { "key": "B", "text": "substantial", "type": "Adj (-ial)" },
+      { "key": "C", "text": "substantially", "type": "Adv" },
+      { "key": "D", "text": "substantiate", "type": "Verb" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'success'. 'Substantial success' (thành công đáng kể).",
+    "translate": "Công ty đã đạt được thành công đáng kể trong quý vừa qua."
+  },
+  {
+    "id": 250,
+    "type": "suffixes",
+    "sentence": "Please _______ the receipt as proof of purchase.",
+    "options": [
+      { "key": "A", "text": "retain", "type": "Verb (-ain)" },
+      { "key": "B", "text": "retention", "type": "Noun" },
+      { "key": "C", "text": "retainable", "type": "Adj" },
+      { "key": "D", "text": "retaining", "type": "V-ing" }
+    ],
+    "answer": "A",
+    "hint": "Câu mệnh lệnh bắt đầu bằng động từ nguyên mẫu.",
+    "translate": "Vui lòng giữ lại hóa đơn làm bằng chứng mua hàng."
+  },
+  {
+    "id": 251,
+    "type": "suffixes",
+    "sentence": "The supervisor spoke _______ about the team's accomplishments.",
+    "options": [
+      { "key": "A", "text": "pride", "type": "Noun" },
+      { "key": "B", "text": "proud", "type": "Adj" },
+      { "key": "C", "text": "proudly", "type": "Adv (-ly)" },
+      { "key": "D", "text": "proudness", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'spoke'.",
+    "translate": "Người giám sát đã nói một cách đầy tự hào về những thành tựu của nhóm."
+  },
+  {
+    "id": 252,
+    "type": "suffixes",
+    "sentence": "The new software will _______ the task of data management.",
+    "options": [
+      { "key": "A", "text": "simplify", "type": "Verb (-ify)" },
+      { "key": "B", "text": "simplification", "type": "Noun" },
+      { "key": "C", "text": "simple", "type": "Adj" },
+      { "key": "D", "text": "simply", "type": "Adv" }
+    ],
+    "answer": "A",
+    "hint": "Sau 'will' cần động từ nguyên mẫu.",
+    "translate": "Phần mềm mới sẽ đơn giản hóa nhiệm vụ quản lý dữ liệu."
+  },
+  {
+    "id": 253,
+    "type": "suffixes",
+    "sentence": "The research team found a _______ correlation between the two variables.",
+    "options": [
+      { "key": "A", "text": "signify", "type": "Verb" },
+      { "key": "B", "text": "significance", "type": "Noun" },
+      { "key": "C", "text": "significant", "type": "Adj (-ant)" },
+      { "key": "D", "text": "significantly", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'correlation'.",
+    "translate": "Nhóm nghiên cứu đã tìm thấy một mối tương quan đáng kể giữa hai biến số."
+  },
+  {
+    "id": 254,
+    "type": "suffixes",
+    "sentence": "The newly implemented policy is _______ to all employees.",
+    "options": [
+      { "key": "A", "text": "apply", "type": "Verb" },
+      { "key": "B", "text": "application", "type": "Noun" },
+      { "key": "C", "text": "applicable", "type": "Adj (-able)" },
+      { "key": "D", "text": "applicant", "type": "Noun" }
+    ],
+    "answer": "C",
+    "hint": "Sau 'is' cần tính từ. 'Applicable to' (có thể áp dụng cho).",
+    "translate": "Chính sách mới được triển khai có thể áp dụng cho tất cả nhân viên."
+  },
+  {
+    "id": 255,
+    "type": "suffixes",
+    "sentence": "The CEO made a _______ contribution to the charity auction.",
+    "options": [
+      { "key": "A", "text": "generosity", "type": "Noun" },
+      { "key": "B", "text": "generous", "type": "Adj (-ous)" },
+      { "key": "C", "text": "generously", "type": "Adv" },
+      { "key": "D", "text": "generalize", "type": "Verb" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'contribution'.",
+    "translate": "CEO đã có một sự đóng góp hào phóng cho buổi đấu giá từ thiện."
+  },
+  {
+    "id": 256,
+    "type": "suffixes",
+    "sentence": "The manager handling the situation _______ and professionaly.",
+    "options": [
+      { "key": "A", "text": "efficient", "type": "Adj" },
+      { "key": "B", "text": "efficiency", "type": "Noun" },
+      { "key": "C", "text": "efficiently", "type": "Adv (-ly)" },
+      { "key": "D", "text": "efficacious", "type": "Adj" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho cách thức hành động, song hành với 'professionally'.",
+    "translate": "Người quản lý xử lý tình huống một cách hiệu quả và chuyên nghiệp."
+  },
+  {
+    "id": 257,
+    "type": "suffixes",
+    "sentence": "The technicians will _______ the server during the maintenance window.",
+    "options": [
+      { "key": "A", "text": "optimization", "type": "Noun" },
+      { "key": "B", "text": "optimize", "type": "Verb (-ize)" },
+      { "key": "C", "text": "optimal", "type": "Adj" },
+      { "key": "D", "text": "optimistically", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Động từ nguyên mẫu sau 'will'.",
+    "translate": "Các kỹ thuật viên sẽ tối ưu hóa máy chủ trong khoảng thời gian bảo trì."
+  },
+  {
+    "id": 258,
+    "type": "suffixes",
+    "sentence": "The company's logo is _______ recognizable across the globe.",
+    "options": [
+      { "key": "A", "text": "instant", "type": "Adj" },
+      { "key": "B", "text": "instantly", "type": "Adv (-ly)" },
+      { "key": "C", "text": "instance", "type": "Noun" },
+      { "key": "D", "text": "instantaneous", "type": "Adj" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho tính từ 'recognizable'.",
+    "translate": "Logo của công ty có thể được nhận ra ngay lập tức trên toàn cầu."
+  },
+  {
+    "id": 259,
+    "type": "suffixes",
+    "sentence": "The newly hired architect is highly _______.",
+    "options": [
+      { "key": "A", "text": "imagine", "type": "Verb" },
+      { "key": "B", "text": "imagination", "type": "Noun" },
+      { "key": "C", "text": "imaginative", "type": "Adj (-ive)" },
+      { "key": "D", "text": "imaginatively", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Tính từ đứng sau trạng từ mức độ 'highly'.",
+    "translate": "Kiến trúc sư mới được thuê rất giàu trí tưởng tượng."
+  },
+  {
+    "id": 260,
+    "type": "suffixes",
+    "sentence": "The team achieved its goals through _______ and teamwork.",
+    "options": [
+      { "key": "A", "text": "persevere", "type": "Verb" },
+      { "key": "B", "text": "perseverance", "type": "Noun (-ance)" },
+      { "key": "C", "text": "persevering", "type": "Adj" },
+      { "key": "D", "text": "perseveringly", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Danh từ đi sau giới từ 'through', song hành với 'teamwork'.",
+    "translate": "Nhóm đã đạt được các mục tiêu của mình nhờ sự kiên trì và làm việc nhóm."
+  }
+]

@@ -1,0 +1,1463 @@
+[
+  {
+    "id": 1,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "manager", "type": "option", "key": "A" },
+      { "text": " was ", "type": "text" },
+      { "text": "extreme", "type": "option", "key": "B" },
+      { "text": " pleased ", "type": "text" },
+      { "text": "with", "type": "option", "key": "C" },
+      { "text": " the ", "type": "text" },
+      { "text": "outcome", "type": "option", "key": "D" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "extremely",
+    "hint": "Trước tính từ cần trạng từ chỉ mức độ.",
+    "translate": "Người quản lý cực kỳ hài lòng với kết quả."
+  },
+  {
+    "id": 2,
+    "type": "error_game",
+    "segments": [
+      { "text": "She ", "type": "text" },
+      { "text": "quick", "type": "option", "key": "A" },
+      { "text": " completed ", "type": "text" },
+      { "text": "the", "type": "option", "key": "B" },
+      { "text": " task ", "type": "text" },
+      { "text": "before", "type": "option", "key": "C" },
+      { "text": " deadline", "type": "option", "key": "D" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "A",
+    "correction": "quickly",
+    "hint": "Bổ nghĩa cho động từ cần trạng từ.",
+    "translate": "Cô ấy hoàn thành nhiệm vụ nhanh chóng trước hạn."
+  },
+  {
+    "id": 3,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "decision", "type": "option", "key": "A" },
+      { "text": " was ", "type": "text" },
+      { "text": "made", "type": "option", "key": "B" },
+      { "text": " after ", "type": "text" },
+      { "text": "careful", "type": "option", "key": "C" },
+      { "text": " consider", "type": "option", "key": "D" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "D",
+    "correction": "consideration",
+    "hint": "Sau tính từ cần danh từ.",
+    "translate": "Quyết định được đưa ra sau khi cân nhắc kỹ lưỡng."
+  },
+  {
+    "id": 4,
+    "type": "error_game",
+    "segments": [
+      { "text": "He ", "type": "text" },
+      { "text": "is", "type": "option", "key": "A" },
+      { "text": " responsible ", "type": "text" },
+      { "text": "to", "type": "option", "key": "B" },
+      { "text": " manage ", "type": "text" },
+      { "text": "the", "type": "option", "key": "C" },
+      { "text": " project", "type": "option", "key": "D" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "for",
+    "hint": "Cụm đúng là 'responsible for + V-ing'.",
+    "translate": "Anh ấy chịu trách nhiệm quản lý dự án."
+  },
+  {
+    "id": 5,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "company", "type": "option", "key": "A" },
+      { "text": " experienced ", "type": "text" },
+      { "text": "rapidly", "type": "option", "key": "B" },
+      { "text": " growth ", "type": "text" },
+      { "text": "last", "type": "option", "key": "C" },
+      { "text": " year", "type": "option", "key": "D" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "rapid",
+    "hint": "Trước danh từ cần tính từ.",
+    "translate": "Công ty đã tăng trưởng nhanh chóng trong năm ngoái."
+  },
+  {
+    "id": 6,
+    "type": "error_game",
+    "segments": [
+      { "text": "They ", "type": "text" },
+      { "text": "discussed", "type": "option", "key": "A" },
+      { "text": " about ", "type": "text" },
+      { "text": "the", "type": "option", "key": "B" },
+      { "text": " issue ", "type": "text" },
+      { "text": "during", "type": "option", "key": "C" },
+      { "text": " the meeting", "type": "option", "key": "D" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "A",
+    "correction": "discussed",
+    "hint": "Động từ 'discuss' không đi với 'about'.",
+    "translate": "Họ đã thảo luận vấn đề đó trong cuộc họp."
+  },
+  {
+    "id": 7,
+    "type": "error_game",
+    "segments": [
+      { "text": "This ", "type": "text" },
+      { "text": "report", "type": "option", "key": "A" },
+      { "text": " is ", "type": "text" },
+      { "text": "highly", "type": "option", "key": "B" },
+      { "text": " importance ", "type": "text" },
+      { "text": "for", "type": "option", "key": "C" },
+      { "text": " the project", "type": "option", "key": "D" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "important",
+    "hint": "Sau 'be' cần tính từ, không phải trạng từ.",
+    "translate": "Báo cáo này rất quan trọng đối với dự án."
+  },
+  {
+    "id": 8,
+    "type": "error_game",
+    "segments": [
+      { "text": "She ", "type": "text" },
+      { "text": "gave", "type": "option", "key": "A" },
+      { "text": " a ", "type": "text" },
+      { "text": "confident", "type": "option", "key": "B" },
+      { "text": " presentation ", "type": "text" },
+      { "text": "to", "type": "option", "key": "C" },
+      { "text": " the audience", "type": "option", "key": "D" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "confident",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'presentation'.",
+    "translate": "Cô ấy đã có một bài thuyết trình đầy tự tin."
+  },
+  {
+    "id": 9,
+    "type": "error_game",
+    "segments": [
+      { "text": "He ", "type": "text" },
+      { "text": "applied", "type": "option", "key": "A" },
+      { "text": " for ", "type": "text" },
+      { "text": "the", "type": "option", "key": "B" },
+      { "text": " position ", "type": "text" },
+      { "text": "successful", "type": "option", "key": "C" },
+      { "text": " yesterday", "type": "option", "key": "D" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "C",
+    "correction": "successfully",
+    "hint": "Bổ nghĩa cho động từ cần trạng từ.",
+    "translate": "Anh ấy đã nộp đơn xin vị trí đó thành công hôm qua."
+  },
+  {
+    "id": 10,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "employee", "type": "option", "key": "A" },
+      { "text": " was ", "type": "text" },
+      { "text": "absence", "type": "option", "key": "B" },
+      { "text": " from ", "type": "text" },
+      { "text": "work", "type": "option", "key": "C" },
+      { "text": " today", "type": "option", "key": "D" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "absent",
+    "hint": "Sau 'be' cần tính từ.",
+    "translate": "Nhân viên đó hôm nay vắng mặt tại nơi làm việc."
+  },
+  {
+    "id": 11,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "new", "type": "option", "key": "A" },
+      { "text": " policy ", "type": "text" },
+      { "text": "will", "type": "option", "key": "B" },
+      { "text": " effect ", "type": "text" },
+      { "text": "employees", "type": "option", "key": "C" },
+      { "text": " immediately", "type": "option", "key": "D" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "C",
+    "correction": "affect",
+    "hint": "Cần động từ, không phải danh từ.",
+    "translate": "Chính sách mới sẽ ảnh hưởng đến nhân viên ngay lập tức."
+  },
+  {
+    "id": 12,
+    "type": "error_game",
+    "segments": [
+      { "text": "She ", "type": "text" },
+      { "text": "is", "type": "option", "key": "A" },
+      { "text": " capable ", "type": "text" },
+      { "text": "to", "type": "option", "key": "B" },
+      { "text": " handle ", "type": "text" },
+      { "text": "the", "type": "option", "key": "C" },
+      { "text": " task", "type": "option", "key": "D" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "of",
+    "hint": "Cấu trúc đúng: capable of + V-ing.",
+    "translate": "Cô ấy có khả năng xử lý nhiệm vụ đó."
+  },
+  {
+    "id": 13,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "meeting", "type": "option", "key": "A" },
+      { "text": " was ", "type": "text" },
+      { "text": "cancel", "type": "option", "key": "B" },
+      { "text": " due ", "type": "text" },
+      { "text": "to", "type": "option", "key": "C" },
+      { "text": " bad weather", "type": "option", "key": "D" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "canceled",
+    "hint": "Câu bị động cần quá khứ phân từ.",
+    "translate": "Cuộc họp đã bị hủy do thời tiết xấu."
+  },
+  {
+    "id": 14,
+    "type": "error_game",
+    "segments": [
+      { "text": "He ", "type": "text" },
+      { "text": "speaks", "type": "option", "key": "A" },
+      { "text": " very ", "type": "text" },
+      { "text": "confident", "type": "option", "key": "B" },
+      { "text": " during ", "type": "text" },
+      { "text": "presentations", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "confidently",
+    "hint": "Bổ nghĩa cho động từ cần trạng từ.",
+    "translate": "Anh ấy nói rất tự tin trong các buổi thuyết trình."
+  },
+  {
+    "id": 15,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "success", "type": "option", "key": "A" },
+      { "text": " of ", "type": "text" },
+      { "text": "the", "type": "option", "key": "B" },
+      { "text": " project ", "type": "text" },
+      { "text": "depends", "type": "option", "key": "C" },
+      { "text": " careful planning", "type": "option", "key": "D" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "D",
+    "correction": "on careful planning",
+    "hint": "Cấu trúc đúng: depend on + danh từ/V-ing.",
+    "translate": "Sự thành công của dự án phụ thuộc vào việc lập kế hoạch cẩn thận."
+  },
+  {
+    "id": 16,
+    "type": "error_game",
+    "segments": [
+      { "text": "She ", "type": "text" },
+      { "text": "received", "type": "option", "key": "A" },
+      { "text": " many ", "type": "text" },
+      { "text": "informations", "type": "option", "key": "B" },
+      { "text": " about ", "type": "text" },
+      { "text": "the job", "type": "option", "key": "C" },
+      { "text": " opening", "type": "option", "key": "D" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "information",
+    "hint": "Information là danh từ không đếm được.",
+    "translate": "Cô ấy nhận được nhiều thông tin về vị trí tuyển dụng."
+  },
+  {
+    "id": 17,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "assistant", "type": "option", "key": "A" },
+      { "text": " works ", "type": "text" },
+      { "text": "efficient", "type": "option", "key": "B" },
+      { "text": " and ", "type": "text" },
+      { "text": "accurately", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "efficiently",
+    "hint": "Cần trạng từ để bổ nghĩa cho động từ.",
+    "translate": "Trợ lý làm việc hiệu quả và chính xác."
+  },
+  {
+    "id": 18,
+    "type": "error_game",
+    "segments": [
+      { "text": "He ", "type": "text" },
+      { "text": "was", "type": "option", "key": "A" },
+      { "text": " late ", "type": "text" },
+      { "text": "because", "type": "option", "key": "B" },
+      { "text": " the ", "type": "text" },
+      { "text": "traffic", "type": "option", "key": "C" },
+      { "text": " jam", "type": "option", "key": "D" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "because of",
+    "hint": "Sau because of cần danh từ.",
+    "translate": "Anh ấy đến muộn vì kẹt xe."
+  },
+  {
+    "id": 19,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "report", "type": "option", "key": "A" },
+      { "text": " was ", "type": "text" },
+      { "text": "complete", "type": "option", "key": "B" },
+      { "text": " written ", "type": "text" },
+      { "text": "by", "type": "option", "key": "C" },
+      { "text": " her", "type": "option", "key": "D" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "completely",
+    "hint": "Bổ nghĩa cho động từ cần trạng từ.",
+    "translate": "Báo cáo đã được cô ấy viết hoàn chỉnh."
+  },
+  {
+    "id": 20,
+    "type": "error_game",
+    "segments": [
+      { "text": "He ", "type": "text" },
+      { "text": "made", "type": "option", "key": "A" },
+      { "text": " a ", "type": "text" },
+      { "text": "suggest", "type": "option", "key": "B" },
+      { "text": " during ", "type": "text" },
+      { "text": "the meeting", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "suggestion",
+    "hint": "Sau mạo từ cần danh từ.",
+    "translate": "Anh ấy đã đưa ra một đề xuất trong cuộc họp."
+  },
+  {
+    "id": 201,
+    "type": "suffixes",
+    "sentence": "The director praised the staff for their _______ handling of the crisis.",
+    "options": [
+      { "key": "A", "text": "master", "type": "Noun" },
+      { "key": "B", "text": "masterly", "type": "Adj (-ly)" },
+      { "key": "C", "text": "mastery", "type": "Noun" },
+      { "key": "D", "text": "masterfully", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Đây là bẫy! 'Masterly' là tính từ (tài giỏi/bậc thầy) bổ nghĩa cho danh từ 'handling'. Lưu ý một số từ đuôi -ly là tính từ.",
+    "translate": "Giám đốc đã khen ngợi nhân viên vì cách xử lý khủng hoảng một cách tài tình."
+  },
+  {
+    "id": 202,
+    "type": "suffixes",
+    "sentence": "The new furniture was arranged in a _______ manner to create more space.",
+    "options": [
+      { "key": "A", "text": "order", "type": "Noun/Verb" },
+      { "key": "B", "text": "orderly", "type": "Adj (-ly)" },
+      { "key": "C", "text": "ordered", "type": "V-ed" },
+      { "key": "D", "text": "ordering", "type": "V-ing" }
+    ],
+    "answer": "B",
+    "hint": "Tương tự câu trên, 'orderly' là tính từ bổ nghĩa cho 'manner'. Cấu trúc: In an + Adj + manner.",
+    "translate": "Nội thất mới được sắp xếp một cách ngăn nắp để tạo ra nhiều không gian hơn."
+  },
+  {
+    "id": 203,
+    "type": "suffixes",
+    "sentence": "The company’s decision was _______ based on the feedback from the users.",
+    "options": [
+      { "key": "A", "text": "solely", "type": "Adv (-ly)" },
+      { "key": "B", "text": "sole", "type": "Adj" },
+      { "key": "C", "text": "soleness", "type": "Noun" },
+      { "key": "D", "text": "solitary", "type": "Adj" }
+    ],
+    "answer": "A",
+    "hint": "Trạng từ 'solely' (duy nhất) bổ nghĩa cho phân từ 'based'.",
+    "translate": "Quyết định của công ty hoàn toàn chỉ dựa trên phản hồi từ người dùng."
+  },
+  {
+    "id": 1204,
+    "type": "suffixes",
+    "sentence": "The proposed _______ to the building must be approved by the local council.",
+    "options": [
+      { "key": "A", "text": "alter", "type": "Verb" },
+      { "key": "B", "text": "alteration", "type": "Noun (-tion)" },
+      { "key": "C", "text": "alterable", "type": "Adj" },
+      { "key": "D", "text": "alternate", "type": "Verb/Adj" }
+    ],
+    "answer": "B",
+    "hint": "Sau tính từ 'proposed' cần danh từ làm chủ ngữ. 'Alteration' (sự thay đổi/sửa đổi).",
+    "translate": "Sự sửa đổi được đề xuất cho tòa nhà phải được hội đồng địa phương chấp thuận."
+  },
+  {
+    "id": 205,
+    "type": "suffixes",
+    "sentence": "The technician found that the problem was _______ easy to fix.",
+    "options": [
+      { "key": "A", "text": "surprise", "type": "Noun/Verb" },
+      { "key": "B", "text": "surprising", "type": "Adj" },
+      { "key": "C", "text": "surprisingly", "type": "Adv (-ly)" },
+      { "key": "D", "text": "surprised", "type": "Adj" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho tính từ 'easy'.",
+    "translate": "Kỹ thuật viên thấy rằng vấn đề dễ giải quyết một cách đáng ngạc nhiên."
+  },
+  {
+    "id": 206,
+    "type": "suffixes",
+    "sentence": "We need to hire more _______ staff during the peak holiday season.",
+    "options": [
+      { "key": "A", "text": "season", "type": "Noun" },
+      { "key": "B", "text": "seasonal", "type": "Adj (-al)" },
+      { "key": "C", "text": "seasoned", "type": "Adj (-ed)" },
+      { "key": "D", "text": "seasoning", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Cần tính từ bổ nghĩa cho 'staff'. 'Seasonal staff' (nhân viên thời vụ).",
+    "translate": "Chúng ta cần thuê thêm nhân viên thời vụ trong mùa nghỉ lễ cao điểm."
+  },
+  {
+    "id": 207,
+    "type": "suffixes",
+    "sentence": "The CEO's _______ was crucial in navigating the company through the recession.",
+    "options": [
+      { "key": "A", "text": "resilient", "type": "Adj" },
+      { "key": "B", "text": "resilience", "type": "Noun (-ence)" },
+      { "key": "C", "text": "resiliently", "type": "Adv" },
+      { "key": "D", "text": "resiliate", "type": "Verb" }
+    ],
+    "answer": "B",
+    "hint": "Danh từ đứng sau sở hữu cách làm chủ ngữ. 'Resilience' (sự kiên cường/khả năng phục hồi).",
+    "translate": "Sự kiên cường của CEO là yếu tố then chốt trong việc chèo lái công ty vượt qua thời kỳ suy thoái."
+  },
+  {
+    "id": 208,
+    "type": "suffixes",
+    "sentence": "The new policy will be applied _______ to all departments.",
+    "options": [
+      { "key": "A", "text": "uniform", "type": "Adj/Noun" },
+      { "key": "B", "text": "uniformly", "type": "Adv (-ly)" },
+      { "key": "C", "text": "uniformity", "type": "Noun" },
+      { "key": "D", "text": "uniformed", "type": "Adj" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho động từ bị động 'applied'. 'Uniformly' (một cách đồng bộ/thống nhất).",
+    "translate": "Chính sách mới sẽ được áp dụng một cách đồng bộ cho tất cả các bộ phận."
+  },
+  {
+    "id": 209,
+    "type": "suffixes",
+    "sentence": "The hotel offers _______ views of the mountains.",
+    "options": [
+      { "key": "A", "text": "breath", "type": "Noun" },
+      { "key": "B", "text": "breathe", "type": "Verb" },
+      { "key": "C", "text": "breathless", "type": "Adj" },
+      { "key": "D", "text": "breathtaking", "type": "Adj (-ing)" }
+    ],
+    "answer": "D",
+    "hint": "Tính từ bổ nghĩa cho 'views'. 'Breathtaking' (đẹp đến nín thở/ngoạn mục).",
+    "translate": "Khách sạn cung cấp những tầm nhìn ngoạn mục ra những dãy núi."
+  },
+  {
+    "id": 210,
+    "type": "suffixes",
+    "sentence": "The board had a _______ discussion before voting on the proposal.",
+    "options": [
+      { "key": "A", "text": "length", "type": "Noun" },
+      { "key": "B", "text": "lengthen", "type": "Verb" },
+      { "key": "C", "text": "lengthy", "type": "Adj (-y)" },
+      { "key": "D", "text": "lengthily", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Tính từ bổ nghĩa cho 'discussion'.",
+    "translate": "Ban quản trị đã có một cuộc thảo luận kéo dài trước khi bỏ phiếu về đề xuất."
+  },
+  {
+    "id": 211,
+    "type": "suffixes",
+    "sentence": "The report highlights the _______ of the new security measures.",
+    "options": [
+      { "key": "A", "text": "effective", "type": "Adj" },
+      { "key": "B", "text": "effectiveness", "type": "Noun (-ness)" },
+      { "key": "C", "text": "effectively", "type": "Adv" },
+      { "key": "D", "text": "effector", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Cần danh từ sau 'the' và trước 'of'.",
+    "translate": "Bản báo cáo nhấn mạnh hiệu quả của các biện pháp an ninh mới."
+  },
+  {
+    "id": 212,
+    "type": "suffixes",
+    "sentence": "The manager reacted _______ when he heard the news of the contract win.",
+    "options": [
+      { "key": "A", "text": "enthusiasm", "type": "Noun" },
+      { "key": "B", "text": "enthusiastic", "type": "Adj" },
+      { "key": "C", "text": "enthusiastically", "type": "Adv (-ly)" },
+      { "key": "D", "text": "enthuse", "type": "Verb" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'reacted'.",
+    "translate": "Người quản lý đã phản ứng một cách đầy nhiệt huyết khi nghe tin thắng thầu hợp đồng."
+  },
+  {
+    "id": 213,
+    "type": "suffixes",
+    "sentence": "Please _______ the form and return it to the front desk.",
+    "options": [
+      { "key": "A", "text": "completion", "type": "Noun" },
+      { "key": "B", "text": "complete", "type": "Verb/Adj" },
+      { "key": "C", "text": "completely", "type": "Adv" },
+      { "key": "D", "text": "completeness", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Câu mệnh lệnh bắt đầu với 'Please' + Động từ nguyên mẫu.",
+    "translate": "Vui lòng hoàn thành mẫu đơn và gửi lại cho quầy lễ tân."
+  },
+  {
+    "id": 214,
+    "type": "suffixes",
+    "sentence": "The new software is designed to _______ report generation.",
+    "options": [
+      { "key": "A", "text": "accelerate", "type": "Verb (-ate)" },
+      { "key": "B", "text": "acceleration", "type": "Noun" },
+      { "key": "C", "text": "accelerative", "type": "Adj" },
+      { "key": "D", "text": "accelerator", "type": "Noun" }
+    ],
+    "answer": "A",
+    "hint": "Sau 'to' (để làm gì) cần một động từ nguyên mẫu. 'Accelerate' (đẩy nhanh).",
+    "translate": "Phần mềm mới được thiết kế để đẩy nhanh việc tạo báo cáo."
+  },
+  {
+    "id": 215,
+    "type": "suffixes",
+    "sentence": "The research findings are _______ to the development of the new drug.",
+    "options": [
+      { "key": "A", "text": "instrument", "type": "Noun" },
+      { "key": "B", "text": "instrumental", "type": "Adj (-al)" },
+      { "key": "C", "text": "instrumentally", "type": "Adv" },
+      { "key": "D", "text": "instrumentation", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Sau 'are' cần tính từ. Cụm 'be instrumental in/to' (đóng vai trò quan trọng).",
+    "translate": "Các kết quả nghiên cứu đóng vai trò quan trọng trong việc phát triển loại thuốc mới."
+  },
+  {
+    "id": 216,
+    "type": "suffixes",
+    "sentence": "The company’s _______ to quality has earned it a loyal customer base.",
+    "options": [
+      { "key": "A", "text": "commit", "type": "Verb" },
+      { "key": "B", "text": "commitment", "type": "Noun (-ment)" },
+      { "key": "C", "text": "committed", "type": "Adj" },
+      { "key": "D", "text": "committal", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Danh từ sau sở hữu cách làm chủ ngữ.",
+    "translate": "Sự cam kết về chất lượng của công ty đã giúp nó có được một lượng khách hàng trung thành."
+  },
+  {
+    "id": 217,
+    "type": "suffixes",
+    "sentence": "The newly hired architect is very _______.",
+    "options": [
+      { "key": "A", "text": "imagination", "type": "Noun" },
+      { "key": "B", "text": "imagine", "type": "Verb" },
+      { "key": "C", "text": "imaginative", "type": "Adj (-ive)" },
+      { "key": "D", "text": "imaginatively", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Sau 'is very' cần tính từ miêu tả đặc điểm người.",
+    "translate": "Kiến trúc sư mới được thuê rất giàu trí tưởng tượng."
+  },
+  {
+    "id": 218,
+    "type": "suffixes",
+    "sentence": "We hope to _______ our partnership with the local charity.",
+    "options": [
+      { "key": "A", "text": "solid", "type": "Adj" },
+      { "key": "B", "text": "solidify", "type": "Verb (-ify)" },
+      { "key": "C", "text": "solidification", "type": "Noun" },
+      { "key": "D", "text": "solidly", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Sau 'hope to' cần một động từ nguyên mẫu. 'Solidify' (làm vững chắc/củng cố).",
+    "translate": "Chúng tôi hy vọng sẽ củng cố mối quan hệ hợp tác với tổ chức từ thiện địa phương."
+  },
+  {
+    "id": 219,
+    "type": "suffixes",
+    "sentence": "The information provided was _______ incorrect.",
+    "options": [
+      { "key": "A", "text": "fact", "type": "Noun" },
+      { "key": "B", "text": "factual", "type": "Adj" },
+      { "key": "C", "text": "factually", "type": "Adv (-ly)" },
+      { "key": "D", "text": "factious", "type": "Adj" }
+    ],
+    "answer": "C",
+    "hint": "Trạng từ bổ nghĩa cho tính từ 'incorrect'.",
+    "translate": "Thông tin được cung cấp là sai lệch về mặt thực tế."
+  },
+  {
+    "id": 220,
+    "type": "suffixes",
+    "sentence": "The team worked _______ to meet the tight deadline.",
+    "options": [
+      { "key": "A", "text": "tireless", "type": "Adj" },
+      { "key": "B", "text": "tirelessly", "type": "Adv (-ly)" },
+      { "key": "C", "text": "tiresome", "type": "Adj" },
+      { "key": "D", "text": "tiredly", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'worked'.",
+    "translate": "Nhóm đã làm việc không mệt mỏi để kịp thời hạn eo hẹp."
+  },
+  {
+    "id": 221,
+    "type": "suffixes",
+    "sentence": "The _______ of the project will take approximately six months.",
+    "options": [
+      { "key": "A", "text": "implement", "type": "Verb/Noun" },
+      { "key": "B", "text": "implementation", "type": "Noun (-tion)" },
+      { "key": "C", "text": "implementable", "type": "Adj" },
+      { "key": "D", "text": "implementer", "type": "Noun (Person)" }
+    ],
+    "answer": "B",
+    "hint": "Danh từ sau 'the' và trước 'of' chỉ sự việc.",
+    "translate": "Việc triển khai dự án sẽ mất khoảng sáu tháng."
+  },
+  {
+    "id": 222,
+    "type": "suffixes",
+    "sentence": "The hotel is _______ located near the city’s main attractions.",
+    "options": [
+      { "key": "A", "text": "convenience", "type": "Noun" },
+      { "key": "B", "text": "conveniently", "type": "Adv (-ly)" },
+      { "key": "C", "text": "convenient", "type": "Adj" },
+      { "key": "D", "text": "convene", "type": "Verb" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho phân từ 'located'.",
+    "translate": "Khách sạn nằm ở vị trí thuận tiện gần các điểm tham quan chính của thành phố."
+  },
+  {
+    "id": 223,
+    "type": "suffixes",
+    "sentence": "The results of the audit were _______ favorable.",
+    "options": [
+      { "key": "A", "text": "high", "type": "Adj" },
+      { "key": "B", "text": "highly", "type": "Adv (-ly)" },
+      { "key": "C", "text": "height", "type": "Noun" },
+      { "key": "D", "text": "heighten", "type": "Verb" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ mức độ bổ nghĩa cho tính từ 'favorable'.",
+    "translate": "Kết quả kiểm toán rất thuận lợi."
+  },
+  {
+    "id": 224,
+    "type": "suffixes",
+    "sentence": "Please provide a _______ description of the incident.",
+    "options": [
+      { "key": "A", "text": "detail", "type": "Noun/Verb" },
+      { "key": "B", "text": "detailed", "type": "Adj (-ed)" },
+      { "key": "C", "text": "detailing", "type": "V-ing" },
+      { "key": "D", "text": "details", "type": "Noun (Plural)" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ bổ nghĩa cho danh từ 'description'.",
+    "translate": "Vui lòng cung cấp một bản mô tả chi tiết về sự cố."
+  },
+  {
+    "id": 225,
+    "type": "suffixes",
+    "sentence": "The company has a _______ reputation for delivering on time.",
+    "options": [
+      { "key": "A", "text": "rely", "type": "Verb" },
+      { "key": "B", "text": "reliable", "type": "Adj (-able)" },
+      { "key": "C", "text": "reliability", "type": "Noun" },
+      { "key": "D", "text": "reliably", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Tính từ bổ nghĩa cho 'reputation'.",
+    "translate": "Công ty có danh tiếng đáng tin cậy về việc giao hàng đúng hạn."
+  },
+  {
+    "id": 226,
+    "type": "suffixes",
+    "sentence": "The manager handle the situation _______ and professionaly.",
+    "options": [
+      { "key": "A", "text": "efficient", "type": "Adj" },
+      { "key": "B", "text": "efficiency", "type": "Noun" },
+      { "key": "C", "text": "efficiently", "type": "Adv (-ly)" },
+      { "key": "D", "text": "efficacious", "type": "Adj" }
+    ],
+    "answer": "C",
+    "hint": "Cấu trúc song hành: Trạng từ 'efficiently' + and + Trạng từ 'professionally'.",
+    "translate": "Người quản lý đã xử lý tình huống một cách hiệu quả và chuyên nghiệp."
+  },
+  {
+    "id": 227,
+    "type": "suffixes",
+    "sentence": "All candidates must meet the _______ requirements for the position.",
+    "options": [
+      { "key": "A", "text": "specify", "type": "Verb" },
+      { "key": "B", "text": "specification", "type": "Noun" },
+      { "key": "C", "text": "specified", "type": "Adj (-ed)" },
+      { "key": "D", "text": "specifically", "type": "Adv" }
+    ],
+    "answer": "C",
+    "hint": "Tính từ phân từ 'specified' (đã được quy định) bổ nghĩa cho 'requirements'.",
+    "translate": "Tất cả các ứng viên phải đáp ứng các yêu cầu đã quy định cho vị trí này."
+  },
+  {
+    "id": 228,
+    "type": "suffixes",
+    "sentence": "The CEO's speech was _______ inspiring to the new employees.",
+    "options": [
+      { "key": "A", "text": "true", "type": "Adj" },
+      { "key": "B", "text": "truly", "type": "Adv (-ly)" },
+      { "key": "C", "text": "truth", "type": "Noun" },
+      { "key": "D", "text": "truthful", "type": "Adj" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho tính từ 'inspiring'.",
+    "translate": "Bài phát biểu của CEO thực sự truyền cảm hứng cho những nhân viên mới."
+  },
+  {
+    "id": 229,
+    "type": "suffixes",
+    "sentence": "The new law will _______ impact the way we do business.",
+    "options": [
+      { "key": "A", "text": "fundamental", "type": "Adj" },
+      { "key": "B", "text": "fundamentally", "type": "Adv (-ly)" },
+      { "key": "C", "text": "fundament", "type": "Noun" },
+      { "key": "D", "text": "fundamentalism", "type": "Noun" }
+    ],
+    "answer": "B",
+    "hint": "Trạng từ bổ nghĩa cho động từ 'impact'.",
+    "translate": "Luật mới sẽ tác động về mặt cơ bản đến cách chúng ta kinh doanh."
+  },
+  {
+    "id": 230,
+    "type": "suffixes",
+    "sentence": "The team achieved its goals through _______ and hard work.",
+    "options": [
+      { "key": "A", "text": "persevere", "type": "Verb" },
+      { "key": "B", "text": "perseverance", "type": "Noun (-ance)" },
+      { "key": "C", "text": "persevering", "type": "Adj" },
+      { "key": "D", "text": "perseveringly", "type": "Adv" }
+    ],
+    "answer": "B",
+    "hint": "Cấu trúc song hành sau giới từ 'through': Danh từ + and + Danh từ 'hard work'.",
+    "translate": "Nhóm đã đạt được mục tiêu của mình thông qua sự kiên trì và làm việc chăm chỉ."
+  },
+  {
+    "id": 21,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "staff", "type": "option", "key": "A" },
+      { "text": " are ", "type": "text" },
+      { "text": "high", "type": "option", "key": "B" },
+      { "text": " motivated ", "type": "text" },
+      { "text": "by", "type": "option", "key": "C" },
+      { "text": " bonuses", "type": "option", "key": "D" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "highly",
+    "hint": "Trước tính từ cần trạng từ.",
+    "translate": "Nhân viên được khích lệ rất nhiều bởi tiền thưởng."
+  },
+  {
+    "id": 22,
+    "type": "error_game",
+    "segments": [
+      { "text": "She ", "type": "text" },
+      { "text": "was", "type": "option", "key": "A" },
+      { "text": " promoted ", "type": "text" },
+      { "text": "due", "type": "option", "key": "B" },
+      { "text": " her ", "type": "text" },
+      { "text": "excellent performance", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "due to",
+    "hint": "Cụm đúng là 'due to + danh từ'.",
+    "translate": "Cô ấy được thăng chức nhờ thành tích xuất sắc."
+  },
+  {
+    "id": 23,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "manager", "type": "option", "key": "A" },
+      { "text": " suggested ", "type": "text" },
+      { "text": "to", "type": "option", "key": "B" },
+      { "text": " postpone ", "type": "text" },
+      { "text": "the meeting", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "Ø (bỏ to)",
+    "hint": "Suggest + V-ing / suggest that + S + V.",
+    "translate": "Người quản lý đề nghị hoãn cuộc họp."
+  },
+  {
+    "id": 24,
+    "type": "error_game",
+    "segments": [
+      { "text": "He ", "type": "text" },
+      { "text": "is", "type": "option", "key": "A" },
+      { "text": " responsible ", "type": "text" },
+      { "text": "of", "type": "option", "key": "B" },
+      { "text": " checking ", "type": "text" },
+      { "text": "the reports", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "for",
+    "hint": "Cấu trúc đúng: responsible for + V-ing.",
+    "translate": "Anh ấy chịu trách nhiệm kiểm tra các báo cáo."
+  },
+  {
+    "id": 25,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "company", "type": "option", "key": "A" },
+      { "text": " is ", "type": "text" },
+      { "text": "financial", "type": "option", "key": "B" },
+      { "text": " stable ", "type": "text" },
+      { "text": "now", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "financially",
+    "hint": "Trạng từ bổ nghĩa cho tính từ.",
+    "translate": "Công ty hiện nay ổn định về mặt tài chính."
+  },
+  {
+    "id": 26,
+    "type": "error_game",
+    "segments": [
+      { "text": "She ", "type": "text" },
+      { "text": "made", "type": "option", "key": "A" },
+      { "text": " a ", "type": "text" },
+      { "text": "quickly", "type": "option", "key": "B" },
+      { "text": " decision ", "type": "text" },
+      { "text": "yesterday", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "quick",
+    "hint": "Trước danh từ cần tính từ.",
+    "translate": "Cô ấy đã đưa ra một quyết định nhanh chóng hôm qua."
+  },
+  {
+    "id": 27,
+    "type": "error_game",
+    "segments": [
+      { "text": "He ", "type": "text" },
+      { "text": "is", "type": "option", "key": "A" },
+      { "text": " good ", "type": "text" },
+      { "text": "in", "type": "option", "key": "B" },
+      { "text": " managing ", "type": "text" },
+      { "text": "people", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "at",
+    "hint": "Cấu trúc đúng: good at + V-ing.",
+    "translate": "Anh ấy giỏi quản lý con người."
+  },
+  {
+    "id": 28,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "training", "type": "option", "key": "A" },
+      { "text": " program ", "type": "text" },
+      { "text": "was", "type": "option", "key": "B" },
+      { "text": "success", "type": "option", "key": "C" },
+      { "text": " completed", "type": "text" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "C",
+    "correction": "successfully",
+    "hint": "Bổ nghĩa cho động từ cần trạng từ.",
+    "translate": "Chương trình đào tạo đã được hoàn thành thành công."
+  },
+  {
+    "id": 29,
+    "type": "error_game",
+    "segments": [
+      { "text": "She ", "type": "text" },
+      { "text": "showed", "type": "option", "key": "A" },
+      { "text": " great ", "type": "text" },
+      { "text": "confident", "type": "option", "key": "B" },
+      { "text": " during ", "type": "text" },
+      { "text": "the interview", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "confidence",
+    "hint": "Sau tính từ cần danh từ.",
+    "translate": "Cô ấy thể hiện sự tự tin lớn trong buổi phỏng vấn."
+  },
+  {
+    "id": 30,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "documents", "type": "option", "key": "A" },
+      { "text": " must ", "type": "text" },
+      { "text": "be", "type": "option", "key": "B" },
+      { "text": "submit", "type": "option", "key": "C" },
+      { "text": " by Friday", "type": "text" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "C",
+    "correction": "submitted",
+    "hint": "Câu bị động cần quá khứ phân từ.",
+    "translate": "Các tài liệu phải được nộp trước thứ Sáu."
+  },
+  {
+    "id": 31,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "manager", "type": "option", "key": "A" },
+      { "text": " spoke ", "type": "text" },
+      { "text": "clear", "type": "option", "key": "B" },
+      { "text": " during ", "type": "text" },
+      { "text": "the meeting", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "clearly",
+    "hint": "Bổ nghĩa cho động từ cần trạng từ.",
+    "translate": "Người quản lý phát biểu rõ ràng trong cuộc họp."
+  },
+  {
+    "id": 32,
+    "type": "error_game",
+    "segments": [
+      { "text": "She ", "type": "text" },
+      { "text": "made", "type": "option", "key": "A" },
+      { "text": " an ", "type": "text" },
+      { "text": "effect", "type": "option", "key": "B" },
+      { "text": " decision ", "type": "text" },
+      { "text": "quickly", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "effective",
+    "hint": "Trước danh từ cần tính từ.",
+    "translate": "Cô ấy đã đưa ra một quyết định hiệu quả nhanh chóng."
+  },
+  {
+    "id": 33,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "proposal", "type": "option", "key": "A" },
+      { "text": " was ", "type": "text" },
+      { "text": "approve", "type": "option", "key": "B" },
+      { "text": " by ", "type": "text" },
+      { "text": "the board", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "approved",
+    "hint": "Câu bị động cần quá khứ phân từ.",
+    "translate": "Đề xuất đã được hội đồng phê duyệt."
+  },
+  {
+    "id": 34,
+    "type": "error_game",
+    "segments": [
+      { "text": "He ", "type": "text" },
+      { "text": "is", "type": "option", "key": "A" },
+      { "text": " capable ", "type": "text" },
+      { "text": "to", "type": "option", "key": "B" },
+      { "text": " solving ", "type": "text" },
+      { "text": "this problem", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "of",
+    "hint": "Cấu trúc đúng: capable of + V-ing.",
+    "translate": "Anh ấy có khả năng giải quyết vấn đề này."
+  },
+  {
+    "id": 35,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "company", "type": "option", "key": "A" },
+      { "text": " announced ", "type": "text" },
+      { "text": "a", "type": "option", "key": "B" },
+      { "text": "expand", "type": "option", "key": "C" },
+      { "text": " plan", "type": "text" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "C",
+    "correction": "expansion",
+    "hint": "Sau mạo từ cần danh từ.",
+    "translate": "Công ty công bố kế hoạch mở rộng."
+  },
+  {
+    "id": 36,
+    "type": "error_game",
+    "segments": [
+      { "text": "She ", "type": "text" },
+      { "text": "works", "type": "option", "key": "A" },
+      { "text": " very ", "type": "text" },
+      { "text": "efficient", "type": "option", "key": "B" },
+      { "text": " under ", "type": "text" },
+      { "text": "pressure", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "efficiently",
+    "hint": "Bổ nghĩa cho động từ cần trạng từ.",
+    "translate": "Cô ấy làm việc rất hiệu quả dưới áp lực."
+  },
+  {
+    "id": 37,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "training", "type": "option", "key": "A" },
+      { "text": " is ", "type": "text" },
+      { "text": "design", "type": "option", "key": "B" },
+      { "text": " for ", "type": "text" },
+      { "text": "new employees", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "designed",
+    "hint": "Câu bị động cần quá khứ phân từ.",
+    "translate": "Khóa đào tạo được thiết kế cho nhân viên mới."
+  },
+  {
+    "id": 38,
+    "type": "error_game",
+    "segments": [
+      { "text": "He ", "type": "text" },
+      { "text": "gave", "type": "option", "key": "A" },
+      { "text": " a ", "type": "text" },
+      { "text": "use", "type": "option", "key": "B" },
+      { "text": " advice ", "type": "text" },
+      { "text": "to her", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "useful",
+    "hint": "Trước danh từ cần tính từ.",
+    "translate": "Anh ấy đã cho cô ấy một lời khuyên hữu ích."
+  },
+  {
+    "id": 39,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "report", "type": "option", "key": "A" },
+      { "text": " must ", "type": "text" },
+      { "text": "be", "type": "option", "key": "B" },
+      { "text": "finish", "type": "option", "key": "C" },
+      { "text": " today", "type": "text" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "C",
+    "correction": "finished",
+    "hint": "Câu bị động cần quá khứ phân từ.",
+    "translate": "Báo cáo phải được hoàn thành hôm nay."
+  },
+  {
+    "id": 40,
+    "type": "error_game",
+    "segments": [
+      { "text": "She ", "type": "text" },
+      { "text": "showed", "type": "option", "key": "A" },
+      { "text": "great", "type": "text" },
+      { "text": "enthusiastic", "type": "option", "key": "B" },
+      { "text": " about ", "type": "text" },
+      { "text": "the project", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "enthusiasm",
+    "hint": "Sau tính từ cần danh từ.",
+    "translate": "Cô ấy thể hiện sự nhiệt tình lớn đối với dự án."
+  },
+
+  {
+    "id": 41,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "instructions", "type": "option", "key": "A" },
+      { "text": " were ", "type": "text" },
+      { "text": "clear", "type": "option", "key": "B" },
+      { "text": " explain ", "type": "text" },
+      { "text": "to", "type": "option", "key": "C" },
+      { "text": " all staff", "type": "option", "key": "D" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "clearly",
+    "hint": "Bổ nghĩa cho động từ cần trạng từ.",
+    "translate": "Các hướng dẫn đã được giải thích rõ ràng cho toàn bộ nhân viên."
+  },
+  {
+    "id": 42,
+    "type": "error_game",
+    "segments": [
+      { "text": "He ", "type": "text" },
+      { "text": "is", "type": "option", "key": "A" },
+      { "text": "responsible", "type": "text" },
+      { "text": "of", "type": "option", "key": "B" },
+      { "text": " training ", "type": "text" },
+      { "text": "new staff", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "for",
+    "hint": "Cấu trúc đúng: responsible for + V-ing.",
+    "translate": "Anh ấy chịu trách nhiệm đào tạo nhân viên mới."
+  },
+  {
+    "id": 43,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "job", "type": "option", "key": "A" },
+      { "text": " requires ", "type": "text" },
+      { "text": "excellent", "type": "option", "key": "B" },
+      { "text": " communicate ", "type": "text" },
+      { "text": "skills", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "excellent communication",
+    "hint": "Trước danh từ cần danh từ/ cụm danh từ phù hợp.",
+    "translate": "Công việc yêu cầu kỹ năng giao tiếp xuất sắc."
+  },
+  {
+    "id": 44,
+    "type": "error_game",
+    "segments": [
+      { "text": "She ", "type": "text" },
+      { "text": "applied", "type": "option", "key": "A" },
+      { "text": " for ", "type": "text" },
+      { "text": "the", "type": "option", "key": "B" },
+      { "text": "position", "type": "option", "key": "C" },
+      { "text": "success", "type": "option", "key": "D" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "D",
+    "correction": "successfully",
+    "hint": "Bổ nghĩa cho động từ cần trạng từ.",
+    "translate": "Cô ấy đã ứng tuyển vị trí đó thành công."
+  },
+  {
+    "id": 45,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "project", "type": "option", "key": "A" },
+      { "text": " was ", "type": "text" },
+      { "text": "delay", "type": "option", "key": "B" },
+      { "text": " because ", "type": "text" },
+      { "text": "of weather", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "delayed",
+    "hint": "Câu bị động cần quá khứ phân từ.",
+    "translate": "Dự án bị trì hoãn vì thời tiết."
+  },
+  {
+    "id": 46,
+    "type": "error_game",
+    "segments": [
+      { "text": "He ", "type": "text" },
+      { "text": "gave", "type": "option", "key": "A" },
+      { "text": " a ", "type": "text" },
+      { "text": "briefly", "type": "option", "key": "B" },
+      { "text": " explanation ", "type": "text" },
+      { "text": "of the issue", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "brief",
+    "hint": "Trước danh từ cần tính từ.",
+    "translate": "Anh ấy đưa ra một lời giải thích ngắn gọn về vấn đề."
+  },
+  {
+    "id": 47,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "manager", "type": "option", "key": "A" },
+      { "text": " asked ", "type": "text" },
+      { "text": "employees", "type": "option", "key": "B" },
+      { "text": "to", "type": "option", "key": "C" },
+      { "text": " work overtime", "type": "text" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "C",
+    "correction": "Ø (giữ nguyên, lỗi là B → asked employees to)",
+    "hint": "Ask + O + to V là cấu trúc đúng; lỗi nằm ở việc thiếu 'to' nếu bị lược.",
+    "translate": "Người quản lý yêu cầu nhân viên làm thêm giờ."
+  },
+  {
+    "id": 48,
+    "type": "error_game",
+    "segments": [
+      { "text": "She ", "type": "text" },
+      { "text": "was", "type": "option", "key": "A" },
+      { "text": "absent", "type": "text" },
+      { "text": "in", "type": "option", "key": "B" },
+      { "text": "work", "type": "option", "key": "C" },
+      { "text": " yesterday", "type": "option", "key": "D" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "from",
+    "hint": "Cấu trúc đúng: absent from + nơi chốn.",
+    "translate": "Hôm qua cô ấy vắng mặt tại nơi làm việc."
+  },
+  {
+    "id": 49,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "company", "type": "option", "key": "A" },
+      { "text": " aims ", "type": "text" },
+      { "text": "to", "type": "option", "key": "B" },
+      { "text": "improvement", "type": "option", "key": "C" },
+      { "text": " customer service", "type": "text" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "C",
+    "correction": "improve",
+    "hint": "Sau 'to' cần động từ nguyên mẫu.",
+    "translate": "Công ty hướng tới việc cải thiện dịch vụ khách hàng."
+  },
+  {
+    "id": 50,
+    "type": "error_game",
+    "segments": [
+      { "text": "She ", "type": "text" },
+      { "text": "performed", "type": "option", "key": "A" },
+      { "text": "her", "type": "text" },
+      { "text": "duties", "type": "option", "key": "B" },
+      { "text": "professional", "type": "option", "key": "C" },
+      { "text": "ly", "type": "text" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "C",
+    "correction": "professionally",
+    "hint": "Bổ nghĩa cho động từ cần trạng từ.",
+    "translate": "Cô ấy thực hiện nhiệm vụ của mình một cách chuyên nghiệp."
+  },
+
+  {
+    "id": 51,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "meeting", "type": "option", "key": "A" },
+      { "text": " was ", "type": "text" },
+      { "text": "postpone", "type": "option", "key": "B" },
+      { "text": " until ", "type": "text" },
+      { "text": "next week", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "postponed",
+    "hint": "Câu bị động cần quá khứ phân từ.",
+    "translate": "Cuộc họp bị hoãn đến tuần sau."
+  },
+  {
+    "id": 52,
+    "type": "error_game",
+    "segments": [
+      { "text": "He ", "type": "text" },
+      { "text": "showed", "type": "option", "key": "A" },
+      { "text": "a", "type": "text" },
+      { "text": "strongly", "type": "option", "key": "B" },
+      { "text": " interest ", "type": "text" },
+      { "text": "in the job", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "strong",
+    "hint": "Trước danh từ cần tính từ.",
+    "translate": "Anh ấy thể hiện sự quan tâm mạnh mẽ tới công việc."
+  },
+  {
+    "id": 53,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "task", "type": "option", "key": "A" },
+      { "text": " was ", "type": "text" },
+      { "text": "complete", "type": "option", "key": "B" },
+      { "text": " finish ", "type": "text" },
+      { "text": "on time", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "completely",
+    "hint": "Bổ nghĩa cho động từ cần trạng từ.",
+    "translate": "Nhiệm vụ đã được hoàn thành hoàn toàn đúng hạn."
+  },
+  {
+    "id": 54,
+    "type": "error_game",
+    "segments": [
+      { "text": "She ", "type": "text" },
+      { "text": "is", "type": "option", "key": "A" },
+      { "text": "interested", "type": "text" },
+      { "text": "on", "type": "option", "key": "B" },
+      { "text": " marketing ", "type": "text" },
+      { "text": "strategies", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "in",
+    "hint": "Cấu trúc đúng: interested in.",
+    "translate": "Cô ấy quan tâm đến các chiến lược marketing."
+  },
+  {
+    "id": 55,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "company", "type": "option", "key": "A" },
+      { "text": " made ", "type": "text" },
+      { "text": "a", "type": "option", "key": "B" },
+      { "text": "decide", "type": "option", "key": "C" },
+      { "text": " quickly", "type": "text" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "C",
+    "correction": "decision",
+    "hint": "Sau mạo từ cần danh từ.",
+    "translate": "Công ty đã đưa ra quyết định nhanh chóng."
+  },
+  {
+    "id": 56,
+    "type": "error_game",
+    "segments": [
+      { "text": "He ", "type": "text" },
+      { "text": "works", "type": "option", "key": "A" },
+      { "text": "hard", "type": "text" },
+      { "text": "and", "type": "option", "key": "B" },
+      { "text": "careful", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "C",
+    "correction": "carefully",
+    "hint": "Bổ nghĩa cho động từ cần trạng từ.",
+    "translate": "Anh ấy làm việc chăm chỉ và cẩn thận."
+  },
+  {
+    "id": 57,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "plan", "type": "option", "key": "A" },
+      { "text": " was ", "type": "text" },
+      { "text": "develop", "type": "option", "key": "B" },
+      { "text": " by ", "type": "text" },
+      { "text": "the team", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "developed",
+    "hint": "Câu bị động cần quá khứ phân từ.",
+    "translate": "Kế hoạch được phát triển bởi nhóm."
+  },
+  {
+    "id": 58,
+    "type": "error_game",
+    "segments": [
+      { "text": "She ", "type": "text" },
+      { "text": "has", "type": "option", "key": "A" },
+      { "text": "a", "type": "text" },
+      { "text": "strongly", "type": "option", "key": "B" },
+      { "text": " motivation ", "type": "text" },
+      { "text": "to succeed", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "strong",
+    "hint": "Trước danh từ cần tính từ.",
+    "translate": "Cô ấy có động lực mạnh mẽ để thành công."
+  },
+  {
+    "id": 59,
+    "type": "error_game",
+    "segments": [
+      { "text": "The ", "type": "text" },
+      { "text": "staff", "type": "option", "key": "A" },
+      { "text": " were ", "type": "text" },
+      { "text": "inform", "type": "option", "key": "B" },
+      { "text": " about ", "type": "text" },
+      { "text": "the changes", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "informed",
+    "hint": "Câu bị động cần quá khứ phân từ.",
+    "translate": "Nhân viên đã được thông báo về những thay đổi."
+  },
+  {
+    "id": 60,
+    "type": "error_game",
+    "segments": [
+      { "text": "He ", "type": "text" },
+      { "text": "is", "type": "option", "key": "A" },
+      { "text": "famous", "type": "text" },
+      { "text": "of", "type": "option", "key": "B" },
+      { "text": " his ", "type": "text" },
+      { "text": "leadership skills", "type": "option", "key": "C" },
+      { "text": ".", "type": "text" }
+    ],
+    "correctKey": "B",
+    "correction": "for",
+    "hint": "Cấu trúc đúng: famous for.",
+    "translate": "Anh ấy nổi tiếng vì kỹ năng lãnh đạo."
+  }
+]
