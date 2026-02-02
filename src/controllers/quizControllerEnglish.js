@@ -126,9 +126,68 @@ const generateQuizEnglishConjugation = (req, res) => {
     }
 };
 
+const generateQuizEnglishTenseMulti = (req, res) => {
+    try {
+        const { type, numQuestions } = req.body;
+        console.log("Yêu cầu tạo bài tập:", { type, numQuestions });
+        if (!type) {
+            return res.status(400).json({ error: "Tham số 'type' là bắt buộc (ví dụ: 'tense_multi')." });
+        }
+        let filteredQuestions = getQuestionsByType(type);
+        if (filteredQuestions.length === 0) {
+            return res.status(404).json({
+                error: `Không tìm thấy câu hỏi cho loại '${type}'.`
+            });
+        }
+        const shuffled = shuffleArray([...filteredQuestions]);
+        const limit = parseInt(numQuestions) || 5;
+        const resultQuestions = shuffled.slice(0, limit);
+        res.json({
+            success: true,
+            questions: resultQuestions,
+            totalAvailable: filteredQuestions.length,
+            count: resultQuestions.length
+        });
+    } catch (error) {
+        console.error("Error generating English tense multiple choice quiz:", error);
+        res.status(500).json({ error: "Lỗi hệ thống khi tạo câu hỏi." });
+    }
+};
+
+const generateQuizEnglishTenseError = (req, res) => {
+    try {
+        const { type, numQuestions } = req.body;
+        console.log("Yêu cầu tạo bài tập:", { type, numQuestions });
+        if (!type) {
+            return res.status(400).json({ error: "Tham số 'type' là bắt buộc (ví dụ: 'tense_error')." });
+        }
+        let filteredQuestions = getQuestionsByType(type);
+        if (filteredQuestions.length === 0) {
+            return res.status(404).json({
+                error: `Không tìm thấy câu hỏi cho loại '${type}'.`
+            });
+        }
+        const shuffled = shuffleArray([...filteredQuestions]);
+        const limit = parseInt(numQuestions) || 5;
+        const resultQuestions = shuffled.slice(0, limit);
+        res.json({
+            success: true,
+            questions: resultQuestions,
+            totalAvailable: filteredQuestions.length,
+            count: resultQuestions.length
+        });
+    } catch (error) {
+        console.error("Error generating English tense error correction quiz:", error);
+        res.status(500).json({ error: "Lỗi hệ thống khi tạo câu hỏi." });
+    }
+};
+
+
 module.exports = {
     generateQuizEnglishWordForm,
     generateQuizEnglishSuffixes,
     generateQuizEnglishError,
-    generateQuizEnglishConjugation
+    generateQuizEnglishConjugation,
+    generateQuizEnglishTenseMulti,
+    generateQuizEnglishTenseError
 };

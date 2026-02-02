@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "type": "TenseMulti",
+    "question": "Water ______ at 100 degrees Celsius.",
+    "options": ["boil", "boils", "is boiling", "boiled"],
+    "correctAnswer": "boils",
+    "explanation": "Sự thật hiển nhiên -> Hiện tại đơn.",
+    "level": "Easy",
+    "theory": { "$ref": "present_simple" }
+  },
+    {
+    "id": 1,
+    "type": "TenseMulti",
+    "question": "Water ______ at 100 degrees Celsius.",
+    "options": ["boil", "boils", "is boiling", "boiled"],
+    "correctAnswer": "boils",
+    "explanation": "Sự thật hiển nhiên -> Hiện tại đơn.",
+    "level": "Meidum",
+    "theory": { "$ref": "present_simple" }
+  }
+]

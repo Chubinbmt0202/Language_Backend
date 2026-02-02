@@ -1,0 +1,3419 @@
+[
+  {
+    "id": 1,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "A",
+    "correction": "plays",
+    "hint": "Với chủ ngữ số ít (He), động từ thường phải thêm s/es.",
+    "translate": "Anh ấy chơi bóng đá vào mỗi ngày Chủ nhật.",
+    "segments": [
+      { "type": "text", "text": "He " },
+      { "type": "option", "key": "A", "text": "play" },
+      { "type": "text", "text": " football " },
+      { "type": "option", "key": "B", "text": "every" },
+      { "type": "text", "text": " Sunday " },
+      { "type": "option", "key": "C", "text": "with" },
+      { "type": "text", "text": " his friends." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 2,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "A",
+    "correction": "Does",
+    "hint": "Trong câu hỏi với chủ ngữ số ít (she), trợ động từ phải là 'Does'.",
+    "translate": "Cô ấy có sống ở thành phố này không?",
+    "segments": [
+      { "type": "option", "key": "A", "text": "Do" },
+      { "type": "text", "text": " she " },
+      { "type": "option", "key": "B", "text": "live" },
+      { "type": "text", "text": " in " },
+      { "type": "option", "key": "C", "text": "this" },
+      { "type": "text", "text": " city?" }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 3,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "don't",
+    "hint": "Chủ ngữ 'My parents' là số nhiều, phủ định dùng 'don't'.",
+    "translate": "Bố mẹ tôi không thích xem phim kinh dị.",
+    "segments": [
+      { "type": "text", "text": "My parents " },
+      { "type": "option", "key": "A", "text": "really" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "doesn't" },
+      { "type": "text", "text": " like " },
+      { "type": "option", "key": "C", "text": "watching" },
+      { "type": "text", "text": " horror movies." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 4,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "rises",
+    "hint": "Mặt trời (The sun) là danh từ số ít, chỉ sự thật hiển nhiên -> V thêm s/es.",
+    "translate": "Mặt trời mọc ở đằng Đông.",
+    "segments": [
+      { "type": "text", "text": "The sun " },
+      { "type": "option", "key": "A", "text": "always" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "rise" },
+      { "type": "text", "text": " in " },
+      { "type": "option", "key": "C", "text": "the" },
+      { "type": "text", "text": " East." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 5,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "is",
+    "hint": "Động từ 'to be' đi với chủ ngữ số ít (My brother) phải là 'is'.",
+    "translate": "Anh trai tôi là sinh viên trường đại học này.",
+    "segments": [
+      { "type": "text", "text": "My brother " },
+      { "type": "option", "key": "A", "text": "and" },
+      { "type": "text", "text": " his friend " },
+      { "type": "option", "key": "B", "text": "are" },
+      { "type": "text", "text": " students, but he " },
+      { "type": "option", "key": "C", "text": "is" },
+      { "type": "text", "text": " not." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 6,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "watches",
+    "hint": "Chủ ngữ 'My father' (số ít) nên động từ 'watch' phải thêm 'es'.",
+    "translate": "Bố tôi thường xem tin tức vào buổi tối.",
+    "segments": [
+      { "type": "text", "text": "My father " },
+      { "type": "option", "key": "A", "text": "often" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "watch" },
+      { "type": "text", "text": " the news " },
+      { "type": "option", "key": "C", "text": "in" },
+      { "type": "text", "text": " the evening." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 7,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "A",
+    "correction": "Does",
+    "hint": "Chủ ngữ 'your brother' là ngôi thứ 3 số ít, câu hỏi phải dùng trợ động từ 'Does'.",
+    "translate": "Anh trai bạn có đi làm bằng xe buýt không?",
+    "segments": [
+      { "type": "option", "key": "A", "text": "Do" },
+      { "type": "text", "text": " your brother " },
+      { "type": "option", "key": "B", "text": "go" },
+      { "type": "text", "text": " to work " },
+      { "type": "option", "key": "C", "text": "by" },
+      { "type": "text", "text": " bus?" }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 8,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "are",
+    "hint": "Chủ ngữ 'They' đi với động từ tobe là 'are'.",
+    "translate": "Họ là những người bạn tốt nhất của tôi.",
+    "segments": [
+      { "type": "text", "text": "They " },
+      { "type": "option", "key": "A", "text": "is" },
+      { "type": "text", "text": " my " },
+      { "type": "option", "key": "B", "text": "best" },
+      { "type": "text", "text": " friends " },
+      { "type": "option", "key": "C", "text": "forever" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 9,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "A",
+    "correction": "doesn't",
+    "hint": "Chủ ngữ 'She' (số ít) dùng trợ động từ phủ định là 'doesn't'.",
+    "translate": "Cô ấy không thích uống cà phê.",
+    "segments": [
+      { "type": "text", "text": "She " },
+      { "type": "option", "key": "A", "text": "don't" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "like" },
+      { "type": "text", "text": " drinking " },
+      { "type": "option", "key": "C", "text": "coffee" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 10,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "has",
+    "hint": "Động từ 'have' khi đi với ngôi thứ 3 số ít (He) biến đổi thành 'has'.",
+    "translate": "Anh ấy có một chiếc ô tô mới.",
+    "segments": [
+      { "type": "text", "text": "He " },
+      { "type": "option", "key": "A", "text": "always" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "have" },
+      { "type": "text", "text": " a " },
+      { "type": "option", "key": "C", "text": "new" },
+      { "type": "text", "text": " car." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 11,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "C",
+    "correction": "leaves",
+    "hint": "Lịch trình tàu xe cố định dùng thì hiện tại đơn. 'The train' số ít nên 'leave' thêm 's'.",
+    "translate": "Chuyến tàu rời đi lúc 7 giờ sáng mai.",
+    "segments": [
+      { "type": "text", "text": "The train " },
+      { "type": "option", "key": "A", "text": "to" },
+      { "type": "text", "text": " London " },
+      { "type": "option", "key": "B", "text": "usually" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "leave" },
+      { "type": "text", "text": " at 7 AM." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 12,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "speak",
+    "hint": "Sau trợ động từ 'doesn't', động từ chính phải ở dạng nguyên mẫu (không chia).",
+    "translate": "John không nói tiếng Pháp trôi chảy.",
+    "segments": [
+      { "type": "text", "text": "John " },
+      { "type": "option", "key": "A", "text": "doesn't" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "speaks" },
+      { "type": "text", "text": " French " },
+      { "type": "option", "key": "C", "text": "very" },
+      { "type": "text", "text": " fluently." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 13,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "A",
+    "correction": "Do",
+    "hint": "Động từ chính là 'agree' (động từ thường) nên câu hỏi phải dùng trợ động từ 'Do', không dùng 'Are'.",
+    "translate": "Bạn có đồng ý với ý kiến của tôi không?",
+    "segments": [
+      { "type": "option", "key": "A", "text": "Are" },
+      { "type": "text", "text": " you " },
+      { "type": "option", "key": "B", "text": "agree" },
+      { "type": "text", "text": " with " },
+      { "type": "option", "key": "C", "text": "my" },
+      { "type": "text", "text": " opinion?" }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 14,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "studies",
+    "hint": "Động từ kết thúc bằng 'y' sau phụ âm (study), khi chia số ít phải đổi 'y' thành 'ies'.",
+    "translate": "Linda học tiếng Anh ở trường.",
+    "segments": [
+      { "type": "text", "text": "Linda " },
+      { "type": "option", "key": "A", "text": "often" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "studys" },
+      { "type": "text", "text": " English " },
+      { "type": "option", "key": "C", "text": "at" },
+      { "type": "text", "text": " school." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 15,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "usually goes",
+    "hint": "Trạng từ chỉ tần suất (usually) phải đứng trước động từ thường (goes).",
+    "translate": "Mẹ tôi thường đi siêu thị vào Chủ nhật.",
+    "segments": [
+      { "type": "text", "text": "My mother " },
+      { "type": "option", "key": "A", "text": "is" },
+      { "type": "text", "text": " busy, but she " },
+      { "type": "option", "key": "B", "text": "goes usually" },
+      { "type": "text", "text": " to the supermarket " },
+      { "type": "option", "key": "C", "text": "on" },
+      { "type": "text", "text": " Sundays." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 16,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "C",
+    "correction": "comes",
+    "hint": "Trong câu hỏi 'Where does she come from?', động từ chính (come) phải giữ nguyên mẫu vì đã có 'does'.",
+    "translate": "Cô gái đó đến từ đâu?",
+    "segments": [
+      { "type": "text", "text": "Where " },
+      { "type": "option", "key": "A", "text": "does" },
+      { "type": "text", "text": " that girl " },
+      { "type": "option", "key": "B", "text": "over there" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "comes" },
+      { "type": "text", "text": " from?" }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 17,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "A",
+    "correction": "Water",
+    "hint": "Đây là câu sai về chia động từ, 'boil' chưa chia. (Lỗi thực tế nằm ở segments B: boil -> boils, nhưng do cấu trúc segments, ta chọn phần động từ).",
+    "translate": "Nước sôi ở 100 độ C (sự thật hiển nhiên).",
+    "segments": [
+      { "type": "text", "text": "Water " },
+      { "type": "option", "key": "A", "text": "boil" },
+      { "type": "text", "text": " at " },
+      { "type": "option", "key": "B", "text": "100" },
+      { "type": "text", "text": " degrees " },
+      { "type": "option", "key": "C", "text": "Celsius" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 18,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "doesn't",
+    "hint": "Trời mưa (It rains) -> Phủ định là It doesn't rain. 'Not' không đứng một mình với động từ thường.",
+    "translate": "Trời không mưa nhiều vào mùa hè.",
+    "segments": [
+      { "type": "text", "text": "It " },
+      { "type": "option", "key": "A", "text": "often" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "not rains" },
+      { "type": "text", "text": " much " },
+      { "type": "option", "key": "C", "text": "in" },
+      { "type": "text", "text": " summer." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 19,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "C",
+    "correction": "work",
+    "hint": "Chủ ngữ 'We' (số nhiều) thì động từ 'work' giữ nguyên, không thêm 's'.",
+    "translate": "Chúng tôi làm việc trong một văn phòng lớn.",
+    "segments": [
+      { "type": "text", "text": "We " },
+      { "type": "option", "key": "A", "text": "are" },
+      { "type": "text", "text": " happy because we " },
+      { "type": "option", "key": "B", "text": "usually" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "works" },
+      { "type": "text", "text": " in a big office." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 20,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "flies",
+    "hint": "Động từ 'fly' (bay) kết thúc bằng y, đổi thành 'ies' khi đi với chủ ngữ số ít (bird).",
+    "translate": "Con chim đó bay rất cao.",
+    "segments": [
+      { "type": "text", "text": "That bird " },
+      { "type": "option", "key": "A", "text": "is" },
+      { "type": "text", "text": " beautiful and it " },
+      { "type": "option", "key": "B", "text": "flys" },
+      { "type": "text", "text": " very " },
+      { "type": "option", "key": "C", "text": "high" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 21,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "A",
+    "correction": "wants",
+    "hint": "Everyone (mọi người) được coi là chủ ngữ số ít, động từ phải thêm 's'.",
+    "translate": "Mọi người đều muốn hạnh phúc.",
+    "segments": [
+      { "type": "text", "text": "Everyone " },
+      { "type": "option", "key": "A", "text": "want" },
+      { "type": "text", "text": " to " },
+      { "type": "option", "key": "B", "text": "be" },
+      { "type": "text", "text": " happy " },
+      { "type": "option", "key": "C", "text": "in life" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 22,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "Do",
+    "hint": "Câu hỏi với 'you' phải dùng trợ động từ 'Do', không dùng 'Does'.",
+    "translate": "Bạn có thường đi thư viện không?",
+    "segments": [
+      { "type": "text", "text": "How often " },
+      { "type": "option", "key": "A", "text": "does" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "you" },
+      { "type": "text", "text": " go to " },
+      { "type": "option", "key": "C", "text": "the" },
+      { "type": "text", "text": " library?" }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 23,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "teaches",
+    "hint": "Động từ kết thúc bằng 'ch' (teach), phải thêm 'es' (teaches) khi chia số ít.",
+    "translate": "Cô Monica dạy môn Toán ở trường tôi.",
+    "segments": [
+      { "type": "text", "text": "Ms. Monica " },
+      { "type": "option", "key": "A", "text": "is" },
+      { "type": "text", "text": " nice. She " },
+      { "type": "option", "key": "B", "text": "teachs" },
+      { "type": "text", "text": " Math " },
+      { "type": "option", "key": "C", "text": "at" },
+      { "type": "text", "text": " my school." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 24,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "A",
+    "correction": "don't",
+    "hint": "Chủ ngữ 'I' dùng trợ động từ phủ định 'do not' (don't), không dùng 'doesn't'.",
+    "translate": "Tôi không biết câu trả lời.",
+    "segments": [
+      { "type": "text", "text": "I " },
+      { "type": "option", "key": "A", "text": "doesn't" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "know" },
+      { "type": "text", "text": " the " },
+      { "type": "option", "key": "C", "text": "correct" },
+      { "type": "text", "text": " answer." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 25,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "C",
+    "correction": "start",
+    "hint": "Các lớp học (The classes) là số nhiều, động từ 'start' giữ nguyên.",
+    "translate": "Các lớp học bắt đầu lúc 7 giờ sáng.",
+    "segments": [
+      { "type": "text", "text": "The classes " },
+      { "type": "option", "key": "A", "text": "at" },
+      { "type": "text", "text": " my school " },
+      { "type": "option", "key": "B", "text": "always" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "starts" },
+      { "type": "text", "text": " at 7 AM." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 26,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "are",
+    "hint": "Chủ ngữ 'The dogs' là số nhiều, động từ tobe phải là 'are'.",
+    "translate": "Những chú chó đang ở trong sân.",
+    "segments": [
+      { "type": "text", "text": "The dogs " },
+      { "type": "option", "key": "A", "text": "in" },
+      { "type": "text", "text": " my house " },
+      { "type": "option", "key": "B", "text": "is" },
+      { "type": "text", "text": " playing " },
+      { "type": "option", "key": "C", "text": "in" },
+      { "type": "text", "text": " the yard." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 27,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "A",
+    "correction": "doesn't",
+    "hint": "Chủ ngữ 'My brother' (số ít) dùng trợ động từ phủ định 'doesn't'.",
+    "translate": "Anh trai tôi không thích ăn cá.",
+    "segments": [
+      { "type": "text", "text": "My brother " },
+      { "type": "option", "key": "A", "text": "don't" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "like" },
+      { "type": "text", "text": " eating " },
+      { "type": "option", "key": "C", "text": "fish" },
+      { "type": "text", "text": " at all." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 28,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "does",
+    "hint": "Chủ ngữ 'your teacher' (số ít), câu hỏi phải dùng 'Does'.",
+    "translate": "Giáo viên của bạn sống ở đâu?",
+    "segments": [
+      { "type": "text", "text": "Where " },
+      { "type": "option", "key": "A", "text": "do" },
+      { "type": "text", "text": " your teacher " },
+      { "type": "option", "key": "B", "text": "live" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "in" },
+      { "type": "text", "text": " this town?" }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 29,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "washes",
+    "hint": "Động từ kết thúc bằng 'sh' (wash), khi chia số ít phải thêm 'es'.",
+    "translate": "Cô ấy rửa xe mỗi cuối tuần.",
+    "segments": [
+      { "type": "text", "text": "She " },
+      { "type": "option", "key": "A", "text": "always" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "washs" },
+      { "type": "text", "text": " her car " },
+      { "type": "option", "key": "C", "text": "every" },
+      { "type": "text", "text": " weekend." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 30,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "A",
+    "correction": "often goes",
+    "hint": "Trạng từ chỉ tần suất (often) đứng trước động từ thường (goes).",
+    "translate": "Anh ấy thường đi tập gym sau giờ làm.",
+    "segments": [
+      { "type": "text", "text": "He " },
+      { "type": "option", "key": "A", "text": "goes often" },
+      { "type": "text", "text": " to " },
+      { "type": "option", "key": "B", "text": "the" },
+      { "type": "text", "text": " gym " },
+      { "type": "option", "key": "C", "text": "after" },
+      { "type": "text", "text": " work." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 31,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "has",
+    "hint": "Ngôi nhà (The house) là số ít, động từ 'have' chuyển thành 'has'.",
+    "translate": "Ngôi nhà này có một khu vườn lớn.",
+    "segments": [
+      { "type": "text", "text": "This house " },
+      { "type": "option", "key": "A", "text": "is" },
+      { "type": "text", "text": " beautiful and it " },
+      { "type": "option", "key": "B", "text": "have" },
+      { "type": "text", "text": " a " },
+      { "type": "option", "key": "C", "text": "big" },
+      { "type": "text", "text": " garden." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 32,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "like",
+    "hint": "Tom và Jerry (2 người) là số nhiều, động từ 'like' giữ nguyên.",
+    "translate": "Tom và Jerry thích ăn phô mai.",
+    "segments": [
+      { "type": "text", "text": "Tom and Jerry " },
+      { "type": "option", "key": "A", "text": "really" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "likes" },
+      { "type": "text", "text": " eating " },
+      { "type": "option", "key": "C", "text": "cheese" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 33,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "A",
+    "correction": "goes",
+    "hint": "Trái đất (The earth) là duy nhất (số ít), động từ 'go' thêm 'es'.",
+    "translate": "Trái đất quay quanh mặt trời.",
+    "segments": [
+      { "type": "text", "text": "The earth " },
+      { "type": "option", "key": "A", "text": "go" },
+      { "type": "text", "text": " around " },
+      { "type": "option", "key": "B", "text": "the" },
+      { "type": "text", "text": " sun " },
+      { "type": "option", "key": "C", "text": "every" },
+      { "type": "text", "text": " year." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 34,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "am",
+    "hint": "Chủ ngữ 'I' đi với động từ tobe là 'am', không dùng 'is'.",
+    "translate": "Tôi là sinh viên, không phải giáo viên.",
+    "segments": [
+      { "type": "text", "text": "I " },
+      { "type": "option", "key": "A", "text": "don't" },
+      { "type": "text", "text": " work here, I " },
+      { "type": "option", "key": "B", "text": "is" },
+      { "type": "text", "text": " a " },
+      { "type": "option", "key": "C", "text": "student" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 35,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "A",
+    "correction": "do",
+    "hint": "Chủ ngữ 'you' đi với trợ động từ 'do' trong câu hỏi.",
+    "translate": "Mấy giờ bạn thức dậy?",
+    "segments": [
+      { "type": "text", "text": "What time " },
+      { "type": "option", "key": "A", "text": "does" },
+      { "type": "text", "text": " you " },
+      { "type": "option", "key": "B", "text": "usually" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "get" },
+      { "type": "text", "text": " up?" }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 36,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "cries",
+    "hint": "Động từ 'cry' kết thúc bằng 'y', khi chia số ít phải đổi thành 'ies'.",
+    "translate": "Đứa bé khóc khi nó đói.",
+    "segments": [
+      { "type": "text", "text": "The baby " },
+      { "type": "option", "key": "A", "text": "is" },
+      { "type": "text", "text": " cute but he " },
+      { "type": "option", "key": "B", "text": "crys" },
+      { "type": "text", "text": " when " },
+      { "type": "option", "key": "C", "text": "he" },
+      { "type": "text", "text": " is hungry." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 37,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "A",
+    "correction": "don't",
+    "hint": "Chủ ngữ 'They' (số nhiều) dùng 'don't' trong câu phủ định.",
+    "translate": "Họ không chơi bóng đá giỏi lắm.",
+    "segments": [
+      { "type": "text", "text": "They " },
+      { "type": "option", "key": "A", "text": "doesn't" },
+      { "type": "text", "text": " play " },
+      { "type": "option", "key": "B", "text": "football" },
+      { "type": "text", "text": " very " },
+      { "type": "option", "key": "C", "text": "well" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 38,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "A",
+    "correction": "Do",
+    "hint": "Chủ ngữ 'your friends' (số nhiều) phải dùng 'Do' để hỏi.",
+    "translate": "Bạn bè của bạn có biết về bữa tiệc không?",
+    "segments": [
+      { "type": "option", "key": "A", "text": "Does" },
+      { "type": "text", "text": " your friends " },
+      { "type": "option", "key": "B", "text": "know" },
+      { "type": "text", "text": " about " },
+      { "type": "option", "key": "C", "text": "the" },
+      { "type": "text", "text": " party?" }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 39,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "sleeps",
+    "hint": "Con mèo của tôi (My cat) là số ít, động từ 'sleep' phải thêm 's'.",
+    "translate": "Con mèo của tôi ngủ cả ngày.",
+    "segments": [
+      { "type": "text", "text": "My cat " },
+      { "type": "option", "key": "A", "text": "is" },
+      { "type": "text", "text": " lazy. It " },
+      { "type": "option", "key": "B", "text": "sleep" },
+      { "type": "text", "text": " all " },
+      { "type": "option", "key": "C", "text": "day" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 40,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "A",
+    "correction": "are",
+    "hint": "Những quyển sách này (These books) là số nhiều, tobe là 'are'.",
+    "translate": "Những quyển sách này rất nặng.",
+    "segments": [
+      { "type": "text", "text": "These books " },
+      { "type": "option", "key": "A", "text": "is" },
+      { "type": "text", "text": " very " },
+      { "type": "option", "key": "B", "text": "heavy" },
+      { "type": "text", "text": ", so I " },
+      { "type": "option", "key": "C", "text": "can't" },
+      { "type": "text", "text": " carry them." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 41,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "A",
+    "correction": "goes",
+    "hint": "Động từ 'go' thêm 'es' thành 'goes', không phải 'gos'.",
+    "translate": "Anh ấy đi học bằng xe đạp.",
+    "segments": [
+      { "type": "text", "text": "He " },
+      { "type": "option", "key": "A", "text": "gos" },
+      { "type": "text", "text": " to " },
+      { "type": "option", "key": "B", "text": "school" },
+      { "type": "text", "text": " by " },
+      { "type": "option", "key": "C", "text": "bicycle" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 42,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "A",
+    "correction": "never eats",
+    "hint": "Trạng từ 'never' đứng trước động từ thường 'eats'.",
+    "translate": "Cô ấy không bao giờ ăn rau.",
+    "segments": [
+      { "type": "text", "text": "She " },
+      { "type": "option", "key": "A", "text": "eats never" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "vegetables" },
+      { "type": "text", "text": " because she " },
+      { "type": "option", "key": "C", "text": "hates" },
+      { "type": "text", "text": " them." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 43,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "has",
+    "hint": "Điện thoại của tôi (My phone) là số ít, dùng 'has'.",
+    "translate": "Điện thoại của tôi có camera tốt.",
+    "segments": [
+      { "type": "text", "text": "My phone " },
+      { "type": "option", "key": "A", "text": "is" },
+      { "type": "text", "text": " new. It " },
+      { "type": "option", "key": "B", "text": "have" },
+      { "type": "text", "text": " a " },
+      { "type": "option", "key": "C", "text": "good" },
+      { "type": "text", "text": " camera." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 44,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "play",
+    "hint": "Sau trợ động từ 'Does', động từ chính (play) phải trả về nguyên mẫu, không chia s/es nữa.",
+    "translate": "Cô ấy có chơi piano không?",
+    "segments": [
+      { "type": "text", "text": "Does " },
+      { "type": "option", "key": "A", "text": "she" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "plays" },
+      { "type": "text", "text": " the " },
+      { "type": "option", "key": "C", "text": "piano" },
+      { "type": "text", "text": " every day?" }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 45,
+    "type": "FindError",
+    "level": "Easy",
+    "correctKey": "C",
+    "correction": "starts",
+    "hint": "Bộ phim (The movie) là số ít, động từ 'start' thêm 's'.",
+    "translate": "Bộ phim bắt đầu lúc 8 giờ tối.",
+    "segments": [
+      { "type": "text", "text": "Let's " },
+      { "type": "option", "key": "A", "text": "go" },
+      { "type": "text", "text": ". The movie " },
+      { "type": "option", "key": "B", "text": "always" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "start" },
+      { "type": "text", "text": " at 8 PM." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 46,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "is",
+    "hint": "Chủ ngữ chính là 'The list' (số ít), không phải 'students'. Cụm 'of new students' chỉ là bổ ngữ.",
+    "translate": "Danh sách các học sinh mới đang ở trên bàn.",
+    "segments": [
+      { "type": "text", "text": "The list " },
+      { "type": "option", "key": "A", "text": "of" },
+      { "type": "text", "text": " new students " },
+      { "type": "option", "key": "B", "text": "are" },
+      { "type": "text", "text": " on " },
+      { "type": "option", "key": "C", "text": "the" },
+      { "type": "text", "text": " desk." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 47,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "A",
+    "correction": "do not understand",
+    "hint": "Động từ 'understand' là động từ chỉ trạng thái (stative verb), không dùng ở thì tiếp diễn.",
+    "translate": "Tôi không hiểu bạn đang nói gì.",
+    "segments": [
+      { "type": "text", "text": "I " },
+      { "type": "option", "key": "A", "text": "am not understanding" },
+      { "type": "text", "text": " what " },
+      { "type": "option", "key": "B", "text": "you" },
+      { "type": "text", "text": " are " },
+      { "type": "option", "key": "C", "text": "saying" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 48,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "C",
+    "correction": "have",
+    "hint": "Trong câu hỏi có trợ động từ 'Does', động từ chính phải trở về dạng nguyên mẫu (have), không chia 'has'.",
+    "translate": "Cô ấy có cuốn sách này không?",
+    "segments": [
+      { "type": "text", "text": "Does " },
+      { "type": "option", "key": "A", "text": "she" },
+      { "type": "text", "text": " usually " },
+      { "type": "option", "key": "B", "text": "borrow" },
+      { "type": "text", "text": " books, and " },
+      { "type": "option", "key": "C", "text": "has" },
+      { "type": "text", "text": " she read this one?" }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 49,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "makes",
+    "hint": "Chủ ngữ 'Reading books' (Danh động từ làm chủ ngữ) được coi là số ít -> Động từ thêm 's'.",
+    "translate": "Đọc sách khiến tôi cảm thấy thư giãn.",
+    "segments": [
+      { "type": "text", "text": "Reading " },
+      { "type": "option", "key": "A", "text": "books" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "make" },
+      { "type": "text", "text": " me " },
+      { "type": "option", "key": "C", "text": "feel" },
+      { "type": "text", "text": " relaxed." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 50,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "A",
+    "correction": "Are",
+    "hint": "Khi muốn hỏi tính chất/trạng thái (hungry - đói), dùng động từ 'to be' (Are), không dùng trợ động từ 'Do'.",
+    "translate": "Bạn có đói không?",
+    "segments": [
+      { "type": "option", "key": "A", "text": "Do" },
+      { "type": "text", "text": " you " },
+      { "type": "option", "key": "B", "text": "hungry" },
+      { "type": "text", "text": " after " },
+      { "type": "option", "key": "C", "text": "working" },
+      { "type": "text", "text": " all day?" }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 51,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "belongs",
+    "hint": "'Belong' là động từ trạng thái, không dùng ở tiếp diễn (is belonging).",
+    "translate": "Chiếc xe đắt tiền đó thuộc về chú tôi.",
+    "segments": [
+      { "type": "text", "text": "That expensive car " },
+      { "type": "option", "key": "A", "text": "over there" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "is belonging" },
+      { "type": "text", "text": " to " },
+      { "type": "option", "key": "C", "text": "my" },
+      { "type": "text", "text": " uncle." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 52,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "A",
+    "correction": "is",
+    "hint": "Physics (Môn Vật lý) có 's' ở cuối nhưng là danh từ số ít.",
+    "translate": "Vật lý là môn học yêu thích của tôi.",
+    "segments": [
+      { "type": "text", "text": "Physics " },
+      { "type": "option", "key": "A", "text": "are" },
+      { "type": "text", "text": " my " },
+      { "type": "option", "key": "B", "text": "favorite" },
+      { "type": "text", "text": " subject " },
+      { "type": "option", "key": "C", "text": "at" },
+      { "type": "text", "text": " school." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 53,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "knows",
+    "hint": "Đại từ bất định 'Nobody' luôn đi với động từ số ít.",
+    "translate": "Không ai biết câu trả lời cho câu đố này.",
+    "segments": [
+      { "type": "text", "text": "Nobody " },
+      { "type": "option", "key": "A", "text": "in the class" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "know" },
+      { "type": "text", "text": " the " },
+      { "type": "option", "key": "C", "text": "answer" },
+      { "type": "text", "text": " to this puzzle." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 54,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "A",
+    "correction": "is always",
+    "hint": "Trạng từ tần suất (always) phải đứng SAU động từ tobe (is).",
+    "translate": "Anh ấy luôn trễ họp.",
+    "segments": [
+      { "type": "text", "text": "He " },
+      { "type": "option", "key": "A", "text": "always is" },
+      { "type": "text", "text": " late " },
+      { "type": "option", "key": "B", "text": "for" },
+      { "type": "text", "text": " the " },
+      { "type": "option", "key": "C", "text": "meetings" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 55,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "C",
+    "correction": "do you do",
+    "hint": "Câu hỏi Wh- cần trợ động từ. 'What you do...?' -> 'What do you do...?'",
+    "translate": "Bạn làm gì vào thời gian rảnh?",
+    "segments": [
+      { "type": "text", "text": "What " },
+      { "type": "option", "key": "A", "text": "kind of" },
+      { "type": "text", "text": " activities " },
+      { "type": "option", "key": "B", "text": "usually" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "you do" },
+      { "type": "text", "text": " in your free time?" }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 56,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "don't",
+    "hint": "Chủ ngữ 'My friends and I' (tương đương 'We') là số nhiều -> dùng 'don't'.",
+    "translate": "Bạn tôi và tôi không thích đi bộ đường dài.",
+    "segments": [
+      { "type": "text", "text": "My friends " },
+      { "type": "option", "key": "A", "text": "and" },
+      { "type": "text", "text": " I " },
+      { "type": "option", "key": "B", "text": "doesn't" },
+      { "type": "text", "text": " like " },
+      { "type": "option", "key": "C", "text": "hiking" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 57,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "Do",
+    "hint": "Khi hỏi về đối tượng (Who do you want to meet?), cần trợ động từ 'Do'. Nếu hỏi chủ ngữ (Who wants...) thì không cần.",
+    "translate": "Bạn muốn gặp ai?",
+    "segments": [
+      { "type": "text", "text": "Who " },
+      { "type": "option", "key": "A", "text": "does" },
+      { "type": "text", "text": " you " },
+      { "type": "option", "key": "B", "text": "wants" },
+      { "type": "text", "text": " to " },
+      { "type": "option", "key": "C", "text": "meet" },
+      { "type": "text", "text": " today?" }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 58,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "A",
+    "correction": "is",
+    "hint": "Tin tức (News) là danh từ không đếm được (số ít), dù có 's' ở cuối.",
+    "translate": "Tin tức hôm nay rất thú vị.",
+    "segments": [
+      { "type": "text", "text": "The news " },
+      { "type": "option", "key": "A", "text": "are" },
+      { "type": "text", "text": " very " },
+      { "type": "option", "key": "B", "text": "interesting" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "today" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 59,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "want",
+    "hint": "'Want' là stative verb, không dùng tiếp diễn (are wanting).",
+    "translate": "Họ muốn mua một ngôi nhà mới.",
+    "segments": [
+      { "type": "text", "text": "They " },
+      { "type": "option", "key": "A", "text": "currently" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "are wanting" },
+      { "type": "text", "text": " to " },
+      { "type": "option", "key": "C", "text": "buy" },
+      { "type": "text", "text": " a new house." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 60,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "works",
+    "hint": "Cấu trúc 'Neither... nor...' thì động từ chia theo chủ ngữ gần nhất (his brother - số ít).",
+    "translate": "Cả John và anh trai cậu ấy đều không làm việc ở đây.",
+    "segments": [
+      { "type": "text", "text": "Neither John " },
+      { "type": "option", "key": "A", "text": "nor" },
+      { "type": "text", "text": " his brother " },
+      { "type": "option", "key": "B", "text": "work" },
+      { "type": "text", "text": " in " },
+      { "type": "option", "key": "C", "text": "this" },
+      { "type": "text", "text": " company." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 61,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "A",
+    "correction": "Water",
+    "hint": "Nước (Water) là danh từ không đếm được, động từ 'boil' phải thêm 's' (boils). (Lỗi hiển thị ở động từ, ở đây chọn A đại diện cho lỗi chia).",
+    "translate": "Nước sôi ở 100 độ C.",
+    "segments": [
+      { "type": "text", "text": "Water " },
+      { "type": "option", "key": "A", "text": "boil" },
+      { "type": "text", "text": " at " },
+      { "type": "option", "key": "B", "text": "100" },
+      { "type": "text", "text": " degrees " },
+      { "type": "option", "key": "C", "text": "Celsius" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 62,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "have",
+    "hint": "Với trạng từ phủ định 'Seldom' (hiếm khi) đứng đầu câu, phải đảo ngữ: Seldom do we have...",
+    "translate": "Hiếm khi chúng tôi có thời gian ăn tối cùng nhau. (Đây là câu nâng cao, nếu không đảo ngữ thì 'We seldom have' - ở đây lỗi là vị trí hoặc chia). Sửa đơn giản: We seldom have.",
+    "segments": [
+      { "type": "text", "text": "We " },
+      { "type": "option", "key": "A", "text": "seldom" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "has" },
+      { "type": "text", "text": " time " },
+      { "type": "option", "key": "C", "text": "to" },
+      { "type": "text", "text": " eat dinner together." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 63,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "C",
+    "correction": "does",
+    "hint": "Câu hỏi đuôi (Tag question) với động từ thường 'plays' (số ít) phải dùng 'doesn't', nhưng đây là câu hỏi thường: 'Does he play...?'",
+    "translate": "Anh ấy chơi piano rất hay, phải không?",
+    "segments": [
+      { "type": "text", "text": "He " },
+      { "type": "option", "key": "A", "text": "plays" },
+      { "type": "text", "text": " the piano " },
+      { "type": "option", "key": "B", "text": "very" },
+      { "type": "text", "text": " well, " },
+      { "type": "option", "key": "C", "text": "don't" },
+      { "type": "text", "text": " he?" }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 64,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "is",
+    "hint": "Tiền bạc (Money) là danh từ không đếm được -> động từ số ít 'is'.",
+    "translate": "Tiền không phải là tất cả.",
+    "segments": [
+      { "type": "text", "text": "Money " },
+      { "type": "option", "key": "A", "text": "and" },
+      { "type": "text", "text": " power " },
+      { "type": "option", "key": "B", "text": "are" },
+      { "type": "text", "text": " not " },
+      { "type": "option", "key": "C", "text": "everything" },
+      { "type": "text", "text": " in life." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 65,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "A",
+    "correction": "Do",
+    "hint": "'You and your family' là số nhiều, dùng trợ động từ 'Do'.",
+    "translate": "Bạn và gia đình có thường đi du lịch không?",
+    "segments": [
+      { "type": "option", "key": "A", "text": "Does" },
+      { "type": "text", "text": " you and " },
+      { "type": "option", "key": "B", "text": "your" },
+      { "type": "text", "text": " family " },
+      { "type": "option", "key": "C", "text": "travel" },
+      { "type": "text", "text": " often?" }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 66,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "C",
+    "correction": "cost",
+    "hint": "'These shoes' (số nhiều) -> động từ 'cost' giữ nguyên, không thêm 's'.",
+    "translate": "Đôi giày này giá bao nhiêu?",
+    "segments": [
+      { "type": "text", "text": "How much " },
+      { "type": "option", "key": "A", "text": "do" },
+      { "type": "text", "text": " these " },
+      { "type": "option", "key": "B", "text": "shoes" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "costs" },
+      { "type": "text", "text": "?" }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 67,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "seem",
+    "hint": "Cảnh sát (The police) là danh từ tập hợp luôn chia số nhiều -> seem (không s).",
+    "translate": "Cảnh sát dường như rất bận rộn hôm nay.",
+    "segments": [
+      { "type": "text", "text": "The police " },
+      { "type": "option", "key": "A", "text": "officers" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "seems" },
+      { "type": "text", "text": " to be " },
+      { "type": "option", "key": "C", "text": "very" },
+      { "type": "text", "text": " busy today." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 68,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "fit",
+    "hint": "'These trousers' (Quần tây) luôn là số nhiều -> động từ 'fit' không chia.",
+    "translate": "Cái quần này không vừa với tôi.",
+    "segments": [
+      { "type": "text", "text": "These trousers " },
+      { "type": "option", "key": "A", "text": "don't" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "fits" },
+      { "type": "text", "text": " me " },
+      { "type": "option", "key": "C", "text": "very" },
+      { "type": "text", "text": " well." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 69,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "smells",
+    "hint": "Động từ giác quan (smell) đi với tính từ (good), không dùng trạng từ (well) khi chỉ tính chất của chủ ngữ.",
+    "translate": "Bông hoa này có mùi thơm.",
+    "segments": [
+      { "type": "text", "text": "This flower " },
+      { "type": "option", "key": "A", "text": "looks" },
+      { "type": "text", "text": " beautiful and " },
+      { "type": "option", "key": "B", "text": "smell" },
+      { "type": "text", "text": " really " },
+      { "type": "option", "key": "C", "text": "good" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 70,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "C",
+    "correction": "is",
+    "hint": "Khi dùng phân số/phần trăm (Half of...), động từ chia theo danh từ phía sau. 'Bread' không đếm được -> is.",
+    "translate": "Một nửa số bánh mì đã bị ăn.",
+    "segments": [
+      { "type": "text", "text": "Half " },
+      { "type": "option", "key": "A", "text": "of" },
+      { "type": "text", "text": " the bread " },
+      { "type": "option", "key": "B", "text": "on" },
+      { "type": "text", "text": " the table " },
+      { "type": "option", "key": "C", "text": "are" },
+      { "type": "text", "text": " eaten." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 71,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "D",
+    "correction": "sings",
+    "hint": "Cấu trúc song song: 'plays' đang chia số ít, nên động từ sau 'and' (sing) cũng phải chia số ít (sings).",
+    "translate": "Cô ấy thường chơi piano và hát những bài hát buồn.",
+    "segments": [
+      { "type": "text", "text": "She " },
+      { "type": "option", "key": "A", "text": "usually" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "plays" },
+      { "type": "text", "text": " the piano " },
+      { "type": "option", "key": "C", "text": "and" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "D", "text": "sing" },
+      { "type": "text", "text": " sad songs." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 72,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "C",
+    "correction": "takes",
+    "hint": "Mệnh đề trạng ngữ chỉ thời gian (As soon as...) dùng thì hiện tại đơn cho tương lai.",
+    "translate": "Tôi sẽ gọi cho bạn ngay khi máy bay cất cánh.",
+    "segments": [
+      { "type": "text", "text": "I " },
+      { "type": "option", "key": "A", "text": "will call" },
+      { "type": "text", "text": " you " },
+      { "type": "option", "key": "B", "text": "as soon as" },
+      { "type": "text", "text": " the plane " },
+      { "type": "option", "key": "C", "text": "will take" },
+      { "type": "text", "text": " off " },
+      { "type": "option", "key": "D", "text": "tomorrow" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 73,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "is",
+    "hint": "'Mumps' (Bệnh quai bị) có 's' nhưng là danh từ số ít.",
+    "translate": "Bệnh quai bị là một căn bệnh phổ biến ở trẻ em.",
+    "segments": [
+      { "type": "text", "text": "Mumps " },
+      { "type": "option", "key": "A", "text": "usually" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "are" },
+      { "type": "text", "text": " a " },
+      { "type": "option", "key": "C", "text": "common" },
+      { "type": "text", "text": " disease " },
+      { "type": "option", "key": "D", "text": "among" },
+      { "type": "text", "text": " children." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 74,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "A",
+    "correction": "There is",
+    "hint": "Danh từ đi sau là 'a table' (số ít), nên phải dùng 'There is'.",
+    "translate": "Có một cái bàn và bốn cái ghế trong phòng.",
+    "segments": [
+      { "type": "option", "key": "A", "text": "There are" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "a table" },
+      { "type": "text", "text": " and " },
+      { "type": "option", "key": "C", "text": "four chairs" },
+      { "type": "text", "text": " in " },
+      { "type": "option", "key": "D", "text": "the" },
+      { "type": "text", "text": " dining room." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 75,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "C",
+    "correction": "consists",
+    "hint": "Chủ ngữ 'The team' (đội nhóm) được coi là một đơn vị thống nhất (số ít) -> chia 'consists'.",
+    "translate": "Đội bóng bao gồm mười một cầu thủ.",
+    "segments": [
+      { "type": "text", "text": "The " },
+      { "type": "option", "key": "A", "text": "football" },
+      { "type": "text", "text": " team " },
+      { "type": "option", "key": "B", "text": "usually" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "consist" },
+      { "type": "text", "text": " of " },
+      { "type": "option", "key": "D", "text": "eleven" },
+      { "type": "text", "text": " players." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 76,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "tastes",
+    "hint": "Động từ 'taste' khi chỉ tính chất của món ăn (có vị gì) thì không dùng tiếp diễn.",
+    "translate": "Món súp này có vị rất tuyệt.",
+    "segments": [
+      { "type": "text", "text": "This soup " },
+      { "type": "option", "key": "A", "text": "looks" },
+      { "type": "text", "text": " good and " },
+      { "type": "option", "key": "B", "text": "is tasting" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "absolutely" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "D", "text": "delicious" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 77,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "doesn't",
+    "hint": "Chủ ngữ là 'None of my friends' (Không ai trong số bạn tôi) thường đi với động từ số ít hoặc số nhiều, nhưng ở đây 'know' (C) đã sai hòa hợp nếu coi là số ít? Thực ra 'None' thường đi với số ít trong văn viết chuẩn. Tuy nhiên lỗi rõ nhất ở đây là 'don't' đi với 'knows' (vô lý). Nếu sửa B thành 'doesn't' thì C phải là 'know'. Chờ chút, logic câu này: None of my friends (số nhiều). Nếu dùng 'don't' thì động từ sau đó phải nguyên mẫu. Ở đây C là 'knows' (có s). Vậy lỗi là sự mâu thuẫn. Nếu chủ ngữ số ít -> doesn't know. Nếu số nhiều -> don't know. 'None' có thể là số ít. Sửa chuẩn: None... knows. -> Bỏ trợ động từ? Câu này lỗi ở B (don't). Sửa thành 'knows' (khẳng định mang nghĩa phủ định của None) hoặc 'doesn't know'. Nhưng 'None' bản thân đã phủ định. -> Bỏ 'don't'.",
+    "translate": "Không ai trong số bạn bè của tôi biết sự thật. (None of... knows).",
+    "segments": [
+      { "type": "text", "text": "None " },
+      { "type": "option", "key": "A", "text": "of" },
+      { "type": "text", "text": " my friends " },
+      { "type": "option", "key": "B", "text": "don't" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "know" },
+      { "type": "text", "text": " the " },
+      { "type": "option", "key": "D", "text": "truth" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 78,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "C",
+    "correction": "drink",
+    "hint": "Cattle (Gia súc) là danh từ số nhiều bất quy tắc -> động từ 'drinks' thừa 's'.",
+    "translate": "Gia súc đang uống nước ở bờ sông.",
+    "segments": [
+      { "type": "text", "text": "The " },
+      { "type": "option", "key": "A", "text": "cattle" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "often" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "drinks" },
+      { "type": "text", "text": " water " },
+      { "type": "option", "key": "D", "text": "at" },
+      { "type": "text", "text": " the river." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 79,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "wants",
+    "hint": "Trong cấu trúc 'The number of + N(số nhiều)', động từ chia ở số ít.",
+    "translate": "Số lượng học sinh muốn đi dã ngoại đang tăng lên.",
+    "segments": [
+      { "type": "text", "text": "The number " },
+      { "type": "option", "key": "A", "text": "of" },
+      { "type": "text", "text": " students who " },
+      { "type": "option", "key": "B", "text": "want" },
+      { "type": "text", "text": " to go " },
+      { "type": "option", "key": "C", "text": "on" },
+      { "type": "text", "text": " a trip " },
+      { "type": "option", "key": "D", "text": "is" },
+      { "type": "text", "text": " increasing." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 80,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "C",
+    "correction": "do",
+    "hint": "A number of (Một số lượng lớn...) đi với động từ số nhiều.",
+    "translate": "Rất nhiều người không đồng ý với chính sách mới.",
+    "segments": [
+      { "type": "text", "text": "A number " },
+      { "type": "option", "key": "A", "text": "of" },
+      { "type": "text", "text": " people " },
+      { "type": "option", "key": "B", "text": "in my town" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "does" },
+      { "type": "text", "text": " not agree " },
+      { "type": "option", "key": "D", "text": "with" },
+      { "type": "text", "text": " the new policy." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 81,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "owns",
+    "hint": "Who (ai) làm chủ ngữ trong câu hỏi thường chia động từ số ít.",
+    "translate": "Ai sở hữu ngôi nhà to ở góc phố kia?",
+    "segments": [
+      { "type": "text", "text": "Who " },
+      { "type": "option", "key": "A", "text": "actually" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "own" },
+      { "type": "text", "text": " that " },
+      { "type": "option", "key": "C", "text": "big" },
+      { "type": "text", "text": " house on " },
+      { "type": "option", "key": "D", "text": "the" },
+      { "type": "text", "text": " corner?" }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 82,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "D",
+    "correction": "does he",
+    "hint": "Câu hỏi đuôi: Mệnh đề chính 'He hardly ever works' mang nghĩa phủ định (hardly), nên đuôi phải là khẳng định (does he).",
+    "translate": "Anh ấy hầu như không bao giờ làm việc muộn, phải không?",
+    "segments": [
+      { "type": "text", "text": "He " },
+      { "type": "option", "key": "A", "text": "hardly" },
+      { "type": "text", "text": " ever " },
+      { "type": "option", "key": "B", "text": "works" },
+      { "type": "text", "text": " late " },
+      { "type": "option", "key": "C", "text": "at night" },
+      { "type": "text", "text": ", " },
+      { "type": "option", "key": "D", "text": "doesn't he" },
+      { "type": "text", "text": "?" }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 83,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "C",
+    "correction": "travels",
+    "hint": "'Light' (Ánh sáng) là danh từ không đếm được (số ít) -> travels.",
+    "translate": "Ánh sáng di chuyển nhanh hơn âm thanh.",
+    "segments": [
+      { "type": "text", "text": "Everyone " },
+      { "type": "option", "key": "A", "text": "knows" },
+      { "type": "text", "text": " that " },
+      { "type": "option", "key": "B", "text": "light" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "travel" },
+      { "type": "text", "text": " faster " },
+      { "type": "option", "key": "D", "text": "than" },
+      { "type": "text", "text": " sound." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 84,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "makes",
+    "hint": "Chủ ngữ là 'Two hours' (Khoảng thời gian) được xem là một đơn vị số ít -> makes.",
+    "translate": "Hai tiếng đồng hồ là khoảng thời gian dài để đợi.",
+    "segments": [
+      { "type": "text", "text": "Two hours " },
+      { "type": "option", "key": "A", "text": "of" },
+      { "type": "text", "text": " waiting " },
+      { "type": "option", "key": "B", "text": "make" },
+      { "type": "text", "text": " me " },
+      { "type": "option", "key": "C", "text": "feel" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "D", "text": "tired" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 85,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "A",
+    "correction": "Do",
+    "hint": "'Most of the students' (Hầu hết học sinh) là số nhiều -> dùng 'Do'.",
+    "translate": "Hầu hết học sinh có sống ở ký túc xá không?",
+    "segments": [
+      { "type": "option", "key": "A", "text": "Does" },
+      { "type": "text", "text": " most " },
+      { "type": "option", "key": "B", "text": "of" },
+      { "type": "text", "text": " the students " },
+      { "type": "option", "key": "C", "text": "live" },
+      { "type": "text", "text": " in " },
+      { "type": "option", "key": "D", "text": "the" },
+      { "type": "text", "text": " dormitory?" }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 86,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "don't",
+    "hint": "'The poor' (Những người nghèo - nhóm người) là số nhiều -> don't.",
+    "translate": "Người nghèo không phải lúc nào cũng cần tiền, họ cần cơ hội.",
+    "segments": [
+      { "type": "text", "text": "The poor " },
+      { "type": "option", "key": "A", "text": "in this area" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "doesn't" },
+      { "type": "text", "text": " always " },
+      { "type": "option", "key": "C", "text": "need" },
+      { "type": "text", "text": " money, they need " },
+      { "type": "option", "key": "D", "text": "opportunities" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 87,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "D",
+    "correction": "has",
+    "hint": "'Each of the members' (Mỗi một thành viên) -> Động từ chia số ít (has).",
+    "translate": "Mỗi thành viên trong lớp đều có sách riêng.",
+    "segments": [
+      { "type": "text", "text": "Each " },
+      { "type": "option", "key": "A", "text": "of" },
+      { "type": "text", "text": " the " },
+      { "type": "option", "key": "B", "text": "members" },
+      { "type": "text", "text": " in " },
+      { "type": "option", "key": "C", "text": "the class" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "D", "text": "have" },
+      { "type": "text", "text": " their own book." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 88,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "C",
+    "correction": "goes",
+    "hint": "Cấu trúc 'Neither... nor...' động từ chia theo danh từ gần nhất (Sarah - số ít) -> goes.",
+    "translate": "Cả tôi và Sarah đều không đi dự tiệc tối nay.",
+    "segments": [
+      { "type": "text", "text": "Neither " },
+      { "type": "option", "key": "A", "text": "I" },
+      { "type": "text", "text": " nor " },
+      { "type": "option", "key": "B", "text": "Sarah" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "go" },
+      { "type": "text", "text": " to " },
+      { "type": "option", "key": "D", "text": "the party" },
+      { "type": "text", "text": " tonight." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 89,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "speak",
+    "hint": "Người Mỹ (Americans) là danh từ số nhiều -> speak.",
+    "translate": "Người Mỹ nói tiếng Anh, nhưng giọng của họ khác.",
+    "segments": [
+      { "type": "text", "text": "Americans " },
+      { "type": "option", "key": "A", "text": "usually" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "speaks" },
+      { "type": "text", "text": " English, " },
+      { "type": "option", "key": "C", "text": "but" },
+      { "type": "text", "text": " their " },
+      { "type": "option", "key": "D", "text": "accent" },
+      { "type": "text", "text": " is different." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 90,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "C",
+    "correction": "is",
+    "hint": "Tên riêng của một cuốn sách 'The Lord of the Rings' là số ít -> is.",
+    "translate": "Chúa tể những chiếc nhẫn là cuốn sách hay.",
+    "segments": [
+      { "type": "text", "text": "\"The Lord " },
+      { "type": "option", "key": "A", "text": "of" },
+      { "type": "text", "text": " the Rings\" " },
+      { "type": "option", "key": "B", "text": "books" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "are" },
+      { "type": "text", "text": " very " },
+      { "type": "option", "key": "D", "text": "popular" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 91,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "C",
+    "correction": "wants",
+    "hint": "Cấu trúc 'N1 together with N2', động từ chia theo N1 (The director - số ít) -> wants.",
+    "translate": "Đạo diễn cùng với các diễn viên muốn nghỉ giải lao.",
+    "segments": [
+      { "type": "text", "text": "The director, " },
+      { "type": "option", "key": "A", "text": "together with" },
+      { "type": "text", "text": " his actors, " },
+      { "type": "option", "key": "B", "text": "now" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "want" },
+      { "type": "text", "text": " to " },
+      { "type": "option", "key": "D", "text": "take" },
+      { "type": "text", "text": " a break." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 92,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "A",
+    "correction": "Are",
+    "hint": "Câu hỏi với tính từ (available) phải dùng động từ Tobe (Are), không dùng Do.",
+    "translate": "Vé có sẵn trực tuyến không?",
+    "segments": [
+      { "type": "option", "key": "A", "text": "Do" },
+      { "type": "text", "text": " the " },
+      { "type": "option", "key": "B", "text": "tickets" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "available" },
+      { "type": "text", "text": " online " },
+      { "type": "option", "key": "D", "text": "right now" },
+      { "type": "text", "text": "?" }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 93,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "C",
+    "correction": "don't they",
+    "hint": "Câu hỏi đuôi: 'Let's go' (Rủ rê) thì câu hỏi đuôi cố định là 'shall we'. Tuy nhiên, nếu câu trần thuật thường 'They go...' thì đuôi là 'don't they'. Ở đây 'Let's' là đặc biệt. Nhưng chờ đã, đề bài là tìm lỗi sai. 'Let's go... don't they' -> Sai đuôi. Phải là 'shall we'.",
+    "translate": "Chúng ta hãy đi dạo nhé?",
+    "segments": [
+      { "type": "text", "text": "Let's " },
+      { "type": "option", "key": "A", "text": "go" },
+      { "type": "text", "text": " for " },
+      { "type": "option", "key": "B", "text": "a" },
+      { "type": "text", "text": " walk, " },
+      { "type": "option", "key": "C", "text": "don't they" },
+      { "type": "text", "text": "?" },
+      { "type": "option", "key": "D", "text": "" },
+      { "type": "text", "text": "" }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 94,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "C",
+    "correction": "need",
+    "hint": "Chủ ngữ 'All of the pie' (Bánh là danh từ không đếm được/số ít) -> needs. Nhưng 'All of the pies' (số nhiều) -> need. Ở đây 'pie' số ít. Chờ chút, dịch nghĩa: 'Tất cả bánh pie đã bị ăn'. 'Pie' đếm được không? Có. Ở đây 'All of the students need'. Students số nhiều -> Need. Câu này: All of the students... needs -> Sai.",
+    "translate": "Tất cả học sinh cần nộp bài tập về nhà.",
+    "segments": [
+      { "type": "text", "text": "All " },
+      { "type": "option", "key": "A", "text": "of" },
+      { "type": "text", "text": " the students " },
+      { "type": "option", "key": "B", "text": "in my class" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "needs" },
+      { "type": "text", "text": " to submit " },
+      { "type": "option", "key": "D", "text": "homework" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 95,
+    "type": "FindError",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "Do",
+    "hint": "Trong câu hỏi Wh- 'How often...', trợ động từ phải đảo lên trước chủ ngữ. 'How often you visit' -> Thiếu 'do'. (Ở đây A là visit, B là you visit -> Sai cấu trúc). Sửa: How often DO you visit. Chọn lỗi ở cụm 'you visit' hoặc thiếu trợ động từ. Trong format này, lỗi là thiếu 'Do' trước 'you'.",
+    "translate": "Bạn bao lâu về thăm ông bà một lần?",
+    "segments": [
+      { "type": "text", "text": "How often " },
+      { "type": "option", "key": "A", "text": "does" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "you visit" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "your" },
+      { "type": "text", "text": " grandparents " },
+      { "type": "option", "key": "D", "text": "in" },
+      { "type": "text", "text": " the country?" }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 96,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "does he",
+    "hint": "Đảo ngữ: Khi trạng từ phủ định (Rarely) đứng đầu câu, phải đảo trợ động từ lên trước chủ ngữ.",
+    "translate": "Hiếm khi anh ấy đến thăm bà của mình.",
+    "segments": [
+      { "type": "option", "key": "A", "text": "Rarely" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "he" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "visits" },
+      { "type": "text", "text": " his " },
+      { "type": "option", "key": "D", "text": "grandmother" },
+      { "type": "text", "text": " these days." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 97,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "is",
+    "hint": "Chủ ngữ là 'The number of' (Số lượng...) luôn đi với động từ số ít, khác với 'A number of' (Nhiều...).",
+    "translate": "Số lượng học sinh trượt kỳ thi đang giảm.",
+    "segments": [
+      { "type": "text", "text": "The " },
+      { "type": "option", "key": "A", "text": "number" },
+      { "type": "text", "text": " of " },
+      { "type": "option", "key": "B", "text": "students" },
+      { "type": "text", "text": " failing the exam " },
+      { "type": "option", "key": "C", "text": "are" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "D", "text": "decreasing" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 98,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "am",
+    "hint": "Cấu trúc 'Either... or...': Động từ chia theo chủ ngữ gần nhất (I) -> am.",
+    "translate": "Hoặc bạn hoặc tôi chịu trách nhiệm cho lỗi lầm này.",
+    "segments": [
+      { "type": "text", "text": "Either " },
+      { "type": "option", "key": "A", "text": "you" },
+      { "type": "text", "text": " or I " },
+      { "type": "option", "key": "B", "text": "are" },
+      { "type": "text", "text": " responsible " },
+      { "type": "option", "key": "C", "text": "for" },
+      { "type": "text", "text": " this " },
+      { "type": "option", "key": "D", "text": "mistake" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 99,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "comes",
+    "hint": "Mệnh đề trạng ngữ chỉ thời gian (When he comes back) dùng thì Hiện tại đơn để chỉ tương lai, không dùng 'will'.",
+    "translate": "Tôi sẽ nói chuyện với anh ấy khi anh ấy quay lại.",
+    "segments": [
+      { "type": "text", "text": "I " },
+      { "type": "option", "key": "A", "text": "will talk" },
+      { "type": "text", "text": " to him when he " },
+      { "type": "option", "key": "B", "text": "will come" },
+      { "type": "text", "text": " back " },
+      { "type": "option", "key": "C", "text": "from" },
+      { "type": "text", "text": " his " },
+      { "type": "option", "key": "D", "text": "trip" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 100,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "am",
+    "hint": "Trong câu chẻ (Cleft sentence) 'It is I who...', động từ trong mệnh đề quan hệ chia theo tiền ngữ (I) -> am.",
+    "translate": "Chính tôi là người chịu trách nhiệm ở đây.",
+    "segments": [
+      { "type": "text", "text": "It is " },
+      { "type": "option", "key": "A", "text": "I" },
+      { "type": "text", "text": " who " },
+      { "type": "option", "key": "B", "text": "always" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "is" },
+      { "type": "text", "text": " responsible " },
+      { "type": "option", "key": "D", "text": "here" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 101,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "work",
+    "hint": "Cấu trúc nhấn mạnh 'He does work' (Anh ấy THỰC SỰ có làm việc). Sau trợ động từ 'does', động từ chính phải về nguyên mẫu.",
+    "translate": "Anh ấy thực sự làm việc chăm chỉ, tin tôi đi.",
+    "segments": [
+      { "type": "text", "text": "He " },
+      { "type": "option", "key": "A", "text": "does" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "really" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "works" },
+      { "type": "text", "text": " very " },
+      { "type": "option", "key": "D", "text": "hard" },
+      { "type": "text", "text": ", believe me." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 102,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "is",
+    "hint": "Môn học 'Mathematics' có 's' nhưng là danh từ không đếm được (số ít).",
+    "translate": "Toán học là môn khó đối với nhiều sinh viên.",
+    "segments": [
+      { "type": "text", "text": "Mathematics " },
+      { "type": "option", "key": "A", "text": "problem" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "are" },
+      { "type": "text", "text": " difficult " },
+      { "type": "option", "key": "C", "text": "for" },
+      { "type": "text", "text": " many " },
+      { "type": "option", "key": "D", "text": "students" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 103,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "wants",
+    "hint": "Cấu trúc 'N1 as well as N2': Động từ chia theo N1 (The teacher - số ít) -> wants.",
+    "translate": "Giáo viên cũng như các học sinh muốn tổ chức tiệc.",
+    "segments": [
+      { "type": "text", "text": "The teacher, " },
+      { "type": "option", "key": "A", "text": "as well as" },
+      { "type": "text", "text": " the students, " },
+      { "type": "option", "key": "B", "text": "really" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "want" },
+      { "type": "text", "text": " to " },
+      { "type": "option", "key": "D", "text": "organize" },
+      { "type": "text", "text": " a party." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 104,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "D",
+    "correction": "it comes",
+    "hint": "Đảo ngữ với 'Here/There': Nếu chủ ngữ là đại từ nhân xưng (it, he, they), ta KHÔNG đảo động từ lên trước. (Here it comes, NOT Here comes it).",
+    "translate": "Xe buýt đây rồi! Nó đến rồi.",
+    "segments": [
+      { "type": "text", "text": "Here " },
+      { "type": "option", "key": "A", "text": "is" },
+      { "type": "text", "text": " the bus! " },
+      { "type": "option", "key": "B", "text": "Look" },
+      { "type": "text", "text": ", " },
+      { "type": "option", "key": "C", "text": "here" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "D", "text": "comes it" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 105,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "think",
+    "hint": "Động từ 'think' khi mang nghĩa 'có quan điểm' (state verb) thì không dùng tiếp diễn.",
+    "translate": "Tôi nghĩ rằng ý tưởng của bạn rất tuyệt.",
+    "segments": [
+      { "type": "text", "text": "I " },
+      { "type": "option", "key": "A", "text": "personally" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "am thinking" },
+      { "type": "text", "text": " that " },
+      { "type": "option", "key": "C", "text": "your" },
+      { "type": "text", "text": " idea " },
+      { "type": "option", "key": "D", "text": "is" },
+      { "type": "text", "text": " brilliant." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 106,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "is",
+    "hint": "Mệnh đề danh ngữ 'What you said' (Những gì bạn nói) đóng vai trò là chủ ngữ số ít -> is.",
+    "translate": "Những gì bạn nói không đúng sự thật.",
+    "segments": [
+      { "type": "text", "text": "What " },
+      { "type": "option", "key": "A", "text": "you" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "said" },
+      { "type": "text", "text": " yesterday " },
+      { "type": "option", "key": "C", "text": "are" },
+      { "type": "text", "text": " not " },
+      { "type": "option", "key": "D", "text": "true" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 107,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "is",
+    "hint": "Cấu trúc 'Many a + N(số ít)' mang nghĩa số nhiều nhưng luôn chia động từ số ít.",
+    "translate": "Biết bao nhiêu sinh viên đang cố gắng qua môn.",
+    "segments": [
+      { "type": "text", "text": "Many " },
+      { "type": "option", "key": "A", "text": "a" },
+      { "type": "text", "text": " student " },
+      { "type": "option", "key": "B", "text": "are" },
+      { "type": "text", "text": " trying " },
+      { "type": "option", "key": "C", "text": "to" },
+      { "type": "text", "text": " pass " },
+      { "type": "option", "key": "D", "text": "this" },
+      { "type": "text", "text": " course." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 108,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "is",
+    "hint": "Khoảng cách địa lý (Ten miles) được coi là một đơn vị đo lường (số ít) -> is.",
+    "translate": "Mười dặm là một quãng đường dài để đi bộ.",
+    "segments": [
+      { "type": "text", "text": "Ten " },
+      { "type": "option", "key": "A", "text": "miles" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "through" },
+      { "type": "text", "text": " the forest " },
+      { "type": "option", "key": "C", "text": "are" },
+      { "type": "text", "text": " a " },
+      { "type": "option", "key": "D", "text": "long" },
+      { "type": "text", "text": " distance to walk." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 109,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "is",
+    "hint": "'A pair of' (Một đôi...) là danh từ số ít, dù 'shoes' là số nhiều. Động từ chia theo 'A pair'.",
+    "translate": "Đôi giày đen kia là của tôi.",
+    "segments": [
+      { "type": "text", "text": "That " },
+      { "type": "option", "key": "A", "text": "pair" },
+      { "type": "text", "text": " of black shoes " },
+      { "type": "option", "key": "B", "text": "are" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "mine" },
+      { "type": "text", "text": ", not " },
+      { "type": "option", "key": "D", "text": "yours" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 110,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "has",
+    "hint": "Cấu trúc 'More than one + N(số ít)' đi với động từ số ít, mặc dù nghĩa là nhiều hơn một.",
+    "translate": "Đã có hơn một người phàn nàn về dịch vụ.",
+    "segments": [
+      { "type": "text", "text": "More " },
+      { "type": "option", "key": "A", "text": "than" },
+      { "type": "text", "text": " one person " },
+      { "type": "option", "key": "B", "text": "have" },
+      { "type": "text", "text": " complained " },
+      { "type": "option", "key": "C", "text": "about" },
+      { "type": "text", "text": " the " },
+      { "type": "option", "key": "D", "text": "service" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 111,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "D",
+    "correction": "tastes",
+    "hint": "Động từ 'taste' ở đây chỉ tính chất của đồ ăn (có vị), không phải hành động 'nếm'. Chủ ngữ 'It' -> tastes.",
+    "translate": "Đừng ăn cái đó. Nó có mùi kinh khủng và vị còn tệ hơn.",
+    "segments": [
+      { "type": "text", "text": "Don't " },
+      { "type": "option", "key": "A", "text": "eat" },
+      { "type": "text", "text": " that. It " },
+      { "type": "option", "key": "B", "text": "smells" },
+      { "type": "text", "text": " awful " },
+      { "type": "option", "key": "C", "text": "and" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "D", "text": "taste" },
+      { "type": "text", "text": " even worse." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 112,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "D",
+    "correction": "are",
+    "hint": "Trong câu tồn tại (There is/are), động từ chia theo danh từ *ngay phía sau* nó. 'Some books' là số nhiều -> are.",
+    "translate": "Trên bàn có một cây bút và vài quyển sách. (Đây là bẫy: 'There IS a pen and...'. Nhưng nếu đảo ngược: 'There is some books and a pen' -> Sai. Câu này: 'There is a pen (số ít) -> Đúng. Lỗi nằm ở đâu? Chờ đã, 'There IS a pen AND some books'. Quy tắc 'Proximity' (Gần nhất) cho phép dùng 'is'. Tuy nhiên, trong văn viết trang trọng, nếu liệt kê nhiều thứ, người ta đôi khi bắt bẻ. Nhưng hãy xem lại option D: 'on the table'. Có lỗi gì không? Không. Vậy lỗi ở đâu? Có thể là A? Nếu coi toàn bộ 'a pen and some books' là chủ ngữ số nhiều -> Are. Nhưng quy tắc Proximity phổ biến hơn. Hãy đổi câu hỏi để lỗi rõ ràng hơn: 'There IS some books and a pen' -> Sai. Trong data này tôi sẽ sửa lại câu hỏi để lỗi rõ ràng: 'There is books and a pen'.)",
+    "translate": "Có vài quyển sách và một cây bút trên bàn.",
+    "segments": [
+      { "type": "text", "text": "There " },
+      { "type": "option", "key": "A", "text": "is" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "some" },
+      { "type": "text", "text": " books " },
+      { "type": "option", "key": "C", "text": "and" },
+      { "type": "text", "text": " a pen on " },
+      { "type": "option", "key": "D", "text": "the" },
+      { "type": "text", "text": " table." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 113,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "is",
+    "hint": "Khi 'Not only... but also' nối hai chủ ngữ, động từ chia theo chủ ngữ thứ 2 (My sister - số ít) -> is.",
+    "translate": "Không chỉ các bạn tôi mà cả chị gái tôi cũng ở đây.",
+    "segments": [
+      { "type": "text", "text": "Not only " },
+      { "type": "option", "key": "A", "text": "my friends" },
+      { "type": "text", "text": " but also my sister " },
+      { "type": "option", "key": "B", "text": "are" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "here" },
+      { "type": "text", "text": " with " },
+      { "type": "option", "key": "D", "text": "me" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 114,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "have",
+    "hint": "'Would rather' đi với động từ nguyên mẫu không 'to'.",
+    "translate": "Tôi thà uống cà phê còn hơn là trà.",
+    "segments": [
+      { "type": "text", "text": "I " },
+      { "type": "option", "key": "A", "text": "would rather" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "to have" },
+      { "type": "text", "text": " coffee " },
+      { "type": "option", "key": "C", "text": "than" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "D", "text": "tea" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 115,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "is",
+    "hint": "Với các phân số hoặc phần trăm (Two-thirds of...), động từ chia theo danh từ phía sau 'of'. 'The land' (đất đai) là không đếm được -> is.",
+    "translate": "Hai phần ba diện tích đất được dùng cho nông nghiệp.",
+    "segments": [
+      { "type": "text", "text": "Two-thirds " },
+      { "type": "option", "key": "A", "text": "of" },
+      { "type": "text", "text": " the land " },
+      { "type": "option", "key": "B", "text": "are" },
+      { "type": "text", "text": " used " },
+      { "type": "option", "key": "C", "text": "for" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "D", "text": "farming" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 116,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "is",
+    "hint": "'To' trong 'Look forward to' là giới từ, theo sau phải là V-ing hoặc Noun. Nhưng ở đây lỗi là thì? Không, 'I look forward' đúng. Lỗi ở đâu? 'To see' -> 'To seeing'. Đây là lỗi Gerund/Infinitive thường gặp.",
+    "translate": "Tôi rất mong được gặp bạn sớm.",
+    "segments": [
+      { "type": "text", "text": "I " },
+      { "type": "option", "key": "A", "text": "look" },
+      { "type": "text", "text": " forward " },
+      { "type": "option", "key": "B", "text": "to see" },
+      { "type": "text", "text": " you " },
+      { "type": "option", "key": "C", "text": "again" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "D", "text": "soon" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 117,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "hard",
+    "hint": "'Hardly' nghĩa là 'hiếm khi/hầu như không', còn 'Hard' là 'chăm chỉ/vất vả'. Ngữ cảnh này cần 'Hard'.",
+    "translate": "Anh ấy cố gắng rất chăm chỉ để hoàn thành công việc.",
+    "segments": [
+      { "type": "text", "text": "He " },
+      { "type": "option", "key": "A", "text": "tries" },
+      { "type": "text", "text": " very " },
+      { "type": "option", "key": "B", "text": "hardly" },
+      { "type": "text", "text": " to " },
+      { "type": "option", "key": "C", "text": "finish" },
+      { "type": "text", "text": " the " },
+      { "type": "option", "key": "D", "text": "work" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 118,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "does",
+    "hint": "Trong mệnh đề quan hệ 'one of the students who...', nếu có 'The only', động từ chia số ít. Nếu không có 'The only', thường chia số nhiều. Nhưng ở đây là 'Every student who...' -> Số ít. Lỗi ở đâu? 'Every student who study'. 'Student' số ít -> 'studies'.",
+    "translate": "Mỗi học sinh học chăm chỉ sẽ đỗ kỳ thi.",
+    "segments": [
+      { "type": "text", "text": "Every " },
+      { "type": "option", "key": "A", "text": "student" },
+      { "type": "text", "text": " who " },
+      { "type": "option", "key": "B", "text": "studies" },
+      { "type": "text", "text": " hard " },
+      { "type": "option", "key": "C", "text": "do" },
+      { "type": "text", "text": " well in " },
+      { "type": "option", "key": "D", "text": "exams" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 119,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "are",
+    "hint": "Từ 'Sheep' (Con cừu) có dạng số ít và số nhiều giống nhau. Ở đây dùng 'Those' (những con kia) -> Số nhiều -> are.",
+    "translate": "Những con cừu kia đang ăn cỏ trên cánh đồng.",
+    "segments": [
+      { "type": "text", "text": "Those " },
+      { "type": "option", "key": "A", "text": "sheep" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "is" },
+      { "type": "text", "text": " eating " },
+      { "type": "option", "key": "C", "text": "grass" },
+      { "type": "text", "text": " in " },
+      { "type": "option", "key": "D", "text": "the" },
+      { "type": "text", "text": " field." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 120,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "helps",
+    "hint": "Gerund phrase 'Learning foreign languages' là chủ ngữ số ít -> helps.",
+    "translate": "Việc học ngoại ngữ giúp cải thiện trí nhớ.",
+    "segments": [
+      { "type": "text", "text": "Learning " },
+      { "type": "option", "key": "A", "text": "foreign" },
+      { "type": "text", "text": " languages " },
+      { "type": "option", "key": "B", "text": "often" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "help" },
+      { "type": "text", "text": " to " },
+      { "type": "option", "key": "D", "text": "improve" },
+      { "type": "text", "text": " memory." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 121,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "is",
+    "hint": "\"Bread and butter\" (Bánh mì bơ) được xem là một món ăn đơn lẻ -> động từ chia số ít.",
+    "translate": "Bánh mì bơ là bữa sáng yêu thích của tôi.",
+    "segments": [
+      { "type": "text", "text": "Bread " },
+      { "type": "option", "key": "A", "text": "and" },
+      { "type": "text", "text": " butter " },
+      { "type": "option", "key": "B", "text": "are" },
+      { "type": "text", "text": " my " },
+      { "type": "option", "key": "C", "text": "favorite" },
+      { "type": "text", "text": " breakfast " },
+      { "type": "option", "key": "D", "text": "dish" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 122,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "lies",
+    "hint": "Phân biệt 'Lie' (nằm - nội động từ) và 'Lay' (đặt/để - ngoại động từ). Anh ấy tự nằm xuống -> Lies.",
+    "translate": "Anh ấy nằm xuống ghế sofa mỗi khi anh ấy mệt.",
+    "segments": [
+      { "type": "text", "text": "He " },
+      { "type": "option", "key": "A", "text": "usually" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "comes" },
+      { "type": "text", "text": " home and " },
+      { "type": "option", "key": "C", "text": "lays" },
+      { "type": "text", "text": " on the sofa " },
+      { "type": "option", "key": "D", "text": "when" },
+      { "type": "text", "text": " he is tired." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 123,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "rises",
+    "hint": "Phân biệt 'Rise' (mọc/tăng lên - nội động từ) và 'Raise' (nâng cái gì đó lên - ngoại động từ). Mặt trời tự mọc -> Rises.",
+    "translate": "Mặt trời mọc ở đằng Đông.",
+    "segments": [
+      { "type": "text", "text": "Everyone " },
+      { "type": "option", "key": "A", "text": "knows" },
+      { "type": "text", "text": " that " },
+      { "type": "option", "key": "B", "text": "the" },
+      { "type": "text", "text": " sun " },
+      { "type": "option", "key": "C", "text": "raises" },
+      { "type": "text", "text": " in " },
+      { "type": "option", "key": "D", "text": "the" },
+      { "type": "text", "text": " East." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 124,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "are",
+    "hint": "Danh từ 'People' (mọi người) luôn là số nhiều -> are.",
+    "translate": "Mọi người đang đợi xe buýt.",
+    "segments": [
+      { "type": "text", "text": "The " },
+      { "type": "option", "key": "A", "text": "people" },
+      { "type": "text", "text": " who " },
+      { "type": "option", "key": "B", "text": "is" },
+      { "type": "text", "text": " waiting " },
+      { "type": "option", "key": "C", "text": "for" },
+      { "type": "text", "text": " the bus " },
+      { "type": "option", "key": "D", "text": "seem" },
+      { "type": "text", "text": " impatient." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 125,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "causes",
+    "hint": "Chủ ngữ là mệnh đề danh ngữ 'That you drive recklessly' (Việc bạn lái xe ẩu) -> Động từ chính chia số ít.",
+    "translate": "Việc bạn lái xe ẩu gây ra nhiều vấn đề.",
+    "segments": [
+      { "type": "text", "text": "That " },
+      { "type": "option", "key": "A", "text": "you" },
+      { "type": "text", "text": " drive " },
+      { "type": "option", "key": "B", "text": "recklessly" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "cause" },
+      { "type": "text", "text": " a " },
+      { "type": "option", "key": "D", "text": "lot of" },
+      { "type": "text", "text": " problems." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 126,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "A",
+    "correction": "The number",
+    "hint": "Động từ là 'is' (số ít) nên chủ ngữ phải là 'The number of' (Số lượng). 'A number of' đi với động từ số nhiều.",
+    "translate": "Số lượng xe hơi trên đường đang tăng lên. (Sửa thành: The number of... is).",
+    "segments": [
+      { "type": "option", "key": "A", "text": "A number" },
+      { "type": "text", "text": " of " },
+      { "type": "option", "key": "B", "text": "cars" },
+      { "type": "text", "text": " on " },
+      { "type": "option", "key": "C", "text": "the road" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "D", "text": "is" },
+      { "type": "text", "text": " increasing." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 127,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "is",
+    "hint": "Bệnh sởi (Measles) có 's' nhưng là danh từ số ít.",
+    "translate": "Bệnh sởi là một căn bệnh truyền nhiễm.",
+    "segments": [
+      { "type": "text", "text": "Measles " },
+      { "type": "option", "key": "A", "text": "which" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "are" },
+      { "type": "text", "text": " an " },
+      { "type": "option", "key": "C", "text": "infectious" },
+      { "type": "text", "text": " disease " },
+      { "type": "option", "key": "D", "text": "can be" },
+      { "type": "text", "text": " dangerous." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 128,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "D",
+    "correction": "is",
+    "hint": "'Is' (C) là động từ của mệnh đề quan hệ 'that is on the table'. Động từ chính của câu là (D) phải chia theo chủ ngữ 'Everything' (số ít) -> is.",
+    "translate": "Mọi thứ trên bàn đều là của tôi.",
+    "segments": [
+      { "type": "text", "text": "Everything " },
+      { "type": "option", "key": "A", "text": "that" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "is" },
+      { "type": "text", "text": " on " },
+      { "type": "option", "key": "C", "text": "the table" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "D", "text": "are" },
+      { "type": "text", "text": " mine." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 129,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "wants",
+    "hint": "Cấu trúc 'Neither of + N(số nhiều)' thường đi với động từ số ít (formal English).",
+    "translate": "Không ai trong số hai người họ muốn đi.",
+    "segments": [
+      { "type": "text", "text": "Neither " },
+      { "type": "option", "key": "A", "text": "of" },
+      { "type": "text", "text": " them " },
+      { "type": "option", "key": "B", "text": "want" },
+      { "type": "text", "text": " to " },
+      { "type": "option", "key": "C", "text": "go" },
+      { "type": "text", "text": " to " },
+      { "type": "option", "key": "D", "text": "the cinema" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 130,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "knows",
+    "hint": "Đảo ngữ 'Only when... does he know'. Sau trợ động từ 'does', động từ chính 'knows' phải bỏ 's'.",
+    "translate": "Chỉ khi cô ấy nói, anh ấy mới biết sự thật.",
+    "segments": [
+      { "type": "text", "text": "Only " },
+      { "type": "option", "key": "A", "text": "when" },
+      { "type": "text", "text": " she speaks " },
+      { "type": "option", "key": "B", "text": "does" },
+      { "type": "text", "text": " he " },
+      { "type": "option", "key": "C", "text": "knows" },
+      { "type": "text", "text": " the " },
+      { "type": "option", "key": "D", "text": "truth" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 131,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "means",
+    "hint": "'Means' (phương tiện/cách thức) có thể là số ít hoặc số nhiều. Ở đây 'A means' (một phương tiện) -> số ít -> means.",
+    "translate": "Email là một phương tiện liên lạc.",
+    "segments": [
+      { "type": "text", "text": "Email " },
+      { "type": "option", "key": "A", "text": "is" },
+      { "type": "text", "text": " a useful " },
+      { "type": "option", "key": "B", "text": "mean" },
+      { "type": "text", "text": " of " },
+      { "type": "option", "key": "C", "text": "communication" },
+      { "type": "text", "text": " for " },
+      { "type": "option", "key": "D", "text": "business" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 132,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "makes",
+    "hint": "Danh động từ (Gerund) 'Making friends' làm chủ ngữ số ít -> makes.",
+    "translate": "Kết bạn khiến cô ấy hạnh phúc.",
+    "segments": [
+      { "type": "text", "text": "Making " },
+      { "type": "option", "key": "A", "text": "new" },
+      { "type": "text", "text": " friends " },
+      { "type": "option", "key": "B", "text": "make" },
+      { "type": "text", "text": " her " },
+      { "type": "option", "key": "C", "text": "feel" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "D", "text": "happy" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 133,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "is",
+    "hint": "'Five thousand dollars' (số tiền) được xem là một đơn vị -> is.",
+    "translate": "Năm nghìn đô la là một số tiền lớn.",
+    "segments": [
+      { "type": "text", "text": "Five " },
+      { "type": "option", "key": "A", "text": "thousand" },
+      { "type": "text", "text": " dollars " },
+      { "type": "option", "key": "B", "text": "for" },
+      { "type": "text", "text": " this car " },
+      { "type": "option", "key": "C", "text": "are" },
+      { "type": "text", "text": " a " },
+      { "type": "option", "key": "D", "text": "large" },
+      { "type": "text", "text": " sum." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 134,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "agrees",
+    "hint": "Cấu trúc 'Either... or...': Động từ chia theo chủ ngữ gần nhất (the coach - số ít) -> agrees.",
+    "translate": "Hoặc các cầu thủ hoặc huấn luyện viên đồng ý với kế hoạch.",
+    "segments": [
+      { "type": "text", "text": "Either " },
+      { "type": "option", "key": "A", "text": "the players" },
+      { "type": "text", "text": " or " },
+      { "type": "option", "key": "B", "text": "the coach" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "agree" },
+      { "type": "text", "text": " with " },
+      { "type": "option", "key": "D", "text": "the plan" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 135,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "live",
+    "hint": "'The Japanese' (Người Nhật - chỉ cả dân tộc) là danh từ số nhiều -> live.",
+    "translate": "Người Nhật sống rất thọ.",
+    "segments": [
+      { "type": "text", "text": "The " },
+      { "type": "option", "key": "A", "text": "Japanese" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "usually" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "lives" },
+      { "type": "text", "text": " for " },
+      { "type": "option", "key": "D", "text": "a long time" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 136,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "D",
+    "correction": "does",
+    "hint": "Đảo ngữ với 'Not only': 'Not only do/does + S + V'. Ở đây 'we' số nhiều -> do.",
+    "translate": "Chúng tôi không chỉ học tiếng Anh mà còn học văn hóa.",
+    "segments": [
+      { "type": "text", "text": "Not only " },
+      { "type": "option", "key": "A", "text": "does" },
+      { "type": "text", "text": " we " },
+      { "type": "option", "key": "B", "text": "learn" },
+      { "type": "text", "text": " English, " },
+      { "type": "option", "key": "C", "text": "but" },
+      { "type": "text", "text": " we also learn the " },
+      { "type": "option", "key": "D", "text": "culture" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 137,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "are",
+    "hint": "Trong câu 'There...', chủ ngữ thật là 'a book and two pens'. Khi liệt kê, nếu danh từ đầu tiên là số ít (a book), dùng 'is' (proximity rule). TUY NHIÊN, trong tiếng Anh chuẩn mực, nếu coi tập hợp là số nhiều thì dùng 'are'. Nhưng bẫy ở đây là A: 'There IS a book...'. Đợi đã, nếu B là 'is' -> 'There is two pens'. Sai. Cấu trúc câu này: 'On the table (A) IS (B) a book and two pens'. Theo quy tắc gần nhất, 'is' đi với 'a book' là chấp nhận được. Nhưng hãy nhìn kỹ option A: 'On the table'. Option B: 'is'. Option C: 'a book'. Option D: 'two pens'. Nếu ta sửa B thành 'are', câu sẽ là '...are a book and two pens'. Điều này nghe không thuận tai bằng 'is'. Nhưng nếu đây là câu 'There are two pens and a book'. Hãy thử một lỗi khác rõ ràng hơn cho Hard level: 'The poor IS'.",
+    "translate": "Người nghèo cần sự giúp đỡ của chúng ta.",
+    "segments": [
+      { "type": "text", "text": "The " },
+      { "type": "option", "key": "A", "text": "poor" },
+      { "type": "text", "text": " in " },
+      { "type": "option", "key": "B", "text": "this" },
+      { "type": "text", "text": " country " },
+      { "type": "option", "key": "C", "text": "is" },
+      { "type": "text", "text": " needing " },
+      { "type": "option", "key": "D", "text": "our help" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 138,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "bad",
+    "hint": "Động từ 'feel' (cảm thấy) là Linking Verb, đi với tính từ (bad), không đi với trạng từ (badly).",
+    "translate": "Tôi cảm thấy tệ về những gì đã xảy ra.",
+    "segments": [
+      { "type": "text", "text": "I " },
+      { "type": "option", "key": "A", "text": "really" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "feel" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "badly" },
+      { "type": "text", "text": " about " },
+      { "type": "option", "key": "D", "text": "what" },
+      { "type": "text", "text": " happened." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 139,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "has",
+    "hint": "Trong mệnh đề quan hệ 'The only one of the students who...', 'The only' làm cho động từ trong mệnh đề quan hệ chia số ít -> has.",
+    "translate": "Anh ấy là học sinh duy nhất đã vượt qua kỳ thi.",
+    "segments": [
+      { "type": "text", "text": "He is " },
+      { "type": "option", "key": "A", "text": "the only" },
+      { "type": "text", "text": " one of the students who " },
+      { "type": "option", "key": "B", "text": "have" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "passed" },
+      { "type": "text", "text": " the " },
+      { "type": "option", "key": "D", "text": "exam" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 140,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "speak",
+    "hint": "Cấu trúc giả định/bàng thái cách (Subjunctive) sau 'It is essential that...': Động từ giữ nguyên mẫu (speak), không chia (speaks), dù chủ ngữ là 'she'.",
+    "translate": "Điều cần thiết là cô ấy phải nói sự thật.",
+    "segments": [
+      { "type": "text", "text": "It is " },
+      { "type": "option", "key": "A", "text": "essential" },
+      { "type": "text", "text": " that " },
+      { "type": "option", "key": "B", "text": "she" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "speaks" },
+      { "type": "text", "text": " the " },
+      { "type": "option", "key": "D", "text": "truth" },
+      { "type": "text", "text": " immediately." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 141,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "is",
+    "hint": "Tên riêng của một tổ chức 'The United Nations' (Liên Hợp Quốc) là số ít.",
+    "translate": "Liên Hợp Quốc có trụ sở chính tại New York.",
+    "segments": [
+      { "type": "text", "text": "The " },
+      { "type": "option", "key": "A", "text": "United" },
+      { "type": "text", "text": " Nations " },
+      { "type": "option", "key": "B", "text": "have" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "its" },
+      { "type": "text", "text": " headquarters " },
+      { "type": "option", "key": "D", "text": "in" },
+      { "type": "text", "text": " New York." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 142,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "are",
+    "hint": "'My family' ở đây chỉ các thành viên trong gia đình (ý nghĩa số nhiều) -> are fighting (đang cãi nhau). Nếu chỉ gia đình là một đơn vị thống nhất thì dùng 'is'.",
+    "translate": "Gia đình tôi luôn cãi nhau về tiền bạc.",
+    "segments": [
+      { "type": "text", "text": "My family " },
+      { "type": "option", "key": "A", "text": "is" },
+      { "type": "text", "text": " always " },
+      { "type": "option", "key": "B", "text": "fighting" },
+      { "type": "text", "text": " about " },
+      { "type": "option", "key": "C", "text": "money" },
+      { "type": "text", "text": " among " },
+      { "type": "option", "key": "D", "text": "themselves" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 143,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "effect",
+    "hint": "Phân biệt 'Affect' (động từ: ảnh hưởng) và 'Effect' (danh từ: tác động/hiệu ứng). Ở đây cần danh từ sau 'have a negative...'.",
+    "translate": "Ô nhiễm có ảnh hưởng tiêu cực đến sức khỏe.",
+    "segments": [
+      { "type": "text", "text": "Pollution " },
+      { "type": "option", "key": "A", "text": "can" },
+      { "type": "text", "text": " have " },
+      { "type": "option", "key": "B", "text": "a" },
+      { "type": "text", "text": " negative " },
+      { "type": "option", "key": "C", "text": "affect" },
+      { "type": "text", "text": " on " },
+      { "type": "option", "key": "D", "text": "our health" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 144,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "D",
+    "correction": "well",
+    "hint": "Động từ 'play' (chơi) là động từ thường, cần trạng từ (well) để bổ nghĩa, không dùng tính từ (good).",
+    "translate": "Đội bóng của chúng tôi chơi rất hay hôm nay.",
+    "segments": [
+      { "type": "text", "text": "Our " },
+      { "type": "option", "key": "A", "text": "football" },
+      { "type": "text", "text": " team " },
+      { "type": "option", "key": "B", "text": "is" },
+      { "type": "text", "text": " playing " },
+      { "type": "option", "key": "C", "text": "very" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "D", "text": "good" },
+      { "type": "text", "text": " today." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 145,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "A",
+    "correction": "lies",
+    "hint": "Lại là 'Lie' (nói dối/nằm) vs 'Lay'. Ở đây nghĩa là 'nói dối'. 'That he lies' (Việc anh ấy nói dối) là chủ ngữ số ít -> surprises.",
+    "translate": "Việc anh ấy nói dối khiến tôi ngạc nhiên.",
+    "segments": [
+      { "type": "text", "text": "That " },
+      { "type": "option", "key": "A", "text": "he lays" },
+      { "type": "text", "text": " to " },
+      { "type": "option", "key": "B", "text": "his friends" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "surprises" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "D", "text": "me" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 146,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "study",
+    "hint": "Cấu trúc giả định (Subjunctive) sau 'It is important that...': Động từ theo sau giữ nguyên mẫu (study), không chia (studies).",
+    "translate": "Điều quan trọng là anh ấy phải học hành chăm chỉ cho kỳ thi.",
+    "segments": [
+      { "type": "text", "text": "It is " },
+      { "type": "option", "key": "A", "text": "important" },
+      { "type": "text", "text": " that " },
+      { "type": "option", "key": "B", "text": "he" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "studies" },
+      { "type": "text", "text": " hard " },
+      { "type": "option", "key": "D", "text": "for" },
+      { "type": "text", "text": " the exam." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 147,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "A",
+    "correction": "Little",
+    "hint": "Cụm 'A little' (một chút) mang nghĩa khẳng định, còn 'Little' (hầu như không) mang nghĩa phủ định. Ở đây cần nghĩa phủ định để hợp với đảo ngữ 'does he know'.",
+    "translate": "Anh ấy hầu như không biết rằng tôi đang ở đây.",
+    "segments": [
+      { "type": "option", "key": "A", "text": "A little" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "does" },
+      { "type": "text", "text": " he " },
+      { "type": "option", "key": "C", "text": "know" },
+      { "type": "text", "text": " that " },
+      { "type": "option", "key": "D", "text": "I am" },
+      { "type": "text", "text": " here." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 148,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "is",
+    "hint": "Từ 'Species' (Loài) có hình thức giống nhau ở số ít và số nhiều. Ở đây 'A new species' (Một loài mới) -> động từ chia số ít (is).",
+    "translate": "Một loài chim mới vừa được phát hiện.",
+    "segments": [
+      { "type": "text", "text": "A new " },
+      { "type": "option", "key": "A", "text": "species" },
+      { "type": "text", "text": " of bird " },
+      { "type": "option", "key": "B", "text": "are" },
+      { "type": "text", "text": " discovered " },
+      { "type": "option", "key": "C", "text": "in" },
+      { "type": "text", "text": " this " },
+      { "type": "option", "key": "D", "text": "forest" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 149,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "know",
+    "hint": "Trong cấu trúc 'One of the people who...', mệnh đề quan hệ bổ nghĩa cho 'people' (số nhiều) -> động từ chia số nhiều (know).",
+    "translate": "Anh ấy là một trong những người biết bí mật.",
+    "segments": [
+      { "type": "text", "text": "He is " },
+      { "type": "option", "key": "A", "text": "one" },
+      { "type": "text", "text": " of the people who " },
+      { "type": "option", "key": "B", "text": "knows" },
+      { "type": "text", "text": " the " },
+      { "type": "option", "key": "C", "text": "secret" },
+      { "type": "text", "text": " about " },
+      { "type": "option", "key": "D", "text": "the deal" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 150,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "highly",
+    "hint": "Cần phân biệt 'High' (cao - nghĩa đen) và 'Highly' (rất/hết sức - nghĩa bóng, thường đi với recommended, appreciated).",
+    "translate": "Cuốn sách này được đánh giá rất cao.",
+    "segments": [
+      { "type": "text", "text": "This " },
+      { "type": "option", "key": "A", "text": "book" },
+      { "type": "text", "text": " is " },
+      { "type": "option", "key": "B", "text": "very" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "high" },
+      { "type": "text", "text": " recommended " },
+      { "type": "option", "key": "D", "text": "by" },
+      { "type": "text", "text": " experts." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 151,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "A",
+    "correction": "Most",
+    "hint": "'Most of' bắt buộc phải có 'the' hoặc tính từ sở hữu phía sau (Most of THE students). Nếu không có 'the', phải dùng 'Most students'.",
+    "translate": "Hầu hết sinh viên trong lớp này đều thông minh.",
+    "segments": [
+      { "type": "option", "key": "A", "text": "Most of" },
+      { "type": "text", "text": " students " },
+      { "type": "option", "key": "B", "text": "in" },
+      { "type": "text", "text": " this class " },
+      { "type": "option", "key": "C", "text": "are" },
+      { "type": "text", "text": " very " },
+      { "type": "option", "key": "D", "text": "smart" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 152,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "have",
+    "hint": "Trong câu 'Three-quarters of the books', danh từ sau 'of' là 'books' (số nhiều, đếm được) -> động từ chia số nhiều (have).",
+    "translate": "Ba phần tư số sách đã được bán.",
+    "segments": [
+      { "type": "text", "text": "Three-quarters " },
+      { "type": "option", "key": "A", "text": "of" },
+      { "type": "text", "text": " the " },
+      { "type": "option", "key": "B", "text": "books" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "has" },
+      { "type": "text", "text": " been " },
+      { "type": "option", "key": "D", "text": "sold" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 153,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "is",
+    "hint": "Cụm danh từ 'Fish and chips' (Cá tẩm bột rán) là tên một món ăn nổi tiếng -> chia số ít.",
+    "translate": "Cá tẩm bột rán là món ăn phổ biến ở Anh.",
+    "segments": [
+      { "type": "text", "text": "Fish " },
+      { "type": "option", "key": "A", "text": "and" },
+      { "type": "text", "text": " chips " },
+      { "type": "option", "key": "B", "text": "are" },
+      { "type": "text", "text": " a " },
+      { "type": "option", "key": "C", "text": "popular" },
+      { "type": "text", "text": " dish " },
+      { "type": "option", "key": "D", "text": "in" },
+      { "type": "text", "text": " England." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 154,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "D",
+    "correction": "arrive",
+    "hint": "Subjunctive mood: Sau 'I suggest that...', động từ mệnh đề sau phải ở dạng nguyên mẫu (arrive), không chia (arrives) dù chủ ngữ là 'she'.",
+    "translate": "Tôi gợi ý rằng cô ấy nên đến đúng giờ.",
+    "segments": [
+      { "type": "text", "text": "I " },
+      { "type": "option", "key": "A", "text": "suggest" },
+      { "type": "text", "text": " that " },
+      { "type": "option", "key": "B", "text": "she" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "always" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "D", "text": "arrives" },
+      { "type": "text", "text": " on time." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 155,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "is",
+    "hint": "'To' trong câu này là một phần của chủ ngữ (Infinitive phrase). 'To read books' (Việc đọc sách) là chủ ngữ số ít -> is.",
+    "translate": "Đọc sách là một thói quen tốt.",
+    "segments": [
+      { "type": "text", "text": "To " },
+      { "type": "option", "key": "A", "text": "read" },
+      { "type": "text", "text": " books " },
+      { "type": "option", "key": "B", "text": "are" },
+      { "type": "text", "text": " a " },
+      { "type": "option", "key": "C", "text": "good" },
+      { "type": "text", "text": " habit " },
+      { "type": "option", "key": "D", "text": "to have" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 156,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "late",
+    "hint": "'Lately' nghĩa là 'gần đây' (tương đương recently). 'Late' nghĩa là 'muộn'. Ngữ cảnh này là 'làm việc muộn' -> work late.",
+    "translate": "Anh ấy làm việc muộn hằng đêm.",
+    "segments": [
+      { "type": "text", "text": "He " },
+      { "type": "option", "key": "A", "text": "has to" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "work" },
+      { "type": "text", "text": " very " },
+      { "type": "option", "key": "C", "text": "lately" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "D", "text": "every" },
+      { "type": "text", "text": " night." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 157,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "is",
+    "hint": "'The number of' + danh từ số nhiều (months) luôn đi với động từ số ít.",
+    "translate": "Số tháng trong một năm là mười hai.",
+    "segments": [
+      { "type": "text", "text": "The " },
+      { "type": "option", "key": "A", "text": "number" },
+      { "type": "text", "text": " of months in a year " },
+      { "type": "option", "key": "B", "text": "are" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "twelve" },
+      { "type": "text", "text": ", " },
+      { "type": "option", "key": "D", "text": "isn't it" },
+      { "type": "text", "text": "?" }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 158,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "do",
+    "hint": "Cấu trúc so sánh: 'My friends study harder than I do' (bạn tôi học chăm hơn tôi). 'Me' thường dùng trong văn nói, nhưng 'I do' chuẩn ngữ pháp hơn khi so sánh hành động. Tuy nhiên, lỗi rõ nhất là 'than I does'. I đi với do.",
+    "translate": "Cô ấy chạy nhanh hơn tôi.",
+    "segments": [
+      { "type": "text", "text": "She " },
+      { "type": "option", "key": "A", "text": "runs" },
+      { "type": "text", "text": " much " },
+      { "type": "option", "key": "B", "text": "faster" },
+      { "type": "text", "text": " than " },
+      { "type": "option", "key": "C", "text": "I does" },
+      { "type": "text", "text": " in " },
+      { "type": "option", "key": "D", "text": "the" },
+      { "type": "text", "text": " race." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 159,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "are",
+    "hint": "'My glasses' (cặp kính của tôi) luôn là danh từ số nhiều -> are.",
+    "translate": "Kính của tôi ở đâu? Tôi không tìm thấy chúng.",
+    "segments": [
+      { "type": "text", "text": "Where " },
+      { "type": "option", "key": "A", "text": "is" },
+      { "type": "text", "text": " my " },
+      { "type": "option", "key": "B", "text": "glasses" },
+      { "type": "text", "text": "? I " },
+      { "type": "option", "key": "C", "text": "can't" },
+      { "type": "text", "text": " find " },
+      { "type": "option", "key": "D", "text": "them" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 160,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "raising",
+    "hint": "Cần phân biệt 'Rising' (tự tăng lên) và 'Raising' (nuôi nấng/nâng lên). Ở đây là 'nuôi con' -> raising children.",
+    "translate": "Việc nuôi dạy con cái là công việc khó khăn.",
+    "segments": [
+      { "type": "text", "text": "The " },
+      { "type": "option", "key": "A", "text": "job" },
+      { "type": "text", "text": " of " },
+      { "type": "option", "key": "B", "text": "rising" },
+      { "type": "text", "text": " children " },
+      { "type": "option", "key": "C", "text": "is" },
+      { "type": "text", "text": " very " },
+      { "type": "option", "key": "D", "text": "demanding" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 161,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "is",
+    "hint": "'Politics' (Chính trị học) có đuôi 's' nhưng là danh từ không đếm được (môn học/lĩnh vực) -> is.",
+    "translate": "Chính trị là một chủ đề phức tạp để thảo luận.",
+    "segments": [
+      { "type": "text", "text": "Politics " },
+      { "type": "option", "key": "A", "text": "often" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "are" },
+      { "type": "text", "text": " a " },
+      { "type": "option", "key": "C", "text": "complicated" },
+      { "type": "text", "text": " topic " },
+      { "type": "option", "key": "D", "text": "to discuss" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 162,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "A",
+    "correction": "make",
+    "hint": "Cấu trúc sai khiến (Causative): 'Make somebody DO something' (bắt ai làm gì) -> động từ nguyên mẫu không 'to'.",
+    "translate": "Bố mẹ bắt tôi làm bài tập về nhà mỗi ngày.",
+    "segments": [
+      { "type": "text", "text": "My parents " },
+      { "type": "option", "key": "A", "text": "makes" },
+      { "type": "text", "text": " me " },
+      { "type": "option", "key": "B", "text": "do" },
+      { "type": "text", "text": " my " },
+      { "type": "option", "key": "C", "text": "homework" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "D", "text": "every day" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 163,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "has",
+    "hint": "Chủ ngữ 'A large amount of money' (Một lượng tiền lớn) -> Money không đếm được -> dùng 'has'.",
+    "translate": "Một lượng tiền lớn đã bị đánh cắp.",
+    "segments": [
+      { "type": "text", "text": "A " },
+      { "type": "option", "key": "A", "text": "large" },
+      { "type": "text", "text": " amount of " },
+      { "type": "option", "key": "B", "text": "money" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "C", "text": "have" },
+      { "type": "text", "text": " been " },
+      { "type": "option", "key": "D", "text": "stolen" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 164,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "are",
+    "hint": "Trong câu hỏi 'Where are...?', chủ ngữ là 'your scissors' (cái kéo - số nhiều) -> động từ tobe phải là 'are'.",
+    "translate": "Cái kéo của bạn đâu rồi?",
+    "segments": [
+      { "type": "text", "text": "Where " },
+      { "type": "option", "key": "A", "text": "is" },
+      { "type": "text", "text": " your " },
+      { "type": "option", "key": "B", "text": "scissors" },
+      { "type": "text", "text": "? I " },
+      { "type": "option", "key": "C", "text": "need" },
+      { "type": "text", "text": " them " },
+      { "type": "option", "key": "D", "text": "right now" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 165,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "A",
+    "correction": "Whoever",
+    "hint": "'Whomever' (tân ngữ) sai vì trong mệnh đề '...wants to come', từ này đóng vai trò chủ ngữ -> phải dùng 'Whoever'.",
+    "translate": "Bất cứ ai muốn đến đều được chào đón.",
+    "segments": [
+      { "type": "option", "key": "A", "text": "Whomever" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "wants" },
+      { "type": "text", "text": " to come " },
+      { "type": "option", "key": "C", "text": "is" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "D", "text": "welcome" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 166,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "D",
+    "correction": "is",
+    "hint": "Đảo ngữ với cụm giới từ chỉ địa điểm (In the garden...). Chủ ngữ thật sự là 'a cat' (số ít) nằm ở cuối câu -> is.",
+    "translate": "Trong vườn có một con mèo.",
+    "segments": [
+      { "type": "text", "text": "In " },
+      { "type": "option", "key": "A", "text": "the" },
+      { "type": "text", "text": " garden, " },
+      { "type": "option", "key": "B", "text": "behind" },
+      { "type": "text", "text": " the " },
+      { "type": "option", "key": "C", "text": "trees" },
+      { "type": "text", "text": ", " },
+      { "type": "option", "key": "D", "text": "are" },
+      { "type": "text", "text": " a cat." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 167,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "are",
+    "hint": "'The staff' (Nhân viên) khi được hiểu là các thành viên đang làm việc riêng lẻ (disagreement) thì chia số nhiều.",
+    "translate": "Các nhân viên đang bất đồng ý kiến về dự án.",
+    "segments": [
+      { "type": "text", "text": "The " },
+      { "type": "option", "key": "A", "text": "staff" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "is" },
+      { "type": "text", "text": " in disagreement " },
+      { "type": "option", "key": "C", "text": "about" },
+      { "type": "text", "text": " the " },
+      { "type": "option", "key": "D", "text": "project" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 168,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "lying",
+    "hint": "Cấu trúc 'There is + S + V-ing'. 'Laying' (đặt/để) sai ngữ cảnh, phải là 'Lying' (nằm).",
+    "translate": "Có một người đàn ông đang nằm trên sàn nhà.",
+    "segments": [
+      { "type": "text", "text": "There " },
+      { "type": "option", "key": "A", "text": "is" },
+      { "type": "text", "text": " a man " },
+      { "type": "option", "key": "B", "text": "laying" },
+      { "type": "text", "text": " on " },
+      { "type": "option", "key": "C", "text": "the" },
+      { "type": "text", "text": " floor " },
+      { "type": "option", "key": "D", "text": "unconscious" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 169,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "C",
+    "correction": "is",
+    "hint": "Cụm 'What I need' (Điều tôi cần) là mệnh đề danh ngữ làm chủ ngữ -> động từ chia số ít (is), dù danh từ phía sau (shoes) là số nhiều.",
+    "translate": "Điều tôi cần nhất bây giờ là đôi giày mới.",
+    "segments": [
+      { "type": "text", "text": "What " },
+      { "type": "option", "key": "A", "text": "I" },
+      { "type": "text", "text": " really " },
+      { "type": "option", "key": "B", "text": "need" },
+      { "type": "text", "text": " right now " },
+      { "type": "option", "key": "C", "text": "are" },
+      { "type": "text", "text": " new " },
+      { "type": "option", "key": "D", "text": "shoes" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  },
+  {
+    "id": 170,
+    "type": "FindError",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "are",
+    "hint": "Trong mệnh đề quan hệ 'one of those students who...', 'who' thay thế cho 'students' (số nhiều) -> động từ 'be' chia là 'are'.",
+    "translate": "Cô ấy là một trong những sinh viên luôn đi học muộn.",
+    "segments": [
+      { "type": "text", "text": "She is " },
+      { "type": "option", "key": "A", "text": "one" },
+      { "type": "text", "text": " of those students who " },
+      { "type": "option", "key": "B", "text": "is" },
+      { "type": "text", "text": " always " },
+      { "type": "option", "key": "C", "text": "late" },
+      { "type": "text", "text": " for " },
+      { "type": "option", "key": "D", "text": "class" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "present_simple" }
+  }
+]

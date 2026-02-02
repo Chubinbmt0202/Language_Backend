@@ -12,6 +12,8 @@ router.post("/generate-quiz-wordForm", quizControllerEnglish.generateQuizEnglish
 router.post("/generate-quiz-suffixes", quizControllerEnglish.generateQuizEnglishSuffixes);
 router.post("/generate-quiz-error", quizControllerEnglish.generateQuizEnglishError);
 router.post("/generate-quiz-conjugation", quizControllerEnglish.generateQuizEnglishConjugation);
+router.post("/generate-quiz-tense-multi", quizControllerEnglish.generateQuizEnglishTenseMulti);
+router.post("/generate-quiz-tense-error", quizControllerEnglish.generateQuizEnglishTenseError);
 
 router.get("/reload-data", quizController.reloadData);
 
