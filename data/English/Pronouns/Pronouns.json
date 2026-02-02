@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "type": "pronouns",
+    "question": "___ am a student.",
+    "options": ["I", "Me"],
+    "correct": "I",
+    "explanation": "Đứng trước động từ 'am' làm chủ ngữ → subject pronoun.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 2,
+    "type": "pronouns",
+    "question": "Give the book to ___.",
+    "options": ["he", "him"],
+    "correct": "him",
+    "explanation": "Đứng sau giới từ 'to' làm tân ngữ → object pronoun.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 3,
+    "type": "pronouns",
+    "question": "This is ___ car.",
+    "options": ["my", "mine"],
+    "correct": "my",
+    "explanation": "Có danh từ 'car' theo sau → possessive adjective.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 4,
+    "type": "pronouns",
+    "question": "The blue pen is ___.",
+    "options": ["your", "yours"],
+    "correct": "yours",
+    "explanation": "Không có danh từ theo sau → possessive pronoun.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 5,
+    "type": "pronouns",
+    "question": "___ are playing football.",
+    "options": ["They", "Them"],
+    "correct": "They",
+    "explanation": "Đứng đầu câu làm chủ ngữ → subject pronoun.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 6,
+    "type": "pronouns",
+    "question": "I saw ___ at the park.",
+    "options": ["her", "she"],
+    "correct": "her",
+    "explanation": "Đứng sau động từ 'saw' làm tân ngữ → object pronoun.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 7,
+    "type": "pronouns",
+    "question": "Where is ___ dog?",
+    "options": ["our", "ours"],
+    "correct": "our",
+    "explanation": "Đứng trước danh từ 'dog' → possessive adjective.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 8,
+    "type": "pronouns",
+    "question": "This phone is ___.",
+    "options": ["her", "hers"],
+    "correct": "hers",
+    "explanation": "Đứng cuối câu, thay thế cho 'her phone' → possessive pronoun.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 9,
+    "type": "pronouns",
+    "question": "___ likes to eat pizza.",
+    "options": ["He", "Him"],
+    "correct": "He",
+    "explanation": "Chủ ngữ của động từ 'likes' → subject pronoun.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 10,
+    "type": "pronouns",
+    "question": "Please help ___.",
+    "options": ["us", "we"],
+    "correct": "us",
+    "explanation": "Làm tân ngữ cho động từ 'help' → object pronoun.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 11,
+    "type": "pronouns",
+    "question": "Is this ___ bag?",
+    "options": ["his", "him"],
+    "correct": "his",
+    "explanation": "Đứng trước danh từ 'bag' để chỉ sở hữu → possessive adjective.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 12,
+    "type": "pronouns",
+    "question": "That laptop is ___.",
+    "options": ["my", "mine"],
+    "correct": "mine",
+    "explanation": "Dùng để thay thế cho cụm 'my laptop' → possessive pronoun.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 13,
+    "type": "pronouns",
+    "question": "___ are going to the cinema.",
+    "options": ["We", "Us"],
+    "correct": "We",
+    "explanation": "Chủ ngữ của câu → subject pronoun.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 14,
+    "type": "pronouns",
+    "question": "I don't know ___.",
+    "options": ["they", "them"],
+    "correct": "them",
+    "explanation": "Làm tân ngữ cho động từ 'know' → object pronoun.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 15,
+    "type": "pronouns",
+    "question": "___ mother is a teacher.",
+    "options": ["Their", "Theirs"],
+    "correct": "Their",
+    "explanation": "Đứng trước danh từ 'mother' → possessive adjective.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 16,
+    "type": "pronouns",
+    "question": "This cat is ___.",
+    "options": ["your", "yours"],
+    "correct": "yours",
+    "explanation": "Đại từ sở hữu dùng khi không có danh từ phía sau → possessive pronoun.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 17,
+    "type": "pronouns",
+    "question": "Can ___ hear me?",
+    "options": ["you", "your"],
+    "correct": "you",
+    "explanation": "Làm chủ ngữ trong câu nghi vấn → subject pronoun.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 18,
+    "type": "pronouns",
+    "question": "She called ___ yesterday.",
+    "options": ["me", "I"],
+    "correct": "me",
+    "explanation": "Làm tân ngữ cho động từ 'called' → object pronoun.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 19,
+    "type": "pronouns",
+    "question": "It is ___ turn to play.",
+    "options": ["its", "it"],
+    "correct": "its",
+    "explanation": "Chỉ sự sở hữu của sự vật/động vật đứng trước danh từ 'turn' → possessive adjective.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 20,
+    "type": "pronouns",
+    "question": "These books are ___.",
+    "options": ["our", "ours"],
+    "correct": "ours",
+    "explanation": "Thay thế cho 'our books' → possessive pronoun.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 21,
+    "type": "pronouns",
+    "question": "___ is a very fast runner.",
+    "options": ["She", "Her"],
+    "correct": "She",
+    "explanation": "Làm chủ ngữ trong câu.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 22,
+    "type": "pronouns",
+    "question": "The teacher told ___ a story.",
+    "options": ["we", "us"],
+    "correct": "us",
+    "explanation": "Tân ngữ đứng sau động từ 'told'.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 23,
+    "type": "pronouns",
+    "question": "This is not my pen, it is ___.",
+    "options": ["his", "him"],
+    "correct": "his",
+    "explanation": "Đại từ sở hữu (Possessive pronoun) đứng một mình.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 24,
+    "type": "pronouns",
+    "question": "___ house is very big.",
+    "options": ["Their", "Theirs"],
+    "correct": "Their",
+    "explanation": "Tính từ sở hữu đứng trước danh từ 'house'.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 25,
+    "type": "pronouns",
+    "question": "Can you see ___?",
+    "options": ["I", "me"],
+    "correct": "me",
+    "explanation": "Tân ngữ của động từ 'see'.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 26,
+    "type": "pronouns",
+    "question": "___ are going to the party.",
+    "options": ["They", "Them"],
+    "correct": "They",
+    "explanation": "Chủ ngữ của câu.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 27,
+    "type": "pronouns",
+    "question": "Is this umbrella ___?",
+    "options": ["your", "yours"],
+    "correct": "yours",
+    "explanation": "Đại từ sở hữu thay thế cho 'your umbrella'.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 28,
+    "type": "pronouns",
+    "question": "___ brother is a doctor.",
+    "options": ["My", "Me"],
+    "correct": "My",
+    "explanation": "Tính từ sở hữu đứng trước danh từ 'brother'.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 29,
+    "type": "pronouns",
+    "question": "Wait for ___!",
+    "options": ["he", "him"],
+    "correct": "him",
+    "explanation": "Tân ngữ đứng sau giới từ 'for'.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 30,
+    "type": "pronouns",
+    "question": "___ am hungry.",
+    "options": ["I", "Me"],
+    "correct": "I",
+    "explanation": "Chủ ngữ đi với động từ 'am'.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 31,
+    "type": "pronouns",
+    "question": "These keys are ___.",
+    "options": ["mine", "my"],
+    "correct": "mine",
+    "explanation": "Đại từ sở hữu đứng cuối câu.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 32,
+    "type": "pronouns",
+    "question": "I like ___ new shoes.",
+    "options": ["you", "your"],
+    "correct": "your",
+    "explanation": "Tính từ sở hữu đứng trước danh từ 'shoes'.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 33,
+    "type": "pronouns",
+    "question": "___ lives in London.",
+    "options": ["She", "Her"],
+    "correct": "She",
+    "explanation": "Chủ ngữ của câu.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 34,
+    "type": "pronouns",
+    "question": "The cake is for ___.",
+    "options": ["them", "they"],
+    "correct": "them",
+    "explanation": "Tân ngữ sau giới từ 'for'.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 35,
+    "type": "pronouns",
+    "question": "___ garden is beautiful.",
+    "options": ["Our", "Ours"],
+    "correct": "Our",
+    "explanation": "Tính từ sở hữu đứng trước danh từ 'garden'.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 36,
+    "type": "pronouns",
+    "question": "This seat is ___.",
+    "options": ["hers", "her"],
+    "correct": "hers",
+    "explanation": "Đại từ sở hữu thay cho 'her seat'.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 37,
+    "type": "pronouns",
+    "question": "___ are happy today.",
+    "options": ["We", "Us"],
+    "correct": "We",
+    "explanation": "Chủ ngữ của câu.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 38,
+    "type": "pronouns",
+    "question": "Tell ___ the truth.",
+    "options": ["me", "I"],
+    "correct": "me",
+    "explanation": "Tân ngữ sau động từ 'tell'.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 39,
+    "type": "pronouns",
+    "question": "___ name is John.",
+    "options": ["His", "Him"],
+    "correct": "His",
+    "explanation": "Tính từ sở hữu bổ nghĩa cho 'name'.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 40,
+    "type": "pronouns",
+    "question": "That bike is ___.",
+    "options": ["theirs", "their"],
+    "correct": "theirs",
+    "explanation": "Đại từ sở hữu đứng một mình.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 41,
+    "type": "pronouns",
+    "question": "___ is a doctor.",
+    "options": ["He", "Him"],
+    "correct": "He",
+    "explanation": "Chủ ngữ của câu.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 42,
+    "type": "pronouns",
+    "question": "I don't like ___.",
+    "options": ["it", "its"],
+    "correct": "it",
+    "explanation": "Tân ngữ đứng sau động từ.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 43,
+    "type": "pronouns",
+    "question": "___ car is red.",
+    "options": ["Her", "Hers"],
+    "correct": "Her",
+    "explanation": "Tính từ sở hữu đứng trước 'car'.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 44,
+    "type": "pronouns",
+    "question": "This classroom is ___.",
+    "options": ["ours", "our"],
+    "correct": "ours",
+    "explanation": "Đại từ sở hữu dùng ở cuối câu.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 45,
+    "type": "pronouns",
+    "question": "___ study every day.",
+    "options": ["They", "Them"],
+    "correct": "They",
+    "explanation": "Chủ ngữ trước động từ 'study'.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 46,
+    "type": "pronouns",
+    "question": "Give ___ my phone.",
+    "options": ["me", "I"],
+    "correct": "me",
+    "explanation": "Tân ngữ sau động từ 'give'.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 47,
+    "type": "pronouns",
+    "question": "___ hobby is swimming.",
+    "options": ["My", "Mine"],
+    "correct": "My",
+    "explanation": "Tính từ sở hữu đứng trước 'hobby'.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 48,
+    "type": "pronouns",
+    "question": "Is that bag ___?",
+    "options": ["yours", "your"],
+    "correct": "yours",
+    "explanation": "Đại từ sở hữu dùng trong câu hỏi.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 49,
+    "type": "pronouns",
+    "question": "___ are my friends.",
+    "options": ["You", "Your"],
+    "correct": "You",
+    "explanation": "Chủ ngữ của câu.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 50,
+    "type": "pronouns",
+    "question": "I see ___ every morning.",
+    "options": ["him", "he"],
+    "correct": "him",
+    "explanation": "Tân ngữ của động từ 'see'.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 51,
+    "type": "pronouns",
+    "question": "___ cat is sleeping.",
+    "options": ["Its", "It"],
+    "correct": "Its",
+    "explanation": "Tính từ sở hữu chỉ vật.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 52,
+    "type": "pronouns",
+    "question": "This money is ___.",
+    "options": ["theirs", "their"],
+    "correct": "theirs",
+    "explanation": "Đại từ sở hữu thay thế 'their money'.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 53,
+    "type": "pronouns",
+    "question": "___ love music.",
+    "options": ["We", "Us"],
+    "correct": "We",
+    "explanation": "Chủ ngữ của câu.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 54,
+    "type": "pronouns",
+    "question": "Do you know ___?",
+    "options": ["her", "she"],
+    "correct": "her",
+    "explanation": "Tân ngữ của 'know'.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 55,
+    "type": "pronouns",
+    "question": "Where are ___ shoes?",
+    "options": ["your", "yours"],
+    "correct": "your",
+    "explanation": "Tính từ sở hữu trước danh từ.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 56,
+    "type": "pronouns",
+    "question": "This desk is ___.",
+    "options": ["mine", "my"],
+    "correct": "mine",
+    "explanation": "Đại từ sở hữu dùng ở cuối câu.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 57,
+    "type": "pronouns",
+    "question": "___ is very cold today.",
+    "options": ["It", "Its"],
+    "correct": "It",
+    "explanation": "Chủ ngữ giả chỉ thời tiết.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 58,
+    "type": "pronouns",
+    "question": "She bought ___ a gift.",
+    "options": ["us", "we"],
+    "correct": "us",
+    "explanation": "Tân ngữ gián tiếp sau động từ.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 59,
+    "type": "pronouns",
+    "question": "___ father works here.",
+    "options": ["Our", "Ours"],
+    "correct": "Our",
+    "explanation": "Tính từ sở hữu trước 'father'.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 60,
+    "type": "pronouns",
+    "question": "Is this ball ___?",
+    "options": ["his", "him"],
+    "correct": "his",
+    "explanation": "Đại từ sở hữu cho nam giới.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 61,
+    "type": "pronouns",
+    "question": "___ am going to the park.",
+    "options": ["I", "Me"],
+    "correct": "I",
+    "explanation": "Làm chủ ngữ trong câu.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 62,
+    "type": "pronouns",
+    "question": "Can you help ___ with this bag?",
+    "options": ["her", "she"],
+    "correct": "her",
+    "explanation": "Làm tân ngữ cho động từ 'help'.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 63,
+    "type": "pronouns",
+    "question": "That red house is ___.",
+    "options": ["theirs", "their"],
+    "correct": "theirs",
+    "explanation": "Đại từ sở hữu thay thế cho 'their house'.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 64,
+    "type": "pronouns",
+    "question": "___ dog is very friendly.",
+    "options": ["My", "Mine"],
+    "correct": "My",
+    "explanation": "Tính từ sở hữu đứng trước danh từ 'dog'.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 65,
+    "type": "pronouns",
+    "question": "___ are watching a movie.",
+    "options": ["We", "Us"],
+    "correct": "We",
+    "explanation": "Làm chủ ngữ đứng trước động từ.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 66,
+    "type": "pronouns",
+    "question": "I saw ___ at the mall.",
+    "options": ["them", "they"],
+    "correct": "them",
+    "explanation": "Làm tân ngữ đứng sau động từ.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 67,
+    "type": "pronouns",
+    "question": "Is this laptop ___?",
+    "options": ["yours", "your"],
+    "correct": "yours",
+    "explanation": "Đại từ sở hữu dùng khi không có danh từ theo sau.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 68,
+    "type": "pronouns",
+    "question": "___ car is in the garage.",
+    "options": ["His", "Him"],
+    "correct": "His",
+    "explanation": "Tính từ sở hữu đứng trước danh từ 'car'.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 69,
+    "type": "pronouns",
+    "question": "___ is a beautiful day.",
+    "options": ["It", "Its"],
+    "correct": "It",
+    "explanation": "Chủ ngữ chỉ thời tiết/tình huống.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 70,
+    "type": "pronouns",
+    "question": "She told ___ the news.",
+    "options": ["me", "I"],
+    "correct": "me",
+    "explanation": "Tân ngữ đứng sau động từ.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 71,
+    "type": "pronouns",
+    "question": "These cookies are ___.",
+    "options": ["ours", "our"],
+    "correct": "ours",
+    "explanation": "Đại từ sở hữu dùng cuối câu.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 72,
+    "type": "pronouns",
+    "question": "Where is ___ backpack?",
+    "options": ["your", "yours"],
+    "correct": "your",
+    "explanation": "Tính từ sở hữu đứng trước danh từ.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 73,
+    "type": "pronouns",
+    "question": "___ are my favorite cousins.",
+    "options": ["They", "Them"],
+    "correct": "They",
+    "explanation": "Làm chủ ngữ của câu.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 74,
+    "type": "pronouns",
+    "question": "Listen to ___!",
+    "options": ["him", "he"],
+    "correct": "him",
+    "explanation": "Tân ngữ đứng sau giới từ 'to'.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 75,
+    "type": "pronouns",
+    "question": "That phone belongs to her, it's ___.",
+    "options": ["hers", "her"],
+    "correct": "hers",
+    "explanation": "Đại từ sở hữu thay thế cho 'her phone'.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 76,
+    "type": "pronouns",
+    "question": "___ room is messy.",
+    "options": ["Their", "Theirs"],
+    "correct": "Their",
+    "explanation": "Tính từ sở hữu đứng trước danh từ 'room'.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 77,
+    "type": "pronouns",
+    "question": "___ likes to read books.",
+    "options": ["He", "Him"],
+    "correct": "He",
+    "explanation": "Làm chủ ngữ của động từ 'likes'.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 78,
+    "type": "pronouns",
+    "question": "I can't find ___.",
+    "options": ["it", "its"],
+    "correct": "it",
+    "explanation": "Làm tân ngữ cho động từ 'find'.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 79,
+    "type": "pronouns",
+    "question": "This is ___ notebook.",
+    "options": ["my", "mine"],
+    "correct": "my",
+    "explanation": "Tính từ sở hữu đứng trước danh từ.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 80,
+    "type": "pronouns",
+    "question": "Is this pen ___?",
+    "options": ["mine", "my"],
+    "correct": "mine",
+    "explanation": "Đại từ sở hữu dùng ở cuối câu hỏi.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 81,
+    "type": "pronouns",
+    "question": "___ are very kind.",
+    "options": ["You", "Your"],
+    "correct": "You",
+    "explanation": "Làm chủ ngữ trong câu.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 82,
+    "type": "pronouns",
+    "question": "We visited ___ last week.",
+    "options": ["them", "they"],
+    "correct": "them",
+    "explanation": "Làm tân ngữ sau động từ.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 83,
+    "type": "pronouns",
+    "question": "___ flowers are dying.",
+    "options": ["Its", "It"],
+    "correct": "Its",
+    "explanation": "Tính từ sở hữu cho vật (cây cối).",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 84,
+    "type": "pronouns",
+    "question": "That bicycle is ___.",
+    "options": ["his", "him"],
+    "correct": "his",
+    "explanation": "Đại từ sở hữu của nam giới.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 85,
+    "type": "pronouns",
+    "question": "___ is my teacher.",
+    "options": ["She", "Her"],
+    "correct": "She",
+    "explanation": "Chủ ngữ chỉ nữ giới.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 86,
+    "type": "pronouns",
+    "question": "Wait for ___.",
+    "options": ["us", "we"],
+    "correct": "us",
+    "explanation": "Tân ngữ đứng sau giới từ.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 87,
+    "type": "pronouns",
+    "question": "___ names are Tom and Ben.",
+    "options": ["Their", "Theirs"],
+    "correct": "Their",
+    "explanation": "Tính từ sở hữu trước danh từ 'names'.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 88,
+    "type": "pronouns",
+    "question": "This garden is ___.",
+    "options": ["ours", "our"],
+    "correct": "ours",
+    "explanation": "Đại từ sở hữu chỉ chúng tôi.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 89,
+    "type": "pronouns",
+    "question": "___ wants an ice cream.",
+    "options": ["He", "Him"],
+    "correct": "He",
+    "explanation": "Làm chủ ngữ trong câu.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 90,
+    "type": "pronouns",
+    "question": "The boss called ___.",
+    "options": ["him", "he"],
+    "correct": "him",
+    "explanation": "Tân ngữ đứng sau động từ.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 91,
+    "type": "pronouns",
+    "question": "Is that ___ sister?",
+    "options": ["your", "yours"],
+    "correct": "your",
+    "explanation": "Tính từ sở hữu trước danh từ 'sister'.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 92,
+    "type": "pronouns",
+    "question": "The choice is ___.",
+    "options": ["yours", "your"],
+    "correct": "yours",
+    "explanation": "Đại từ sở hữu thay thế 'your choice'.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 93,
+    "type": "pronouns",
+    "question": "___ are very busy.",
+    "options": ["They", "Them"],
+    "correct": "They",
+    "explanation": "Chủ ngữ đứng trước động từ 'are'.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 94,
+    "type": "pronouns",
+    "question": "I don't believe ___.",
+    "options": ["it", "its"],
+    "correct": "it",
+    "explanation": "Tân ngữ cho động từ 'believe'.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 95,
+    "type": "pronouns",
+    "question": "___ house is on the hill.",
+    "options": ["Our", "Ours"],
+    "correct": "Our",
+    "explanation": "Tính từ sở hữu trước danh từ 'house'.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 96,
+    "type": "pronouns",
+    "question": "These mistakes are ___.",
+    "options": ["mine", "my"],
+    "correct": "mine",
+    "explanation": "Đại từ sở hữu dùng cuối câu.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 97,
+    "type": "pronouns",
+    "question": "___ is a fast car.",
+    "options": ["It", "Its"],
+    "correct": "It",
+    "explanation": "Chủ ngữ chỉ vật.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 98,
+    "type": "pronouns",
+    "question": "She helped ___ with homework.",
+    "options": ["us", "we"],
+    "correct": "us",
+    "explanation": "Tân ngữ sau động từ 'helped'.",
+    "level": "easy",
+    "theory": "subject-object"
+  },
+  {
+    "id": 99,
+    "type": "pronouns",
+    "question": "___ mother is very young.",
+    "options": ["Her", "Hers"],
+    "correct": "Her",
+    "explanation": "Tính từ sở hữu đứng trước danh từ 'mother'.",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 100,
+    "type": "pronouns",
+    "question": "The last slice of pizza is ___.",
+    "options": ["yours", "your"],
+    "correct": "yours",
+    "explanation": "Đại từ sở hữu dùng khi không còn danh từ đi kèm.",
+    "level": "easy",
+    "theory": "possessive"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "type": "pronouns-multi",
+    "question": "This is ___ book. It belongs to me. LOL",
+    "options": ["I", "my", "mine", "me"],
+    "correct": "my",
+    "level": "easy",
+    "theory": "possessive"
+  },
+  {
+    "id": 2,
+    "type": "pronouns-multi",
+    "question": "The car is ___.",
+    "options": ["theirs", "their", "them", "they"],
+    "correct": "theirs",
+    "level": "medium",
+    "theory": "possessive"
+  },
+  {
+    "id": 3,
+    "type": "pronouns-multi",
+    "question": "___ going to the cinema tonight.",
+    "options": ["Their", "They're", "There", "Theirs"],
+    "correct": "They're",
+    "level": "hard",
+    "theory": "objective"
+  }
+]

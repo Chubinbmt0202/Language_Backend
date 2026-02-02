@@ -182,6 +182,119 @@ const generateQuizEnglishTenseError = (req, res) => {
     }
 };
 
+const generateQuizEnglishPronounsChoose = (req, res) => {
+    try {
+        const { type, numQuestions } = req.body;
+        console.log("Yêu cầu tạo bài tập:", { type, numQuestions });
+        if (!type) {
+            return res.status(400).json({ error: "Tham số 'type' là bắt buộc (ví dụ: 'pronouns_choose')." });
+        }
+        let filteredQuestions = getQuestionsByType(type);
+        if (filteredQuestions.length === 0) {
+            return res.status(404).json({
+                error: `Không tìm thấy câu hỏi cho loại '${type}'.`
+            });
+        }
+        const shuffled = shuffleArray([...filteredQuestions]);
+        const limit = parseInt(numQuestions) || 5;
+        const resultQuestions = shuffled.slice(0, limit);
+        res.json({
+            success: true,
+            questions: resultQuestions,
+            totalAvailable: filteredQuestions.length,
+            count: resultQuestions.length
+        });
+    } catch (error) {
+        console.error("Error generating English pronouns choose quiz:", error);
+        res.status(500).json({ error: "Lỗi hệ thống khi tạo câu hỏi." });
+    }
+};
+
+const generateQuizEnglishPronounsMulti = (req, res) => {
+    try {
+        const { type, numQuestions } = req.body;
+        console.log("Yêu cầu tạo bài tập:", { type, numQuestions });
+        if (!type) {
+            return res.status(400).json({ error: "Tham số 'type' là bắt buộc (ví dụ: 'pronouns_multi')." });
+        }
+        let filteredQuestions = getQuestionsByType(type);
+        if (filteredQuestions.length === 0) {
+            return res.status(404).json({
+                error: `Không tìm thấy câu hỏi cho loại '${type}'.`
+            });
+        }
+        const shuffled = shuffleArray([...filteredQuestions]);
+        const limit = parseInt(numQuestions) || 5;
+        const resultQuestions = shuffled.slice(0, limit);
+        res.json({
+            success: true,
+            questions: resultQuestions,
+            totalAvailable: filteredQuestions.length,
+            count: resultQuestions.length
+        });
+    } catch (error) {
+        console.error("Error generating English pronouns multiple choice quiz:", error);
+        res.status(500).json({ error: "Lỗi hệ thống khi tạo câu hỏi." });
+    }
+};
+
+const generateQuizEnglishPronounsError = (req, res) => {
+    try {
+        const { type, numQuestions } = req.body;
+        console.log("Yêu cầu tạo bài tập:", { type, numQuestions });
+        if (!type) {
+            return res.status(400).json({ error: "Tham số 'type' là bắt buộc (ví dụ: 'pronouns_error')." });
+        }
+        let filteredQuestions = getQuestionsByType(type);
+        if (filteredQuestions.length === 0) {
+            return res.status(404).json({
+                error: `Không tìm thấy câu hỏi cho loại '${type}'.`
+            });
+        }
+        const shuffled = shuffleArray([...filteredQuestions]);
+        const limit = parseInt(numQuestions) || 5;
+        const resultQuestions = shuffled.slice(0, limit);
+        res.json({
+            success: true,
+            questions: resultQuestions,
+            totalAvailable: filteredQuestions.length,
+            count: resultQuestions.length
+        });
+    } catch (error) {
+        console.error("Error generating English pronouns error correction quiz:", error);
+        res.status(500).json({ error: "Lỗi hệ thống khi tạo câu hỏi." });
+    }
+};
+
+const generateQuizEnglishPrepositionsChoose = (req, res) => {
+    try {
+        const { type, numQuestions } = req.body;    
+        console.log("Yêu cầu tạo bài tập:", { type, numQuestions });
+        if (!type) {
+            return res.status(400).json({ error: "Tham số 'type' là bắt buộc (ví dụ: 'prepositions_choose')." });
+        }
+        let filteredQuestions = getQuestionsByType(type);
+
+        if (filteredQuestions.length === 0) {
+            return res.status(404).json({
+                error: `Không tìm thấy câu hỏi cho loại '${type}'.`
+            });
+        }
+        const shuffled = shuffleArray([...filteredQuestions]);
+        const limit = parseInt(numQuestions) || 5;
+        const resultQuestions = shuffled.slice(0, limit);
+        res.json({
+            success: true,
+            questions: resultQuestions,
+            totalAvailable: filteredQuestions.length,
+            count: resultQuestions.length
+        });
+    } catch (error) {
+        console.error("Error generating English prepositions choose quiz:", error);
+        res.status(500).json({ error: "Lỗi hệ thống khi tạo câu hỏi." });
+    }
+};
+
 
 module.exports = {
     generateQuizEnglishWordForm,
@@ -189,5 +302,9 @@ module.exports = {
     generateQuizEnglishError,
     generateQuizEnglishConjugation,
     generateQuizEnglishTenseMulti,
-    generateQuizEnglishTenseError
+    generateQuizEnglishTenseError,
+    generateQuizEnglishPronounsChoose,
+    generateQuizEnglishPronounsMulti,
+    generateQuizEnglishPronounsError,
+    generateQuizEnglishPrepositionsChoose
 };

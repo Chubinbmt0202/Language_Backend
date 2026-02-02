@@ -1,0 +1,136 @@
+[{
+    "id": 1,
+    "type": "Prepositions",
+    "level": "Easy",
+    "question": "She is very good ___ Math but bad ___ Physics.",
+    "options": ["A. at / in", "B. in / at", "C. at / at", "D. in / in"],
+    "correctAnswer": "C. at / at",
+    "explanation": "Cấu trúc: 'Good at' (giỏi về cái gì) và 'Bad at' (tệ về cái gì)."
+  },
+  {
+    "id": 2,
+    "type": "Prepositions",
+    "level": "Medium",
+    "question": "He is interested ___ learning English and keen ___ speaking with foreigners.",
+    "options": ["A. in / at", "B. at / in", "C. on / in", "D. in / on"],
+    "correctAnswer": "D. in / on",
+    "explanation": "'Interested in' (quan tâm đến) và 'Keen on' (ham thích)."
+  },
+  {
+    "id": 3,
+    "type": "Prepositions",
+    "level": "Easy",
+    "question": "The book is different ___ the one I bought yesterday.",
+    "options": ["A. from", "B. with", "C. than", "D. to"],
+    "correctAnswer": "A. from",
+    "explanation": "Cấu trúc: 'Different from' (khác với)."
+  },
+  {
+    "id": 4,
+    "type": "Prepositions",
+    "level": "Medium",
+    "question": "She apologized ___ being late and thanked me ___ my patience.",
+    "options": ["A. for / for", "B. to / for", "C. for / to", "D. to / to"],
+    "correctAnswer": "A. for / for",
+    "explanation": "'Apologize for + V-ing' (xin lỗi vì việc gì). 'Thank sb for sth' (cảm ơn ai vì cái gì)."
+  },
+  {
+    "id": 5,
+    "type": "Prepositions",
+    "level": "Easy",
+    "question": "This house belongs ___ my uncle, not ___ me.",
+    "options": ["A. to / for", "B. for / to", "C. to / to", "D. with / to"],
+    "correctAnswer": "C. to / to",
+    "explanation": "'Belong to' (thuộc về ai đó). Giới từ 'to' lặp lại ở cả 2 vế."
+  },
+  {
+    "id": 6,
+    "type": "Prepositions",
+    "level": "Easy",
+    "question": "I was tired, ___ I still finished my homework.",
+    "options": ["A. because", "B. but", "C. although", "D. so that"],
+    "correctAnswer": "B. but",
+    "explanation": "Dùng 'but' (nhưng) để chỉ sự tương phản giữa hai vế câu độc lập."
+  },
+  {
+    "id": 7,
+    "type": "Prepositions",
+    "level": "Medium",
+    "question": "She stayed at home ___ it was raining heavily.",
+    "options": ["A. although", "B. but", "C. because", "D. so"],
+    "correctAnswer": "C. because",
+    "explanation": "Dùng 'because' (bởi vì) để chỉ nguyên nhân."
+  },
+  {
+    "id": 8,
+    "type": "Prepositions",
+    "level": "Medium",
+    "question": "___ he is rich, he lives a very simple life.",
+    "options": ["A. Because", "B. Although", "C. So", "D. But"],
+    "correctAnswer": "B. Although",
+    "explanation": "Dùng 'Although' (Mặc dù) đứng đầu câu để chỉ sự nhượng bộ/đối lập."
+  },
+  {
+    "id": 9,
+    "type": "Prepositions",
+    "level": "Easy",
+    "question": "Study hard, ___ you will fail the exam.",
+    "options": ["A. and", "B. but", "C. or", "D. so"],
+    "correctAnswer": "C. or",
+    "explanation": "Cấu trúc mệnh lệnh + or + kết quả xấu: 'Làm đi, nếu không thì...'."
+  },
+  {
+    "id": 10,
+    "type": "Prepositions",
+    "level": "Easy",
+    "question": "He didn’t come to the party ___ he was ill.",
+    "options": ["A. but", "B. although", "C. because", "D. so"],
+    "correctAnswer": "C. because",
+    "explanation": "Chỉ nguyên nhân: không đến ĐƯỢC VÌ bị ốm."
+  },
+  {
+    "id": 11,
+    "type": "Prepositions",
+    "level": "Hard",
+    "question": "She is afraid ___ dogs ___ she was bitten when she was young.",
+    "options": ["A. of / because", "B. for / although", "C. to / so", "D. of / but"],
+    "correctAnswer": "A. of / because",
+    "explanation": "'Afraid of' (sợ cái gì). Vế sau chỉ nguyên nhân nên dùng 'because'."
+  },
+  {
+    "id": 12,
+    "type": "Prepositions",
+    "level": "Hard",
+    "question": "He went to work ___ feeling sick ___ he didn’t want to lose his job.",
+    "options": ["A. despite / because", "B. although / but", "C. because / so", "D. in spite / although"],
+    "correctAnswer": "A. despite / because",
+    "explanation": "'Despite + V-ing/Noun' (Mặc dù). 'Because + clause' (Bởi vì)."
+  },
+  {
+    "id": 13,
+    "type": "Prepositions",
+    "level": "Hard",
+    "question": "___ the heavy rain, we arrived ___ time.",
+    "options": ["A. Although / on", "B. Because / in", "C. Despite / on", "D. In spite / in"],
+    "correctAnswer": "C. Despite / on",
+    "explanation": "'Despite + Noun Phrase' (Mặc dù mưa to). 'On time' (đúng giờ)."
+  },
+  {
+    "id": 14,
+    "type": "Prepositions",
+    "level": "Medium",
+    "question": "She is responsible ___ the project ___ she is the team leader.",
+    "options": ["A. for / because", "B. to / although", "C. with / so", "D. for / but"],
+    "correctAnswer": "A. for / because",
+    "explanation": "'Responsible for' (chịu trách nhiệm về). Vế sau giải thích lý do -> 'because'."
+  },
+  {
+    "id": 15,
+    "type": "Prepositions",
+    "level": "Medium",
+    "question": "He kept silent ___ anger ___ the meeting was important.",
+    "options": ["A. because of / although", "B. despite / because", "C. because / so", "D. in spite / but"],
+    "correctAnswer": "A. because of / although",
+    "explanation": "'Because of + Noun' (Vì sự tức giận). 'Although + clause' (Mặc dù cuộc họp quan trọng)."
+  }
+]

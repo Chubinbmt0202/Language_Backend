@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "type": "FindErrorPronouns",
+    "level": "Easy",
+    "correctKey": "A",
+    "correction": "I",
+    "hint": "Đại từ làm chủ ngữ đứng đầu câu phải dùng đại từ nhân xưng chủ ngữ (Subject Pronoun), không dùng tân ngữ (Me).",
+    "translate": "Tôi và chị gái đã đi xem phim ngày hôm qua.",
+    "segments": [
+      { "type": "option", "key": "A", "text": "Me" },
+      { "type": "text", "text": " and my sister " },
+      { "type": "option", "key": "B", "text": "went" },
+      { "type": "text", "text": " to the cinema " },
+      { "type": "option", "key": "C", "text": "yesterday" },
+      { "type": "text", "text": "." }
+    ],
+    "theory": { "$ref": "subject_object_pronouns" }
+  },
+  {
+    "id": 2,
+    "type": "FindErrorPronouns",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "yours",
+    "hint": "Ở vị trí này cần một Đại từ sở hữu (Possessive Pronoun) để thay thế cho cụm danh từ 'your pen', vì không có danh từ theo sau.",
+    "translate": "Cây bút này là của bạn hay của tôi?",
+    "segments": [
+      { "type": "text", "text": "Is " },
+      { "type": "option", "key": "A", "text": "this" },
+      { "type": "text", "text": " pen " },
+      { "type": "option", "key": "B", "text": "your" },
+      { "type": "text", "text": " or " },
+      { "type": "option", "key": "C", "text": "mine" },
+      { "type": "text", "text": "?" }
+    ],
+    "theory": { "$ref": "possessive_pronouns" }
+  },
+  {
+    "id": 3,
+    "type": "FindErrorPronouns",
+    "level": "Medium",
+    "correctKey": "B",
+    "correction": "themselves",
+    "hint": "Chủ ngữ là số nhiều (The students/They) nên đại từ phản thân tương ứng phải là số nhiều (themselves), không phải số ít (themself).",
+    "translate": "Các học sinh đã tự giới thiệu bản thân với giáo viên mới.",
+    "segments": [
+      { "type": "text", "text": "The students " },
+      { "type": "option", "key": "A", "text": "introduced" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "themself" },
+      { "type": "text", "text": " to the " },
+      { "type": "option", "key": "C", "text": "new" },
+      { "type": "text", "text": " teacher." }
+    ],
+    "theory": { "$ref": "reflexive_pronouns" }
+  },
+  {
+    "id": 4,
+    "type": "FindErrorPronouns",
+    "level": "Easy",
+    "correctKey": "B",
+    "correction": "him",
+    "hint": "Sau giới từ (to) phải sử dụng Đại từ tân ngữ (Object Pronoun: him), không dùng Đại từ chủ ngữ (he).",
+    "translate": "Làm ơn đưa món quà này cho anh ấy khi bạn gặp anh ấy.",
+    "segments": [
+      { "type": "text", "text": "Please " },
+      { "type": "option", "key": "A", "text": "give" },
+      { "type": "text", "text": " the gift to " },
+      { "type": "option", "key": "B", "text": "he" },
+      { "type": "text", "text": " when you " },
+      { "type": "option", "key": "C", "text": "see" },
+      { "type": "text", "text": " him." }
+    ],
+    "theory": { "$ref": "object_pronouns_prepositions" }
+  },
+  {
+    "id": 5,
+    "type": "FindErrorPronouns",
+    "level": "Hard",
+    "correctKey": "B",
+    "correction": "which",
+    "hint": "Danh từ đứng trước là vật/động vật (The dog) nên Đại từ quan hệ phải dùng 'which' hoặc 'that', không dùng 'who' (chỉ dùng cho người).",
+    "translate": "Con chó mà đang chơi trong vườn thuộc về Lan.",
+    "segments": [
+      { "type": "text", "text": "The " },
+      { "type": "option", "key": "A", "text": "dog" },
+      { "type": "text", "text": " " },
+      { "type": "option", "key": "B", "text": "who" },
+      { "type": "text", "text": " is playing in the garden " },
+      { "type": "option", "key": "C", "text": "belongs" },
+      { "type": "text", "text": " to Lan." }
+    ],
+    "theory": { "$ref": "relative_pronouns" }
+  }
+]

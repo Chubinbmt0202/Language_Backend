@@ -15,6 +15,12 @@ router.post("/generate-quiz-conjugation", quizControllerEnglish.generateQuizEngl
 router.post("/generate-quiz-tense-multi", quizControllerEnglish.generateQuizEnglishTenseMulti);
 router.post("/generate-quiz-tense-error", quizControllerEnglish.generateQuizEnglishTenseError);
 
+router.post("/generate-quiz-pronouns-choose", quizControllerEnglish.generateQuizEnglishPronounsChoose);
+router.post("/generate-quiz-pronouns-multi", quizControllerEnglish.generateQuizEnglishPronounsMulti);
+router.post("/generate-quiz-pronouns-error", quizControllerEnglish.generateQuizEnglishPronounsError);
+
+router.post("/generate-quiz-prepositions-choose", quizControllerEnglish.generateQuizEnglishPrepositionsChoose);
+
 router.get("/reload-data", quizController.reloadData);
 
 module.exports = router;
